@@ -1,0 +1,17 @@
+rake tool 15 
+rake gardens 9 
+rake handle 16 
+rake long 5 
+rake handle 21 
+rake prongs 8 
+rake teeth 5 
+rake long 12 
+rake fork 5 
+rake metal 13 
+rake wood 17 
+rake cleaning 6 
+rake gardening 6 
+rake removing 26 
+rake leaves 26 
+rake autumn 5 
+rake lawns 5 

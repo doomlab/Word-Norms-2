@@ -1,0 +1,11 @@
+pheasant bird 18 
+pheasant animal 7 
+pheasant flies 8 
+pheasant lays 5 
+pheasant eggs 5 
+pheasant beak 11 
+pheasant feathers 20 
+pheasant wings 7 
+pheasant hunted 13 
+pheasant people 13 
+pheasant edible 15 

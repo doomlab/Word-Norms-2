@@ -1,0 +1,11 @@
+ashtray houses 6 
+ashtray holders 11 
+ashtray dirty 9 
+ashtray round 8 
+ashtray smelly 9 
+ashtray glass 13 
+ashtray plastic 6 
+ashtray smokers 9 
+ashtray ashes 19 
+ashtray butts 6 
+ashtray cigarettes 12 

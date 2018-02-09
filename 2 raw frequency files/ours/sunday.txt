@@ -1,0 +1,151 @@
+ 12
+24 1
+7th 3
+a 10
+about 1
+activities 1
+after 4
+and 2
+are 1
+as 1
+aside 1
+at 1
+back 1
+banks 1
+be 2
+before 6
+beginning 2
+begins 1
+big 1
+boring 3
+break 1
+breakfast 1
+breakfast 1
+brunch 1
+businesses 1
+by 1
+call 1
+can 1
+chores 1
+church 33
+church 5
+class 1
+cleaning 1
+close 1
+closed 1
+closed 1
+day 67
+day 6
+dedicated 1
+dinner 5
+dinner 1
+dinners 1
+done 1
+early 1
+easter 1
+easter 1
+end 2
+every 1
+family 17
+family 2
+first 4
+food 1
+football 7
+football 1
+for 3
+from 1
+fun 2
+gatherings 1
+generally 1
+get 1
+go 4
+god 4
+goers 1
+going 1
+has 1
+holy 3
+homework 2
+homework 2
+hours 1
+in 2
+is 5
+isn 1
+last 10
+lazy 4
+lazy 1
+listen 1
+lord 1
+many 1
+mom 1
+monday 5
+monday 1
+morning 1
+music 1
+nap 1
+naps 1
+next 1
+no 2
+of 43
+off 3
+off 1
+or 1
+oriented 1
+part 1
+peaceful 2
+people 2
+picnics 1
+praying 1
+relax 6
+relax 4
+relaxation 1
+relaxing 6
+relaxing 2
+religion 1
+religious 1
+rest 13
+rest 3
+restful 1
+resting 2
+s 1
+sabbath 2
+sabbatical 1
+saturday 3
+saturday 1
+school 2
+schoolwork 1
+set 1
+shop 1
+simple 1
+sleep 3
+sleep 1
+some 1
+soothing 1
+spend 2
+spent 1
+start 2
+starts 1
+states 1
+stores 1
+sunday 3
+sunday 2
+t 1
+the 35
+things 1
+thinking 1
+time 4
+times 1
+to 13
+tv 1
+typical 1
+united 1
+used 1
+watch 2
+week 15
+week 8
+weekend 8
+weekend 7
+with 4
+work 4
+worship 1
+worship 2
+yard 1

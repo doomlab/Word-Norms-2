@@ -1,0 +1,16 @@
+tuba musical 27 
+tuba instrument 27 
+tuba noise 6 
+tuba sound 9 
+tuba gold 5 
+tuba heavy 7 
+tuba large 19 
+tuba loud 14 
+tuba brass 15 
+tuba gold 10 
+tuba metal 5 
+tuba blowing 8 
+tuba air 8 
+tuba through 8 
+tuba bands 10 
+tuba orchestras 7 

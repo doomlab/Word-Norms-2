@@ -1,0 +1,14 @@
+tractor machine 5 
+tractor seat 5 
+tractor large 14 
+tractor wheels 14 
+tractor wheels 34 
+tractor large 27 
+tractor loud 10 
+tractor red 5 
+tractor slow 9 
+tractor yellow 6 
+tractor metal 7 
+tractor gasoline 12 
+tractor ploughing 12 
+tractor farms 28 

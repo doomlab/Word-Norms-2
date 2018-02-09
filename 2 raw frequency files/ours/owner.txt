@@ -1,0 +1,219 @@
+ 16
+a 27
+administrator 1
+all 1
+also 1
+amber 1
+an 4
+and 1
+animal 1
+animals 1
+apparent 1
+as 1
+auburn 1
+authority 1
+authority 1
+baby 1
+bay 1
+be 1
+beige 1
+being 1
+belonging 5
+belongs 4
+big 2
+bister 1
+boss 5
+boss 2
+bought 1
+brick 1
+bronze 1
+buff 1
+building 1
+building 1
+burnt 1
+business 1
+business 2
+businessman 1
+buyer 1
+by 1
+car 2
+cares 1
+charge 1
+cheese 1
+chestnut 1
+chocolate 1
+cinnamon 1
+co 1
+cocoa 1
+coffee 1
+colored 1
+contract 1
+control 2
+copper 1
+cotta 1
+disposal 1
+drab 1
+driven 1
+driver 1
+dust 1
+ecru 1
+endemic 2
+factory 1
+fawn 1
+female 1
+final 1
+for 3
+freeholder 1
+ginger 1
+got 1
+guardian 1
+gun 1
+has 11
+have 3
+having 1
+hazel 1
+he 3
+head 1
+head 1
+heir 4
+heiress 1
+henna 1
+hers 1
+holder 1
+holder 2
+home 1
+home 1
+honcho 1
+house 3
+human 1
+in 3
+independent 1
+individual 4
+inherent 1
+inherit 1
+inheritor 1
+institution 1
+intrinsic 1
+is 11
+it 1
+item 3
+items 1
+itself 1
+joint 1
+keeper 1
+keeper 1
+khaki 1
+landlady 2
+landlord 3
+landlord 1
+leader 2
+legal 8
+legatee 1
+liability 1
+like 1
+live 1
+lord 1
+lot 1
+mahogany 1
+male 1
+man 1
+manager 1
+margins 1
+master 2
+master 1
+material 1
+materials 1
+mine 2
+money 2
+name 1
+not 3
+nut 1
+object 1
+ochre 1
+of 16
+on 1
+one 18
+oneself 1
+oneself 1
+or 15
+over 2
+over 1
+own 3
+own 1
+owner 18
+ownership 1
+ownership 1
+ownes 1
+owns 15
+owns 4
+particular 2
+partner 1
+peculiar 3
+person 17
+personal 2
+pet 1
+possess 5
+possesses 1
+possession 4
+possessor 12
+possessor 1
+private 2
+professor 1
+profit 2
+property 8
+property 1
+proprietor 14
+proprietor 2
+proprietress 1
+puce 1
+purchaser 2
+purchaser 1
+receive 1
+relating 1
+rental 1
+renter 1
+resident 2
+responsibility 1
+rich 2
+right 2
+rightful 7
+rightfully 1
+rights 1
+risk 1
+russet 1
+rust 1
+s 1
+say 1
+see 1
+sells 1
+sepia 1
+sharer 1
+shop 1
+sienna 1
+snuff 1
+someone 1
+something 8
+something 7
+sorrel 1
+tan 1
+tawny 1
+terra 1
+that 3
+the 15
+theirs 3
+thing 2
+thing 1
+things 1
+title 3
+titleholder 2
+to 12
+to 1
+toast 1
+umber 1
+vehicle 1
+very 1
+walks 1
+whether 2
+who 30
+whom 3
+yours 2

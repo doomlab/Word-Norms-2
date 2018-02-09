@@ -1,0 +1,10 @@
+trolley wheels 15 
+trolley large 5 
+trolley small 5 
+trolley metal 5 
+trolley carrying 7 
+trolley things 7 
+trolley moving 7 
+trolley things 14 
+trolley transportation 7 
+trolley tracks 8 

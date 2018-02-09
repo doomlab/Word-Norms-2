@@ -1,0 +1,9 @@
+platypus mammal 11 
+platypus animal 16 
+platypus swims 9 
+platypus beak 5 
+platypus bill 8 
+platypus webbed 8 
+platypus feet 8 
+platypus furry 7 
+platypus water 14 

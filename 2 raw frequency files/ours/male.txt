@@ -1,0 +1,215 @@
+ 50
+a 11
+adam 1
+aggressive 2
+alpha 1
+an 1
+and 2
+animal 4
+animals 1
+any 1
+are 1
+arrogant 2
+ass 1
+asshole 1
+bad 1
+balls 1
+basketball 1
+be 1
+become 1
+big 6
+bigger 1
+bigger 1
+blue 1
+blue 1
+boy 20
+boy 2
+boys 6
+brave 1
+bro 1
+brother 4
+brothers 1
+built 1
+can 1
+care 1
+cars 1
+charge 1
+chromosome 2
+chromosome 1
+clothes 1
+cologne 1
+cologne 1
+color 2
+competitive 1
+contains 2
+courageous 1
+dad 1
+deep 4
+dependent 1
+describe 1
+different 1
+dirty 1
+dogs 1
+dominant 5
+dominate 2
+dude 2
+dudes 1
+during 1
+earring 1
+egotistical 2
+emotionally 1
+eye 1
+facial 5
+father 4
+fathers 1
+feet 1
+female 20
+female 3
+females 1
+feminine 1
+figure 1
+football 3
+for 1
+free 1
+from 1
+functional 1
+gender 1
+gender 2
+generally 1
+genitalia 1
+gentleman 1
+grandfather 2
+gross 1
+guy 5
+guy 1
+hair 8
+hair 1
+hairy 3
+hard 2
+has 5
+having 1
+he 1
+head 1
+headed 1
+history 1
+household 1
+human 5
+hunter 1
+husband 2
+immature 1
+in 4
+irresponsible 1
+is 10
+jeans 1
+job 1
+large 1
+leader 1
+liars 1
+life 1
+lips 1
+located 1
+loud 1
+love 1
+lower 1
+macho 1
+majority 1
+male 2
+male 1
+man 14
+man 1
+manliness 1
+manly 3
+masculine 10
+masculine 2
+masculinity 3
+mating 1
+men 5
+messy 1
+model 1
+more 2
+muscle 1
+muscles 8
+muscles 4
+muscular 2
+muscular 3
+no 1
+noisy 1
+not 3
+of 10
+old 2
+older 1
+on 1
+only 1
+opposite 7
+or 4
+organism 1
+organs 3
+outside 1
+pants 2
+penis 12
+penis 1
+person 1
+pigs 1
+plants 1
+player 1
+power 1
+president 1
+protecter 1
+protection 1
+protective 1
+protector 1
+refers 1
+relationship 1
+reproductive 2
+rings 1
+role 1
+rude 1
+selfish 1
+sex 6
+sex 1
+sexual 1
+sexually 1
+short 2
+small 1
+smart 1
+smells 1
+some 1
+sons 1
+sounds 1
+sperm 1
+sports 7
+sporty 1
+strong 18
+strong 3
+suit 1
+tall 6
+tall 2
+territory 1
+testes 1
+testes 1
+testicles 1
+testosterone 7
+testosterone 4
+than 2
+the 8
+their 1
+thing 1
+to 3
+tough 1
+tough 1
+trucks 1
+type 1
+unattached 1
+uncle 2
+used 1
+voice 3
+voices 2
+wears 2
+which 1
+with 1
+women 2
+working 1
+xx 1
+xy 2
+y 1
+young 1

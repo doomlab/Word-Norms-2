@@ -1,0 +1,15 @@
+wall barrier 5 
+wall houses 5 
+wall rooms 5 
+wall flat 8 
+wall solid 7 
+wall brick 10 
+wall cement 5 
+wall drywall 8 
+wall wood 8 
+wall painting 8 
+wall holding 6 
+wall pictures 6 
+wall protection 5 
+wall separating 13 
+wall support 10 

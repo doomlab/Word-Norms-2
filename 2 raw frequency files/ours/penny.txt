@@ -1,0 +1,153 @@
+ 13
+1 8
+100th 1
+a 11
+ab 1
+abe 6
+abraham 10
+abraham 1
+america 1
+america 1
+american 2
+an 2
+annoying 1
+anymore 1
+as 2
+bigger 1
+brass 1
+bronze 5
+brown 1
+brown 1
+buy 1
+by 1
+cent 20
+cent 5
+cents 1
+cents 2
+change 3
+change 4
+circle 1
+coin 11
+coin 2
+coins 1
+color 2
+color 1
+considered 1
+contains 1
+copper 30
+copper 5
+currency 5
+currency 3
+dime 3
+dirty 1
+doesn 1
+dollar 2
+face 1
+filthy 1
+form 1
+found 1
+front 1
+general 1
+gets 1
+girls 1
+god 1
+gold 1
+good 3
+hard 1
+has 5
+heads 3
+heavy 1
+house 1
+impressions 1
+in 5
+insignificant 1
+is 10
+isn 1
+it 2
+it 1
+items 1
+jc 1
+least 1
+light 1
+lincoln 17
+lincoln 5
+little 1
+low 1
+lowest 1
+luck 4
+lucky 1
+lucky 1
+made 4
+memorial 1
+metal 1
+millions 1
+minted 2
+monetary 1
+money 19
+money 7
+mostly 1
+much 5
+much 1
+name 1
+name 1
+nickel 2
+nickle 1
+not 5
+nothing 1
+object 1
+object 1
+of 9
+on 5
+one 19
+one 1
+part 1
+payment 1
+penny 1
+person 1
+polar 1
+pops 1
+population 1
+president 1
+profile 1
+purchase 1
+quarter 1
+rough 1
+round 6
+s 2
+seen 1
+shiny 5
+shiny 1
+small 3
+small 2
+smallest 1
+smelly 1
+t 2
+tails 1
+than 2
+that 2
+the 4
+thinner 1
+thought 1
+tiny 1
+to 1
+top 1
+trust 1
+u 1
+understated 1
+unit 1
+up 2
+us 4
+used 5
+useless 1
+usually 1
+valuable 1
+value 3
+very 2
+we 1
+when 1
+white 1
+worth 10
+worth 1
+worthless 3
+year 1
+you 1

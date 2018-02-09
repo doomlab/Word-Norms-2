@@ -1,0 +1,11 @@
+mackerel fish 24 
+mackerel lays 7 
+mackerel eggs 7 
+mackerel swims 8 
+mackerel fins 10 
+mackerel gills 7 
+mackerel scales 6 
+mackerel hunted 8 
+mackerel people 8 
+mackerel edible 5 
+mackerel water 14 

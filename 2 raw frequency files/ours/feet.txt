@@ -1,0 +1,213 @@
+ 47
+2 1
+5 3
+10 4
+12 1
+a 1
+ailments 1
+an 1
+anatomy 1
+and 8
+animal 1
+animals 3
+ankle 1
+ankles 3
+ankles 1
+appendage 1
+appendages 1
+arches 1
+are 7
+at 3
+attached 1
+average 1
+balance 2
+balance 1
+ball 1
+barefoot 1
+be 3
+big 7
+blisters 1
+body 16
+body 2
+bottom 3
+bottoms 1
+by 2
+can 3
+carry 1
+clammy 1
+clean 1
+clean 1
+clothes 1
+cold 1
+color 1
+comes 1
+common 1
+connected 3
+contain 1
+cover 1
+covered 2
+decorate 1
+different 2
+dirty 1
+dirty 1
+disgusting 1
+each 2
+end 1
+fat 2
+feels 1
+feet 1
+feet 1
+five 3
+flat 1
+floor 1
+foot 4
+for 5
+foundation 1
+functional 1
+fungus 1
+gross 9
+gross 1
+hair 1
+hairy 3
+hands 1
+has 2
+have 9
+heel 1
+heels 1
+help 1
+helpful 1
+helps 2
+how 1
+human 2
+humans 3
+important 1
+in 2
+inch 1
+inferior 1
+irregular 1
+is 1
+job 1
+kick 1
+large 3
+legs 5
+length 1
+lighter 1
+little 1
+long 3
+looking 1
+maintain 1
+many 1
+massage 1
+measure 1
+measurement 1
+metatarsals 1
+mode 1
+most 1
+muscle 1
+nail 1
+nails 4
+nails 1
+narrow 1
+nasty 6
+nasty 1
+needed 3
+of 15
+on 13
+on 1
+or 2
+organs 1
+pale 1
+part 7
+part 1
+parts 2
+pedicure 6
+pedicure 1
+pedicures 1
+people 1
+phobia 1
+places 1
+pointed 1
+polish 2
+portion 1
+pretty 2
+primary 1
+protected 1
+run 4
+running 1
+sandals 3
+sensitive 2
+sharp 1
+shoe 3
+shoes 26
+shoes 3
+short 1
+size 3
+sizes 1
+sizes 2
+skin 3
+skinny 1
+skinny 1
+skip 1
+small 9
+smell 1
+smells 1
+smelly 8
+smelly 1
+smooth 1
+sock 1
+socks 11
+socks 2
+spa 1
+stand 3
+stand 1
+stench 1
+stink 2
+stinky 5
+stinky 1
+strong 1
+strong 2
+support 1
+sweaty 1
+tarsals 1
+tattoo 1
+ten 2
+the 13
+them 4
+them 2
+they 1
+ticklish 1
+times 1
+tissue 1
+to 18
+toe 6
+toe 1
+toenail 1
+toenails 5
+toenails 1
+toes 34
+toes 8
+tools 1
+trained 1
+transportation 1
+two 6
+ugly 4
+unit 1
+use 3
+used 11
+useful 1
+usually 1
+walk 20
+walk 3
+walking 5
+warm 1
+we 1
+wear 3
+wears 1
+webbed 1
+weird 1
+what 2
+wide 1
+wide 1
+with 3
+you 6
+your 3

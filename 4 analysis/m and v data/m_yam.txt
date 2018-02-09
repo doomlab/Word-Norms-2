@@ -1,0 +1,10 @@
+yam vegetable 17 
+yam eaten 6 
+yam cooking 6 
+yam grows 6 
+yam ground 6 
+yam edible 10 
+yam orange 12 
+yam potato 16 
+yam tastes 14 
+yam sweet 14 

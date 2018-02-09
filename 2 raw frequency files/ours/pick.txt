@@ -1,0 +1,167 @@
+ 15
+a 7
+action 1
+afro 2
+also 1
+an 3
+another 1
+apples 3
+as 1
+at 1
+axe 1
+axe 1
+basketball 1
+be 1
+better 1
+between 1
+bits 1
+blueberries 1
+bother 1
+break 2
+button 1
+can 2
+chip 1
+choice 3
+choice 1
+choices 1
+choose 18
+choose 14
+choosing 1
+chose 1
+chose 1
+chosen 1
+christmas 1
+cleaning 1
+comb 4
+cones 1
+cost 1
+dark 1
+decide 3
+decide 1
+decision 1
+decision 1
+decoration 1
+dig 2
+do 2
+first 1
+flowers 1
+food 2
+for 5
+from 1
+fruit 2
+fun 1
+gather 1
+get 2
+getting 1
+grab 1
+guitar 7
+guitar 2
+hair 3
+hair 2
+handle 1
+has 2
+helps 1
+ice 3
+ice 1
+in 2
+indent 1
+instrument 1
+into 3
+irritate 1
+is 4
+lick 1
+like 2
+like 1
+lock 1
+locks 1
+long 1
+made 2
+make 2
+making 2
+match 1
+metal 1
+mine 1
+mining 1
+music 1
+musician 1
+nose 3
+nose 5
+object 2
+of 6
+off 1
+on 2
+ont 1
+open 1
+opportunity 1
+options 1
+options 1
+or 1
+out 1
+out 1
+over 1
+peaches 2
+people 1
+pick 1
+pick 1
+picking 1
+piece 1
+pieces 1
+pine 1
+places 2
+plant 1
+plastic 1
+play 4
+pluck 1
+plucking 1
+pocket 1
+point 1
+poke 1
+pull 1
+push 1
+removing 1
+rock 1
+s 1
+scratch 3
+select 1
+select 1
+sharp 2
+sides 1
+six 1
+small 3
+someone 1
+something 5
+sports 1
+strum 1
+such 1
+team 1
+team 1
+teams 1
+teeth 1
+teeth 3
+the 2
+thing 1
+things 3
+this 1
+to 30
+tool 1
+tooth 1
+tooth 1
+toothpick 2
+touch 1
+tree 1
+unlock 1
+up 2
+up 1
+used 15
+vegetables 2
+want 3
+want 1
+weapon 1
+what 1
+when 2
+win 1
+wisely 1
+you 7
+your 4
+yuou 1
+zit 1

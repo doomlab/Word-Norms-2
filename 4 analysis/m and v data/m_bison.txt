@@ -1,0 +1,13 @@
+bison mammal 6 
+bison animal 18 
+bison travels 7 
+bison herds 7 
+bison eaten 6 
+bison natives 6 
+bison hunted 16 
+bison people 16 
+bison brown 10 
+bison endangered 7 
+bison furry 6 
+bison large 17 
+bison buffalo 7 

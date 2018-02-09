@@ -1,0 +1,218 @@
+ 16
+a 15
+action 2
+actions 1
+amused 1
+and 3
+another 1
+as 1
+asleep 1
+associated 1
+at 1
+attention 1
+ball 1
+be 5
+being 2
+believe 1
+big 1
+black 1
+brain 1
+brought 1
+by 2
+calming 1
+can 2
+capture 1
+cast 1
+chain 1
+charcot 1
+circle 1
+circles 1
+clock 1
+coins 1
+colors 1
+completely 1
+conditioning 1
+consciousness 1
+consume 1
+control 4
+control 3
+controlled 1
+controlling 2
+controls 1
+crystal 1
+day 1
+daydream 1
+daze 1
+desensitized 1
+different 1
+distract 3
+do 2
+do 1
+done 1
+dream 3
+dream 1
+drowsy 1
+drugs 1
+during 1
+else 3
+entertainment 1
+enthralled 1
+entrance 1
+experiences 1
+fake 2
+fall 1
+far 1
+feelings 1
+fetched 1
+finger 1
+flashbacks 1
+for 3
+force 1
+form 1
+fortune 1
+fragment 1
+freak 1
+freud 1
+fun 1
+funny 6
+game 1
+get 1
+graduation 1
+guess 1
+gypsy 1
+hallucinogenic 1
+happened 1
+hard 1
+help 1
+hypnotist 5
+hypnotist 2
+hypnotize 1
+illusion 1
+illusions 1
+in 5
+inevitable 1
+influence 1
+influence 1
+into 4
+is 6
+issues 1
+knows 1
+like 1
+looking 1
+loss 1
+lot 2
+lsd 1
+magic 3
+magician 1
+magician 3
+magnetic 1
+make 1
+makes 1
+many 1
+medical 1
+memorize 1
+memory 1
+mesmer 1
+mesmerize 1
+mesmerizing 2
+messaging 1
+might 1
+mind 6
+normally 1
+not 2
+obligated 1
+of 10
+one 1
+ones 1
+or 1
+other 2
+out 3
+palm 1
+past 1
+pendulum 2
+people 3
+person 1
+persons 1
+psychic 1
+psychoanalysis 1
+psychological 1
+psychologist 1
+psychology 2
+put 5
+reader 1
+readers 1
+real 1
+real 1
+relax 1
+relaxation 1
+relaxation 1
+relaxed 1
+relaxing 1
+remember 2
+removed 1
+s 3
+sayings 1
+scary 1
+scary 1
+show 1
+shrink 1
+skilled 1
+sleep 9
+sleep 3
+sleeping 1
+sleepy 1
+someone 6
+someone 1
+specialist 1
+spell 1
+spell 1
+state 3
+subconscious 1
+subconscious 1
+subliminal 1
+suggestive 1
+swirl 1
+swirls 1
+t 2
+technique 1
+tellers 1
+the 4
+theory 1
+therapy 1
+there 1
+things 4
+things 1
+time 1
+to 16
+told 1
+training 1
+trance 3
+trance 4
+trancelike 1
+treatment 1
+trick 1
+unconscience 1
+unconscious 1
+unconscious 1
+uncontrollable 1
+under 3
+unknown 1
+unsure 1
+upon 1
+used 3
+vegas 1
+washed 1
+watch 1
+watches 1
+watching 1
+way 1
+weird 1
+what 2
+when 1
+white 1
+with 1
+wizard 1
+won 1
+world 2
+wouldn 1
+you 3

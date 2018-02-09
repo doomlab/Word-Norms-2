@@ -1,0 +1,17 @@
+box container 8 
+box four 7 
+box sides 7 
+box six 5 
+box sides 12 
+box lid 7 
+box sides 25 
+box brown 5 
+box large 7 
+box rectangular 7 
+box small 7 
+box square 21 
+box cardboard 16 
+box wood 7 
+box moving 9 
+box things 9 
+box storage 26 

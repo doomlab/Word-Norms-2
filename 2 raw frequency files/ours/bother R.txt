@@ -1,0 +1,205 @@
+ 48
+a 15
+abuse 1
+against 1
+aggravate 2
+ally 1
+anger 1
+annoy 20
+annoy 4
+annoyance 2
+annoyed 2
+annoyed 1
+annoying 13
+annoying 3
+another 1
+anxiousness 1
+around 1
+as 2
+asking 1
+attempt 1
+away 2
+babies 1
+be 1
+big 2
+blood 1
+bother 1
+bother 1
+boy 4
+brother 5
+brothers 1
+bug 2
+bug 1
+bugging 1
+bugs 1
+burden 1
+busy 2
+but 1
+buzzing 1
+causes 1
+child 2
+children 1
+chill 1
+companion 1
+concern 1
+consistent 1
+describes 1
+disrupt 2
+disrupt 1
+distract 1
+distraction 1
+disturb 5
+disturb 1
+do 3
+don 4
+ear 1
+exasperating 1
+family 5
+family 2
+father 2
+fathers 1
+favorable 1
+feeling 1
+feelings 1
+feels 1
+fly 1
+frat 1
+friend 1
+friend 1
+friends 1
+frustrate 1
+frustration 1
+functional 1
+funny 1
+generation 1
+genes 1
+get 1
+gets 1
+go 2
+had 1
+has 2
+hassle 1
+home 1
+i 2
+ignorance 1
+ignore 1
+immature 1
+immediate 2
+impatience 1
+in 5
+inconvenience 1
+inconvenient 1
+inconvenient 1
+insect 1
+interrupt 2
+intrusive 1
+irritate 3
+irritated 1
+irritating 1
+is 8
+kids 1
+kind 1
+know 1
+lack 1
+leave 1
+like 1
+little 2
+lives 1
+loud 1
+loving 2
+mad 1
+make 1
+male 4
+male 1
+many 1
+me 1
+mean 1
+mess 3
+messed 1
+model 1
+mother 2
+mothers 1
+nerve 1
+nerves 3
+nerves 1
+nervousness 1
+nice 1
+noise 1
+not 5
+nuisance 2
+nuisance 2
+obnoxious 1
+of 4
+off 1
+older 4
+older 1
+on 2
+or 3
+pain 1
+parents 1
+parents 1
+peace 1
+peeve 1
+people 1
+person 3
+pesky 1
+pest 3
+pest 1
+pester 7
+pet 1
+piss 1
+pooh 1
+protective 2
+protective 1
+protector 1
+pushy 1
+questions 1
+relative 1
+relative 2
+repetition 1
+role 1
+roommate 1
+same 4
+shares 1
+sibling 7
+siblings 4
+signs 1
+sister 4
+smart 2
+someone 1
+something 4
+son 3
+sports 1
+stress 1
+support 1
+t 4
+tamper 1
+teenagers 1
+that 5
+the 4
+to 12
+too 1
+trouble 1
+troublesome 1
+unnecessary 1
+unwanted 1
+upset 4
+used 1
+vex 1
+want 3
+wanted 1
+way 1
+who 3
+will 1
+winnie 1
+wish 1
+with 4
+word 1
+work 2
+worrisome 3
+worry 2
+you 5
+young 1
+younger 2
+younger 1
+your 1

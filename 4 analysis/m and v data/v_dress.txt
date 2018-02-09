@@ -1,0 +1,17 @@
+dress bottom 4
+dress cloth 2
+dress clothing 17
+dress cover 2
+dress dance 1
+dress colors 4
+dress expensive 2
+dress formal 6
+dress humans 2
+dress leg 1
+dress long 9
+dress object 2
+dress pretty 7
+dress short 6
+dress top 2
+dress wear 7
+dress women 13

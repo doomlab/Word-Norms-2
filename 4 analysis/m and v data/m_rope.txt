@@ -1,0 +1,12 @@
+rope braided 5 
+rope long 14 
+rope strong 9 
+rope thick 7 
+rope thin 8 
+rope twisted 5 
+rope tying 20 
+rope climbing 8 
+rope hangings 7 
+rope jumping 6 
+rope pulling 7 
+rope securing 6 

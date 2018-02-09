@@ -1,0 +1,12 @@
+rock music 8 
+rock stone 6 
+rock weapon 5 
+rock minerals 8 
+rock grey 8 
+rock hard 24 
+rock heavy 8 
+rock rough 7 
+rock smooth 5 
+rock solid 5 
+rock throwing 9 
+rock construction 5 

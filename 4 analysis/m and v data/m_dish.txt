@@ -1,0 +1,10 @@
+dish colors 5 
+dish kitchens 6 
+dish breakable 8 
+dish round 11 
+dish ceramic 8 
+dish glass 6 
+dish plastic 7 
+dish washing 9 
+dish eating 13 
+dish food 19 

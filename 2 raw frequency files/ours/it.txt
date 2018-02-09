@@ -1,0 +1,167 @@
+ 50
+a 27
+about 2
+about 1
+adam 1
+adams 1
+already 1
+always 1
+an 8
+and 1
+animal 3
+animals 1
+any 2
+anything 10
+anything 4
+be 4
+been 1
+bit 1
+boring 1
+boy 1
+broad 1
+but 1
+can 6
+cant 2
+certain 1
+character 1
+clown 5
+clown 2
+clowns 1
+describe 6
+describes 1
+description 1
+descriptive 1
+different 1
+does 1
+dog 1
+don 1
+dont 1
+doohickey 1
+else 1
+enough 1
+etc 1
+everything 2
+everything 1
+family 1
+family 1
+find 1
+for 6
+game 1
+gender 2
+general 1
+girl 1
+girl 1
+grammar 1
+group 1
+happened 1
+has 2
+he 1
+here 1
+hit 1
+human 1
+i 1
+idea 1
+idea 1
+if 1
+important 1
+in 1
+is 16
+is 2
+isnt 1
+it 8
+it 2
+item 5
+killing 1
+kit 1
+know 1
+known 1
+lies 1
+like 1
+literally 1
+looking 1
+lot 1
+many 2
+mass 1
+meanings 1
+movie 4
+my 1
+mystery 1
+name 3
+named 1
+no 3
+non 1
+nonliving 1
+not 2
+nothing 1
+noun 4
+object 6
+object 2
+objects 1
+objects 1
+of 2
+one 2
+one 2
+or 5
+other 2
+other 1
+over 1
+particular 1
+people 1
+person 6
+physical 1
+piece 1
+place 1
+places 1
+pronoun 6
+psychology 1
+pull 1
+referred 2
+represents 1
+s 2
+scary 1
+sex 1
+she 1
+single 1
+small 1
+snowing 1
+something 12
+something 4
+space 1
+spit 1
+stuff 1
+subject 2
+subject 1
+substitutes 1
+t 2
+takes 1
+talking 2
+tangible 1
+term 1
+that 6
+that 1
+the 5
+there 1
+thing 23
+thing 7
+thingamabob 1
+things 5
+things 1
+think 1
+third 1
+this 2
+tired 1
+to 6
+to 1
+unknown 4
+unknown 1
+up 1
+used 5
+was 2
+way 1
+what 4
+which 1
+will 1
+word 6
+works 1
+you 2
+your 2

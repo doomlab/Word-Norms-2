@@ -1,0 +1,230 @@
+ 19
+a 12
+agent 1
+alleviate 1
+alleviation 1
+allopathy 1
+always 1
+an 1
+and 3
+anesthetic 2
+antibiotic 2
+antibiotics 1
+antidote 3
+antiseptic 2
+antitoxin 2
+any 3
+appliances 1
+are 2
+art 3
+as 2
+aspirin 1
+attack 1
+ayurvedic 2
+baby 1
+balm 1
+better 4
+biochemists 1
+biologic 1
+bitter 1
+body 2
+by 6
+can 1
+cancer 1
+capsule 1
+capsules 2
+care 2
+chemicals 2
+combination 1
+composed 1
+compounded 1
+condition 1
+condition 1
+created 1
+curative 2
+cure 13
+cure 2
+cures 2
+damage 2
+diagnosing 2
+diagnosis 1
+disease 10
+disease 1
+diseases 3
+diseases 2
+doctor 2
+doctor 1
+doctors 2
+dont 1
+dose 2
+drug 7
+drug 2
+drugs 4
+due 1
+during 1
+eating 1
+elixir 2
+emergency 1
+euphony 1
+feel 4
+fever 1
+for 9
+for 1
+form 3
+from 1
+get 1
+gets 1
+given 2
+gives 1
+good 1
+has 1
+heal 1
+healing 2
+healing 1
+health 6
+health 2
+heart 1
+help 1
+helps 1
+herbs 1
+homeopathic 1
+horrible 1
+hospitals 2
+hospitals 1
+ill 2
+illness 5
+illness 1
+improves 1
+in 8
+injection 2
+injury 2
+inoculation 2
+intake 1
+is 10
+it 1
+its 2
+killer 1
+kind 1
+life 2
+like 1
+liniment 1
+liquid 2
+liquids 1
+lotion 2
+lower 1
+made 1
+make 4
+makes 2
+manipulations 1
+manufacturers 1
+materials 1
+may 1
+me 1
+means 1
+medical 5
+medicament 2
+medicate 1
+medication 1
+medication 1
+medicinal 4
+medicine 17
+medicine 1
+mind 2
+mouth 1
+music 1
+n 1
+of 19
+often 1
+ointment 1
+one 1
+operations 1
+or 25
+other 3
+pain 2
+patients 1
+people 2
+person 2
+pharmaceutical 2
+pharmaceutical 1
+pharmacon 1
+pharmacy 2
+physic 2
+physical 1
+pill 3
+pills 2
+pink 1
+potion 2
+practice 2
+pregnancy 1
+prepared 1
+prescribed 1
+prescription 2
+prescription 1
+preserving 1
+prevent 1
+preventing 2
+prevention 1
+problem 1
+process 1
+profession 1
+professionals 1
+prophylactic 1
+purchased 1
+reason 1
+related 1
+relates 1
+relieves 1
+remedy 6
+restoring 1
+rid 1
+s 1
+salve 2
+saving 1
+science 8
+scientifically 1
+sedative 2
+serum 1
+shop 1
+sick 2
+sickness 2
+some 1
+something 2
+specialty 2
+store 2
+substance 5
+substances 4
+such 1
+surgical 1
+survival 1
+syrup 1
+syrups 2
+tables 1
+tablet 3
+tablets 4
+tablets 1
+take 2
+taken 2
+taste 2
+that 1
+the 14
+think 1
+through 1
+tincture 2
+to 20
+tonic 2
+tonics 1
+treat 5
+treating 7
+treatment 3
+treatment 2
+use 1
+used 10
+vaccination 2
+vaccine 1
+vaccine 1
+we 1
+when 2
+which 1
+with 1
+worse 1
+you 4

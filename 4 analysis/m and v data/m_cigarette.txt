@@ -1,0 +1,16 @@
+cigarette ca 15 
+cigarette cancer 15 
+cigarette ca 20 
+cigarette disease 5 
+cigarette filter 9 
+cigarette nicotine 11 
+cigarette smoke 9 
+cigarette addictive 11 
+cigarette not 6 
+cigarette healthy 6 
+cigarette round 5 
+cigarette smelly 10 
+cigarette white 9 
+cigarette tobacco 11 
+cigarette lighter 5 
+cigarette smoking 8 

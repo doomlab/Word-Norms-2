@@ -1,0 +1,14 @@
+mink_coat colors 5 
+mink_coat black 7 
+mink_coat brown 9 
+mink_coat expensive 23 
+mink_coat soft 15 
+mink_coat warm 16 
+mink_coat animals 7 
+mink_coat fur 9 
+mink_coat mink 5 
+mink_coat worn 6 
+mink_coat rich 6 
+mink_coat people 6 
+mink_coat worn 12 
+mink_coat women 6 

@@ -1,0 +1,263 @@
+ 22
+a 63
+abrasion 1
+abrasive 2
+accident 1
+across 4
+act 1
+allergic 1
+along 1
+an 7
+and 3
+animal 1
+annul 1
+as 8
+at 2
+back 2
+ball 3
+be 1
+been 1
+below 1
+billiards 4
+bite 1
+blemish 2
+blood 1
+body 2
+bonnet 1
+break 5
+broken 1
+by 19
+bye 1
+cacography 1
+cancel 5
+candidate 1
+car 1
+card 1
+care 1
+cat 1
+cats 1
+caused 1
+chance 1
+claw 4
+clawing 1
+claws 8
+competition 2
+contest 2
+contestant 1
+coupon 1
+crap 1
+cue 2
+cushion 1
+cut 12
+damage 2
+damage 3
+defect 1
+delete 1
+difficulty 2
+dig 5
+dog 1
+doing 1
+door 1
+draw 3
+drawing 3
+earn 1
+eliminate 1
+else 1
+entry 1
+erase 1
+especially 1
+etc 1
+example 1
+falls 1
+feed 1
+fiddle 1
+fingernails 2
+fingers 1
+fluke 1
+for 2
+forth 1
+from 5
+funds 1
+games 1
+gash 1
+gather 1
+get 1
+gift 1
+glass 1
+grate 2
+graze 4
+graze 1
+guitar 1
+hand 1
+happens 1
+harsh 1
+has 2
+hasty 1
+hitting 1
+hurriedly 2
+hurt 3
+hurt 1
+if 3
+impression 1
+in 7
+indentation 2
+indication 1
+injury 3
+instrument 2
+instrument 2
+into 1
+is 2
+it 2
+it 1
+itch 4
+itching 9
+itchy 1
+jumps 1
+kitten 1
+knock 1
+laceration 3
+lay 1
+like 2
+line 3
+lines 3
+little 1
+living 2
+lottery 1
+made 3
+make 7
+making 1
+mar 3
+mark 29
+marks 2
+may 1
+mechanical 1
+mess 1
+metal 1
+money 1
+moving 1
+nail 4
+nails 10
+not 1
+nullify 1
+object 5
+object 2
+of 13
+off 5
+on 18
+one 1
+or 57
+ot 1
+out 4
+pain 2
+pain 1
+paper 1
+part 1
+particular 1
+party 1
+penalty 2
+perfection 1
+personally 1
+physicality 1
+pin 3
+pocket 1
+pocketing 1
+point 2
+pointed 3
+polished 1
+pool 1
+poultry 1
+prick 1
+produce 1
+produced 1
+pull 1
+race 1
+ragged 2
+reaction 1
+refer 1
+reject 1
+relieve 6
+remove 2
+removed 1
+resembling 1
+resulting 1
+results 1
+rough 6
+roughen 1
+rub 12
+rubbing 5
+s 2
+scar 2
+scarify 1
+schedule 1
+score 5
+scrape 22
+scrape 3
+scraping 6
+scraping 1
+scratch 5
+scratching 5
+scratching 1
+scrawl 1
+scribble 2
+scribes 1
+scrub 1
+scrub 1
+see 1
+set 1
+shallow 3
+sharp 13
+sharp 1
+shot 3
+skin 6
+skin 1
+slang 2
+slight 2
+slightly 5
+slightly 1
+small 3
+smooth 3
+something 13
+sore 1
+sound 3
+sports 1
+start 1
+starting 1
+sticking 1
+strike 5
+strong 1
+substance 1
+superficially 1
+surface 22
+surface 3
+take 1
+tear 2
+tear 1
+tearing 4
+technique 1
+that 4
+the 35
+thin 4
+through 2
+ticket 2
+tiny 1
+to 61
+touch 1
+track 1
+trash 1
+trial 1
+up 1
+use 4
+using 2
+when 2
+who 1
+win 2
+with 20
+withdraw 4
+withdrawn 1
+without 1
+word 1
+would 1
+wound 4
+write 3
+written 1
+your 5

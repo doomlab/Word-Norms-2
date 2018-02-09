@@ -1,0 +1,168 @@
+ 14
+12 2
+1year 1
+30 8
+31 2
+a 39
+account 1
+almanac 1
+an 2
+and 1
+aperiodic 1
+appearing 6
+around 1
+arranged 1
+as 2
+assured 1
+at 1
+basis 1
+be 1
+biennial 1
+bills 2
+biweekly 1
+book 1
+bulletin 1
+by 3
+calendar 4
+calendar 1
+can 1
+car 1
+card 1
+chronology 1
+collect 1
+combining 1
+coming 2
+compensation 1
+comprise 1
+comprises 1
+computed 3
+consists 1
+continued 1
+continuing 3
+credit 1
+cycle 1
+cycle 1
+days 10
+days 1
+december 1
+denotes 1
+depending 1
+describe 1
+determined 3
+division 1
+domestic 1
+done 4
+due 2
+each 7
+earlier 1
+earth 1
+end 1
+equivalent 1
+etc 3
+every 23
+expenditure 1
+f0r 1
+family 1
+for 4
+four 1
+frame 1
+from 1
+full 1
+gazette 1
+given 1
+goes 1
+happening 2
+happens 1
+horoscope 1
+house 1
+how 1
+in 3
+income 2
+insurance 1
+interval 2
+is 7
+issued 1
+it 1
+january 1
+journal 1
+lasting 3
+ledger 1
+loan 2
+magazine 4
+magazine 1
+manner 1
+means 3
+memoir 1
+momently 1
+money 1
+month 43
+month 14
+monthly 4
+months 2
+moon 2
+moon 1
+necessary 1
+newspaper 1
+next 1
+occur 1
+occurring 7
+occurring 1
+occurs 2
+of 14
+often 1
+on 2
+once 18
+one 1
+or 17
+paper 1
+payable 1
+payable 1
+paycheck 1
+paying 1
+payments 3
+payments 1
+per 1
+performed 1
+period 1
+period 2
+periodic 1
+periodical 5
+periodical 1
+pertaining 5
+premium 1
+produced 1
+provisioning 1
+publication 1
+published 4
+register 1
+remind 1
+rent 1
+reoccur 1
+review 1
+revolution 1
+salary 4
+scandal 1
+semiannual 1
+sheet 1
+something 3
+students 1
+that 2
+the 12
+thirty 1
+time 5
+times 1
+to 11
+twelve 2
+unit 2
+used 1
+usually 1
+valid 1
+various 1
+week 1
+weeks 2
+weeks 1
+what 1
+wise 1
+wise 1
+year 2
+yearbook 1

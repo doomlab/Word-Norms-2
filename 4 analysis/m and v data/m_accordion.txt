@@ -1,0 +1,13 @@
+accordion musical 28 
+accordion instrument 28 
+accordion polkas 9 
+accordion buttons 8 
+accordion keys 17 
+accordion produces 6 
+accordion music 6 
+accordion loud 6 
+accordion air 11 
+accordion moving 8 
+accordion bellows 8 
+accordion worn 6 
+accordion chest 6 

@@ -1,0 +1,186 @@
+ 51
+a 5
+addiction 2
+after 1
+and 3
+apparatuses 1
+ash 15
+ashes 21
+ashes 3
+ashtray 1
+ashy 2
+attack 1
+bad 1
+bad 1
+bar 2
+bars 3
+be 1
+black 2
+black 1
+blunt 2
+blunts 1
+bowls 1
+buds 1
+built 1
+burning 1
+butt 1
+butts 8
+by 2
+can 1
+cancer 7
+car 3
+cars 1
+catch 1
+cigar 1
+cigarette 18
+cigarette 2
+cigarettes 37
+cigarettes 3
+cigars 3
+cigars 1
+cigs 2
+circle 1
+circular 1
+clean 1
+color 1
+colors 1
+combustible 1
+contains 1
+cough 1
+decorative 1
+detour 1
+deviation 1
+different 2
+dirty 13
+dirty 5
+discards 1
+disgusting 4
+dish 1
+don 1
+drop 1
+dryness 1
+dust 1
+dusty 1
+environment 1
+filled 1
+filth 1
+fire 4
+flat 1
+for 3
+found 2
+from 8
+germs 1
+glass 5
+go 1
+gray 4
+gross 7
+gross 3
+hand 3
+hard 1
+has 1
+health 1
+heart 1
+hold 3
+holds 3
+home 2
+horrible 1
+house 1
+houses 1
+in 9
+inside 1
+into 2
+into 1
+is 9
+items 1
+lighter 1
+lighters 1
+like 1
+located 1
+look 1
+lung 3
+made 4
+makes 1
+marijuana 1
+marlboro 1
+matter 1
+me 1
+metal 2
+misdirection 1
+nasty 6
+nasty 1
+nicotine 1
+non 1
+of 2
+or 2
+other 2
+parties 1
+physical 1
+plastic 3
+plate 1
+powder 1
+problems 1
+put 4
+restaurants 2
+round 1
+safety 1
+second 3
+sections 1
+shapes 1
+small 2
+smell 4
+smells 8
+smells 1
+smelly 6
+smelly 2
+smokable 1
+smoke 23
+smoker 1
+smoker 1
+smokers 5
+smokers 1
+smoking 15
+smoking 2
+sneeze 1
+someone 1
+something 1
+something 1
+souvenirs 1
+square 2
+stains 1
+stench 1
+stick 1
+stinks 1
+stinky 2
+stinky 1
+stone 1
+store 2
+sturdy 1
+t 1
+tables 1
+the 1
+their 1
+them 1
+through 1
+to 10
+tobacco 1
+tool 1
+trash 3
+tray 2
+truck 1
+unhealthy 1
+unsanitary 1
+use 2
+use 1
+used 12
+useful 1
+users 1
+vehicle 1
+vehicles 1
+waste 1
+what 1
+when 1
+where 3
+with 1
+wood 1
+you 3
+yuck 1

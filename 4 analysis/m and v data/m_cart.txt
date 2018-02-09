@@ -1,0 +1,14 @@
+cart two 6 
+cart wheels 6 
+cart four 8 
+cart wheels 14 
+cart wheels 41 
+cart large 5 
+cart metal 7 
+cart wood 17 
+cart pulling 16 
+cart pulling 28 
+cart horses 12 
+cart pushing 10 
+cart cargo 21 
+cart shopping 7 

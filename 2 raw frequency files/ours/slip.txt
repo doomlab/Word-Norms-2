@@ -1,0 +1,199 @@
+ 52
+a 13
+accident 4
+accident 1
+accidentally 2
+accompanied 1
+action 2
+an 5
+and 3
+article 1
+as 1
+back 1
+badly 1
+balance 2
+banana 4
+banana 1
+be 2
+bind 1
+black 3
+bone 1
+broken 1
+by 4
+can 2
+cause 1
+caused 2
+caution 1
+clay 1
+clothing 2
+clothing 1
+clumsy 4
+clumsy 1
+comfortable 1
+covers 1
+cry 1
+curse 1
+dangerous 1
+dip 1
+dirty 1
+do 1
+document 1
+down 3
+dress 12
+dress 2
+dresses 1
+easy 1
+elastic 1
+embarrassed 1
+embarrassment 1
+ends 2
+fall 46
+fall 11
+fallen 1
+falling 2
+falling 1
+floor 4
+floor 2
+footing 1
+form 2
+friction 1
+from 1
+fun 1
+funny 1
+get 1
+girl 1
+greasy 1
+grip 1
+ground 1
+happens 1
+hurt 8
+hurts 1
+ice 2
+ice 1
+if 2
+injury 1
+ink 1
+is 10
+ivory 1
+known 1
+lace 2
+lawsuit 1
+leak 1
+let 1
+level 1
+light 1
+lightweight 1
+liquid 1
+long 1
+loose 1
+lose 1
+loses 1
+loss 1
+made 1
+makes 1
+maybe 1
+message 1
+mistake 1
+mop 1
+moving 1
+muddy 1
+n 3
+narrow 1
+neutral 1
+nightwear 1
+no 2
+not 1
+note 1
+of 10
+oil 1
+oily 1
+on 4
+or 6
+pain 2
+painful 3
+paper 10
+paper 1
+pass 1
+peel 1
+peels 1
+physical 1
+piece 5
+pieces 1
+pipe 1
+pool 1
+prettier 1
+puddle 1
+puddles 1
+rain 1
+rainy 1
+running 1
+satin 1
+secret 1
+see 1
+self 1
+sheet 1
+short 1
+sign 3
+signs 1
+silky 1
+silky 1
+skirt 4
+skirt 1
+skirts 1
+slick 5
+slide 11
+slide 1
+slimy 3
+slip 4
+slip 1
+slippery 7
+slippery 2
+slipping 1
+small 1
+sneak 1
+soap 3
+solid 1
+some 1
+someone 2
+something 7
+something 1
+sore 1
+stable 1
+stairs 2
+stumble 1
+surface 1
+tail 1
+that 1
+the 3
+their 1
+thin 1
+through 1
+time 2
+to 9
+together 1
+tops 1
+trip 6
+tripping 1
+under 10
+unknown 1
+up 1
+used 2
+usually 1
+wanted 1
+warm 1
+watch 1
+water 10
+wear 2
+wears 2
+wet 20
+wet 3
+when 3
+whistle 1
+white 3
+woman 1
+women 1
+words 1
+worn 3
+you 7
+your 1
+yourself 1

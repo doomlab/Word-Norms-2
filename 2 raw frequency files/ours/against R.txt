@@ -1,0 +1,156 @@
+ 18
+a 5
+able 1
+abrasion 1
+action 1
+against 1
+agree 3
+agree 1
+agreeing 1
+agreement 2
+all 1
+allow 1
+allowing 1
+anger 2
+anger 1
+antagonist 1
+antagonist 1
+anti 1
+approval 1
+at 1
+away 1
+bad 1
+be 2
+being 1
+believer 1
+bring 1
+but 1
+can 2
+carries 1
+cause 1
+cause 1
+close 1
+competitive 1
+con 1
+conflict 2
+connotation 1
+cons 1
+controversy 1
+counter 1
+debate 1
+demonstrates 1
+disagree 2
+disagree 1
+disagreeing 2
+discrimination 1
+dislike 2
+dislike 1
+distraction 1
+do 2
+does 1
+doesn 1
+don 3
+enemy 2
+enemy 1
+feud 1
+fight 1
+fight 2
+fighting 2
+fighting 1
+for 15
+for 2
+forbidden 1
+force 1
+form 1
+friendly 1
+give 1
+given 1
+going 1
+gravity 1
+grudge 1
+hate 1
+hater 1
+hatred 1
+heads 1
+if 1
+in 3
+inertia 1
+is 1
+isn 1
+it 2
+lean 1
+leaning 3
+leaning 1
+light 1
+like 1
+loser 1
+mad 1
+mean 1
+negative 1
+nemesis 1
+no 2
+non 1
+not 27
+object 1
+odds 1
+of 3
+on 3
+oppose 3
+oppose 1
+opposed 3
+opposes 1
+opposing 4
+opposing 3
+opposite 2
+opposition 2
+opposition 1
+or 2
+other 1
+outcast 1
+prejudice 1
+prohibit 1
+protest 1
+push 2
+pushed 1
+quarters 1
+rebel 1
+rebellion 2
+rebuke 1
+rebuttal 1
+red 1
+rock 1
+rules 1
+s 1
+says 1
+side 1
+side 1
+sides 1
+someone 1
+something 1
+something 4
+strict 1
+strong 1
+support 1
+supportive 1
+t 5
+the 1
+to 9
+to 2
+together 1
+touching 1
+towards 1
+trouble 1
+turn 1
+unattached 1
+unhappy 1
+view 1
+wall 1
+wall 1
+want 1
+war 1
+will 2
+winner 1
+with 7
+with 5
+wrong 1
+you 1

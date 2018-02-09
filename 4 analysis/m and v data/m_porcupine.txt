@@ -1,0 +1,12 @@
+porcupine mammal 6 
+porcupine animal 21 
+porcupine shoots 5 
+porcupine quills 5 
+porcupine four 9 
+porcupine legs 9 
+porcupine quills 31 
+porcupine brown 10 
+porcupine dangerous 5 
+porcupine slow 6 
+porcupine small 12 
+porcupine forests 5 

@@ -1,0 +1,166 @@
+ 48
+a 3
+about 1
+accompanied 1
+all 1
+amuse 1
+amuse 1
+amused 1
+amusement 5
+an 1
+and 2
+appealing 1
+appetizers 1
+at 1
+attention 1
+attention 3
+aw 1
+be 2
+being 1
+bored 1
+boring 1
+by 1
+can 1
+cheerful 1
+children 1
+chuckle 1
+circus 2
+class 1
+clown 1
+clowns 2
+clubs 1
+comedian 2
+comedians 4
+comedy 5
+computer 1
+crayons 1
+dancing 1
+dislike 1
+don 1
+easily 1
+effect 1
+else 1
+emotion 1
+enjoy 2
+enjoying 1
+enjoyment 2
+enjoyment 1
+entertain 12
+entertain 8
+entertained 1
+entertained 2
+entertaining 8
+entertaining 1
+entertainment 4
+excited 1
+excitement 1
+exciting 1
+expense 1
+family 1
+fascinated 1
+feel 1
+feeling 1
+friends 2
+fun 8
+fun 3
+funny 33
+funny 5
+games 1
+get 1
+giggle 4
+giggles 1
+good 2
+grinning 1
+happiness 2
+happy 9
+happy 4
+has 1
+hilarious 2
+hobbies 1
+humor 3
+humorous 2
+i 1
+interested 2
+interested 1
+interesting 4
+interesting 3
+irony 1
+is 5
+joke 2
+jokes 3
+jokes 2
+keep 1
+keeps 1
+know 1
+laugh 18
+laugh 4
+laughing 2
+laughter 8
+leave 1
+life 1
+like 1
+likeable 1
+loving 1
+magazines 1
+make 11
+makes 1
+me 1
+movies 1
+music 1
+newspapers 1
+noisy 1
+not 2
+occupied 4
+occupy 1
+of 5
+one 1
+oneself 1
+or 4
+others 1
+outgoing 1
+parade 1
+park 3
+park 1
+parks 1
+passer 1
+people 4
+person 1
+physical 1
+pleasantly 1
+pranks 1
+preachers 1
+result 1
+sarcasm 1
+show 1
+shows 1
+side 1
+smile 2
+smile 2
+smiling 2
+smirk 1
+smirk 1
+someone 5
+someone 1
+something 2
+stimulus 1
+stories 1
+stupid 1
+surprised 1
+t 1
+teeth 1
+television 2
+telling 1
+the 3
+think 1
+tickle 1
+time 1
+time 1
+to 16
+tv 1
+used 2
+usually 1
+verb 1
+video 1
+with 2
+you 1
+youtube 1

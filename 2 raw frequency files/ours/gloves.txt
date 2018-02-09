@@ -1,0 +1,230 @@
+ 46
+5 3
+a 3
+all 1
+and 1
+animal 1
+are 10
+article 1
+articles 1
+as 1
+baiting 1
+barrier 1
+baseball 5
+be 3
+blisters 1
+body 1
+by 1
+can 3
+cautions 1
+chemicals 1
+clean 9
+cleaner 1
+cleaning 5
+clorox 1
+cloth 1
+clothes 1
+clothing 2
+cold 14
+cold 1
+colors 3
+colors 1
+come 3
+comes 1
+comforting 1
+construction 2
+cooking 1
+cotton 4
+cover 1
+coverage 2
+covering 1
+covering 2
+coverings 1
+covers 2
+crime 1
+dangers 1
+dangers 1
+dentists 1
+designs 1
+designs 1
+different 5
+dirt 1
+dirty 1
+disguise 1
+dishes 1
+dishwashing 1
+doctor 2
+doctors 2
+does 1
+doing 1
+during 3
+dying 1
+each 1
+easy 1
+environment 1
+fashion 2
+feels 1
+finger 2
+fingers 10
+fingers 2
+fit 3
+fits 1
+five 2
+food 1
+football 2
+for 14
+from 4
+functional 1
+functions 1
+fuzzy 1
+garden 2
+gardener 1
+gardeners 1
+gardening 3
+gear 1
+germs 1
+glove 2
+glove 1
+gloves 1
+gloves 2
+go 2
+grass 1
+grip 1
+gross 1
+guarding 1
+hair 3
+hand 6
+hand 1
+hands 43
+hands 2
+hard 2
+harmful 1
+have 3
+heat 1
+hospital 2
+humans 1
+if 1
+in 10
+including 1
+is 3
+it 3
+keep 6
+keeps 5
+lab 1
+labor 1
+lace 1
+latex 7
+latex 1
+leather 8
+linen 1
+made 6
+many 2
+materials 1
+medical 1
+men 1
+mess 1
+mitt 1
+mitten 1
+mittens 3
+mittens 2
+mushy 1
+nasty 2
+not 1
+nurse 1
+nurses 1
+object 1
+of 9
+often 1
+oj 1
+on 9
+one 2
+or 6
+out 1
+outside 1
+oven 1
+pair 1
+physical 1
+plastic 6
+plastics 1
+pliable 1
+precaution 1
+prepare 1
+pretty 1
+protect 9
+protect 1
+protection 11
+protection 7
+protective 3
+protective 1
+protectors 1
+protects 3
+provide 2
+put 2
+rip 1
+rough 1
+rubber 9
+s 1
+safety 2
+safety 1
+sanitary 3
+scarf 2
+scene 1
+sick 1
+simpson 1
+size 2
+sizes 1
+skiing 1
+skins 1
+sledding 1
+smooth 1
+snow 4
+snowman 1
+social 1
+society 1
+soft 3
+softball 1
+solid 1
+spaces 1
+sports 2
+strong 1
+stylish 1
+stylists 1
+substance 1
+substances 1
+surfaces 2
+the 7
+them 2
+they 5
+thing 1
+tight 1
+time 1
+to 14
+toilet 1
+tools 1
+ugly 1
+unsavory 1
+up 1
+use 1
+used 22
+warm 20
+warm 5
+warmth 9
+warmth 1
+washing 1
+wear 4
+weather 2
+weather 1
+when 5
+white 1
+winter 11
+winter 2
+with 1
+women 1
+wool 3
+woollen 1
+work 2
+working 3
+worn 4
+wrap 1
+you 4
+your 5

@@ -1,0 +1,15 @@
+starling bird 23 
+starling builds 9 
+starling nests 9 
+starling eats 11 
+starling eats 17 
+starling worms 6 
+starling flies 15 
+starling lays 7 
+starling eggs 7 
+starling sings 5 
+starling beak 8 
+starling feathers 10 
+starling wings 9 
+starling black 5 
+starling small 8 

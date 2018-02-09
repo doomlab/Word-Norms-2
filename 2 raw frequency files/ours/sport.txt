@@ -1,0 +1,287 @@
+ 15
+a 39
+about 2
+act 1
+action 2
+active 3
+activities 1
+activity 28
+activity 3
+admirable 1
+against 1
+all 2
+amorous 1
+amuse 1
+amusement 3
+an 16
+and 17
+another 1
+around 2
+as 4
+associated 1
+at 1
+at 1
+athlete 2
+athletes 1
+athletic 6
+athletics 4
+attitude 1
+bad 1
+badminton 1
+ball 3
+balls 1
+baseball 4
+basketball 4
+bat 1
+be 1
+behaves 1
+better 1
+boast 2
+body 2
+bowling 2
+boxing 2
+by 9
+c 1
+can 1
+cater 1
+cavort 2
+challenging 1
+companion 1
+compete 2
+competes 1
+competition 2
+competition 2
+competitions 1
+competitive 6
+competitively 4
+cricket 3
+curricular 1
+customs 4
+dalliance 1
+different 5
+disport 3
+diversion 4
+diverts 1
+doors 1
+e 1
+either 1
+energize 1
+engaged 2
+enjoy 1
+entertainment 2
+entertainment 1
+equipment 1
+equipments 1
+especially 1
+etc 3
+event 1
+events 1
+every 1
+example 1
+exciting 1
+exercise 5
+exercise 3
+exertion 3
+extra 1
+extravagant 1
+fair 1
+feature 1
+feeling 1
+fishing 3
+fitness 2
+follow 1
+football 5
+football 1
+for 10
+form 6
+formed 1
+forms 1
+free 1
+frisk 1
+frolic 4
+frolic 2
+fun 6
+gaiety 2
+gambol 1
+game 18
+game 1
+games 11
+getting 1
+goal 1
+golf 2
+good 8
+governed 6
+group 5
+has 2
+have 1
+health 3
+health 1
+hobby 1
+hockey 1
+hunting 2
+in 7
+include 1
+indicates 1
+individual 1
+individuals 1
+indoor 2
+interesting 1
+involve 2
+involves 4
+involving 5
+is 20
+it 2
+its 1
+jest 2
+joke 1
+joking 1
+jolly 1
+jumping 1
+keen 1
+kicking 1
+kinds 1
+kinds 1
+lark 2
+life 1
+like 2
+lives 1
+lose 1
+loser 1
+losers 1
+lot 1
+lovemaking 1
+makes 1
+manner 1
+many 3
+may 1
+medals 1
+men 1
+mental 2
+mirth 1
+mockery 1
+money 1
+mood 2
+mutant 1
+mutation 2
+nature 3
+nature 1
+necessary 1
+noun 1
+object 1
+of 25
+often 8
+on 2
+one 2
+oneself 1
+or 24
+other 1
+out 1
+outdoor 1
+outdoor 1
+over 1
+participate 1
+particular 5
+past 1
+pastime 7
+people 6
+people 1
+person 3
+physical 27
+picnic 2
+play 11
+play 1
+played 7
+playing 1
+plaything 1
+pleasant 3
+pleasantry 1
+pleasure 2
+point 1
+prizes 1
+pro 1
+prowess 3
+prowess 1
+punching 1
+races 1
+racing 2
+racing 1
+racquet 1
+recreation 8
+recreation 3
+recreational 3
+referee 1
+required 1
+requiring 4
+ridicule 1
+rollick 1
+romp 1
+rule 1
+rules 6
+run 2
+running 1
+running 1
+see 1
+set 7
+she 1
+shooting 1
+single 1
+skill 8
+skill 1
+skylark 1
+small 1
+soccer 1
+some 2
+something 1
+sometimes 1
+spirit 1
+sport 5
+sports 4
+sportsman 1
+sportsmanlike 1
+sportswoman 1
+stadium 1
+student 1
+such 2
+summer 1
+swimming 1
+system 1
+t 1
+team 4
+team 1
+teams 2
+tennis 4
+that 6
+the 8
+thing 1
+this 3
+tickets 1
+time 1
+to 8
+tossed 1
+trifle 1
+trophies 1
+tv 1
+types 2
+undertaken 1
+undertaking 1
+usually 2
+variation 1
+verses 1
+very 1
+vocation 1
+volleyball 1
+watch 1
+which 2
+who 4
+win 1
+win 1
+winner 1
+winners 1
+winter 1
+with 3
+women 1
+work 2
+workout 2
+world 1
+wrestling 2
+you 1

@@ -1,0 +1,12 @@
+pin head 5 
+pin pointed 9 
+pin end 9 
+pin pricks 13 
+pin fingers 13 
+pin sharp 16 
+pin silver 5 
+pin small 16 
+pin thin 11 
+pin metal 20 
+pin holding 12 
+pin sewing 11 

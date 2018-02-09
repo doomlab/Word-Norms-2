@@ -1,0 +1,14 @@
+rocket weapon 5 
+rocket flies 9 
+rocket expensive 6 
+rocket fast 8 
+rocket large 9 
+rocket long 7 
+rocket round 5 
+rocket NASA 6 
+rocket metal 9 
+rocket fuel 7 
+rocket astronauts 8 
+rocket traveling 10 
+rocket in 10 
+rocket space 10 

@@ -1,0 +1,214 @@
+ 15
+a 16
+accidents 1
+after 1
+also 1
+an 3
+and 4
+b 1
+basic 1
+be 2
+being 1
+big 2
+burlington 1
+bus 1
+businessmen 1
+busy 1
+by 1
+caboose 6
+caboose 1
+can 5
+car 2
+cargo 5
+cargo 2
+carries 4
+cars 6
+carts 1
+cattle 1
+causes 1
+cheaper 1
+chicago 1
+children 1
+choo 14
+chu 2
+city 1
+coal 3
+coal 4
+coin 1
+commercial 1
+communication 1
+conductor 2
+conductor 2
+country 1
+course 1
+crossing 1
+crowded 1
+days 1
+delay 1
+destination 1
+diesel 1
+dirty 1
+distance 2
+dying 1
+engine 5
+engineer 1
+engineer 1
+express 1
+family 1
+fashion 1
+fast 3
+field 1
+first 1
+flatten 1
+for 7
+form 4
+found 2
+freight 1
+friends 1
+from 2
+fueled 1
+fun 1
+gets 1
+globalization 1
+goods 3
+graffiti 2
+hard 1
+has 3
+hauling 1
+hauls 1
+have 1
+heavy 1
+hit 1
+horn 3
+horses 1
+in 3
+industrial 2
+interesting 1
+international 1
+involve 1
+iron 2
+is 6
+it 2
+late 1
+locomotive 2
+long 8
+long 4
+lot 1
+lots 2
+loud 19
+lounging 1
+made 3
+make 2
+many 2
+mass 2
+me 1
+men 1
+metal 4
+method 1
+metro 1
+might 1
+mode 2
+montana 1
+move 1
+movies 1
+my 1
+new 1
+noisy 1
+northern 1
+object 1
+of 18
+old 3
+on 8
+ones 1
+or 2
+other 1
+packed 1
+paint 1
+passengers 1
+people 5
+place 1
+place 1
+plastic 1
+point 2
+polar 1
+power 1
+powerful 2
+prescribed 1
+provides 1
+pull 1
+push 1
+rail 1
+railroad 11
+railroad 2
+railroads 1
+red 1
+red 1
+revolution 1
+ride 3
+ride 1
+rocks 1
+row 1
+runs 5
+scary 1
+sets 1
+sister 1
+smash 1
+smelly 1
+smoke 3
+smoke 1
+something 2
+spray 1
+station 1
+stations 1
+steam 2
+steel 2
+stop 2
+stops 2
+strong 1
+stuff 1
+supplies 1
+system 1
+takes 1
+technology 1
+that 2
+the 4
+they 2
+things 2
+thoughts 1
+time 1
+to 9
+toy 1
+toys 1
+track 1
+tracks 15
+tracks 7
+traffic 2
+train 2
+train 1
+trains 1
+transferred 1
+transit 2
+transport 2
+transportation 21
+transportation 9
+transporting 1
+transports 2
+travel 3
+travel 3
+traveling 1
+travels 3
+trips 1
+type 1
+used 7
+uses 5
+vacation 1
+vehicle 2
+way 3
+wheels 1
+which 1
+whistle 4
+whistles 2
+with 2
+working 1
+wreck 1
+you 1

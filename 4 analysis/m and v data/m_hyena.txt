@@ -1,0 +1,15 @@
+hyena carnivore 6 
+hyena mammal 6 
+hyena predator 5 
+hyena scavenger 5 
+hyena animal 20 
+hyena LiKing 5 
+hyena laughs 14 
+hyena runs 6 
+hyena four 12 
+hyena legs 12 
+hyena fast 7 
+hyena furry 5 
+hyena ugly 6 
+hyena dog 8 
+hyena packs 5 

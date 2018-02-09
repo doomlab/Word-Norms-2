@@ -1,0 +1,13 @@
+telephone Bell 7 
+telephone houses 5 
+telephone cord 11 
+telephone dial 5 
+telephone receiver 10 
+telephone buttons 10 
+telephone numbers 8 
+telephone rings 22 
+telephone plastic 10 
+telephone calling 8 
+telephone people 8 
+telephone communication 14 
+telephone talking 12 

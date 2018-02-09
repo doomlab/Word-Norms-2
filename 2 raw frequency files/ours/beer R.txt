@@ -1,0 +1,231 @@
+ 20
+4 1
+a 15
+abdomen 1
+abudance 1
+addict 1
+alcohol 9
+alcohol 2
+alcoholic 22
+alcoholic 1
+ale 1
+also 1
+amber 1
+an 7
+and 11
+animal 1
+animal 1
+any 2
+appetizer 1
+applejack 1
+artois 1
+as 1
+at 1
+bar 2
+barley 6
+barley 1
+bay 1
+be 1
+beer 16
+belly 4
+beverage 9
+beverage 2
+beverages 2
+beverages 1
+bitter 3
+booze 1
+bottle 3
+bottle 1
+bottles 2
+bourbon 1
+brands 1
+breadbasket 1
+brew 2
+brewed 1
+brewery 1
+brewing 1
+brewski 1
+brown 1
+bubbles 1
+bubbly 1
+budweiser 1
+but 1
+by 2
+can 2
+cans 1
+celebration 1
+cereals 1
+champagne 1
+chill 2
+chill 1
+chilled 1
+classical 1
+cocktail 2
+coffee 1
+cold 2
+cold 1
+colored 1
+comes 1
+commonly 1
+consumption 1
+contains 2
+content 1
+content 1
+cool 1
+corporation 1
+created 1
+diuretic 1
+drink 22
+drink 8
+drinkable 1
+drunk 1
+effect 1
+energy 1
+enjoyment 1
+etc 2
+excess 1
+extracts 1
+eyes 1
+fat 1
+fermentation 1
+fermented 9
+festivals 1
+fizz 1
+flavor 1
+flavored 4
+foam 1
+for 3
+forest 1
+forest 1
+from 14
+front 1
+frothy 1
+fruit 1
+fun 1
+gas 1
+gin 1
+glass 1
+gold 1
+golden 1
+grain 2
+grains 1
+great 1
+gut 1
+hard 1
+has 2
+hirsch 1
+home 1
+hop 1
+hops 11
+hops 3
+humans 1
+ice 1
+impart 1
+in 12
+insides 1
+intestines 1
+is 5
+it 2
+keg 1
+kind 2
+lager 1
+legs 1
+life 1
+like 1
+limited 1
+liquid 2
+liquor 2
+lives 1
+low 1
+made 14
+make 1
+makes 1
+malt 8
+malt 1
+malted 4
+mans 1
+may 1
+mead 1
+medicine 1
+molasses 1
+mouth 1
+mug 1
+nip 1
+non 1
+not 1
+of 7
+oil 1
+on 1
+one 2
+or 7
+other 1
+packed 1
+party 1
+party 1
+paunch 1
+pelvis 1
+plants 2
+plexus 1
+pop 1
+porch 1
+porter 1
+pot 2
+processed 1
+pubs 1
+red 1
+reduced 1
+refreshing 1
+relaxation 1
+restaurants 1
+rich 1
+roots 2
+rum 1
+s 1
+schnapps 1
+scotch 1
+serving 1
+shop 2
+slightly 1
+sloe 1
+solar 1
+sold 2
+some 1
+sometimes 1
+spare 1
+stella 1
+stout 1
+stripe 1
+substance 2
+suds 1
+sugar 1
+summer 1
+sweet 1
+tank 1
+tap 1
+taste 2
+tastes 1
+tasty 1
+that 1
+the 1
+these 1
+through 1
+tin 1
+tire 1
+to 2
+treat 1
+tummy 1
+two 1
+use 1
+used 1
+using 1
+usually 1
+various 1
+vendor 1
+water 1
+wheat 1
+whether 1
+whisky 2
+window 1
+wine 2
+with 10
+yeast 2

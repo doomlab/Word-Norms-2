@@ -1,0 +1,258 @@
+ 14
+a 35
+abolition 1
+above 1
+according 1
+activity 1
+actual 2
+advantage 2
+all 16
+american 1
+among 1
+an 1
+and 9
+anti 1
+any 1
+anyone 1
+apolitical 1
+are 1
+as 4
+ascribed 2
+away 1
+based 5
+basically 1
+be 1
+become 1
+being 3
+beliefs 1
+belong 1
+belongs 1
+benefit 1
+body 1
+bolshevism 3
+but 1
+by 13
+cal 1
+can 1
+capitalism 1
+capitalism 1
+carl 2
+certain 1
+characterized 1
+china 4
+classless 2
+collective 1
+collectivism 4
+collectivism 1
+combat 1
+combined 1
+comfortable 1
+common 8
+communism 7
+communist 4
+community 5
+community 1
+compensation 1
+conditions 2
+considered 1
+contemplates 1
+contribution 1
+controlled 2
+countries 1
+countries 1
+creates 1
+democracy 1
+derived 1
+development 1
+dictators 1
+distributing 1
+doctrine 1
+dominated 1
+each 3
+economic 6
+economy 2
+effects 1
+eliminated 1
+else 1
+enemy 1
+equal 3
+equal 1
+equality 1
+equalizing 2
+equally 1
+every 1
+everybody 1
+everyone 2
+everyone 1
+everything 1
+evolved 1
+exchange 1
+expected 1
+fabianism 1
+failed 1
+favorable 1
+financial 1
+flag 2
+for 7
+forcible 1
+form 4
+freedom 3
+from 2
+frowned 1
+general 1
+germany 1
+good 2
+government 6
+government 2
+group 1
+has 1
+hate 1
+have 1
+hold 1
+holding 5
+idea 2
+ideology 5
+idolizes 1
+ill 1
+in 15
+india 1
+individual 1
+industry 2
+inequalities 1
+is 9
+it 1
+it 1
+its 1
+karl 2
+kind 2
+labor 1
+latin 1
+left 1
+lenin 1
+leninism 4
+less 1
+life 2
+life 1
+living 1
+maoism 1
+marx 4
+marx 1
+marxism 3
+marxist 1
+max 1
+members 1
+militant 1
+money 2
+most 1
+movement 1
+movement 1
+much 1
+my 1
+no 5
+not 3
+noun 1
+of 44
+on 7
+one 2
+ones 1
+opposed 1
+or 10
+organization 7
+organization 1
+organized 1
+orientation 1
+over 1
+owned 2
+owned 1
+ownership 6
+ownership 1
+paper 1
+parity 1
+party 3
+party 5
+people 2
+people 2
+perpetuating 1
+person 1
+person 1
+personal 1
+philosophy 1
+philosophy 1
+political 12
+possession 1
+poverty 1
+practices 1
+principles 1
+private 3
+proletariat 3
+property 11
+property 1
+pull 1
+realistic 1
+red 1
+right 2
+rule 4
+rules 1
+russia 3
+s 1
+scheme 3
+self 1
+share 2
+shared 3
+sharing 1
+single 1
+social 11
+socialism 5
+socialism 1
+socialist 4
+society 2
+sociologists 1
+soviet 1
+specifically 1
+state 7
+state 1
+states 2
+strictly 1
+strikes 1
+structure 1
+success 1
+system 10
+system 2
+taking 1
+team 2
+tension 1
+that 2
+the 36
+their 1
+theoretical 2
+theory 9
+there 1
+things 1
+thinking 1
+those 1
+to 13
+totalitarian 1
+totalitarianism 1
+totalitarianism 2
+type 1
+u 1
+under 1
+union 1
+unions 1
+use 1
+utopia 1
+various 1
+version 1
+way 2
+wealth 6
+weight 1
+where 2
+which 4
+who 1
+whole 2
+whole 1
+with 2
+word 1
+work 1
+workers 2
+works 1

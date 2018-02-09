@@ -1,0 +1,10 @@
+peg pointed 5 
+peg end 5 
+peg round 6 
+peg small 8 
+peg metal 12 
+peg plastic 9 
+peg wood 18 
+peg hanging 10 
+peg things 10 
+peg on 10 

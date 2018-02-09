@@ -1,0 +1,170 @@
+ 16
+a 46
+accessory 1
+along 1
+an 2
+apparatus 1
+around 1
+as 3
+backboard 1
+ball 1
+band 17
+barrel 2
+barrels 1
+basket 3
+basket 1
+basketball 8
+basketball 1
+be 3
+bent 1
+big 1
+bind 1
+binding 1
+by 1
+can 4
+cask 3
+cask 1
+catch 1
+certain 1
+child 1
+circle 4
+circle 1
+circles 1
+circlet 3
+circular 19
+circular 1
+circus 2
+closed 1
+club 1
+coil 1
+croquet 1
+cup 1
+dance 1
+decorative 1
+describe 1
+disk 1
+ear 1
+earring 3
+earring 1
+equator 1
+especially 1
+etc 4
+etc 1
+fasten 1
+field 1
+figure 1
+finger 2
+font 1
+for 9
+form 1
+forming 1
+game 2
+game 2
+go 1
+goal 1
+goal 1
+goes 1
+ground 1
+gymnastics 1
+hold 1
+holding 4
+hoop 7
+hoops 1
+hula 2
+i 1
+if 1
+in 10
+iron 2
+is 5
+it 1
+its 1
+jewelry 1
+jockey 1
+joining 1
+jump 1
+jumped 1
+jumping 1
+laces 1
+large 4
+light 1
+like 5
+loop 4
+loop 2
+make 1
+material 4
+metal 13
+metal 1
+mug 1
+my 1
+net 1
+object 2
+object 1
+objects 1
+of 22
+one 2
+or 22
+other 3
+part 2
+pass 1
+people 1
+performance 1
+perimeter 1
+piece 1
+plastic 4
+plastic 1
+play 1
+plaything 1
+points 2
+regorous 1
+rhythmic 1
+rim 1
+ring 26
+ring 2
+ringlet 1
+roll 1
+round 4
+round 1
+score 1
+shank 2
+shoe 1
+shout 1
+similar 1
+skirt 1
+snake 1
+something 2
+something 1
+sphere 1
+sphincter 1
+sport 1
+sports 1
+staves 5
+stiff 3
+such 2
+supports 1
+surrounded 1
+testings 1
+that 2
+the 12
+thing 2
+through 4
+tie 1
+tire 1
+to 7
+together 5
+toy 1
+tub 1
+types 1
+under 1
+used 8
+vortex 1
+weight 1
+what 1
+wheel 1
+when 1
+which 1
+wicket 2
+wicket 1
+with 2
+wood 7
+wood 1
+wooden 3

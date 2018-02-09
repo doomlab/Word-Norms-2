@@ -1,0 +1,223 @@
+ 51
+a 4
+add 1
+all 2
+an 4
+and 5
+animal 11
+animal 3
+animals 18
+animals 4
+are 1
+at 1
+bacon 1
+bacon 1
+bad 1
+bake 1
+balanced 1
+balls 1
+barbecue 1
+basic 1
+bbq 2
+be 5
+beef 13
+beef 2
+best 1
+blood 2
+blooded 1
+bloody 2
+boil 1
+breakfast 1
+brown 1
+buffalo 1
+burger 1
+burgers 1
+burned 1
+by 3
+calorie 1
+can 6
+cannibals 1
+carnivore 1
+carnivore 1
+carnivores 5
+cheeseburgers 1
+chewy 2
+chicken 23
+chicken 1
+chickens 1
+coli 1
+colorful 1
+come 1
+comes 5
+common 2
+cook 3
+cookable 1
+cooked 8
+cooking 2
+countries 1
+cow 9
+cow 1
+cows 5
+creatures 1
+dark 1
+dead 2
+death 1
+deer 3
+delicious 6
+diet 1
+different 1
+dinner 3
+dog 1
+don 1
+e 1
+eat 11
+eaten 5
+eating 1
+edible 4
+energy 1
+factories 1
+farms 2
+fat 3
+fat 1
+fatty 1
+fibrous 1
+filled 1
+fish 1
+flavor 2
+flesh 4
+flesh 2
+food 29
+food 2
+for 4
+freezer 1
+friend 1
+from 12
+fry 1
+functional 1
+go 1
+good 5
+goog 1
+grease 1
+great 1
+grill 1
+grilling 1
+ground 1
+group 1
+groups 1
+ham 4
+hamburger 4
+hamburger 1
+hamburgers 1
+hard 1
+has 1
+high 1
+hot 1
+hotdog 1
+houses 1
+humans 1
+hungry 1
+hunting 1
+important 1
+in 5
+is 13
+it 1
+juicy 1
+kabuki 1
+lambs 1
+lions 1
+livelihood 1
+living 1
+loaf 1
+looks 1
+lunch 1
+made 3
+meal 1
+meat 2
+meat 1
+meatballs 1
+mexican 1
+moist 1
+muscle 1
+nasty 1
+not 1
+nutrition 1
+of 7
+of 1
+off 2
+omnivores 2
+one 1
+optimize 1
+or 2
+oven 1
+part 2
+people 2
+pig 5
+pigs 3
+pink 2
+pork 8
+poultry 2
+protein 10
+protein 6
+provides 2
+rack 1
+ranch 1
+rare 1
+raw 6
+raw 1
+red 14
+red 1
+roast 1
+roasted 1
+sausage 1
+sausage 1
+seasoned 2
+sectioned 1
+served 1
+slaughter 1
+smells 1
+solid 1
+some 1
+something 2
+somethings 1
+southern 1
+spicy 1
+steak 12
+steak 2
+steaks 2
+sticky 1
+stores 1
+t 1
+tacos 1
+taste 1
+tastes 1
+tasty 4
+tasty 1
+tender 1
+that 2
+the 2
+there 1
+thick 1
+thick 1
+tigers 1
+to 5
+tough 1
+turkey 3
+type 1
+uncooked 2
+unhealthy 1
+unhealthy 1
+used 3
+usually 1
+vegetarians 1
+venison 2
+warm 1
+ways 1
+weightlifting 1
+what 1
+when 1
+white 3
+white 2
+wished 1
+with 1
+you 3
+yummy 3

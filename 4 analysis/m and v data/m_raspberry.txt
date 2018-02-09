@@ -1,0 +1,17 @@
+raspberry berry 10 
+raspberry fruit 19 
+raspberry eaten 5 
+raspberry as 5 
+raspberry jam 5 
+raspberry grows 11 
+raspberry bushes 11 
+raspberry seeds 10 
+raspberry edible 11 
+raspberry red 19 
+raspberry small 7 
+raspberry tastes 6 
+raspberry good 6 
+raspberry tastes 11 
+raspberry sour 5 
+raspberry tastes 22 
+raspberry sweet 11 

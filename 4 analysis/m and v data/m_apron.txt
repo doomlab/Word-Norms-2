@@ -1,0 +1,15 @@
+apron strings 10 
+apron long 5 
+apron cloth 11 
+apron cotton 6 
+apron cleaning 5 
+apron cooking 21 
+apron word 59 
+apron neck 7 
+apron waist 6 
+apron cooks 5 
+apron women 5 
+apron covering 10 
+apron clothes 10 
+apron protection 16 
+apron kitchen 10 

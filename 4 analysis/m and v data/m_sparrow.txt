@@ -1,0 +1,15 @@
+sparrow bird 26 
+sparrow animal 13 
+sparrow builds 7 
+sparrow nests 7 
+sparrow chirps 6 
+sparrow flies 22 
+sparrow lays 16 
+sparrow eggs 16 
+sparrow migrates 8 
+sparrow sings 11 
+sparrow beak 14 
+sparrow feathers 18 
+sparrow wings 16 
+sparrow small 15 
+sparrow nests 14 

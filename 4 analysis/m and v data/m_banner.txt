@@ -1,0 +1,13 @@
+banner sign 5 
+banner message 9 
+banner words 10 
+banner colorful 5 
+banner large 6 
+banner long 8 
+banner rectangular 5 
+banner paper 14 
+banner plastic 5 
+banner hanging 10 
+banner advertising 6 
+banner celebrating 6 
+banner events 5 

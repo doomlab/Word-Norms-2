@@ -1,0 +1,16 @@
+chickadee babird 6 
+chickadee bird 23 
+chickadee animal 11 
+chickadee chirps 10 
+chickadee flies 15 
+chickadee lays 7 
+chickadee eggs 7 
+chickadee sings 7 
+chickadee beak 15 
+chickadee feathers 9 
+chickadee feet 5 
+chickadee wings 9 
+chickadee black 7 
+chickadee brown 5 
+chickadee small 19 
+chickadee yellow 11 

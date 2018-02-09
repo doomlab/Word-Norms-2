@@ -1,0 +1,13 @@
+sack bag 9 
+sack burlap 6 
+sack cloth 5 
+sack materials 5 
+sack carrying 22 
+sack things 22 
+sack holding 9 
+sack potatoes 9 
+sack holding 18 
+sack things 31 
+sack worn 5 
+sack over 5 
+sack shoulder 5 

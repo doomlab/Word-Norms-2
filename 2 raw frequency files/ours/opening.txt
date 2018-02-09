@@ -1,0 +1,163 @@
+ 13
+a 19
+able 1
+act 2
+air 1
+allotted 1
+an 3
+another 1
+apart 1
+appointment 1
+at 1
+availability 2
+available 1
+available 2
+baseball 1
+be 4
+beginning 6
+beginning 3
+begriming 1
+boxes 1
+brand 1
+business 2
+can 3
+cans 1
+ceremony 1
+ceremony 2
+changing 1
+clearing 1
+close 1
+close 1
+closed 2
+closing 10
+closing 2
+comes 1
+credentials 1
+day 1
+door 9
+door 1
+doors 3
+doors 1
+doorway 1
+doorway 1
+editorial 1
+empty 1
+enables 1
+enter 3
+enter 1
+entrance 2
+escape 1
+event 1
+exit 1
+filled 1
+first 4
+for 1
+forms 1
+free 1
+fresh 1
+from 1
+game 1
+gap 1
+garage 1
+get 2
+gifts 1
+go 2
+grand 3
+happens 2
+has 1
+heart 1
+hole 10
+hole 2
+how 1
+in 7
+inside 1
+into 1
+into 1
+inviting 1
+is 5
+is 1
+it 4
+jar 1
+job 2
+job 1
+large 1
+letting 1
+lids 1
+light 2
+looking 1
+morning 1
+morning 1
+motion 1
+mouth 1
+mouth 2
+new 4
+new 1
+object 1
+of 9
+off 1
+open 1
+open 1
+opening 7
+opening 2
+opportunities 1
+opportunity 1
+opposite 2
+or 2
+out 1
+part 1
+passageway 1
+pathway 2
+place 3
+play 1
+point 1
+position 1
+possibility 1
+present 1
+presentation 1
+provides 1
+pulling 1
+put 1
+realease 1
+see 2
+slit 1
+slot 1
+small 1
+society 1
+something 8
+something 1
+somewhere 1
+space 2
+space 2
+spot 1
+spot 1
+start 2
+start 1
+starting 1
+state 1
+store 1
+store 5
+stores 1
+taking 1
+tear 1
+that 1
+the 8
+things 1
+through 3
+through 1
+time 1
+time 1
+to 16
+top 1
+toward 1
+travel 1
+traveled 1
+try 1
+unwrap 1
+want 3
+way 1
+welcoming 1
+window 1
+window 1
+windows 1
+with 1
+you 3

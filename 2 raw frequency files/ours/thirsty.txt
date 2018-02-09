@@ -1,0 +1,126 @@
+ 15
+a 8
+act 2
+annoying 1
+arid 1
+back 1
+be 2
+beverage 1
+beverage 1
+bodily 1
+body 2
+bottle 1
+by 1
+cold 2
+cottonmouth 1
+curiosity 1
+dehydrated 3
+dehydrated 6
+dehydration 4
+dehydration 2
+deprivation 1
+desert 2
+desert 1
+desire 1
+dew 1
+drink 14
+drink 8
+drinking 1
+dry 16
+dry 3
+excessive 1
+exhaustion 1
+feel 1
+feeling 1
+fluid 2
+food 1
+for 3
+function 1
+gatorade 1
+get 1
+had 1
+having 1
+hot 4
+hot 1
+how 1
+hungry 2
+hungry 1
+hydration 1
+ice 1
+in 4
+intake 1
+is 5
+it 1
+juice 1
+juice 1
+lack 2
+life 1
+liquid 5
+liquid 1
+liquids 1
+longing 1
+mountain 1
+mouth 11
+mouth 1
+necessary 1
+need 8
+needing 1
+needs 3
+needs 1
+normal 1
+not 1
+nourishment 1
+of 11
+or 1
+out 1
+pain 1
+parched 8
+parched 2
+pop 1
+quench 3
+quench 1
+quenched 3
+reaction 1
+refreshment 2
+related 1
+relates 1
+replenish 1
+running 1
+salt 1
+sensation 2
+sign 1
+soda 2
+something 2
+sticky 1
+sun 1
+swallow 1
+swallowing 1
+sweating 1
+swimming 1
+the 4
+thirst 2
+thirsty 1
+thirsty 2
+throat 2
+thursday 1
+thursdays 2
+tired 1
+tired 1
+to 12
+tongue 1
+tongue 1
+uncontrollable 1
+usually 1
+want 2
+wanting 4
+water 31
+water 7
+watering 1
+we 1
+weather 2
+wet 1
+what 1
+when 3
+working 1
+you 3
+your 1

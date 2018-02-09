@@ -1,0 +1,171 @@
+ 17
+a 20
+about 3
+acclaim 1
+after 2
+am 4
+am 2
+an 4
+and 4
+another 2
+as 6
+awareness 1
+be 1
+beautiful 1
+being 3
+blue 1
+body 2
+by 3
+case 4
+cases 1
+character 1
+comes 1
+computer 1
+cray 1
+decade 1
+decade 1
+describe 1
+direct 1
+do 1
+doing 1
+ego 1
+engineering 1
+ever 2
+every 1
+feeling 1
+few 2
+first 1
+for 2
+form 1
+from 1
+given 1
+habitually 1
+handsome 1
+hardly 2
+has 1
+he 1
+her 1
+herself 1
+him 1
+himself 3
+human 1
+i 27
+i 8
+iam 1
+id 1
+in 11
+indirect 1
+individual 1
+informal 1
+instead 2
+interest 3
+involving 3
+irregularly 1
+is 4
+it 3
+little 1
+look 1
+love 1
+maine 1
+major 1
+master 1
+me 9
+me 1
+mean 1
+mine 2
+mirror 2
+moi 1
+moon 1
+music 1
+my 2
+myself 14
+myself 5
+not 3
+note 1
+now 1
+object 7
+object 1
+objective 4
+obsessive 3
+occasionally 1
+of 19
+off 1
+often 2
+on 1
+once 2
+one 5
+oneself 3
+oneself 1
+opinion 1
+or 9
+others 1
+own 4
+person 9
+person 1
+personality 1
+personally 1
+physical 1
+pine 1
+points 1
+predicate 1
+preposition 2
+preposition 1
+pronoun 3
+rarely 1
+refer 1
+referring 3
+refers 2
+regarded 1
+represent 1
+s 4
+said 1
+satisfaction 3
+saying 1
+scale 1
+scarcely 2
+science 1
+see 1
+self 6
+self 2
+semioccasion 1
+she 1
+slang 1
+sometimes 1
+soul 2
+speaker 4
+speaking 2
+spoken 1
+state 1
+state 1
+sweet 1
+taken 1
+talking 1
+that 1
+the 26
+then 1
+third 1
+time 2
+times 1
+to 14
+tree 1
+truth 1
+use 1
+used 8
+verb 5
+very 1
+way 1
+what 1
+when 3
+where 1
+while 1
+who 3
+woman 1
+word 3
+word 1
+work 1
+work 1
+writer 3
+wrote 1
+you 2
+yourself 1
+yourself 1

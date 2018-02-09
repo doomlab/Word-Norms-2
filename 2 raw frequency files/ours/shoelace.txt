@@ -1,0 +1,161 @@
+ 14
+a 12
+aglet 2
+and 5
+are 1
+be 5
+bends 1
+bow 2
+bow 1
+bunny 1
+but 2
+can 5
+cloth 2
+color 1
+colorful 3
+colors 10
+colors 1
+come 1
+comes 1
+coming 1
+converse 1
+cotton 2
+cotton 1
+criss 1
+cross 1
+curly 1
+designs 1
+different 14
+double 1
+ends 1
+fabric 1
+feet 4
+feet 3
+foot 1
+for 1
+found 3
+from 2
+functional 1
+generally 1
+goes 1
+has 1
+have 2
+helpful 2
+helps 1
+hold 1
+holds 4
+hole 1
+holes 1
+in 6
+into 1
+is 3
+isn 1
+jackson 1
+joe 1
+keep 7
+keeps 7
+kids 1
+knot 3
+knot 1
+knots 1
+knots 2
+lace 1
+laces 2
+laces 1
+lengths 1
+lengths 2
+like 1
+little 1
+long 9
+long 2
+loop 1
+loops 1
+lot 1
+made 3
+make 1
+makes 2
+many 1
+materials 1
+more 1
+most 1
+multiple 1
+my 1
+necessary 1
+need 1
+nibs 1
+of 6
+off 1
+on 14
+on 4
+or 1
+out 1
+part 1
+place 1
+plastic 3
+poverty 1
+rabbit 1
+rope 1
+secure 3
+shoe 24
+shoe 5
+shoelace 1
+shoes 30
+shoes 6
+size 1
+sizes 1
+skinny 1
+skinny 1
+sneaker 1
+sneakers 1
+so 1
+something 2
+sometimes 1
+stay 2
+stiff 1
+straps 1
+string 7
+string 2
+strings 3
+stringy 1
+supple 1
+synthetic 1
+t 1
+tennie 1
+tennis 7
+that 1
+the 5
+they 1
+thin 1
+things 1
+through 2
+tie 15
+tie 2
+tied 6
+ties 6
+tight 6
+tighten 2
+tips 1
+to 21
+together 4
+together 2
+trip 1
+tripping 1
+tripping 1
+two 1
+typically 1
+unique 1
+untied 1
+up 1
+used 13
+usually 1
+velcro 1
+walking 1
+weave 1
+what 1
+white 10
+white 1
+width 1
+with 1
+yellow 1
+you 4
+your 8

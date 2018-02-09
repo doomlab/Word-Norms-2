@@ -1,0 +1,16 @@
+plug_electric walls 6 
+plug_electric two 14 
+plug_electric prongs 14 
+plug_electric three 8 
+plug_electric prongs 22 
+plug_electric cord 5 
+plug_electric wires 8 
+plug_electric dangerous 8 
+plug_electric metal 6 
+plug_electric plastic 8 
+plug_electric socket 8 
+plug_electric appliances 16 
+plug_electric delivering 7 
+plug_electric power 7 
+plug_electric electricity 23 
+plug_electric outlet 6 

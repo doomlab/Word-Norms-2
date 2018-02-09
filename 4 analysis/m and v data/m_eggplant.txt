@@ -1,0 +1,14 @@
+eggplant vegetable 21 
+eggplant eaten 6 
+eggplant cooking 6 
+eggplant grows 8 
+eggplant gardens 8 
+eggplant grows 14 
+eggplant ground 6 
+eggplant green 8 
+eggplant top 8 
+eggplant seeds 6 
+eggplant edible 20 
+eggplant purple 22 
+eggplant white 6 
+eggplant inside 6 

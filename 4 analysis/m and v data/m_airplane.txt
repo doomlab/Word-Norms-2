@@ -1,0 +1,13 @@
+airplane flies 25 
+airplane airports 8 
+airplane propeller 5 
+airplane engines 5 
+airplane wings 20 
+airplane crashes 7 
+airplane fast 11 
+airplane large 8 
+airplane metal 8 
+airplane pilots 11 
+airplane passengers 15 
+airplane transportation 10 
+airplane travel 7 

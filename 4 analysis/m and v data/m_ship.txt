@@ -1,0 +1,13 @@
+ship decks 6 
+ship sails 12 
+ship floats 12 
+ship large 17 
+ship sinkable 5 
+ship wood 5 
+ship captains 15 
+ship crews 12 
+ship cargo 18 
+ship cruising 11 
+ship passengers 10 
+ship transportation 11 
+ship water 15 

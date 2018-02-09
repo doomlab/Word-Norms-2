@@ -1,0 +1,10 @@
+cabin forests 20 
+cabin fireplaces 10 
+cabin cozy 5 
+cabin small 9 
+cabin house 7 
+cabin logs 11 
+cabin wood 22 
+cabin relaxing 6 
+cabin shelter 5 
+cabin vacations 10 

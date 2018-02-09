@@ -1,0 +1,12 @@
+willow tree 23 
+willow branches 5 
+willow droop 5 
+willow down 5 
+willow weeping 5 
+willow bark 6 
+willow branches 14 
+willow leaves 11 
+willow brown 7 
+willow green 7 
+willow large 7 
+willow long 6 

@@ -1,0 +1,15 @@
+octopus fish 5 
+octopus animal 6 
+octopus shoots 8 
+octopus ink 8 
+octopus swims 9 
+octopus 8 16 
+octopus tentacles 16 
+octopus sucticups 7 
+octopus tentacles 25 
+octopus edible 10 
+octopus large 7 
+octopus ugly 5 
+octopus oceans 10 
+octopus seas 5 
+octopus water 7 

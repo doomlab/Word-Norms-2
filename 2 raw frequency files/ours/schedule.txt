@@ -1,0 +1,242 @@
+ 46
+a 12
+accomplished 1
+activities 3
+activities 1
+advance 1
+agenda 2
+ahead 1
+alarm 1
+an 1
+and 7
+anticipation 1
+anxiety 1
+appointment 3
+are 1
+arrange 1
+at 1
+aware 1
+babies 1
+backpack 1
+basketball 1
+be 16
+been 1
+being 1
+bell 1
+booked 1
+boring 1
+buildings 1
+busy 9
+busy 1
+by 4
+calendar 6
+calendar 2
+can 6
+certain 4
+chosen 1
+class 4
+classes 10
+clock 1
+clocks 1
+college 1
+complete 1
+concert 1
+constraint 1
+daily 5
+date 1
+dates 7
+day 7
+days 2
+description 1
+determines 1
+dinners 1
+do 4
+do 3
+don 1
+done 3
+done 1
+down 2
+empty 1
+events 6
+events 2
+everyone 2
+everything 1
+excessive 1
+fast 1
+feeding 1
+fit 1
+follow 1
+football 1
+for 5
+frame 2
+full 2
+functional 1
+get 1
+go 2
+going 2
+good 3
+hangs 1
+has 3
+have 2
+haven 1
+hectic 4
+helps 3
+homework 1
+hours 2
+how 1
+important 2
+in 8
+includes 1
+involves 1
+is 12
+is 1
+it 1
+it 1
+itinerary 2
+keep 6
+keeping 2
+keeps 2
+key 1
+know 2
+late 3
+lazy 1
+life 3
+life 1
+limits 2
+list 6
+list 1
+lists 1
+lives 1
+locations 1
+lots 1
+made 2
+make 1
+making 1
+manage 3
+managed 1
+management 3
+manner 1
+many 1
+marker 1
+meetings 1
+monthly 1
+months 2
+must 1
+neat 1
+necessary 1
+need 1
+needed 1
+needs 1
+next 1
+no 1
+notebooks 1
+of 14
+on 13
+one 2
+or 2
+order 4
+order 3
+orderly 1
+organization 4
+organization 3
+organize 1
+organized 9
+organized 2
+organizer 2
+outline 1
+overlap 1
+pagers 1
+paper 1
+parties 1
+pens 1
+people 1
+phone 2
+places 3
+plan 5
+planned 1
+planner 5
+planner 1
+planning 2
+planning 1
+plans 2
+plans 1
+play 1
+precise 1
+prepared 1
+priority 1
+professors 1
+project 1
+proper 1
+punctual 2
+purse 1
+requires 1
+restricted 1
+restricting 1
+routine 1
+sacrifice 1
+schedule 2
+schedule 2
+schedules 1
+school 22
+school 1
+see 1
+series 1
+serious 1
+set 2
+show 1
+slots 1
+so 1
+some 1
+something 1
+somewhere 1
+spend 1
+stay 1
+steps 1
+stress 1
+stressful 2
+strict 1
+sure 1
+t 1
+tasks 3
+teacher 2
+tells 1
+that 2
+the 1
+there 1
+they 1
+thing 1
+things 12
+things 1
+tied 1
+tight 1
+time 32
+time 5
+timely 1
+times 7
+times 1
+timetable 1
+tired 1
+to 34
+track 7
+tv 1
+used 5
+usually 2
+wall 1
+way 2
+weekly 2
+weekly 1
+weeks 3
+what 3
+when 1
+when 1
+where 5
+will 1
+with 2
+work 11
+work 1
+write 1
+written 1
+yearly 1
+years 1
+you 7
+your 5

@@ -1,0 +1,14 @@
+walnut food 6 
+walnut nut 17 
+walnut eaten 7 
+walnut baking 7 
+walnut eaten 12 
+walnut people 5 
+walnut grows 12 
+walnut trees 12 
+walnut shell 12 
+walnut brown 19 
+walnut crunchy 10 
+walnut edible 18 
+walnut hard 18 
+walnut small 5 

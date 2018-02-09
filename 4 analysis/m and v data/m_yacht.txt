@@ -1,0 +1,15 @@
+yacht boat 23 
+yacht engine 12 
+yacht sails 8 
+yacht expensive 15 
+yacht large 19 
+yacht luxurious 5 
+yacht crews 6 
+yacht rich 10 
+yacht people 10 
+yacht cruising 8 
+yacht recreation 6 
+yacht sailing 8 
+yacht transportation 5 
+yacht oceans 5 
+yacht water 14 

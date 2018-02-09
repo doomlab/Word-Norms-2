@@ -1,0 +1,17 @@
+lime fruit 24 
+lime grows 5 
+lime trees 5 
+lime seeds 5 
+lime citrus 12 
+lime green 29 
+lime juicy 8 
+lime small 7 
+lime lemon 9 
+lime tastes 10 
+lime sour 10 
+lime tastes 16 
+lime tart 6 
+lime drinks 7 
+lime alcoholic 7 
+lime drinks 14 
+lime sprite 6 

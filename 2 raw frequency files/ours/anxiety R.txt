@@ -1,0 +1,249 @@
+ 15
+a 17
+about 8
+accompanied 1
+all 1
+also 1
+an 4
+and 5
+angst 2
+anguish 1
+ants 2
+antsy 1
+anxi 2
+anxiety 13
+anxiety 1
+anxious 3
+anxious 2
+anxiousness 1
+apprehension 6
+are 1
+as 4
+assurance 1
+astonishment 1
+awkwardness 1
+bad 1
+be 1
+beats 1
+being 4
+biting 1
+botheration 1
+brain 1
+bring 1
+bumps 1
+but 2
+butterflies 1
+by 3
+calmness 1
+can 1
+care 2
+caused 2
+clarity 1
+closed 1
+cognitive 1
+cold 1
+composure 1
+concern 5
+concern 2
+creeps 2
+curious 1
+danger 3
+deep 1
+desire 2
+desire 1
+disorder 3
+disquiet 2
+disquiet 1
+disquietude 1
+distress 3
+disturbance 1
+disturbs 1
+do 1
+doubt 2
+downer 1
+drag 1
+dread 3
+dread 1
+drugs 1
+due 1
+eager 2
+eagerness 1
+earnest 2
+ease 1
+emotion 2
+emotional 1
+ents 1
+ety 2
+event 2
+event 1
+excitement 1
+factors 1
+faster 1
+fear 11
+feel 2
+feeling 12
+feeling 2
+feelings 1
+fidgets 2
+flap 1
+for 3
+foreboding 2
+forms 1
+fretfulness 2
+fretting 1
+from 1
+fuss 1
+future 4
+goose 1
+happen 1
+happiness 1
+happy 1
+health 1
+heart 1
+heebie 1
+heightened 1
+how 1
+immediate 1
+imminent 1
+in 10
+inconvenience 1
+induced 1
+inept 1
+inner 1
+is 3
+it 3
+jeebies 1
+jitters 1
+jittery 1
+jumps 1
+keeps 1
+kind 1
+know 2
+know 1
+known 1
+life 1
+losing 1
+may 3
+mental 2
+might 1
+mind 5
+mind 1
+misery 1
+misfortune 2
+misgiving 2
+modern 1
+much 1
+nail 1
+nauseous 1
+need 1
+needles 1
+needs 1
+nervous 4
+nervousness 5
+nervousness 1
+new 1
+nonchalance 1
+normal 1
+not 3
+noun 1
+occur 1
+occurring 1
+of 24
+often 1
+on 1
+or 11
+outcome 2
+over 1
+overcome 1
+overs 1
+painful 1
+palms 1
+panic 1
+panic 1
+pants 2
+pati 1
+people 1
+perplexity 1
+possible 1
+pregnant 1
+preoccupation 1
+problem 1
+psychic 1
+psychological 1
+reaction 1
+related 1
+relieving 1
+respecting 1
+responding 1
+result 1
+s 1
+scared 1
+sea 1
+sense 1
+shakes 1
+socially 1
+solicitude 3
+solvation 1
+some 3
+something 6
+something 1
+state 6
+state 1
+stomach 2
+stress 6
+stress 1
+stressed 1
+stressor 1
+strong 1
+suffering 1
+sure 1
+sweat 2
+sweaty 1
+symptom 1
+symptoms 1
+tense 2
+tense 1
+tension 6
+the 2
+thing 1
+thing 1
+think 2
+thoughts 1
+to 10
+tomorrow 1
+too 1
+trouble 3
+trouble 1
+turns 1
+twists 1
+typically 2
+uncertain 3
+uncertainties 2
+uncertainty 1
+uncomfortable 2
+unease 4
+unease 1
+uneasiness 6
+uneasiness 2
+uneasy 1
+unknown 1
+unpleasant 1
+very 1
+vex 1
+walk 1
+want 1
+we 1
+well 1
+what 2
+when 1
+which 1
+with 3
+women 1
+wonder 1
+work 1
+working 1
+worried 2
+worry 14
+worry 2
+yoga 1
+you 3

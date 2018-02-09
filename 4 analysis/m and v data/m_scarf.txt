@@ -1,0 +1,17 @@
+scarf clothing 6 
+scarf colors 6 
+scarf colorful 5 
+scarf fashionable 6 
+scarf knitted 7 
+scarf long 13 
+scarf soft 5 
+scarf wool 11 
+scarf worn 20 
+scarf around 20 
+scarf neck 20 
+scarf worn 25 
+scarf cold 5 
+scarf worn 45 
+scarf warmth 20 
+scarf worn 62 
+scarf winter 17 

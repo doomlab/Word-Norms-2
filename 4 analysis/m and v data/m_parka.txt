@@ -1,0 +1,12 @@
+parka jacket 8 
+parka Eskimos 5 
+parka clothing 5 
+parka hood 10 
+parka lining 5 
+parka large 7 
+parka warm 20 
+parka fur 5 
+parka worn 5 
+parka rain 5 
+parka worn 11 
+parka snow 6 

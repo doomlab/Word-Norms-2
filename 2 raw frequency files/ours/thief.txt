@@ -1,0 +1,204 @@
+ 16
+a 10
+about 1
+abuse 1
+accepted 1
+and 3
+animal 1
+another 2
+anything 2
+as 1
+asking 1
+aways 1
+back 1
+bad 10
+bag 1
+bandana 1
+be 4
+believe 1
+belong 1
+belongings 1
+belongings 1
+black 3
+breaker 1
+breaks 2
+broken 1
+bum 1
+burglar 1
+cannot 1
+care 1
+carry 1
+cars 1
+caught 3
+cheat 2
+clepto 1
+consent 1
+convenience 1
+convict 1
+court 1
+creepy 1
+criminal 8
+criminal 4
+crook 2
+crook 1
+cultural 1
+dangerous 1
+dark 1
+decisions 1
+deprives 1
+despicable 1
+despicable 1
+dirty 1
+does 3
+doesn 1
+don 1
+else 1
+evil 1
+eye 1
+following 1
+for 1
+friendless 1
+from 3
+frowned 1
+gain 1
+gas 1
+get 1
+getting 1
+give 1
+glass 1
+goes 1
+going 1
+guilty 1
+guy 1
+has 1
+home 1
+homes 1
+house 1
+houses 1
+if 1
+ignorant 1
+illegal 2
+illegally 1
+in 4
+indian 1
+into 1
+is 7
+items 1
+jail 5
+jail 2
+law 1
+law 1
+liar 1
+lie 1
+life 1
+lose 2
+lot 1
+loyal 1
+makes 2
+male 1
+manipulative 1
+mask 1
+masks 1
+may 2
+mistrust 1
+morals 1
+mysterious 1
+need 1
+night 1
+no 1
+norm 1
+not 7
+of 2
+one 1
+or 1
+other 1
+others 2
+others 1
+own 1
+people 3
+person 3
+poor 1
+poor 1
+possess 1
+prison 1
+prison 2
+profit 1
+prosecuted 1
+prosecuted 1
+prosecution 1
+punishable 1
+punished 1
+rob 2
+robber 6
+robber 5
+robbery 1
+robbery 2
+robs 2
+rude 1
+s 2
+sadden 1
+should 2
+similar 1
+sin 2
+sly 1
+smart 1
+sneaky 2
+sneaky 1
+some 1
+someone 11
+something 2
+something 1
+stations 1
+steal 9
+steal 2
+stealer 2
+stealing 3
+stealing 1
+steals 16
+steals 4
+stole 1
+stolen 2
+store 1
+sustenance 1
+t 2
+take 2
+take 1
+takes 9
+taking 1
+terrorize 1
+that 1
+the 1
+theft 1
+theirs 1
+them 1
+they 2
+thief 1
+thieves 2
+thing 1
+things 5
+things 2
+thoughtfulness 1
+to 8
+trust 1
+trusted 1
+unable 1
+unlawfully 1
+untrustworthy 1
+untrustworthy 1
+upon 1
+valuables 1
+victimize 1
+villain 1
+want 1
+wealth 1
+weapon 1
+weapons 1
+wear 1
+wears 1
+what 2
+when 1
+who 14
+without 2
+wrecks 1
+wrong 1
+wrong 1

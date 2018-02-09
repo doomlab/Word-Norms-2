@@ -1,0 +1,7 @@
+rocker chair 14 
+rocker comfortable 5 
+rocker wood 15 
+rocker rocking 18 
+rocker sitting 6 
+rocker on 6 
+rocker babies 6 

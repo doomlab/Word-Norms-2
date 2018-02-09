@@ -1,0 +1,196 @@
+ 15
+a 24
+action 1
+against 1
+all 1
+an 4
+and 4
+area 1
+as 3
+be 10
+bed 1
+belongs 1
+big 2
+billowy 1
+bouncy 1
+bouncy 1
+button 2
+can 14
+casing 1
+chair 9
+chair 1
+chairs 2
+circle 1
+cloth 1
+colored 1
+colorful 3
+colorful 1
+colors 3
+colors 1
+comes 2
+comfort 5
+comfort 3
+comfortable 18
+comfortable 5
+comfortably 1
+comforting 1
+comfy 5
+comfy 2
+cotton 5
+cotton 1
+couch 12
+couch 3
+couches 4
+couches 2
+covered 1
+coverings 1
+cushion 1
+cushy 1
+decorative 1
+design 2
+design 1
+designed 1
+different 9
+down 2
+ease 1
+etc 1
+fabric 6
+fabrics 1
+family 1
+feathers 1
+filled 2
+flexible 1
+floor 1
+fluffy 8
+fluffy 1
+foam 2
+for 10
+found 4
+four 1
+furniture 4
+furniture 1
+generally 1
+goes 3
+good 1
+hard 2
+has 3
+head 1
+homes 1
+homes 1
+in 6
+injury 1
+inside 1
+intricate 1
+is 28
+it 9
+item 1
+large 1
+larger 1
+lay 2
+laying 1
+lean 1
+leather 2
+legs 1
+lesson 1
+light 1
+like 1
+living 1
+located 1
+luxury 1
+made 5
+make 3
+makes 3
+malleable 1
+material 1
+materials 1
+meant 1
+moldable 1
+more 5
+object 3
+of 14
+on 39
+on 4
+option 1
+or 12
+outdoor 1
+outside 1
+pad 1
+padding 2
+pain 1
+pain 1
+part 3
+patterns 1
+person 1
+piece 2
+pillow 2
+pillow 1
+pillows 1
+placed 2
+plaid 1
+plain 1
+plethora 1
+plush 1
+plush 1
+protective 1
+put 3
+removable 1
+rest 1
+rooms 1
+round 1
+sat 1
+seat 1
+seat 2
+seating 1
+seats 1
+shaped 1
+shapes 2
+sir 1
+sit 14
+sit 1
+sitting 2
+sizes 2
+skins 1
+sleep 2
+sleeping 1
+sleeping 1
+sofa 3
+sofas 1
+soft 49
+soft 5
+softer 1
+someone 1
+something 3
+sometimes 2
+square 7
+square 1
+squishy 3
+stiff 1
+stools 1
+stripes 1
+stuffed 2
+stuffed 1
+stuffing 2
+stylish 1
+supports 1
+swede 1
+synthetic 1
+that 3
+the 3
+thick 1
+thick 1
+thin 1
+to 21
+top 1
+typically 1
+uncomfortable 1
+upon 1
+use 1
+used 23
+useful 1
+usually 4
+varieties 1
+vary 1
+very 1
+when 1
+with 5
+your 1

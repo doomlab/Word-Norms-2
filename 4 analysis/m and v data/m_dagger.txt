@@ -1,0 +1,16 @@
+dagger knife 17 
+dagger weapon 16 
+dagger blade 9 
+dagger handle 12 
+dagger pointed 11 
+dagger end 11 
+dagger sheath 6 
+dagger dangerous 6 
+dagger sharp 22 
+dagger small 9 
+dagger metal 6 
+dagger cutting 9 
+dagger drawing 6 
+dagger blood 6 
+dagger killing 16 
+dagger MacBeth 5 

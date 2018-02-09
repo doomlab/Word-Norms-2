@@ -1,0 +1,17 @@
+tack colors 10 
+tack pointed 10 
+tack end 10 
+tack sharp 25 
+tack shiny 5 
+tack silver 5 
+tack small 15 
+tack useful 5 
+tack metal 10 
+tack hanging 6 
+tack things 6 
+tack on 6 
+tack holding 13 
+tack holding 20 
+tack paper 7 
+tack boards 7 
+tack bulletboards 5 

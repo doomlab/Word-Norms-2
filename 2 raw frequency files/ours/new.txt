@@ -1,0 +1,181 @@
+ 20
+a 8
+acquired 1
+address 1
+adjective 1
+advance 1
+advanced 1
+ago 2
+although 2
+an 2
+angled 1
+anything 1
+appeared 1
+appearing 2
+arrival 1
+as 1
+been 3
+before 6
+before 2
+being 3
+being 1
+bought 2
+branded 1
+brought 1
+built 1
+but 1
+came 1
+can 1
+car 1
+change 2
+changes 1
+christmas 1
+coaled 1
+colour 1
+come 2
+coming 1
+concept 1
+created 2
+currently 1
+denotes 1
+depreciating 1
+different 1
+discovered 4
+discovered 2
+dress 2
+earlier 1
+etc 3
+etc 2
+existing 5
+experienced 1
+factory 1
+fashionable 1
+felt 1
+first 4
+first 1
+for 3
+found 2
+fresh 14
+fresh 7
+freshly 1
+freshly 1
+from 1
+happened 1
+having 3
+heard 1
+hot 1
+how 1
+idea 1
+imagined 1
+in 1
+infant 1
+initial 1
+innovative 1
+into 4
+is 3
+its 1
+just 5
+kind 2
+known 3
+lately 2
+latest 7
+like 1
+long 1
+made 8
+made 2
+magazine 1
+manifested 1
+means 1
+metal 1
+method 1
+minute 1
+modern 5
+module 1
+most 1
+never 3
+new 17
+newfangled 1
+newfangled 1
+newly 1
+no 1
+non 1
+not 10
+novel 5
+now 3
+object 1
+obtained 2
+of 6
+old 4
+old 1
+one 2
+only 2
+opposite 1
+or 15
+origin 3
+original 4
+out 2
+owner 1
+pant 1
+planet 1
+previous 2
+previously 2
+produced 1
+producing 1
+product 1
+production 2
+purchase 2
+purchased 1
+raw 2
+read 1
+recent 6
+recent 2
+recently 7
+recently 1
+referring 1
+replacing 1
+scenes 1
+see 1
+seen 6
+service 1
+shirt 1
+short 1
+smells 2
+social 1
+some 2
+something 5
+start 1
+still 2
+surprise 1
+t 1
+that 1
+the 7
+theory 1
+thing 2
+things 1
+time 2
+time 1
+to 4
+unaged 1
+unexampled 2
+unfamiliar 1
+universe 1
+unopened 1
+unsullied 1
+untouched 1
+unused 2
+unused 2
+up 1
+updated 1
+used 3
+using 1
+version 1
+very 1
+virginal 1
+was 2
+we 1
+what 1
+when 1
+which 1
+with 1
+worn 2
+young 2

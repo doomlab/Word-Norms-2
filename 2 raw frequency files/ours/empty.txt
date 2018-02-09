@@ -1,0 +1,176 @@
+ 51
+a 4
+absent 1
+absolutely 2
+air 2
+air 1
+all 3
+alone 3
+and 1
+anything 2
+are 1
+as 1
+at 1
+bad 1
+bare 3
+barren 1
+basket 1
+be 1
+being 1
+black 2
+blank 1
+blank 1
+blankness 1
+boring 1
+bottles 1
+bowl 2
+box 2
+by 1
+bye 1
+can 2
+clear 2
+confused 1
+container 1
+container 1
+containing 4
+contains 1
+contents 1
+cup 1
+darkness 1
+depicted 1
+depress 1
+depressed 1
+depressing 1
+describe 2
+dirty 1
+done 1
+drink 1
+dry 1
+dull 1
+dumb 1
+emotionless 1
+emotions 1
+empty 4
+empty 1
+encouragement 1
+end 1
+feel 2
+feeling 2
+feelings 1
+filled 1
+filled 1
+finished 1
+fruit 1
+full 17
+full 6
+game 1
+gas 3
+glass 6
+glass 1
+gone 17
+gone 1
+heart 1
+holding 1
+hole 1
+hollow 4
+horrible 1
+hungry 3
+in 6
+incomplete 1
+inside 5
+inside 1
+is 6
+it 5
+it 1
+jar 1
+lack 1
+lacking 2
+lacking 1
+left 2
+left 1
+lonely 2
+lonely 1
+lost 3
+meaningless 1
+mindless 1
+missing 2
+missing 1
+more 3
+more 1
+need 1
+needs 2
+no 5
+none 4
+none 1
+not 16
+nothing 32
+nothing 5
+nothingness 1
+object 1
+objects 1
+of 7
+one 1
+open 2
+open 1
+opposite 1
+or 3
+out 2
+over 1
+pantry 1
+person 1
+physical 1
+pool 1
+refill 1
+refrigerator 1
+room 1
+room 1
+royals 1
+s 1
+sad 6
+sad 2
+secluded 1
+solitude 1
+someone 1
+something 1
+sound 1
+space 5
+space 1
+spacious 1
+stadium 1
+state 1
+stomach 5
+substance 1
+take 1
+tank 1
+tank 1
+the 8
+there 5
+there 1
+things 1
+thirsty 1
+thoughts 1
+to 5
+trash 3
+unfulfilled 1
+unoccupied 1
+up 2
+used 4
+vacant 2
+vacuum 1
+valueless 1
+void 2
+wanting 1
+waste 1
+water 1
+when 2
+white 1
+whole 1
+wishful 1
+wit 1
+with 3
+withheld 1
+without 6
+world 1
+you 3
+zero 2
+zero 1

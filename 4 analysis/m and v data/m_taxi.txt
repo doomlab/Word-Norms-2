@@ -1,0 +1,11 @@
+taxi cab 5 
+taxi car 15 
+taxi New 9 
+taxi York 9 
+taxi expensive 7 
+taxi fast 5 
+taxi yellow 25 
+taxi drivers 23 
+taxi money 12 
+taxi passengers 7 
+taxi transportation 17 

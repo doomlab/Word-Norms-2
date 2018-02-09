@@ -1,0 +1,15 @@
+emu bird 17 
+emu animal 10 
+emu cannot 11 
+emu fly 11 
+emu beak 5 
+emu long 5 
+emu neck 5 
+emu neck 11 
+emu feathers 11 
+emu legs 8 
+emu long 10 
+emu legs 13 
+emu large 6 
+emu ostrich 5 
+emu Australia 13 

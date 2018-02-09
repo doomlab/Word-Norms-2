@@ -1,0 +1,16 @@
+bull cow 9 
+bull mammal 6 
+bull animal 13 
+bull hates 5 
+bull red 5 
+bull kills 6 
+bull people 6 
+bull ring 7 
+bull its 7 
+bull nose 7 
+bull horns 22 
+bull dangerous 7 
+bull large 18 
+bull male 21 
+bull Spain 5 
+bull bullfighting 14 

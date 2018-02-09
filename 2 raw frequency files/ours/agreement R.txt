@@ -1,0 +1,176 @@
+ 14
+a 9
+about 2
+accept 1
+accord 1
+accordance 1
+act 2
+afterwards 1
+against 1
+agree 3
+agreed 1
+agreeing 2
+agreement 1
+along 2
+an 2
+and 1
+another 1
+another 1
+answer 1
+appreciation 1
+are 1
+argument 1
+as 1
+back 1
+be 5
+being 1
+believe 2
+betterment 1
+between 5
+biding 1
+bond 1
+both 1
+broken 1
+broken 1
+business 1
+can 3
+choose 1
+come 3
+coming 2
+commitment 1
+compromise 7
+compromise 3
+conclusion 1
+conclusion 1
+conclusions 1
+concur 1
+consensus 1
+consent 1
+constitution 1
+contract 6
+contract 4
+contracts 1
+convince 1
+countries 1
+covenant 1
+creates 1
+deal 2
+decision 1
+decision 2
+different 1
+disagreement 2
+disagreement 1
+dispute 1
+disputing 1
+do 1
+document 2
+else 1
+end 1
+family 1
+favor 1
+fighting 1
+follow 1
+for 3
+friends 1
+friendship 1
+friendship 1
+get 2
+giving 1
+go 1
+good 1
+handshake 1
+handshaking 1
+happiness 1
+happy 1
+happy 1
+harmony 1
+have 2
+having 1
+idea 1
+idea 2
+in 3
+individuals 1
+is 3
+it 1
+keep 1
+lead 1
+leading 1
+let 1
+like 2
+more 6
+mutual 5
+negotiation 1
+nice 1
+no 1
+not 3
+of 6
+on 4
+one 2
+or 5
+organization 1
+others 1
+others 1
+pact 1
+pact 1
+page 2
+parties 1
+peace 2
+people 7
+people 1
+person 2
+pleasing 1
+positive 1
+promise 1
+promise 1
+provides 1
+result 1
+sacrificing 1
+said 1
+same 12
+say 1
+saying 1
+settle 2
+side 1
+side 1
+sides 1
+signature 1
+signing 1
+smile 1
+solution 1
+someone 2
+something 5
+something 2
+subject 1
+terms 2
+terms 1
+than 1
+the 10
+there 1
+thing 2
+thoughts 1
+to 18
+treaties 1
+treaty 2
+truce 1
+trust 1
+two 9
+understand 1
+understanding 2
+understanding 4
+union 1
+up 1
+verb 1
+verbal 2
+when 2
+which 1
+whole 1
+will 1
+with 2
+with 1
+words 1
+work 1
+working 1
+written 3
+yes 3
+yes 2
+you 2

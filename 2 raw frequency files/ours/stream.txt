@@ -1,0 +1,150 @@
+ 14
+a 11
+always 1
+an 1
+and 1
+animals 4
+animals 1
+aquatic 1
+as 2
+bad 1
+banks 2
+be 1
+beautiful 1
+beverage 1
+big 1
+bigger 1
+blue 1
+body 2
+bottom 1
+bugs 1
+can 1
+canal 1
+clean 1
+clear 1
+clueless 1
+cold 3
+computers 1
+consciousness 1
+contains 1
+cool 3
+crawdad 1
+crawdads 1
+creek 3
+creek 2
+current 1
+delicate 1
+dirty 1
+downloading 2
+downstream 1
+drink 2
+ducks 1
+ecosystem 1
+environment 1
+fast 1
+fish 13
+fish 3
+fishing 2
+flow 5
+flow 2
+flowing 6
+flows 1
+flows 1
+fluid 1
+fly 1
+forests 1
+frogs 1
+from 3
+go 1
+good 1
+has 3
+hold 1
+in 7
+in 2
+internet 1
+is 5
+it 4
+it 1
+korea 1
+lake 3
+lake 1
+life 1
+liquid 1
+little 2
+live 1
+long 1
+luck 2
+moss 1
+mountains 3
+movement 1
+moving 3
+music 1
+narrow 1
+nature 1
+nature 3
+newsfeed 1
+not 1
+occupies 1
+ocean 3
+of 7
+on 1
+other 1
+outdoors 1
+outside 1
+passing 1
+peaceful 1
+peaceful 1
+pebbles 1
+play 1
+pond 1
+pretty 1
+pretty 1
+puddle 1
+quiet 1
+radio 1
+rapids 1
+relaxation 1
+relaxing 2
+resting 1
+river 18
+river 9
+rock 1
+rock 1
+rocks 6
+rocks 4
+running 3
+s 1
+salamanders 1
+small 11
+small 1
+smaller 2
+soft 1
+something 1
+sometimes 1
+somewhere 1
+soothing 1
+source 1
+space 1
+spew 1
+spill 1
+stream 1
+tanning 1
+than 3
+the 2
+them 1
+through 1
+to 3
+torrent 1
+trickle 1
+updating 1
+valleys 1
+vegetation 1
+video 1
+warm 1
+water 45
+water 9
+waves 1
+wet 3
+which 1
+woods 3
+words 1

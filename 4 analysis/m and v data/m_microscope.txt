@@ -1,0 +1,17 @@
+microscope instrument 5 
+microscope laboratories 13 
+microscope light 5 
+microscope inside 5 
+microscope eyepieces 7 
+microscope glass 6 
+microscope lenses 12 
+microscope expensive 5 
+microscope scientific 7 
+microscope metal 7 
+microscope looking 5 
+microscope magnifying 18 
+microscope science 10 
+microscope seeing 7 
+microscope things 7 
+microscope close 7 
+microscope up 7 

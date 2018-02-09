@@ -1,0 +1,12 @@
+board_black classrooms 7 
+board_black schools 10 
+board_black black 24 
+board_black dusty 5 
+board_black green 23 
+board_black large 5 
+board_black cleaning 7 
+board_black teachers 13 
+board_black learning 10 
+board_black writing 17 
+board_black on 17 
+board_black chalk 9 

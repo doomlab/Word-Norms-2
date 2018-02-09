@@ -1,0 +1,17 @@
+mat rug 8 
+mat doors 13 
+mat bathrooms 9 
+mat cars 6 
+mat floors 6 
+mat small 5 
+mat material 5 
+mat rubber 5 
+mat covering 6 
+mat floors 12 
+mat protecting 5 
+mat things 5 
+mat welcoming 11 
+mat wiping 12 
+mat feet 12 
+mat wiping 17 
+mat shoes 5 

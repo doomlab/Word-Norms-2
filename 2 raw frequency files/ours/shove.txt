@@ -1,0 +1,174 @@
+ 15
+a 13
+across 1
+act 1
+act 1
+action 1
+action 1
+advance 1
+album 2
+along 8
+also 1
+an 2
+and 1
+anger 1
+another 2
+application 1
+as 3
+aside 1
+away 2
+away 1
+beared 1
+behind 3
+boat 2
+boat 1
+body 2
+boost 2
+buck 2
+bulldoze 2
+by 6
+careless 1
+carelessly 1
+clean 1
+coins 1
+continuous 1
+cram 2
+cream 1
+crowd 1
+crush 1
+delay 1
+depart 1
+different 1
+dig 2
+direct 1
+direction 1
+do 1
+drive 4
+elbow 4
+elevate 1
+encouraging 1
+enough 1
+especially 1
+evil 1
+expected 1
+express 1
+extordinary 1
+extort 1
+extra 1
+fall 1
+fast 1
+floor 1
+force 7
+force 3
+forcible 1
+forward 3
+from 6
+gentleness 1
+go 1
+happening 1
+hard 2
+hasty 1
+heave 2
+hoist 2
+hole 1
+hustle 2
+impel 3
+in 3
+into 2
+is 1
+it 1
+jab 2
+jab 1
+jackyl 1
+jam 2
+jostle 11
+level 1
+lift 1
+lug 1
+make 2
+manner 1
+means 1
+means 1
+move 7
+music 1
+nudge 4
+object 1
+of 4
+off 1
+often 1
+on 1
+one 2
+or 17
+other 1
+out 2
+passage 1
+person 1
+physical 1
+physically 1
+played 1
+poke 2
+possibly 1
+press 2
+pressure 1
+prod 2
+produce 1
+propel 3
+propel 1
+pull 1
+push 46
+push 4
+pushing 2
+put 1
+putting 1
+rack 1
+raise 1
+rough 3
+roughly 9
+roughly 4
+rudely 7
+rudely 2
+scarf 1
+second 1
+shave 1
+shave 1
+shore 2
+shoulder 3
+shove 5
+shoving 1
+skateboarding 1
+so 1
+some 3
+someone 2
+something 6
+something 1
+squeeze 3
+start 1
+strength 1
+strong 1
+stuff 3
+sudden 1
+suddenly 1
+surface 1
+surface 1
+table 1
+than 1
+the 8
+them 1
+thing 3
+thrust 8
+thrust 2
+to 49
+trick 1
+trust 1
+un 1
+up 1
+user 1
+usually 1
+vigorously 2
+violent 1
+vulgar 1
+water 1
+weapon 1
+with 6
+without 1
+you 1

@@ -1,0 +1,15 @@
+submarine periscope 5 
+submarine nuclear 5 
+submarine missiles 5 
+submarine propellers 5 
+submarine large 11 
+submarine metal 10 
+submarine crew 5 
+submarine nuclear 10 
+submarine power 5 
+submarine people 6 
+submarine navy 7 
+submarine transportation 8 
+submarine war 9 
+submarine water 5 
+submarine underwater 21 

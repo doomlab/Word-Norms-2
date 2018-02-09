@@ -1,0 +1,134 @@
+ 16
+4th 1
+a 6
+a 1
+act 1
+allows 1
+america 5
+america 9
+american 1
+among 1
+and 1
+apart 1
+as 1
+attained 1
+away 1
+be 2
+being 2
+bell 7
+bell 1
+ben 1
+by 2
+can 1
+city 2
+concept 1
+confined 1
+constitution 3
+countries 2
+country 2
+country 1
+court 1
+death 1
+decency 1
+declaration 2
+do 2
+doesn 1
+eagle 1
+faith 1
+fathers 1
+fighting 1
+fighting 1
+flag 1
+for 1
+found 1
+four 1
+franklin 1
+free 3
+freedom 29
+freedom 16
+george 1
+given 1
+government 2
+granted 1
+hancock 1
+happiness 2
+has 1
+have 1
+henery 1
+human 1
+in 3
+independence 3
+individual 1
+individuals 1
+is 6
+it 1
+jeep 1
+jefferson 1
+john 1
+july 1
+justice 6
+justice 2
+liberty 3
+liberty 4
+made 1
+new 4
+not 1
+of 14
+of 1
+our 3
+part 2
+passion 1
+patrick 1
+people 1
+people 1
+philadelphia 1
+place 1
+please 1
+politics 2
+press 1
+pride 1
+prisoner 1
+promise 1
+proud 1
+provoked 1
+pursuit 1
+religion 1
+revolutionists 1
+right 2
+rights 1
+rights 1
+social 1
+society 1
+soldiers 1
+some 2
+sometimes 1
+speech 1
+stated 1
+states 2
+statue 16
+statue 2
+structure 1
+studies 1
+symbol 1
+symbol 1
+t 1
+taken 1
+taxation 1
+the 3
+they 1
+things 1
+thomas 1
+to 4
+torch 1
+unfair 1
+united 3
+usa 3
+usa 1
+used 1
+war 3
+wars 1
+washington 1
+will 1
+word 1
+york 4
+your 1

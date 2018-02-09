@@ -1,0 +1,176 @@
+ 15
+a 10
+accomplish 3
+accomplish 3
+accomplishment 2
+achievable 1
+achieve 6
+achieve 3
+achieved 1
+achieved 1
+achievement 4
+achievement 4
+achievment 1
+aim 5
+aim 1
+ambition 2
+ambitions 1
+ambitions 1
+an 2
+attain 2
+attainable 1
+attempt 1
+ball 3
+basketball 1
+be 11
+beckham 1
+big 1
+can 7
+commitment 1
+david 1
+desire 1
+desire 1
+destiny 1
+determination 1
+determined 1
+difficult 1
+do 1
+dream 4
+dream 2
+dreams 2
+dreams 1
+easy 1
+end 1
+excitement 1
+expectation 1
+explain 1
+fans 1
+final 2
+finish 1
+finish 1
+football 2
+for 9
+for 2
+fore 1
+fulfilled 1
+future 2
+game 1
+game 1
+get 1
+gives 1
+goal 3
+goal 2
+goalie 1
+goals 1
+going 1
+group 1
+hard 1
+has 1
+help 1
+high 1
+hockey 2
+hockey 1
+holes 1
+hopes 1
+in 8
+individually 1
+inspiration 1
+it 1
+it 1
+keeps 1
+lacrosse 1
+life 2
+limit 1
+line 1
+long 7
+long 1
+lose 1
+made 1
+maintain 1
+many 1
+match 1
+motivates 1
+motivation 2
+motivation 1
+must 1
+needed 1
+net 1
+objective 1
+of 3
+one 1
+or 4
+order 1
+outcome 1
+passes 1
+people 2
+perseverance 1
+person 1
+personal 3
+plan 1
+plan 1
+play 1
+players 1
+point 4
+point 1
+points 1
+points 1
+provides 1
+pushing 1
+reach 2
+reached 1
+run 1
+s 1
+satisfaction 1
+score 6
+scored 1
+set 5
+setting 1
+short 6
+shouldn 1
+sight 1
+soccer 14
+soccer 2
+someone 2
+someone 1
+something 17
+sports 8
+string 1
+strive 5
+strives 1
+striving 1
+succeed 1
+success 1
+success 2
+t 1
+target 1
+team 2
+tem 1
+term 9
+term 3
+that 1
+the 2
+themselves 1
+thing 1
+time 1
+to 26
+touchdown 1
+towards 1
+towards 1
+try 1
+used 3
+want 5
+wanted 1
+wants 2
+what 5
+where 2
+which 1
+willing 1
+win 2
+with 2
+work 3
+work 1
+working 1
+yell 1
+you 13
+yourself 1
+yourself 1

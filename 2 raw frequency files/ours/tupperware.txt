@@ -1,0 +1,197 @@
+ 46
+3 1
+a 2
+and 1
+any 1
+appliances 1
+are 5
+aunt 1
+away 1
+be 3
+big 1
+bottom 1
+bottom 1
+bowl 1
+bowl 1
+bowls 4
+box 1
+boxes 1
+brand 1
+brands 1
+but 1
+can 4
+clean 1
+clear 5
+clear 2
+clothes 1
+cold 1
+colors 2
+come 1
+comes 2
+contain 3
+container 13
+containers 5
+contains 1
+cook 1
+cookies 1
+cooking 1
+cookware 2
+cooperation 1
+costs 1
+devices 1
+different 4
+dimensional 1
+dinnerware 1
+dirty 1
+dishes 2
+dishware 1
+dishwasher 2
+disposable 1
+disposable 1
+durable 2
+everlasting 1
+excess 1
+expensive 1
+extra 1
+find 1
+flexible 1
+float 1
+food 38
+food 11
+foods 1
+for 6
+for 1
+fork 1
+freezer 1
+fresh 3
+fresh 1
+fridge 1
+functional 1
+glad 4
+gladware 1
+glass 2
+guarantee 1
+hard 3
+has 4
+heat 2
+here 1
+hold 3
+holder 1
+holds 10
+house 1
+household 1
+in 7
+is 9
+it 1
+items 2
+keep 3
+keeping 1
+keeps 2
+kept 1
+kitchen 4
+kitchen 1
+knife 1
+lasting 1
+later 1
+left 3
+leftover 1
+leftover 1
+leftovers 10
+leftovers 1
+lid 5
+lid 1
+lids 4
+lids 1
+liquids 1
+long 1
+longer 1
+lunch 3
+made 6
+man 1
+many 1
+mart 1
+microwavable 4
+microwavable 1
+microwave 1
+microwave 1
+never 1
+normally 1
+of 8
+often 1
+older 1
+or 4
+organization 1
+other 1
+oval 1
+over 1
+overs 1
+overs 1
+packaging 1
+packing 1
+pans 1
+parties 2
+parties 1
+party 2
+per 1
+plastic 38
+plastic 4
+plates 2
+pots 1
+preserve 2
+put 1
+rectangular 1
+refrigerator 4
+reusable 2
+reusable 1
+round 1
+rubber 1
+s 1
+safe 2
+save 1
+saves 2
+school 1
+seal 1
+sherri 1
+size 1
+sizes 2
+small 2
+smells 1
+smooth 1
+so 1
+soft 1
+spoon 1
+square 1
+storage 17
+storage 2
+store 8
+stored 1
+stores 4
+storing 1
+strong 1
+stuff 1
+sugar 1
+swimming 1
+that 1
+the 3
+they 2
+things 3
+things 1
+to 14
+together 1
+top 2
+tupperware 3
+tupperware 1
+up 1
+upper 1
+used 13
+useful 1
+usually 3
+wal 1
+washable 1
+water 1
+wear 1
+will 1
+with 2
+women 1
+work 1
+ziploc 1

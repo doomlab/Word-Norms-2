@@ -1,0 +1,17 @@
+falcon bird 29 
+falcon predator 12 
+falcon animal 6 
+falcon builds 6 
+falcon nests 6 
+falcon eats 12 
+falcon rodents 12 
+falcon flies 25 
+falcon hunts 6 
+falcon lays 9 
+falcon eggs 9 
+falcon beak 13 
+falcon eyes 6 
+falcon feathers 12 
+falcon talons 6 
+falcon wings 20 
+falcon large 9 

@@ -1,0 +1,173 @@
+ 52
+a 7
+achieve 2
+achievement 1
+acquire 1
+action 1
+all 1
+an 1
+and 4
+another 1
+answers 1
+at 1
+be 3
+boring 1
+brush 1
+by 1
+can 1
+capture 1
+christianity 1
+clothes 1
+describes 1
+detectives 1
+detectors 1
+discover 7
+dog 1
+don 1
+easter 2
+egg 2
+encounter 1
+end 1
+escape 1
+excitement 2
+familiar 1
+feels 1
+find 2
+find 2
+finders 1
+follows 1
+for 18
+for 4
+found 11
+found 1
+games 1
+get 1
+get 1
+glad 1
+glass 1
+grasp 1
+happiness 1
+happy 7
+happy 1
+have 2
+hidden 1
+hidden 1
+hind 1
+hint 1
+homework 1
+hunt 3
+i 2
+id 1
+is 4
+is 1
+it 4
+item 1
+items 1
+jewelry 1
+job 1
+journey 1
+keepers 1
+key 1
+keys 2
+know 1
+living 1
+locate 6
+locate 3
+locating 1
+lonely 1
+long 1
+longer 1
+look 17
+looked 1
+looking 6
+looking 1
+lose 3
+lost 22
+lost 4
+lucky 1
+magnifying 1
+makes 1
+meaning 1
+metal 1
+missing 1
+my 1
+need 1
+no 1
+not 1
+object 1
+obtain 1
+of 3
+on 1
+opposite 1
+or 2
+out 1
+panic 1
+party 1
+pencil 1
+penny 1
+people 1
+phone 1
+physical 1
+pinpoint 1
+previously 1
+questions 1
+recover 1
+relief 1
+relieved 2
+relieving 1
+relocate 1
+replace 1
+resources 1
+reward 1
+rummage 1
+scavenger 1
+scavenger 1
+search 16
+search 5
+searching 4
+searching 2
+see 2
+seek 8
+seek 1
+seeking 1
+someone 1
+something 17
+something 4
+spot 1
+spotted 1
+spy 1
+stolen 1
+stop 2
+stuff 1
+stumbled 1
+success 1
+successful 1
+surprising 1
+t 1
+that 2
+the 3
+then 1
+they 1
+things 1
+think 1
+through 1
+time 1
+to 14
+tooth 1
+u 1
+unearthed 1
+upon 1
+used 1
+valuable 1
+verb 1
+want 1
+was 2
+way 1
+were 1
+what 1
+where 2
+word 1
+word 1
+words 1
+you 3
+youve 1

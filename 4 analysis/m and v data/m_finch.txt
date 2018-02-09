@@ -1,0 +1,11 @@
+finch bird 22 
+finch builds 7 
+finch nests 7 
+finch eats 8 
+finch flies 16 
+finch sings 13 
+finch beak 11 
+finch feathers 12 
+finch wings 10 
+finch small 17 
+finch yellow 5 

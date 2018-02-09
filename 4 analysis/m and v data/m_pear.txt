@@ -1,0 +1,17 @@
+pear fruit 28 
+pear grows 5 
+pear summer 5 
+pear grows 24 
+pear trees 19 
+pear skin 8 
+pear stem 6 
+pear edible 16 
+pear green 22 
+pear juicy 7 
+pear soft 8 
+pear white 5 
+pear yellow 14 
+pear tastes 6 
+pear good 6 
+pear tastes 15 
+pear sweet 9 

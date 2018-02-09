@@ -1,0 +1,209 @@
+ 51
+a 16
+about 4
+algorithms 1
+an 14
+and 2
+annoying 1
+answer 40
+answer 8
+answered 2
+answers 2
+answers 1
+anticipation 1
+anything 1
+are 1
+as 1
+ask 12
+ask 2
+asked 4
+asked 1
+asking 8
+asks 3
+at 1
+back 1
+be 7
+better 1
+by 2
+call 1
+can 5
+causes 1
+celebrity 1
+certain 1
+choice 1
+class 2
+classroom 1
+clueless 1
+college 1
+comes 1
+communication 1
+complex 1
+concern 2
+confirm 1
+confirmation 1
+confused 5
+confusion 3
+confusion 1
+correct 1
+curiosity 1
+curiosity 2
+curious 2
+decision 1
+difficult 2
+don 2
+doubt 2
+dumb 1
+easy 1
+educated 1
+end 1
+english 1
+expect 1
+false 1
+feelings 1
+finance 1
+find 1
+followed 1
+for 3
+formulation 1
+from 1
+gain 1
+gather 1
+good 1
+guess 1
+hard 2
+has 4
+help 1
+higher 1
+homework 2
+how 1
+hypothesis 1
+idea 1
+idea 1
+in 2
+inflection 1
+information 2
+information 2
+inquire 1
+inquiry 5
+interested 1
+interrogate 1
+interrogation 2
+interview 1
+is 9
+it 1
+know 3
+know 2
+knowing 1
+knowledge 2
+knowledge 1
+learn 2
+learning 1
+life 1
+logical 1
+long 1
+looking 2
+making 1
+many 3
+mark 3
+mark 2
+math 3
+mouth 1
+multiple 1
+mystery 1
+needs 2
+nervousness 1
+no 1
+not 3
+of 4
+on 3
+or 2
+out 1
+person 2
+physical 1
+pitched 1
+pondering 1
+positive 1
+problem 3
+prompt 1
+proposes 1
+put 1
+puzzling 1
+query 1
+question 6
+question 1
+quick 1
+quiz 2
+quizzical 1
+raised 1
+receive 1
+reply 1
+requiring 1
+response 2
+rhetorical 1
+right 1
+s 1
+school 7
+science 1
+seeking 1
+short 2
+should 1
+simple 1
+so 1
+solve 1
+solving 1
+someone 3
+something 6
+something 2
+sounds 1
+statement 1
+student 1
+students 1
+stupid 1
+such 1
+survey 2
+t 2
+teachers 2
+teachers 1
+test 3
+tests 2
+tests 2
+that 1
+the 4
+there 1
+thing 1
+things 2
+thinking 1
+thought 1
+thought 1
+to 12
+to 1
+too 1
+topic 1
+topic 1
+true 1
+understanding 1
+understood 1
+unknown 3
+unknown 1
+unsure 1
+used 5
+useless 1
+violence 1
+want 2
+wanting 1
+way 1
+what 7
+when 9
+where 4
+where 1
+who 4
+why 5
+why 1
+with 1
+wonder 3
+wondering 2
+word 2
+words 3
+written 1
+wrong 1
+you 6

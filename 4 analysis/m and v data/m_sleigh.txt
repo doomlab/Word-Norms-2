@@ -1,0 +1,9 @@
+sleigh fun 10 
+sleigh metal 6 
+sleigh plastic 5 
+sleigh wood 9 
+sleigh pulling 14 
+sleigh Santa 14 
+sleigh transportation 11 
+sleigh winter 13 
+sleigh snow 19 

@@ -1,0 +1,144 @@
+ 17
+a 13
+above 1
+accomplished 1
+achieving 1
+an 1
+army 1
+around 6
+around 1
+athlete 1
+avoidance 1
+barrier 2
+barrier 1
+be 4
+bend 1
+block 1
+blocking 2
+blocks 1
+boundary 1
+bypass 1
+can 1
+certified 1
+challenge 7
+challenge 2
+challenging 1
+climb 1
+climbing 1
+coarse 1
+come 1
+cone 1
+conflict 1
+conflicting 1
+confusing 1
+could 1
+country 1
+course 11
+course 4
+courses 1
+crawl 1
+cross 1
+danger 1
+delaying 1
+depression 1
+determent 1
+detour 1
+difficult 2
+distraction 1
+events 1
+faced 1
+falling 1
+find 1
+friends 1
+from 3
+fun 1
+game 1
+get 6
+gets 3
+getting 1
+goal 1
+goal 1
+good 1
+gym 1
+happening 1
+happening 1
+hard 7
+hard 3
+hardships 1
+have 3
+hinder 1
+hurdle 3
+hurdle 1
+hurdles 1
+imaginary 1
+in 21
+is 5
+issue 1
+it 1
+jumping 1
+jungle 1
+keeps 1
+life 1
+maze 2
+maze 1
+mental 1
+movements 1
+must 4
+object 1
+obstacle 2
+obstacle 1
+obstruction 1
+obstruction 1
+of 1
+olympics 1
+one 1
+ones 1
+or 3
+over 4
+overcome 7
+overcome 6
+pass 1
+people 1
+physical 1
+potential 1
+problem 3
+problem 1
+restricting 1
+rise 1
+road 1
+road 1
+rough 1
+rough 1
+run 1
+s 1
+shape 1
+ship 1
+solution 1
+something 21
+something 1
+standing 1
+stands 2
+stops 1
+striving 1
+struggle 1
+tall 1
+that 7
+the 18
+thing 1
+things 1
+threshold 1
+tire 1
+tiring 1
+to 16
+tough 2
+track 1
+try 1
+used 1
+want 1
+way 13
+way 6
+what 1
+which 1
+work 1
+you 5
+your 1

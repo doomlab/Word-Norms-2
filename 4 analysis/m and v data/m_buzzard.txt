@@ -1,0 +1,16 @@
+buzzard bird 26 
+buzzard carnivore 5 
+buzzard scavenger 9 
+buzzard eats 12 
+buzzard eats 21 
+buzzard dead 9 
+buzzard flesh 9 
+buzzard flies 10 
+buzzard beak 8 
+buzzard neck 5 
+buzzard feathers 11 
+buzzard wings 6 
+buzzard black 10 
+buzzard large 8 
+buzzard ugly 16 
+buzzard deserts 6 

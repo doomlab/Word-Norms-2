@@ -1,0 +1,13 @@
+stove appliance 9 
+stove kitchens 16 
+stove oven 9 
+stove elements 16 
+stove heat 6 
+stove electrical 18 
+stove hot 16 
+stove metal 5 
+stove gas 13 
+stove wood 8 
+stove baking 8 
+stove cooking 29 
+stove heating 9 

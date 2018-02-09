@@ -1,0 +1,16 @@
+skunk animal 23 
+skunk sprays 14 
+skunk when 14 
+skunk danger 14 
+skunk four 10 
+skunk legs 10 
+skunk stripe 12 
+skunk tail 9 
+skunk fur 9 
+skunk legs 21 
+skunk black 24 
+skunk small 6 
+skunk white 26 
+skunk forests 7 
+skunk smells 28 
+skunk bad 28 

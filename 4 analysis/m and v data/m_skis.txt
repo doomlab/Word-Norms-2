@@ -1,0 +1,16 @@
+skis pairs 9 
+skis bindings 5 
+skis long 13 
+skis thin 6 
+skis wood 6 
+skis boots 5 
+skis poles 6 
+skis sliding 5 
+skis down 5 
+skis hills 5 
+skis cold 5 
+skis mountains 8 
+skis snow 24 
+skis water 7 
+skis worn 7 
+skis feet 7 

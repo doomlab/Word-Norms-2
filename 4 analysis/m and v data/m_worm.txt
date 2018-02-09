@@ -1,0 +1,12 @@
+worm crawls 6 
+worm slithers 6 
+worm wiggles 6 
+worm eaten 12 
+worm birds 12 
+worm brown 8 
+worm long 20 
+worm slimy 17 
+worm small 7 
+worm dirt 7 
+worm ground 9 
+worm fishing 9 

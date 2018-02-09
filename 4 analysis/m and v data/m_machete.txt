@@ -1,0 +1,8 @@
+machete knife 9 
+machete weapon 6 
+machete handle 5 
+machete dangerous 5 
+machete long 6 
+machete sharp 15 
+machete metal 9 
+machete cutting 10 

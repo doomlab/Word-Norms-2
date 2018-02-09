@@ -1,0 +1,181 @@
+ 48
+a 19
+academic 1
+accomplish 15
+accomplish 7
+accomplished 4
+accomplishing 1
+accomplishment 1
+accomplishments 1
+achieve 3
+achieve 1
+achievements 1
+achiever 1
+acquire 1
+all 1
+amazing 1
+an 1
+and 2
+area 1
+attain 1
+attempt 1
+award 1
+awards 3
+be 2
+being 1
+believe 1
+best 1
+by 1
+can 1
+care 1
+careers 1
+classes 1
+complete 1
+complete 1
+completing 1
+completion 2
+concept 1
+confidence 1
+congrats 1
+congratulations 1
+describe 2
+deserve 1
+desire 1
+destination 1
+determination 1
+determined 1
+did 1
+do 4
+don 1
+done 2
+dream 2
+dream 1
+driven 1
+ecstatic 1
+everyone 1
+excel 2
+excelling 1
+expectation 1
+failure 1
+feel 1
+feels 1
+files 1
+final 1
+finish 6
+finish 1
+finished 2
+for 1
+fulfillment 1
+gain 2
+games 1
+get 3
+given 1
+goal 17
+goal 4
+goals 14
+goals 5
+good 2
+graduate 2
+graduated 1
+graduation 1
+grasp 2
+happiness 3
+happy 2
+happy 1
+hard 4
+hard 1
+having 1
+high 2
+hold 1
+honored 1
+i 1
+in 2
+internal 1
+is 5
+it 2
+know 1
+living 1
+making 1
+massive 1
+master 1
+mission 1
+moment 1
+motivation 1
+of 2
+old 1
+on 1
+on 1
+over 1
+pass 1
+people 1
+persistence 1
+personal 1
+physical 1
+positive 2
+positive 1
+praised 1
+press 1
+prevail 1
+pride 1
+prize 1
+prosper 1
+proud 5
+pursue 1
+reach 4
+reaching 1
+receive 1
+record 1
+rewards 1
+rich 1
+rise 1
+satisfaction 1
+satisfied 1
+save 1
+score 1
+set 1
+smart 1
+smiles 1
+smiling 1
+something 4
+something 2
+special 1
+speeches 1
+standards 1
+stars 1
+strive 1
+succeed 7
+succeed 2
+succeeded 1
+success 14
+success 3
+successful 3
+successful 1
+t 1
+take 1
+that 1
+the 3
+then 1
+things 1
+think 1
+to 23
+unlocked 1
+used 3
+verb 1
+victory 2
+victory 2
+video 1
+want 1
+wants 1
+wealthy 1
+well 2
+what 1
+win 4
+win 3
+winner 2
+winner 1
+word 2
+work 6
+working 1
+world 1
+you 1
+your 1

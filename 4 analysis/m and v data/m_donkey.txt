@@ -1,0 +1,15 @@
+donkey mammal 11 
+donkey animal 21 
+donkey noises 12 
+donkey four 18 
+donkey legs 18 
+donkey tail 11 
+donkey ears 5 
+donkey hooves 7 
+donkey legs 37 
+donkey brown 6 
+donkey furry 8 
+donkey grey 9 
+donkey horse 14 
+donkey farms 8 
+donkey riding 7 

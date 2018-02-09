@@ -1,0 +1,184 @@
+ 18
+37â°c 1
+6â°f 1
+98 1
+a 26
+about 1
+amount 1
+an 5
+and 4
+any 2
+are 1
+as 6
+atmosphere 1
+autumn 1
+average 1
+balmy 1
+barometer 1
+be 3
+body 9
+by 7
+can 2
+celsius 5
+celsius 1
+change 2
+changes 1
+chemical 1
+climate 7
+climatic 2
+clothing 1
+cold 20
+cold 4
+coldness 7
+coldness 1
+common 1
+condition 2
+condition 1
+constitution 1
+contained 1
+cook 1
+cooking 1
+cool 2
+daily 1
+day 3
+degree 18
+degree 1
+degrees 7
+degrees 1
+denoted 1
+designated 1
+drink 1
+either 1
+emotion 1
+energy 4
+environment 3
+especially 1
+established 1
+etc 1
+excitement 1
+expressed 2
+expressed 1
+fahrenheit 3
+fahrenheit 3
+feel 1
+feeling 2
+felt 1
+ferocity 2
+ferrety 1
+fever 5
+feverishness 2
+found 1
+freezing 1
+from 1
+given 2
+gradient 1
+heat 24
+heat 4
+high 3
+hot 16
+hot 1
+hotness 6
+how 3
+humans 1
+humidity 1
+in 14
+incandescence 2
+indicates 1
+indication 1
+intensity 2
+is 5
+it 1
+its 1
+kelvin 1
+kinetic 3
+level 1
+living 3
+low 2
+malefaction 2
+matter 2
+means 1
+measure 11
+measured 5
+mercury 1
+mildness 3
+moderate 1
+modulation 1
+must 1
+normal 1
+normally 1
+notions 1
+noun 1
+number 1
+numerical 1
+object 5
+obsolete 1
+of 53
+on 3
+one 1
+or 27
+organisms 1
+outside 1
+particles 2
+pathology 1
+perspire 1
+physical 1
+physiology 1
+present 2
+pyrexia 2
+quality 1
+quantitative 1
+quantity 2
+reactions 1
+reading 1
+reading 2
+reduction 1
+reference 3
+region 2
+related 1
+relates 1
+rising 1
+room 1
+run 1
+sample 1
+scale 2
+scales 1
+sensible 1
+some 5
+something 3
+standard 4
+state 2
+substance 6
+such 1
+temper 1
+temperate 1
+temperature 8
+temperature 2
+terms 1
+that 2
+the 27
+thermal 3
+thermometer 5
+thermometer 1
+to 9
+touch 1
+units 1
+used 1
+using 1
+usually 2
+value 3
+value 1
+varies 1
+various 1
+very 2
+volcano 1
+warm 2
+warm 1
+warmth 6
+warmth 2
+weather 6
+weather 3
+winter 2
+with 4
+world 1
+zone 1
+ï»¿hot 1

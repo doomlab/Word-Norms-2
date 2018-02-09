@@ -1,0 +1,12 @@
+muzzle strap 7 
+muzzle leather 11 
+muzzle preventing 10 
+muzzle biting 10 
+muzzle preventing 25 
+muzzle noise 15 
+muzzle restraining 7 
+muzzle animals 12 
+muzzle dogs 10 
+muzzle worn 13 
+muzzle over 13 
+muzzle mouths 13 

@@ -1,0 +1,13 @@
+sell $ 12
+sell action 6
+sell business 1
+sell buy 5
+sell exchange 5
+sell get 7
+sell rid 7
+sell give 8
+sell goods 10
+sell humans 4
+sell intentional 1
+sell store 4
+sell want 1

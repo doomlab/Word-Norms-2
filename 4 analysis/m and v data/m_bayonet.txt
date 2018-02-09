@@ -1,0 +1,9 @@
+bayonet long 5 
+bayonet knife 5 
+bayonet end 5 
+bayonet gun 5 
+bayonet dangerous 6 
+bayonet long 10 
+bayonet sharp 5 
+bayonet killing 7 
+bayonet wars 8 

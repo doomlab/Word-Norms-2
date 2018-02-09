@@ -1,0 +1,17 @@
+return2 action 6
+return2 animal 2
+return2 book 1
+return2 bring 3
+return2 come 18
+return2 back 18
+return2 destination 5
+return2 humans 9
+return2 intentional 1
+return2 leave 4
+return2 location 9
+return2 move 1
+return2 object 3
+return2 pleasant 1
+return2 see 1
+return2 start 2
+return2 trip 1

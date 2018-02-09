@@ -1,0 +1,9 @@
+crossbow weapon 16 
+crossbow string 7 
+crossbow dangerous 5 
+crossbow wood 12 
+crossbow arrows 13 
+crossbow firing 16 
+crossbow arrows 29 
+crossbow hunting 15 
+crossbow killing 14 

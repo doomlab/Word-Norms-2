@@ -1,0 +1,15 @@
+skyscraper building 18 
+skyscraper cities 16 
+skyscraper elevators 15 
+skyscraper many 8 
+skyscraper floors 8 
+skyscraper stairs 6 
+skyscraper windows 15 
+skyscraper large 5 
+skyscraper tall 26 
+skyscraper owned 5 
+skyscraper companies 5 
+skyscraper business 7 
+skyscraper housing 11 
+skyscraper people 11 
+skyscraper offices 7 

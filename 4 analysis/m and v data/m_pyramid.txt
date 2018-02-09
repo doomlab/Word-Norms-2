@@ -1,0 +1,15 @@
+pyramid wonder 5 
+pyramid world 5 
+pyramid deserts 7 
+pyramid Egypt 20 
+pyramid tombs 10 
+pyramid ancient 8 
+pyramid large 19 
+pyramid mysterious 5 
+pyramid old 7 
+pyramid tall 5 
+pyramid triangular 18 
+pyramid Egyptians 7 
+pyramid humans 5 
+pyramid blocks 5 
+pyramid stones 12 

@@ -1,0 +1,233 @@
+ 16
+a 37
+accompanied 1
+according 1
+act 5
+adapted 5
+aesthetically 1
+air 2
+album 1
+also 1
+an 3
+and 5
+anthem 2
+anthem 1
+aria 1
+arranged 1
+art 3
+auditorium 1
+ballad 5
+band 1
+be 5
+being 1
+bird 1
+bird 1
+birdcall 1
+birds 1
+birdsong 1
+blare 1
+blast 1
+blowing 1
+break 1
+brief 1
+by 5
+call 1
+calm 1
+canticle 1
+carnatic 1
+carol 2
+category 1
+chant 2
+characteristic 1
+children 1
+chirp 1
+chorale 2
+chorus 2
+clatter 1
+collaboration 1
+combination 2
+composed 2
+composition 7
+composition 1
+creativity 1
+cry 2
+dancing 1
+different 1
+ditty 2
+drama 1
+drama 1
+dynasty 1
+end 1
+enjoyment 1
+especially 2
+etc 1
+expresses 1
+expression 3
+feel 1
+feelings 1
+film 1
+film 1
+films 1
+for 7
+form 1
+give 2
+gives 1
+golden 2
+group 1
+guitar 1
+happy 2
+harmonious 1
+has 2
+he 1
+heaven 1
+high 1
+his 1
+human 1
+hymn 3
+in 5
+insect 1
+instrument 1
+instrumental 1
+instruments 3
+intended 3
+into 1
+is 7
+it 2
+jackson 1
+kind 1
+language 1
+languages 1
+lay 1
+like 1
+linnet 1
+listen 1
+literature 1
+loud 1
+lullaby 2
+lyric 6
+lyrics 7
+made 1
+make 1
+makes 1
+meant 3
+melodies 1
+melody 6
+message 1
+metrical 3
+mind 2
+modulations 1
+movie 1
+music 23
+music 5
+musical 11
+no 2
+noise 3
+note 1
+noun 1
+number 3
+nursery 2
+of 21
+oldie 3
+one 2
+opera 3
+or 20
+ornaments 1
+other 2
+our 1
+outcome 1
+particular 1
+peace 1
+people 1
+people 1
+person 1
+phrases 1
+piece 5
+pitched 1
+played 1
+pleasing 1
+poem 8
+poem 1
+poetical 2
+poetry 2
+pop 4
+produced 1
+prose 1
+psalm 1
+racket 1
+rap 2
+refrain 2
+related 2
+relay 1
+rhyme 1
+rhymed 3
+rhymes 1
+rhythm 2
+rhythmic 3
+rock 4
+roll 2
+round 2
+sang 1
+scale 1
+see 1
+set 10
+shanty 1
+short 6
+shriek 1
+silent 1
+simulating 1
+sing 2
+sing 2
+singer 2
+singers 1
+singing 9
+singing 3
+small 1
+some 1
+something 3
+song 5
+songs 4
+songs 1
+songster 1
+songwriter 1
+sound 4
+sounds 1
+sounds 1
+stanzas 3
+star 1
+story 2
+strain 4
+sum 1
+sung 10
+sung 2
+tell 1
+that 5
+the 8
+this 1
+to 17
+told 1
+tone 1
+trivia 1
+tune 7
+tune 1
+twitter 1
+uttered 2
+various 1
+verse 3
+verse 1
+very 1
+videos 1
+vocal 2
+vocal 1
+vocals 1
+voice 1
+voice 1
+western 1
+whether 1
+which 2
+wife 1
+with 4
+without 1
+word 1
+words 9
+written 1
+wrote 1

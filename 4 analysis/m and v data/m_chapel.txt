@@ -1,0 +1,12 @@
+chapel religion 15 
+chapel House 5 
+chapel God 5 
+chapel cross 5 
+chapel candles 6 
+chapel clergy 7 
+chapel seats 7 
+chapel quiet 5 
+chapel church 10 
+chapel praying 14 
+chapel weddings 15 
+chapel worshipping 9 

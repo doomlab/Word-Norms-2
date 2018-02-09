@@ -1,0 +1,13 @@
+brush handle 14 
+brush bristles 17 
+brush hand 5 
+brush held 5 
+brush metal 6 
+brush plastic 9 
+brush people 6 
+brush cleaning 7 
+brush combing 5 
+brush painting 5 
+brush untangling 6 
+brush hair 11 
+brush teeth 9 

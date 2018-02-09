@@ -1,0 +1,16 @@
+door handle 11 
+door knob 14 
+door lock 16 
+door hinges 6 
+door rectangular 7 
+door metal 18 
+door wood 23 
+door closing 15 
+door opening 16 
+door dividing 6 
+door rooms 6 
+door entering 6 
+door exiting 5 
+door keeping 9 
+door things 9 
+door out 9 

@@ -1,0 +1,17 @@
+train caboose 11 
+train engine 8 
+train many 8 
+train cars 8 
+train wheels 6 
+train fast 12 
+train loud 5 
+train metal 5 
+train conductor 6 
+train coal 6 
+train engineers 5 
+train freight 12 
+train passengers 13 
+train transportation 9 
+train travel 5 
+train rail 22 
+train tracks 22 

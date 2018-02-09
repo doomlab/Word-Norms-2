@@ -1,0 +1,16 @@
+grenade weapon 9 
+grenade explosive 18 
+grenade pin 23 
+grenade explodes 11 
+grenade loud 6 
+grenade noise 6 
+grenade dangerous 10 
+grenade green 18 
+grenade round 10 
+grenade small 9 
+grenade metal 5 
+grenade soldiers 6 
+grenade military 5 
+grenade throwing 14 
+grenade killing 17 
+grenade wars 19 

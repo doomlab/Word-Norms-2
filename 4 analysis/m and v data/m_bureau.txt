@@ -1,0 +1,15 @@
+bureau desk 7 
+bureau dresser 5 
+bureau bedrooms 9 
+bureau furniture 13 
+bureau mirror 6 
+bureau top 6 
+bureau drawers 25 
+bureau heavy 6 
+bureau large 5 
+bureau wood 19 
+bureau storage 21 
+bureau storing 21 
+bureau clothing 21 
+bureau writing 5 
+bureau on 5 

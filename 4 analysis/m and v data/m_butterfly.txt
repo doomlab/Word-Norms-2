@@ -1,0 +1,16 @@
+butterfly insect 18 
+butterfly flies 23 
+butterfly pollinates 6 
+butterfly flowers 6 
+butterfly caterpillar 18 
+butterfly cocoon 11 
+butterfly colors 14 
+butterfly types 5 
+butterfly monarch 5 
+butterfly antennae 10 
+butterfly wings 19 
+butterfly beautiful 6 
+butterfly colorful 10 
+butterfly delicate 5 
+butterfly pretty 8 
+butterfly small 7 

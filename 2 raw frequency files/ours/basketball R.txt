@@ -1,0 +1,196 @@
+ 16
+3 1
+5 4
+a 17
+action 1
+air 1
+an 1
+and 5
+are 1
+arena 1
+athlete 1
+athletes 1
+athletes 1
+athletic 1
+athletic 1
+athleticism 3
+ball 14
+basket 1
+basketball 3
+basketball 1
+baskets 1
+bawlding 1
+be 1
+big 1
+black 5
+blood 1
+boring 1
+bounces 3
+bounces 1
+bouncy 4
+boys 1
+bruises 1
+bumps 1
+bumpy 1
+can 1
+challenging 1
+clock 1
+coaches 1
+color 1
+colored 1
+competition 1
+competitive 5
+court 8
+court 3
+defense 1
+drake 1
+dribble 2
+easy 1
+event 1
+fans 1
+fans 1
+fast 1
+fetch 1
+five 1
+fouls 1
+four 1
+fun 4
+game 2
+game 1
+games 2
+games 1
+girls 1
+goal 1
+goals 1
+goes 1
+guard 1
+guys 1
+guys 1
+gym 2
+hard 2
+has 2
+heavy 1
+high 2
+hoop 6
+hoop 4
+hoops 1
+hoops 3
+in 3
+indoors 1
+into 2
+involves 2
+is 11
+it 1
+jordan 1
+jump 1
+kind 1
+knockout 1
+kobe 1
+light 2
+lines 2
+lines 2
+losing 1
+loud 1
+madness 1
+make 1
+making 1
+march 1
+men 1
+michael 1
+money 1
+music 1
+n 1
+nba 5
+ncaa 1
+net 2
+not 2
+object 1
+of 3
+offense 1
+on 1
+or 1
+orange 25
+orange 3
+out 1
+outdoors 1
+paced 1
+pass 2
+people 1
+pick 1
+play 3
+played 3
+player 2
+players 5
+players 1
+playing 1
+pointer 1
+pointers 1
+points 1
+popular 1
+practice 2
+pumped 2
+put 1
+quarters 1
+quick 1
+rap 1
+requires 2
+roll 1
+round 14
+round 3
+rubber 2
+rules 1
+running 2
+running 1
+rust 1
+school 2
+schools 1
+score 1
+shoot 1
+shorts 1
+shot 2
+sixteen 1
+skills 1
+slu 1
+soccer 1
+spherical 1
+sport 21
+sport 6
+sporting 1
+sports 6
+sports 1
+stripes 1
+suspended 1
+sweat 2
+sweet 1
+tall 5
+tall 2
+team 3
+team 1
+teams 3
+teams 1
+teamwork 1
+tears 1
+textured 1
+the 3
+themselves 1
+three 1
+through 1
+throw 1
+to 5
+too 1
+training 1
+two 2
+type 1
+up 1
+used 2
+uses 1
+versus 1
+where 1
+which 1
+wilson 1
+winning 1
+winter 1
+with 4
+with 1
+working 2
+workout 1

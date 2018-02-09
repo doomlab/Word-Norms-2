@@ -1,0 +1,169 @@
+ 49
+a 5
+about 1
+adjective 1
+aesthetic 1
+also 1
+an 2
+and 1
+animals 1
+as 1
+average 1
+basic 4
+beginner 1
+beginning 1
+believable 1
+bland 1
+boring 4
+breeze 1
+cake 1
+cheap 1
+clean 1
+clear 2
+color 1
+colors 1
+colors 1
+common 1
+complete 2
+complex 10
+complex 2
+complicated 7
+complicated 1
+concept 1
+concise 1
+describe 2
+difficult 4
+directions 1
+do 1
+don 1
+done 1
+dull 1
+easily 2
+easy 55
+easy 13
+educated 1
+effort 2
+effort 1
+effortless 1
+effortlessly 1
+elaborate 1
+elegant 1
+elementary 2
+english 1
+enjoyable 1
+familiar 1
+features 1
+few 1
+forward 3
+frills 1
+full 1
+fun 1
+going 1
+grade 1
+gravy 1
+happy 1
+hard 9
+hard 2
+has 1
+idea 1
+inexpensive 1
+information 1
+intelligence 1
+intermediate 1
+interpret 1
+intimate 1
+is 11
+it 1
+it 1
+jewelry 1
+kids 1
+kinda 1
+lame 1
+learning 1
+less 1
+life 3
+life 1
+light 1
+little 3
+look 1
+lot 1
+loving 1
+math 2
+minded 1
+minimal 1
+much 2
+natural 1
+natural 1
+need 1
+no 3
+non 1
+not 30
+nothing 1
+of 5
+opposite 1
+or 2
+ordinary 2
+painless 1
+people 1
+physical 1
+piece 1
+plain 17
+plain 1
+preform 1
+pretty 1
+pretty 1
+problem 1
+quick 2
+quick 3
+reading 1
+relates 1
+requires 1
+sarcasm 1
+school 1
+shoes 1
+short 1
+short 1
+simple 3
+simple 1
+small 2
+smart 3
+solid 1
+something 1
+square 1
+straight 2
+strait 1
+stupid 1
+survey 1
+t 2
+tables 1
+takes 1
+task 1
+task 1
+tasks 1
+that 1
+the 2
+think 1
+tie 1
+time 2
+to 11
+trouble 1
+typical 1
+ugly 1
+un 1
+unchallenging 1
+uncomplicated 1
+uncomplicated 1
+understand 2
+understandable 2
+understandable 1
+understood 2
+unnecessary 1
+unstressful 1
+used 2
+using 1
+vanilla 1
+very 1
+wasn 1
+white 1
+with 1
+without 1

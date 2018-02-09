@@ -1,0 +1,16 @@
+salamander fish 6 
+salamander lizard 14 
+salamander reptile 7 
+salamander animal 5 
+salamander four 5 
+salamander legs 5 
+salamander long 6 
+salamander tail 6 
+salamander long 11 
+salamander tongue 5 
+salamander legs 11 
+salamander edible 5 
+salamander green 5 
+salamander slimy 6 
+salamander small 14 
+salamander water 9 

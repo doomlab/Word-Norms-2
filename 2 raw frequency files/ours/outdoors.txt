@@ -1,0 +1,207 @@
+ 18
+a 11
+abroad 1
+activities 1
+activities 1
+activity 1
+adventures 1
+air 25
+air 7
+alfresco 1
+alot 1
+an 5
+and 2
+animals 1
+any 1
+area 5
+attend 1
+away 8
+barbecues 1
+baseball 1
+being 5
+belonging 1
+body 1
+breathing 1
+bucolic 1
+building 1
+building 4
+camping 2
+characteristic 1
+closed 1
+concert 1
+confined 1
+congestion 1
+country 1
+countryside 2
+cycling 1
+done 1
+door 3
+doors 7
+earth 1
+earth 1
+earthy 1
+enclosed 1
+enjoy 1
+entry 1
+environment 1
+everything 1
+exist 1
+existing 1
+exit 1
+external 1
+far 1
+feel 1
+fencing 1
+fields 1
+football 1
+for 2
+forest 2
+free 2
+fresh 6
+from 7
+front 1
+fun 1
+fun 1
+games 4
+garden 2
+get 1
+given 1
+good 2
+green 1
+greenery 1
+ground 1
+gust 1
+habitation 1
+happening 1
+he 1
+healthy 1
+held 1
+history 1
+home 3
+home 3
+hot 1
+house 2
+house 1
+houses 2
+human 5
+in 26
+indoors 1
+inside 1
+intended 1
+into 3
+is 3
+its 1
+landscape 1
+large 1
+life 1
+like 1
+little 1
+located 3
+location 1
+lots 1
+makes 2
+middle 1
+mind 1
+mother 1
+motor 1
+motorboat 1
+mountain 1
+natural 5
+nature 5
+nature 1
+no 4
+not 7
+occurring 1
+of 20
+one 2
+open 40
+open 1
+opposite 1
+or 11
+other 1
+out 20
+outboard 2
+outcomes 1
+outdoes 1
+outdoing 1
+outdone 1
+outdoor 2
+outdoors 3
+outdoors 1
+outflows 1
+outgoes 1
+outings 1
+outlook 1
+outside 20
+outside 3
+oxygen 1
+party 1
+patio 1
+payment 1
+physical 1
+picnic 1
+picnics 1
+place 4
+place 1
+places 1
+play 1
+pleasant 2
+program 1
+public 1
+rain 1
+reality 1
+recreation 1
+region 1
+relaxation 1
+restriction 1
+room 1
+scenery 2
+schools 1
+seascape 1
+setting 1
+settlements 4
+shelter 2
+shooting 1
+shootings 1
+side 3
+side 2
+situated 1
+sky 1
+smells 1
+something 1
+space 2
+space 1
+spend 1
+sports 1
+suited 1
+sunshine 2
+surroundings 2
+table 1
+taking 2
+tents 1
+that 2
+the 35
+things 1
+time 1
+to 8
+topside 1
+travel 1
+trees 2
+unconfined 1
+universe 1
+use 1
+view 1
+walks 1
+wanted 1
+was 1
+water 1
+where 1
+wind 1
+wind 1
+with 3
+without 2
+woods 1
+world 5
+world 1
+yard 1
+your 2

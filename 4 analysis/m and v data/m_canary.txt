@@ -1,0 +1,17 @@
+canary bird 27 
+canary pet 14 
+canary chirps 6 
+canary eats 12 
+canary eats 23 
+canary seeds 11 
+canary flies 15 
+canary sings 22 
+canary two 6 
+canary legs 6 
+canary beak 11 
+canary feathers 14 
+canary legs 13 
+canary wings 9 
+canary small 15 
+canary yellow 28 
+canary cages 21 

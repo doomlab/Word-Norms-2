@@ -1,0 +1,13 @@
+crow bird 23 
+crow scavenger 7 
+crow caws 6 
+crow eats 10 
+crow flies 9 
+crow squawks 5 
+crow beak 8 
+crow feathers 6 
+crow wings 5 
+crow black 25 
+crow large 7 
+crow loud 15 
+crow ugly 5 

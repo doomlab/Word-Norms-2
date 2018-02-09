@@ -1,0 +1,189 @@
+ 49
+a 15
+and 6
+apple 1
+as 4
+associated 1
+at 1
+ax 1
+ax 1
+be 1
+big 1
+blade 6
+blood 1
+borden 2
+break 2
+bunyun 1
+by 1
+can 2
+charlotte 1
+chop 19
+chopping 4
+chopping 2
+chops 1
+city 1
+close 1
+cold 2
+combat 1
+country 1
+crafts 1
+crazy 1
+cut 18
+cut 2
+cuts 6
+cuts 1
+cutter 1
+cutting 9
+dangerous 5
+dangerous 1
+deodorant 1
+destroy 1
+destruction 1
+destructive 1
+destructive 1
+dollar 1
+don 1
+double 1
+down 6
+dull 1
+during 1
+edged 2
+end 2
+farms 1
+fighting 1
+fire 1
+fired 1
+firefighters 1
+firewood 4
+for 10
+force 1
+functional 1
+gray 1
+hack 1
+hacking 1
+handle 4
+handle 2
+hangs 1
+hard 1
+has 2
+hatchet 2
+have 1
+head 1
+head 1
+heavy 9
+heavy 1
+helpful 1
+hunters 1
+hurricanes 1
+i 1
+in 4
+iron 1
+is 9
+it 1
+items 1
+jack 1
+johnny 1
+kill 1
+killing 3
+knife 1
+knife 1
+know 1
+large 2
+large 1
+lizzie 2
+loggers 1
+logging 1
+logo 1
+logs 2
+long 3
+lots 1
+lumber 2
+lumber 2
+lumberjack 5
+made 4
+man 2
+mans 1
+melee 1
+men 1
+metal 8
+metal 1
+movies 1
+murder 7
+nightmares 1
+objects 1
+obsolete 1
+of 5
+often 1
+old 1
+on 1
+one 1
+or 2
+outdoors 1
+paul 1
+people 1
+pick 2
+plaid 1
+pointy 1
+powerful 1
+presently 1
+primitively 1
+purposes 1
+quarters 1
+red 1
+s 1
+saw 1
+scary 1
+seed 1
+shaft 1
+sharp 36
+sharp 1
+shed 1
+shinny 1
+short 1
+shovel 1
+silver 1
+single 1
+small 2
+split 1
+spray 1
+steel 2
+steel 1
+stove 1
+strength 1
+strong 3
+sturdy 1
+such 1
+swing 2
+sword 2
+t 1
+terminate 1
+the 1
+things 3
+things 1
+through 1
+timber 1
+timber 1
+time 2
+to 16
+tool 19
+tool 3
+tree 4
+trees 14
+trees 3
+triangle 1
+up 1
+use 1
+used 23
+utensil 1
+war 2
+weapon 12
+weapon 2
+web 1
+what 1
+wilderness 1
+with 2
+wood 37
+wood 8
+wooden 2
+woods 1
+woods 1

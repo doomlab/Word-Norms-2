@@ -1,0 +1,16 @@
+truck vehicle 17 
+truck dump 6 
+truck four 5 
+truck wheels 5 
+truck eighteen 5 
+truck wheels 10 
+truck four 13 
+truck wheels 18 
+truck engine 5 
+truck wheels 45 
+truck heavy 5 
+truck large 21 
+truck drivers 14 
+truck gasoline 6 
+truck cargo 19 
+truck transportation 8 

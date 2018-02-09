@@ -1,0 +1,12 @@
+level tool 15 
+level bubbles 6 
+level straight 6 
+level wood 5 
+level carpentry 14 
+level construction 5 
+level making 7 
+level straight 13 
+level lines 7 
+level measuring 7 
+level measuring 12 
+level evenness 5 

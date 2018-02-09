@@ -1,0 +1,238 @@
+ 17
+1 1
+2 1
+a 37
+absence 2
+act 2
+action 1
+activities 1
+activity 1
+advance 1
+after 2
+age 1
+allotted 1
+an 9
+and 8
+are 2
+area 1
+as 1
+at 2
+away 6
+be 1
+beach 3
+between 1
+blues 1
+break 12
+break 2
+breather 1
+breathing 1
+business 2
+by 1
+camping 1
+care 1
+charter 1
+cheerful 1
+children 1
+city 1
+class 1
+climate 1
+close 1
+closed 1
+country 1
+court 1
+courts 2
+day 7
+days 2
+devoted 3
+diwali 1
+dream 1
+during 2
+duty 1
+duty 1
+earned 1
+employee 4
+employer 1
+enjoy 2
+enjoyment 1
+enjoyment 1
+especially 3
+europe 1
+every 1
+examination 1
+example 1
+exotic 1
+family 2
+family 1
+few 2
+fiesta 1
+fishing 1
+fixed 4
+florida 1
+for 14
+force 1
+foreign 1
+forest 1
+free 1
+freedom 2
+from 14
+fun 3
+furlough 2
+get 1
+getaway 1
+go 1
+going 2
+gone 1
+good 1
+granted 2
+grit 1
+groups 1
+guest 1
+happening 1
+happiness 1
+happy 1
+having 3
+holiday 19
+holiday 3
+holidays 5
+holidays 5
+holy 1
+home 2
+homes 1
+in 3
+instance 1
+intermission 3
+is 5
+it 1
+job 1
+jubilee 1
+just 1
+knit 1
+law 2
+layoff 2
+leave 12
+leaving 2
+leaving 1
+leisure 1
+letter 1
+liberty 3
+long 6
+making 1
+means 3
+money 1
+nice 1
+no 6
+not 2
+noun 1
+obligations 1
+of 28
+off 6
+off 1
+office 2
+old 1
+on 3
+one 3
+one 1
+or 20
+organization 1
+other 1
+out 1
+outing 1
+outside 1
+pay 3
+pay 1
+peace 1
+period 12
+picnic 1
+places 3
+planned 1
+pleasure 5
+possibly 1
+present 1
+purpose 1
+quiet 1
+r 4
+recess 4
+recess 1
+recreation 4
+red 1
+refreshment 1
+regular 2
+related 1
+relax 4
+relax 2
+relaxation 6
+relaxation 1
+relaxing 3
+relaxing 1
+release 2
+relief 1
+resort 1
+respite 3
+respite 1
+rest 13
+rest 1
+restful 1
+resting 2
+routine 2
+sabbatical 2
+school 1
+schools 1
+see 1
+something 1
+somewhere 1
+space 1
+spell 1
+spend 1
+spent 2
+sports 1
+students 1
+study 3
+summer 2
+suspends 1
+suspension 2
+take 2
+taking 4
+terms 1
+that 1
+the 9
+time 22
+time 1
+tine 1
+to 19
+tour 3
+tour 2
+tourist 1
+town 1
+travel 2
+travel 2
+traveling 1
+trip 5
+tropical 1
+two 2
+universities 2
+unwind 1
+used 1
+usually 3
+vacating 2
+vacation 22
+vacation 1
+vacationing 1
+venues 1
+villages 1
+visit 1
+void 1
+water 1
+week 2
+weekend 3
+weeks 2
+when 1
+where 1
+which 1
+with 5
+work 12
+work 3
+working 2
+year 1
+your 4
+yourself 1
+﻿a 1

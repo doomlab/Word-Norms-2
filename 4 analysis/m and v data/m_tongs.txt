@@ -1,0 +1,13 @@
+tongs utensil 9 
+tongs kitchens 8 
+tongs hand 6 
+tongs held 6 
+tongs long 6 
+tongs metal 20 
+tongs plastic 6 
+tongs picking 9 
+tongs up 9 
+tongs food 9 
+tongs picking 25 
+tongs up 25 
+tongs items 16 

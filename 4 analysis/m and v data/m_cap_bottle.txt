@@ -1,0 +1,12 @@
+cap_bottle closed 8 
+cap_bottle twisting 8 
+cap_bottle opened 9 
+cap_bottle twisting 17 
+cap_bottle round 13 
+cap_bottle small 11 
+cap_bottle metal 11 
+cap_bottle plastic 11 
+cap_bottle ensuring 6 
+cap_bottle freshness 6 
+cap_bottle sealing 8 
+cap_bottle bottles 8 

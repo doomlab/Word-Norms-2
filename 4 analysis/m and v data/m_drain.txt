@@ -1,0 +1,12 @@
+drain bathtubs 16 
+drain kitchens 5 
+drain sinks 24 
+drain clogs 17 
+drain round 5 
+drain metal 6 
+drain connecting 8 
+drain pipes 8 
+drain draining 6 
+drain liquids 6 
+drain expelling 20 
+drain water 20 

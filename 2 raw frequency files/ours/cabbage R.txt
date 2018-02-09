@@ -1,0 +1,222 @@
+ 50
+a 23
+an 3
+and 3
+animals 1
+artery 1
+away 1
+bad 1
+bank 1
+bank 1
+bark 4
+bark 1
+be 4
+birds 2
+birds 1
+boil 1
+boiled 2
+bowling 1
+branch 2
+branch 1
+brown 9
+brown 6
+buds 1
+burned 1
+burns 1
+by 1
+cabbage 2
+can 4
+carries 1
+center 1
+clean 1
+climb 1
+climbing 1
+clustered 1
+cole 3
+comes 2
+companies 1
+company 1
+continues 1
+cook 2
+cooked 2
+cooking 1
+cornbread 1
+deion 1
+derive 1
+different 1
+dinner 1
+disgusting 1
+dolls 2
+easter 1
+easy 1
+eat 1
+eatable 1
+eaten 1
+edible 1
+egg 1
+extension 1
+extension 1
+extensions 1
+fall 1
+family 1
+farmer 1
+farms 1
+farthest 1
+fermented 1
+fire 1
+food 9
+food 1
+football 1
+for 3
+found 1
+from 4
+functional 1
+garden 4
+good 2
+government 3
+grandma 1
+green 24
+greens 2
+grocery 1
+gross 1
+ground 1
+grow 1
+grows 2
+growth 1
+hang 1
+hanging 1
+hard 2
+hard 1
+has 4
+have 1
+healthy 5
+heart 1
+heat 1
+heavy 1
+hold 1
+holds 1
+hot 1
+in 4
+is 10
+it 2
+it 1
+kids 1
+kraut 1
+leaf 1
+leaf 1
+leafs 1
+leafy 1
+leafy 1
+leave 1
+leaves 11
+leaves 4
+lettuce 8
+light 1
+like 2
+limb 3
+limbs 1
+location 1
+long 5
+looks 1
+lunch 1
+made 4
+main 1
+make 1
+may 1
+mayonnaise 1
+meal 1
+military 1
+mom 1
+moves 1
+nasty 2
+nests 1
+not 2
+of 26
+off 3
+office 1
+office 1
+often 1
+on 9
+on 1
+one 2
+or 3
+out 1
+out 1
+outward 1
+oxygen 1
+paper 1
+part 10
+parts 1
+patch 3
+path 1
+piece 2
+pot 1
+previous 1
+purple 1
+rabbit 1
+rabbits 4
+reach 1
+red 1
+rolls 1
+rope 1
+round 2
+salad 5
+salty 1
+sap 1
+sauce 1
+seeds 1
+segment 1
+segment 1
+services 1
+short 2
+skinny 1
+slaw 4
+small 1
+smaller 1
+smelly 1
+smoked 1
+solid 1
+something 3
+steam 1
+steamed 2
+stick 1
+sticky 1
+stinky 1
+store 1
+stove 1
+sunday 1
+supports 1
+swing 1
+takes 1
+taste 1
+than 1
+that 1
+the 9
+thick 1
+thin 2
+things 1
+to 4
+tree 38
+tree 8
+trees 3
+trunk 1
+twig 1
+twig 2
+use 1
+used 2
+usually 2
+vegetable 17
+vegetables 1
+veggie 1
+vinegar 2
+walmart 1
+water 2
+watery 1
+which 1
+white 2
+wind 1
+with 2
+wood 8
+wood 2
+your 1
+yuck 1

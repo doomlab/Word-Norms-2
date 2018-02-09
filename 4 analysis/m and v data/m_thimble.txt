@@ -1,0 +1,15 @@
+thimble sewing 5 
+thimble kits 5 
+thimble dimples 6 
+thimble silver 6 
+thimble small 13 
+thimble metal 20 
+thimble plastic 5 
+thimble sewing 30 
+thimble needles 7 
+thimble worn 20 
+thimble protection 20 
+thimble worn 40 
+thimble fingers 20 
+thimble worn 49 
+thimble thumbs 9 

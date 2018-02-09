@@ -1,0 +1,15 @@
+broom witches 9 
+broom closets 5 
+broom handle 22 
+broom bristles 18 
+broom long 16 
+broom plastic 5 
+broom straw 5 
+broom wood 15 
+broom cleaning 21 
+broom removing 5 
+broom dirt 5 
+broom removing 10 
+broom dust 5 
+broom sweeping 19 
+broom floors 8 

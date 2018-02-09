@@ -1,0 +1,214 @@
+ 15
+a 5
+ability 1
+action 1
+agility 1
+allow 1
+allows 2
+along 1
+an 2
+anatomy 2
+and 3
+are 1
+arm 2
+attached 1
+bags 1
+be 4
+become 3
+bicep 1
+biceps 1
+big 7
+bigger 2
+bigger 1
+bodily 1
+body 24
+body 3
+bodybuilder 3
+bone 4
+brain 1
+buff 1
+build 3
+builder 3
+builders 1
+builders 1
+building 1
+built 2
+bulge 1
+bundle 1
+by 3
+calf 1
+calves 1
+can 8
+cardiac 1
+cells 1
+collection 1
+connected 1
+contract 1
+contraction 1
+contractions 1
+controlled 1
+controls 2
+covered 1
+defined 1
+determines 1
+development 1
+different 4
+do 1
+douche 1
+down 1
+elastic 1
+endurance 1
+equal 1
+every 1
+exercise 2
+exercise 1
+exercising 2
+expansion 1
+facilitates 1
+fat 1
+fibers 1
+firm 1
+firm 1
+fit 2
+fitness 1
+flab 1
+flexing 1
+for 2
+functions 1
+get 2
+gets 1
+gives 1
+guys 2
+hard 2
+have 1
+healthy 2
+heavy 2
+helpful 1
+helps 1
+human 5
+in 8
+increases 1
+injury 1
+inside 1
+is 5
+kinds 1
+kinds 1
+kinetic 1
+large 2
+leg 1
+lift 1
+lifting 1
+lifting 1
+ligaments 1
+like 1
+look 1
+made 4
+make 1
+makes 1
+many 1
+mass 1
+meat 1
+men 3
+milk 1
+motor 1
+move 3
+move 1
+movement 6
+movement 2
+muscle 2
+muscle 1
+muscles 1
+muscles 1
+muscular 1
+needs 1
+object 1
+objects 1
+of 13
+ones 1
+opposite 2
+or 4
+out 6
+out 3
+oxygen 1
+pack 1
+part 7
+physical 1
+pink 1
+plentiful 1
+possible 1
+principles 1
+protein 1
+proteins 1
+quads 1
+reaction 1
+red 2
+red 4
+relax 1
+relaxer 1
+required 1
+ripped 1
+sarcomeres 1
+seem 1
+sinew 1
+six 1
+skeletal 2
+skin 1
+small 2
+smooth 1
+soar 1
+spindles 2
+sports 3
+steroids 1
+stratified 1
+strength 7
+strength 4
+strong 21
+strong 3
+stronger 1
+stronger 1
+support 1
+sweat 1
+tendons 2
+tendons 1
+that 1
+the 10
+their 1
+them 1
+there 1
+thews 1
+think 1
+tight 1
+tissue 7
+to 10
+tone 4
+tongue 1
+torn 1
+train 1
+triceps 1
+try 1
+types 1
+unit 1
+up 4
+us 1
+use 1
+used 5
+useful 1
+uses 1
+weak 2
+weaker 1
+weight 1
+weights 4
+weights 3
+what 2
+when 1
+which 1
+who 1
+with 3
+work 8
+work 1
+working 2
+workout 1
+workout 1
+wrestling 1
+you 4
+your 1

@@ -1,0 +1,163 @@
+ 15
+a 9
+abuser 1
+act 1
+alcoholic 1
+all 1
+an 1
+another 1
+avoid 1
+backside 1
+bad 2
+beaten 1
+beg 1
+beg 1
+beggar 6
+begs 1
+borrow 1
+borrowing 1
+bottom 2
+box 1
+broke 1
+bum 1
+bummer 1
+burn 1
+burns 1
+butt 2
+butt 1
+buttocks 1
+can 3
+carbon 1
+cart 1
+carts 1
+causes 1
+chips 2
+clean 1
+clothes 3
+clue 1
+couch 2
+day 1
+derogatory 1
+dioxide 1
+dirty 7
+dirty 3
+disappointed 1
+do 1
+does 2
+doesn 4
+doing 1
+donation 1
+down 1
+drug 1
+eating 1
+end 1
+fat 1
+fire 1
+fitting 1
+flames 1
+food 1
+food 2
+for 5
+fortunate 1
+found 1
+give 1
+has 4
+have 1
+help 1
+helpless 1
+hobo 4
+hobo 3
+home 1
+homeless 17
+homeless 5
+hopper 1
+hot 1
+house 2
+hurt 1
+incinerating 1
+is 9
+job 6
+job 2
+jobless 1
+lazy 20
+lazy 4
+leave 1
+less 1
+little 1
+lives 1
+living 1
+looked 1
+looking 1
+loser 1
+loser 1
+lot 1
+make 1
+makes 1
+man 1
+messy 1
+money 8
+money 1
+motivated 2
+needs 2
+needy 1
+needy 1
+no 17
+norm 1
+not 5
+nothing 3
+nothing 1
+of 1
+on 10
+one 1
+or 3
+ouch 1
+person 6
+person 4
+persons 1
+poor 8
+poor 2
+preoccupied 1
+raggedy 2
+rear 1
+relaxed 1
+s 2
+sad 1
+scar 1
+shopping 1
+sign 1
+signs 1
+sit 1
+sits 1
+slang 2
+sleeps 1
+slob 1
+smell 1
+smells 1
+social 1
+someone 7
+something 1
+stinky 1
+stinky 1
+street 5
+street 1
+streets 2
+t 5
+tattered 1
+term 2
+the 7
+tired 1
+to 1
+trash 1
+typically 1
+uninterested 1
+unorganized 1
+victim 1
+want 1
+water 1
+weather 1
+who 5
+without 1
+word 1
+work 1
+you 2
+your 2

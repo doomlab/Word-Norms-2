@@ -1,0 +1,16 @@
+peas vegetable 22 
+peas frozen 8 
+peas eaten 8 
+peas cooking 8 
+peas eaten 16 
+peas soups 8 
+peas grows 21 
+peas pods 21 
+peas edible 5 
+peas green 29 
+peas nutritious 10 
+peas round 14 
+peas small 20 
+peas yellow 5 
+peas tastes 6 
+peas good 6 

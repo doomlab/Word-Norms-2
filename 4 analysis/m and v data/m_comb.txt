@@ -1,0 +1,13 @@
+comb colors 8 
+comb bathrooms 7 
+comb hair 5 
+comb salons 5 
+comb teeth 24 
+comb small 6 
+comb thin 7 
+comb metal 6 
+comb plastic 19 
+comb humans 5 
+comb grooming 9 
+comb hair 26 
+comb styling 5 

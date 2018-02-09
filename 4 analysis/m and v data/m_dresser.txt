@@ -1,0 +1,12 @@
+dresser bedrooms 26 
+dresser furniture 18 
+dresser drawers 29 
+dresser handles 6 
+dresser mirrors 19 
+dresser heavy 6 
+dresser large 9 
+dresser rectangular 6 
+dresser wood 28 
+dresser storage 30 
+dresser storing 29 
+dresser clothing 29 

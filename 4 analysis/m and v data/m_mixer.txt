@@ -1,0 +1,10 @@
+mixer appliance 12 
+mixer kitchens 15 
+mixer blades 7 
+mixer bowls 5 
+mixer electrical 23 
+mixer loud 10 
+mixer cooking 5 
+mixer making 8 
+mixer cakes 8 
+mixer mixing 11 

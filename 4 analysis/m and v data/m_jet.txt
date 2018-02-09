@@ -1,0 +1,15 @@
+jet airplane 13 
+jet flies 19 
+jet engine 9 
+jet engines 9 
+jet wheels 5 
+jet wings 14 
+jet fast 24 
+jet large 11 
+jet loud 15 
+jet metal 5 
+jet fuel 9 
+jet pilots 7 
+jet passengers 18 
+jet transportation 10 
+jet travel 8 

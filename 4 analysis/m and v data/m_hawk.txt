@@ -1,0 +1,16 @@
+hawk bird 26 
+hawk predator 17 
+hawk eats 8 
+hawk mice 8 
+hawk eats 13 
+hawk rodents 5 
+hawk flies 22 
+hawk sees 11 
+hawk well 11 
+hawk soars 6 
+hawk beak 17 
+hawk claws 5 
+hawk eyes 7 
+hawk feathers 16 
+hawk wings 18 
+hawk large 15 

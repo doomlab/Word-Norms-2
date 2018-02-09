@@ -1,0 +1,8 @@
+hatchet tool 9 
+hatchet axe 6 
+hatchet handle 11 
+hatchet sharp 7 
+hatchet small 5 
+hatchet metal 15 
+hatchet chopping 8 
+hatchet cutting 11 

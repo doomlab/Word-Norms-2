@@ -1,0 +1,170 @@
+ 47
+a 11
+absence 1
+absences 1
+alone 1
+and 1
+any 1
+area 1
+as 1
+at 1
+attention 1
+baby 1
+barely 1
+be 3
+bedtime 1
+boredom 1
+boring 2
+boring 1
+calm 6
+calm 1
+calmness 1
+can 3
+characterless 1
+chill 1
+concentration 1
+deprived 1
+describe 2
+devoid 1
+distant 1
+disturbing 1
+doesn 1
+don 1
+during 1
+ease 1
+else 1
+empty 1
+family 1
+game 2
+girl 1
+golden 1
+grove 1
+happens 1
+hear 2
+herd 1
+hoarse 1
+hush 5
+hushed 1
+hushing 1
+in 3
+is 8
+level 1
+library 13
+library 3
+listen 1
+listen 1
+little 1
+lot 1
+loud 13
+loud 2
+loving 1
+low 2
+making 2
+meditation 1
+mouse 5
+mouth 1
+movies 1
+moving 1
+mute 5
+nap 1
+necessary 1
+needed 1
+night 2
+no 21
+noise 13
+noise 3
+noises 1
+noisy 2
+not 16
+nothing 1
+observant 1
+of 6
+older 1
+one 1
+opposite 1
+or 1
+pay 1
+peace 5
+peace 2
+peaceful 7
+peaceful 7
+people 1
+people 1
+perhaps 1
+person 1
+personality 1
+physical 1
+piano 1
+pond 1
+praying 1
+qiet 1
+quiet 2
+quiet 1
+reading 1
+relaxation 1
+relaxed 1
+relaxing 1
+reserved 2
+rest 1
+s 1
+scared 1
+secretive 1
+serene 2
+shh 4
+shhhh 1
+shut 1
+shy 5
+silence 9
+silence 3
+silent 11
+silent 1
+simple 1
+sleep 2
+sleep 1
+sleeping 3
+sneaking 1
+sneaky 1
+sneaky 1
+soft 6
+solitude 1
+someone 1
+sound 9
+sound 3
+soundless 1
+sounds 2
+spoken 1
+ssshhh 1
+state 1
+still 1
+study 3
+studying 2
+suspicion 1
+t 2
+taking 1
+talk 3
+talkative 1
+talkative 1
+talking 5
+talking 1
+test 2
+testing 1
+the 3
+think 1
+thoughts 1
+time 3
+time 2
+to 5
+tranquil 1
+tranquility 1
+used 1
+voice 1
+volume 2
+when 1
+whisper 4
+whisper 1
+whispered 1
+whispering 1
+without 5
+word 1
+words 1
+your 1

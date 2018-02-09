@@ -1,0 +1,195 @@
+ 14
+a 31
+also 1
+american 1
+anchor 1
+and 6
+another 1
+anything 1
+are 1
+asian 1
+at 1
+aureole 1
+baked 3
+baking 1
+ball 1
+balls 1
+be 2
+beautiful 1
+beverage 1
+bites 1
+boiling 1
+branches 1
+bread 1
+breakfast 2
+broken 1
+bun 4
+bun 1
+by 3
+cake 12
+cake 1
+calories 1
+center 1
+chain 1
+circle 2
+circular 2
+circular 1
+clear 1
+closed 1
+coated 1
+coatings 1
+coffee 2
+consumed 1
+cooked 2
+cops 1
+covered 1
+cream 5
+creamed 1
+creamy 1
+cruller 1
+danish 2
+deep 4
+delicious 2
+dessert 1
+different 1
+disambiguation 1
+donut 1
+dough 7
+dough 3
+doughnut 4
+doughnut 1
+doughnuts 1
+doughtsweetened 1
+dunker 1
+dunker 1
+eaten 2
+eclair 1
+familiar 1
+fat 3
+fat 2
+fattening 1
+favorite 1
+filled 1
+filling 2
+fillings 1
+flattened 1
+flour 2
+food 4
+food 1
+for 2
+form 2
+fried 12
+friend 1
+fritter 1
+frosted 1
+full 2
+gang 1
+gel 1
+glazed 2
+gloriole 1
+good 1
+happiness 1
+hard 1
+has 3
+hold 1
+hole 9
+hoop 1
+hot 1
+in 14
+including 1
+inside 1
+into 1
+is 12
+it 1
+item 1
+item 1
+its 1
+jam 1
+juice 1
+kettle 1
+kind 1
+known 1
+lack 1
+lard 1
+less 1
+light 1
+like 1
+made 5
+material 1
+meal 1
+means 2
+middle 2
+middle 2
+mind 1
+no 1
+not 1
+of 16
+officers 1
+often 4
+or 8
+out 1
+pack 1
+party 1
+pastry 9
+police 1
+police 1
+powder 1
+product 1
+rain 1
+raised 1
+rather 1
+report 1
+rich 1
+ring 10
+ring 1
+ringing 1
+rings 2
+roll 1
+roll 1
+round 6
+shape 1
+shape 1
+shaped 8
+sinker 2
+sinker 1
+skirt 1
+small 6
+snack 1
+some 1
+spheres 1
+spherical 1
+states 1
+strip 1
+sugar 3
+sugary 1
+sweet 18
+sweet 3
+sweetened 5
+taste 1
+tasty 3
+tasty 1
+teeth 1
+than 1
+the 7
+thick 1
+thing 1
+thing 1
+time 1
+tiny 1
+to 2
+toroidal 1
+torus 1
+treat 1
+twist 1
+type 1
+types 1
+united 1
+using 1
+usually 2
+vadai 1
+varieties 1
+very 1
+weak 1
+with 14
+work 1
+yeast 1

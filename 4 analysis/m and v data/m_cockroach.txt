@@ -1,0 +1,16 @@
+cockroach insect 18 
+cockroach flies 5 
+cockroach houses 6 
+cockroach shell 5 
+cockroach many 5 
+cockroach legs 5 
+cockroach black 5 
+cockroach brown 6 
+cockroach dirty 6 
+cockroach hard 5 
+cockroach large 5 
+cockroach small 5 
+cockroach ugly 7 
+cockroach dirty 11 
+cockroach places 5 
+cockroach extermination 7 

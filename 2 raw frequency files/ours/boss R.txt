@@ -1,0 +1,193 @@
+ 15
+a 32
+about 1
+about 1
+above 1
+administer 1
+administrate 1
+administrator 1
+administrator 1
+an 5
+and 2
+answerable 1
+antique 1
+any 1
+around 1
+as 3
+at 1
+authority 5
+authority 2
+awesome 2
+bang 4
+be 2
+behave 1
+best 1
+body 1
+boss 7
+brigade 1
+business 1
+business 2
+capital 2
+captain 2
+champion 2
+chaperon 1
+charge 10
+charge 1
+chief 4
+chieftain 1
+command 1
+commander 1
+commands 1
+company 2
+control 4
+controller 2
+controls 2
+decision 1
+decisions 3
+decisions 1
+department 2
+department 1
+diction 1
+direct 1
+director 1
+district 1
+do 1
+dog 1
+dominates 1
+domineering 1
+done 1
+employ 1
+employee 1
+employees 1
+employer 3
+employer 1
+employment 1
+employs 4
+etc 1
+etc 1
+excellent 2
+exercises 4
+factory 1
+final 1
+fine 2
+first 1
+fly 2
+for 3
+foreman 2
+foreman 1
+gaffer 1
+gangster 1
+geezer 1
+gets 1
+give 2
+gives 1
+great 2
+has 1
+hated 1
+have 1
+head 13
+head 2
+headman 1
+higher 2
+hirer 1
+hirer 1
+hiring 2
+honcho 1
+in 13
+is 8
+knob 2
+leader 5
+leader 3
+major 1
+make 1
+maker 1
+makes 4
+man 2
+manager 11
+master 8
+means 2
+members 1
+money 1
+noble 1
+noun 1
+of 13
+office 1
+office 1
+officer 1
+officers 1
+official 1
+old 3
+one 3
+or 18
+order 4
+orders 3
+organization 4
+organization 4
+other 1
+others 3
+over 6
+overlook 1
+oversee 1
+overseer 1
+oversees 1
+owner 4
+owner 1
+part 2
+particular 1
+party 2
+pay 1
+person 24
+person 3
+pig 1
+political 1
+politician 1
+powerful 1
+process 1
+proprietor 1
+protuberant 1
+quarterback 1
+rate 1
+respective 1
+responsible 3
+round 1
+ruler 1
+run 1
+runs 1
+scary 1
+selected 1
+senior 2
+setter 1
+setting 1
+sir 1
+someone 2
+staff 1
+strict 1
+strong 1
+superintends 4
+superior 6
+supervisor 5
+supervisor 1
+survey 1
+swelling 1
+take 1
+target 1
+task 1
+teacher 1
+team 1
+the 18
+things 1
+timer 2
+to 8
+top 3
+tribal 1
+up 2
+whiz 2
+who 18
+wonderful 1
+wonderful 1
+wood 1
+work 1
+worker 1
+workers 5
+workers 2
+you 2

@@ -1,0 +1,246 @@
+ 22
+a 64
+above 1
+also 2
+an 3
+and 8
+any 2
+are 2
+around 1
+as 3
+aspect 1
+associated 1
+attached 2
+autumn 1
+be 1
+blade 5
+book 4
+borne 4
+bract 3
+branch 1
+branch 1
+browse 1
+bush 2
+but 1
+by 5
+calyx 1
+can 3
+change 1
+changes 1
+chlorophyl 1
+chlorophyll 2
+clumsy 1
+collectively 1
+color 3
+color 2
+colored 2
+colors 4
+comes 2
+constitute 1
+constituting 1
+contains 1
+cookhouse 1
+corresponding 1
+definite 1
+depending 1
+detachable 1
+develop 1
+different 3
+dip 1
+directly 2
+document 1
+each 2
+edible 2
+elaborated 1
+electric 1
+energy 1
+esp 2
+even 1
+every 1
+expanded 4
+expansion 2
+fall 1
+falls 1
+fan 1
+fat 1
+file 1
+find 1
+flag 2
+flat 3
+flattened 3
+flick 1
+flip 2
+floral 1
+flower 1
+fold 1
+folder 1
+foliage 6
+foliage 1
+folio 1
+folio 1
+food 3
+for 6
+form 1
+from 10
+from 1
+frond 3
+gives 2
+glance 1
+go 1
+got 1
+green 28
+green 3
+ground 1
+ground 1
+grow 1
+growing 4
+growing 1
+grows 5
+has 3
+have 3
+higher 2
+hinged 1
+implies 1
+important 2
+in 16
+influence 1
+into 1
+is 8
+it 7
+its 4
+kinds 1
+kitchen 1
+lateral 2
+laterally 1
+layer 1
+leaf 7
+leafage 1
+leaflet 2
+leaflets 1
+leafs 1
+leafy 1
+light 4
+like 2
+lying 1
+made 1
+main 1
+mainly 1
+makes 2
+many 2
+means 1
+metal 1
+more 1
+needle 3
+needs 1
+nice 1
+non 1
+noun 1
+object 1
+of 63
+on 7
+one 5
+or 13
+organ 13
+organs 5
+outgrowth 2
+pad 2
+page 4
+pages 2
+paper 3
+paper 1
+part 17
+parts 1
+petal 4
+petal 2
+petiole 4
+photosynthesis 6
+photosynthesis 3
+piece 1
+pigmentation 1
+place 1
+plant 31
+plant 6
+plants 5
+plants 2
+portion 1
+prepare 1
+prepares 1
+principal 2
+process 1
+produce 1
+producing 1
+protective 1
+quickly 1
+resides 1
+responsible 1
+riff 2
+riffle 2
+rootstock 1
+run 1
+sap 1
+saw 1
+scale 2
+scan 1
+seasons 1
+seed 1
+sepal 1
+separate 1
+several 1
+shade 1
+shape 1
+shape 1
+shapes 2
+sheet 7
+side 5
+similar 1
+single 1
+sliding 1
+small 1
+some 1
+something 1
+special 1
+stalk 6
+starch 1
+stem 14
+stipule 1
+stipule 1
+structure 3
+structures 1
+sun 1
+sunlight 1
+tabletop 1
+takes 1
+that 7
+the 35
+there 1
+they 1
+thin 4
+through 3
+through 1
+throughout 1
+thumb 1
+thumb 1
+to 5
+transpiration 1
+tree 13
+trees 7
+trees 2
+turn 2
+turns 1
+twig 1
+typically 2
+under 1
+use 1
+used 1
+using 1
+usu 2
+usually 9
+various 2
+vascular 3
+vegetation 1
+veins 1
+via 2
+which 5
+with 1
+without 1
+year 1

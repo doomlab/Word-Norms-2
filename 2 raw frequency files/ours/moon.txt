@@ -1,0 +1,198 @@
+ 22
+a 27
+amaze 1
+an 4
+and 7
+another 1
+any 1
+apollo 1
+around 8
+asteroid 1
+at 5
+atmosphere 1
+be 1
+beautiful 2
+blocks 1
+body 8
+borrowed 1
+bright 2
+bright 1
+brightest 2
+by 2
+can 1
+causes 1
+causing 1
+celestial 5
+charming 1
+chiefly 1
+comes 1
+controls 1
+cool 1
+craters 3
+crescent 7
+dark 1
+darkness 1
+daydream 1
+daze 1
+destination 1
+diameter 1
+dispel 1
+distance 1
+dreamily 1
+during 1
+dusty 1
+earth 25
+earth 6
+eclipses 1
+eightieth 1
+either 1
+especially 1
+evening 2
+every 1
+fantasy 1
+fifth 1
+flag 1
+for 1
+from 7
+full 6
+galaxy 1
+gaze 1
+general 1
+gravity 2
+half 5
+has 5
+heavenly 4
+high 1
+illuminated 1
+important 1
+in 11
+is 11
+it 5
+its 2
+known 1
+large 1
+larger 1
+largest 1
+less 1
+lifeless 1
+light 14
+light 2
+like 2
+love 1
+low 1
+luminous 1
+luna 1
+lunar 8
+lunation 1
+lunation 2
+make 1
+mass 1
+mean 1
+means 1
+miles 2
+missions 1
+month 15
+month 1
+monthly 1
+moon 18
+moon 1
+moonlight 3
+moonlight 1
+moonshine 3
+moves 1
+natural 18
+new 2
+night 12
+night 3
+no 1
+not 1
+noun 1
+object 4
+object 1
+of 17
+old 2
+on 2
+once 1
+one 2
+only 3
+or 7
+orb 5
+orbital 1
+orbiting 3
+orbits 1
+out 1
+outer 1
+overwhelm 1
+pale 1
+part 1
+peaceful 1
+planet 10
+planetary 1
+planetoid 1
+plays 1
+pleasing 1
+pumpkin 2
+quarter 3
+refers 1
+reflect 1
+reflected 2
+reflecting 1
+reflects 4
+responsible 1
+revolves 3
+revolving 2
+rock 3
+romance 1
+romantic 1
+rotates 2
+rotating 1
+round 6
+s 9
+satellite 24
+satellite 5
+secondary 1
+see 2
+seen 1
+sentimentally 1
+serves 1
+shaped 3
+shines 2
+silver 1
+sky 5
+sky 1
+smaller 1
+so 1
+solar 2
+some 1
+someone 1
+something 4
+source 1
+space 4
+sphere 1
+star 1
+stellar 1
+sterile 1
+sun 5
+sun 2
+sunlight 1
+symbol 1
+synodic 3
+system 1
+than 2
+that 4
+the 50
+thus 1
+tides 2
+time 1
+to 6
+under 1
+up 1
+us 1
+usa 1
+visible 1
+wanes 1
+waxes 1
+way 1
+which 3
+whose 1
+wish 1

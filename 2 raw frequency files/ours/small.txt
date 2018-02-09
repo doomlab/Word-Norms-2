@@ -1,0 +1,168 @@
+ 48
+a 10
+ant 1
+ants 1
+as 2
+average 1
+babies 2
+babies 1
+baby 4
+baby 1
+bad 1
+be 1
+beads 1
+beans 1
+below 1
+big 17
+big 3
+bigger 1
+birds 1
+bitty 3
+brain 1
+breakable 1
+bugs 3
+but 1
+butterfly 1
+can 2
+cant 1
+car 1
+child 1
+children 2
+children 1
+compact 1
+cute 1
+cute 2
+describe 2
+description 1
+detailed 1
+dust 1
+dwarf 2
+dwarf 1
+dwarfish 1
+dwarfs 1
+environment 1
+fits 1
+fragile 2
+fragile 1
+from 1
+fun 2
+glass 1
+good 1
+grapes 1
+growth 1
+hair 1
+hair 1
+hamster 1
+hard 2
+have 1
+house 1
+in 3
+insects 1
+insignificant 1
+is 3
+its 1
+itty 3
+keys 1
+kid 1
+kids 1
+knowing 1
+large 7
+large 1
+lent 1
+lesser 1
+light 2
+little 32
+little 2
+lost 1
+lot 1
+magnifying 1
+may 1
+mice 1
+micro 1
+microscopic 2
+midget 4
+mini 2
+miniature 2
+miniature 1
+minuscule 2
+minuscule 1
+minute 2
+mouse 3
+mouse 2
+much 3
+munchkin 1
+narrow 1
+not 20
+objects 1
+of 3
+opinion 1
+opposite 2
+or 3
+other 1
+overlook 1
+packed 1
+pennies 1
+person 3
+perspective 1
+petit 1
+petite 5
+physical 1
+pins 1
+pocket 1
+puny 1
+reach 1
+relative 1
+rings 1
+rock 1
+s 2
+see 3
+shoe 1
+shoes 1
+short 10
+short 1
+shrimp 1
+simple 1
+sister 1
+size 7
+size 3
+sized 1
+skinny 4
+small 1
+snail 1
+something 3
+something 1
+space 2
+space 1
+spaces 1
+spectacle 1
+squint 1
+substantial 1
+t 1
+takes 1
+taking 1
+teeny 1
+than 1
+that 1
+the 1
+thin 1
+thin 1
+thing 3
+thing 1
+things 1
+tight 1
+tiny 39
+tiny 7
+to 7
+together 1
+toys 1
+unseen 1
+up 2
+used 2
+very 3
+view 1
+volume 1
+weight 1
+without 2
+word 1
+young 1
+your 1

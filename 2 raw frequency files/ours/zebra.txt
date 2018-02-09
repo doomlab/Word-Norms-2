@@ -1,0 +1,220 @@
+ 49
+2 1
+4 6
+a 44
+ace 1
+across 1
+africa 24
+africa 2
+all 1
+an 24
+and 45
+animal 51
+animal 1
+are 1
+area 1
+around 1
+at 5
+babies 1
+be 3
+big 2
+black 61
+black 1
+blank 1
+body 1
+breathes 1
+bubble 1
+built 1
+by 4
+cakes 1
+can 6
+canters 1
+character 1
+climates 1
+clothing 1
+color 4
+common 1
+creature 1
+cute 1
+dangerous 1
+desert 1
+different 1
+dirty 1
+disney 1
+does 1
+domestic 1
+donkey 2
+ears 3
+easily 1
+eat 3
+eaten 2
+eater 1
+eats 8
+energy 1
+equestrian 1
+exotic 1
+exotic 1
+eyes 1
+fast 3
+food 1
+for 1
+found 5
+four 15
+from 3
+fruit 1
+funny 1
+fur 2
+gallop 1
+gallops 2
+gentle 1
+gets 1
+grass 7
+grass 2
+grazes 2
+groups 1
+grunts 1
+gum 2
+hair 2
+hairy 1
+has 51
+have 1
+head 1
+herbivore 4
+herd 1
+herds 1
+hoofed 1
+hoofs 1
+hooves 9
+horse 25
+horse 1
+horselike 1
+horses 3
+hot 1
+hunted 2
+hunting 1
+in 35
+inhabitant 1
+is 49
+it 19
+its 4
+jaguars 1
+kept 1
+kind 1
+kinda 2
+large 4
+legged 2
+legs 19
+legs 1
+life 1
+life 1
+like 11
+likes 2
+lines 1
+lion 2
+lions 1
+lions 1
+live 1
+lives 25
+living 1
+logo 2
+long 1
+looks 6
+lot 2
+madagascar 2
+mammal 15
+mammal 1
+mane 3
+mane 1
+may 1
+medium 1
+mohawk 1
+movies 1
+neck 1
+neigh 1
+not 4
+of 6
+often 1
+omnivore 1
+on 3
+one 1
+open 1
+or 3
+organisms 1
+other 1
+oxygen 1
+packs 1
+peaceful 1
+pet 1
+physical 1
+plains 1
+planet 1
+plant 1
+pony 1
+predators 2
+pretty 2
+prey 1
+prey 1
+quiet 1
+referee 1
+related 2
+resemble 1
+resembles 2
+ridden 1
+roams 1
+rugs 1
+run 1
+run 1
+runs 7
+saddle 1
+savannah 1
+see 2
+short 1
+similar 4
+sized 1
+small 2
+smells 1
+sound 1
+spotted 1
+stripe 2
+striped 11
+striped 2
+stripes 48
+stripes 6
+stripped 1
+strips 3
+style 1
+sun 1
+survive 1
+tail 7
+tall 1
+the 18
+them 1
+themovie 1
+they 1
+time 1
+to 7
+tongue 1
+torso 1
+travels 1
+trot 1
+two 2
+type 2
+used 1
+usually 2
+ventura 1
+very 1
+walk 1
+walks 2
+water 1
+white 57
+white 3
+wild 12
+wild 2
+wilderness 1
+with 2
+young 1
+zebra 2
+zebra 1
+zoo 15
+zoo 2
+zoos 3

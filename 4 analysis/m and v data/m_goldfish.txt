@@ -1,0 +1,17 @@
+goldfish fish 18 
+goldfish pet 17 
+goldfish animal 5 
+goldfish eats 5 
+goldfish fish 23 
+goldfish food 5 
+goldfish swims 21 
+goldfish fins 11 
+goldfish gills 8 
+goldfish scales 8 
+goldfish gold 6 
+goldfish orange 14 
+goldfish short 6 
+goldfish lived 6 
+goldfish small 15 
+goldfish aquariums 17 
+goldfish water 12 

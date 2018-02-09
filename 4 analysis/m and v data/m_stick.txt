@@ -1,0 +1,13 @@
+stick branch 6 
+stick weapon 6 
+stick bark 6 
+stick hard 5 
+stick long 16 
+stick thin 9 
+stick wood 23 
+stick part 15 
+stick tree 15 
+stick playing 11 
+stick dogs 11 
+stick poking 6 
+stick walking 8 

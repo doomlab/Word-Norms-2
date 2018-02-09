@@ -1,0 +1,17 @@
+lend $ 3
+lend action 4
+lend agree 1
+lend bank 1
+lend borrow 8
+lend brief 3
+lend friend 3
+lend generous 3
+lend back 6
+lend give 15
+lend humans 9
+lend intentional 2
+lend kind 2
+lend object 10
+lend possess 2
+lend return 4
+lend temporary 8

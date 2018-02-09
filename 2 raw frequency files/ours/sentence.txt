@@ -1,0 +1,245 @@
+ 20
+a 65
+all 1
+alone 1
+also 1
+amend 1
+an 6
+and 8
+any 1
+appropriate 1
+as 1
+ask 1
+assertion 1
+assigned 1
+at 1
+authoritative 3
+backbone 1
+be 3
+bearing 1
+book 2
+breaks 1
+by 3
+called 1
+can 2
+capable 1
+capital 2
+capital 1
+case 1
+censure 2
+chain 1
+clarity 1
+clock 2
+collection 2
+combination 1
+combinations 1
+combine 1
+command 2
+communicate 1
+complete 6
+complete 1
+completed 1
+completeness 1
+completes 1
+composed 1
+condemn 4
+condemnation 4
+considered 2
+construct 1
+containing 4
+contains 3
+convey 3
+conveying 1
+conveys 1
+conviction 2
+correct 1
+court 2
+court 1
+decision 7
+decision 1
+decree 5
+definite 1
+determination 2
+dictum 2
+different 1
+dogma 1
+doom 2
+doom 1
+eager 1
+earn 1
+edict 2
+end 2
+ending 1
+english 1
+exclamation 3
+express 2
+expressed 1
+fall 2
+finite 1
+follow 1
+for 3
+form 4
+forming 1
+formulated 1
+from 1
+full 3
+get 1
+getup 1
+getup 1
+give 1
+given 2
+gives 1
+grammar 2
+grammatical 6
+group 6
+has 4
+have 2
+hitch 1
+ideas 1
+imperative 1
+implying 1
+imprisoned 1
+in 5
+independent 3
+is 8
+issue 1
+it 2
+it 1
+its 1
+itself 1
+joined 1
+jolt 1
+judge 1
+judgement 3
+judgment 3
+judgment 1
+judicial 3
+kind 1
+knock 1
+language 1
+language 2
+law 1
+least 1
+length 1
+letter 3
+line 1
+line 1
+lines 1
+linguistic 1
+little 1
+made 4
+make 1
+making 1
+mark 1
+mark 1
+meaning 5
+meaning 2
+meaningful 1
+means 1
+message 3
+message 1
+minimal 1
+more 4
+must 1
+needs 1
+note 1
+noun 2
+number 1
+of 40
+on 2
+one 5
+opinion 5
+or 19
+order 1
+out 1
+particular 3
+penalty 1
+period 4
+philosophical 1
+phrase 1
+portray 1
+precede 1
+predicate 3
+predicate 2
+prison 2
+prisoner 1
+pronounced 1
+pronouncement 1
+proper 1
+punctuation 3
+punishing 1
+punishment 7
+punishment 1
+put 2
+question 6
+quotes 1
+rap 1
+read 1
+related 1
+relation 1
+river 1
+ruling 3
+saying 1
+sending 1
+sense 2
+sentence 5
+sentence 2
+sentences 1
+sequence 1
+series 1
+set 4
+short 1
+should 2
+significance 1
+signs 1
+sleep 1
+some 2
+someone 2
+something 1
+speaker 1
+speech 1
+speech 1
+standing 1
+start 1
+starts 1
+statement 3
+stop 3
+stretch 2
+string 1
+structurally 2
+structure 1
+subject 7
+subject 1
+symbols 1
+syntactic 1
+syntactically 1
+term 4
+that 6
+the 8
+theological 1
+though 1
+thought 3
+time 3
+to 18
+together 3
+trick 1
+typically 1
+understandable 1
+understood 1
+unit 6
+up 2
+vacation 1
+verb 2
+verb 1
+verdict 1
+verdict 1
+which 3
+who 1
+with 7
+word 4
+words 29
+words 1
+write 2
+writer 1
+writing 1
+written 1

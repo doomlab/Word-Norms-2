@@ -1,0 +1,251 @@
+ 48
+a 17
+absorbs 1
+age 1
+air 3
+alive 3
+ancient 1
+and 13
+animals 3
+apple 1
+apples 1
+apples 1
+are 3
+assorted 1
+autumn 1
+banzai 1
+bark 19
+bark 3
+be 3
+been 1
+big 15
+big 1
+birds 9
+blows 1
+branch 5
+branches 21
+branches 2
+breathe 1
+breathing 1
+brown 26
+brown 2
+bugs 1
+bush 1
+by 1
+can 6
+carbon 4
+cedar 1
+changes 1
+changing 1
+climb 4
+color 1
+colorful 1
+colors 2
+cones 2
+converts 1
+creates 1
+cut 2
+cycle 1
+dead 2
+desk 1
+determine 1
+different 3
+dioxide 3
+dirt 1
+dogwood 1
+down 1
+earth 1
+elderly 1
+elm 1
+environment 1
+fall 4
+fall 3
+few 1
+firewood 1
+flora 1
+flowers 3
+food 1
+for 4
+forest 5
+forest 1
+fresh 1
+from 2
+fruit 6
+fruits 2
+full 1
+fun 1
+functional 1
+gets 1
+giving 1
+gold 1
+grass 1
+green 34
+green 1
+ground 1
+grove 1
+grown 2
+grows 8
+has 22
+have 1
+heavy 1
+here 1
+hickory 1
+high 1
+history 1
+hollow 1
+home 4
+house 2
+house 1
+huge 1
+in 10
+insects 1
+into 1
+is 22
+it 4
+item 1
+kinds 1
+large 3
+large 1
+leaf 3
+leafed 1
+leafs 1
+leafy 3
+leaves 51
+leaves 4
+life 2
+life 2
+light 1
+limb 1
+limbs 2
+limbs 1
+live 4
+living 2
+long 1
+longer 1
+lumber 1
+made 3
+magnolia 1
+make 1
+maker 1
+makes 2
+man 1
+many 2
+maple 1
+monkeys 1
+natural 1
+nature 7
+necessary 1
+needs 3
+nests 1
+no 1
+nonliving 1
+nuts 1
+oak 5
+object 2
+of 5
+old 5
+on 1
+or 3
+orange 2
+organism 1
+outdoors 3
+outside 6
+oxygen 7
+oxygen 3
+paper 6
+park 1
+part 1
+pasture 1
+pear 1
+pencil 1
+people 1
+photosynthesis 4
+photosynthesis 1
+pine 5
+plant 5
+plant 2
+planted 1
+pretty 3
+pretty 1
+produce 1
+produces 4
+producing 1
+provides 4
+rain 1
+rake 1
+recycles 1
+red 3
+redwood 1
+releasing 1
+rich 1
+rings 1
+roots 10
+roots 1
+rope 1
+sap 3
+season 1
+seasonal 1
+shade 7
+shades 1
+shelter 1
+short 4
+small 5
+small 1
+soil 1
+something 1
+sometimes 3
+spring 1
+squirrels 5
+stems 1
+strength 1
+strong 1
+stump 4
+sunlight 1
+sunlight 1
+supports 1
+survive 1
+swing 2
+takes 1
+tall 28
+tall 2
+than 1
+that 1
+thats 1
+the 8
+them 1
+there 2
+they 1
+thick 1
+thing 1
+through 1
+time 1
+to 7
+tree 6
+tree 1
+trunk 13
+turns 2
+twigs 1
+types 1
+unmoving 1
+use 1
+used 2
+uses 1
+usually 1
+vegetation 1
+very 3
+water 3
+weeping 2
+when 1
+willow 2
+wind 1
+with 1
+wood 6
+wood 2
+wooden 1
+wooden 1
+woods 3
+yard 1
+yellow 3
+you 1
+young 2
+your 1

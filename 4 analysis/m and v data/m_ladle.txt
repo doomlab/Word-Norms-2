@@ -1,0 +1,13 @@
+ladle spoon 12 
+ladle utensil 9 
+ladle kitchens 16 
+ladle long 12 
+ladle handle 12 
+ladle metal 15 
+ladle plastic 10 
+ladle wood 8 
+ladle cooking 5 
+ladle serving 7 
+ladle food 7 
+ladle soup 14 
+ladle stirring 6 

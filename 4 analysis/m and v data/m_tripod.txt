@@ -1,0 +1,8 @@
+tripod three 23 
+tripod legs 23 
+tripod adjustable 6 
+tripod metal 10 
+tripod photographers 7 
+tripod holding 23 
+tripod cameras 23 
+tripod stability 8 

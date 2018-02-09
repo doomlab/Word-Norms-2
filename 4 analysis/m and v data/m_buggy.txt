@@ -1,0 +1,16 @@
+buggy four 12 
+buggy wheels 12 
+buggy handle 7 
+buggy seats 6 
+buggy wheels 31 
+buggy old 5 
+buggy fashioned 5 
+buggy metal 7 
+buggy people 7 
+buggy pulling 10 
+buggy horses 10 
+buggy pushing 13 
+buggy babies 16 
+buggy carrying 6 
+buggy things 6 
+buggy transportation 10 

@@ -1,0 +1,191 @@
+ 20
+1 1
+42 1
+60 16
+a 22
+abbrev 1
+act 1
+also 1
+amount 1
+an 14
+and 1
+arc 5
+are 1
+as 3
+atomic 3
+base 1
+bit 1
+bite 1
+blow 2
+brief 1
+brooch 1
+by 1
+can 4
+chip 1
+click 1
+clock 4
+clock 2
+clocklike 1
+consequence 1
+counting 1
+cover 1
+crack 1
+critical 1
+degree 1
+details 1
+diamonds 1
+diminutive 2
+distance 1
+down 1
+duration 1
+elaborate 1
+endorsement 2
+equal 4
+equivalent 1
+etc 1
+every 1
+exact 3
+exact 1
+exiguous 2
+fast 1
+fine 2
+flake 1
+flash 1
+fleck 1
+for 1
+full 1
+gear 1
+going 1
+h 1
+hand 1
+here 1
+holding 1
+hour 12
+hour 2
+hours 1
+import 1
+important 1
+in 7
+inconsiderable 2
+indefinitely 1
+indicate 1
+infinitesimal 3
+insignificant 2
+instant 4
+invisible 3
+irregular 1
+is 7
+itemized 1
+its 3
+jiffy 1
+late 1
+little 5
+live 1
+long 1
+m 2
+make 1
+makes 1
+means 1
+measure 4
+measurement 2
+meeting 3
+meeting 1
+memorandum 1
+microbic 2
+microscopic 2
+min 2
+miniature 3
+miniature 1
+minim 2
+minimal 2
+minuscule 2
+minute 14
+minute 1
+minutes 4
+mo 1
+molecular 1
+molybdenum 1
+moment 7
+morsel 1
+needle 1
+note 1
+now 2
+number 2
+of 38
+on 1
+one 7
+or 6
+painstaking 1
+part 7
+peewee 2
+period 2
+piddling 2
+piece 1
+point 2
+precise 2
+present 2
+puny 1
+related 2
+reminds 1
+representation 1
+right 1
+routine 1
+s 1
+scrap 1
+sec 1
+second 5
+second 1
+secondment 1
+seconds 22
+seconds 6
+secs 1
+sharp 1
+short 8
+show 1
+sixtienth 1
+sixtieth 10
+sixty 13
+slender 2
+small 10
+small 1
+snatch 1
+sometimes 1
+soon 1
+space 1
+specific 1
+spot 1
+suddenly 1
+summary 1
+tack 1
+take 1
+teeny 2
+terms 1
+that 1
+the 14
+there 1
+this 1
+tick 1
+time 27
+time 9
+tiny 6
+tiny 1
+to 8
+turn 1
+unit 9
+use 1
+valuable 1
+very 7
+wait 1
+watch 1
+we 4
+wee 1
+wee 1
+weeny 2
+were 1
+when 1
+word 1
+words 1
+work 1
+write 1
+written 1
+﻿time 1

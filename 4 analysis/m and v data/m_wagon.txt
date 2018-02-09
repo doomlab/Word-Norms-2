@@ -1,0 +1,17 @@
+wagon toy 14 
+wagon four 14 
+wagon wheels 14 
+wagon covering 6 
+wagon handle 10 
+wagon wheels 37 
+wagon red 17 
+wagon metal 5 
+wagon wood 10 
+wagon children 19 
+wagon pulling 24 
+wagon pulling 42 
+wagon horses 18 
+wagon cargo 20 
+wagon transportation 7 
+wagon wild 5 
+wagon west 5 

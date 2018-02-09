@@ -1,0 +1,12 @@
+umbrella colors 10 
+umbrella handle 12 
+umbrella large 6 
+umbrella round 6 
+umbrella waterproof 6 
+umbrella metal 8 
+umbrella nylon 5 
+umbrella plastic 5 
+umbrella keeping 10 
+umbrella dry 10 
+umbrella protection 16 
+umbrella rain 18 

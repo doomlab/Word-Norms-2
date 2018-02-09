@@ -1,0 +1,250 @@
+ 49
+8 1
+12 1
+a 7
+activities 1
+addias 1
+addidas 1
+all 2
+amongst 1
+amount 1
+and 7
+annoying 1
+article 1
+assortment 1
+at 1
+athlete 1
+athletic 1
+athletic 1
+avoid 1
+basketball 1
+be 4
+belong 1
+big 5
+blisters 1
+blue 1
+boot 1
+boots 6
+bottom 1
+boy 1
+brand 3
+buy 1
+by 2
+can 5
+canvas 1
+cheap 2
+cheerleader 1
+chocos 1
+clean 1
+cleats 1
+clog 1
+closet 1
+clothing 2
+cole 1
+colored 1
+colorful 3
+colorful 2
+colors 8
+come 1
+comfort 2
+comfortable 4
+comforting 1
+common 1
+completion 1
+consists 1
+contact 1
+converse 1
+converse 1
+cover 2
+covering 4
+covering 1
+covers 1
+cushion 1
+cute 2
+designer 1
+different 7
+dirty 2
+do 1
+dress 1
+encloses 1
+etc 1
+everyday 1
+expensive 4
+expensive 2
+fabric 2
+fabric 1
+fashion 2
+fashionable 1
+feet 38
+feet 6
+fit 3
+flats 3
+flip 8
+flop 2
+flops 6
+food 1
+food 1
+foot 13
+foot 1
+footwear 1
+for 5
+functional 1
+fungus 1
+garder 1
+girl 1
+goes 4
+ground 1
+gum 1
+haan 1
+hard 3
+has 7
+heel 3
+heels 11
+helpful 1
+helps 1
+hi 1
+high 4
+holds 1
+humans 2
+humans 1
+important 1
+in 4
+infinite 1
+inside 1
+is 10
+it 1
+jordan 3
+jordans 1
+keep 1
+kids 1
+lace 5
+lace 1
+laced 1
+laces 7
+laces 2
+large 2
+large 1
+leather 4
+left 2
+little 1
+lots 1
+love 3
+low 3
+made 5
+many 4
+men 1
+mid 1
+money 1
+name 1
+name 1
+new 2
+nike 8
+nikes 3
+no 1
+of 9
+old 1
+on 16
+ons 1
+or 1
+outside 2
+pair 1
+pairs 1
+passion 1
+pedicure 1
+people 1
+person 1
+petite 1
+protect 5
+protection 6
+protection 2
+protective 2
+protectors 1
+protects 4
+provide 1
+puma 1
+pump 2
+pumps 1
+put 1
+rebook 1
+reebok 1
+right 3
+rough 2
+rubber 2
+run 1
+running 3
+running 1
+sandal 3
+sandals 10
+sandle 1
+shapes 1
+shoe 5
+shoe 3
+shoelaces 1
+shoelaces 1
+shoes 7
+size 4
+sizes 5
+slip 2
+small 6
+small 2
+smell 1
+sneaker 3
+sneakers 5
+sneakers 1
+sock 1
+socks 8
+socks 1
+soft 2
+sold 1
+sole 5
+soles 1
+something 4
+sometimes 2
+speak 1
+sports 2
+stiff 1
+stilettos 1
+store 1
+strings 3
+sturdy 1
+style 2
+styles 2
+stylish 1
+suede 1
+supports 1
+tennis 12
+the 4
+them 2
+they 1
+tie 1
+tied 1
+to 8
+toes 1
+toes 1
+toms 2
+tongue 1
+top 5
+training 1
+two 1
+types 1
+typically 1
+ugly 2
+up 2
+use 1
+used 9
+variations 1
+velcro 2
+walk 2
+walking 3
+warm 2
+wear 6
+wear 1
+wedges 1
+which 1
+white 1
+with 2
+women 1
+workout 1
+worn 7
+you 3
+your 6

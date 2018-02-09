@@ -1,0 +1,10 @@
+cloak cape 5 
+cloak coat 8 
+cloak clothing 10 
+cloak hood 7 
+cloak black 9 
+cloak long 12 
+cloak warm 6 
+cloak worn 6 
+cloak over 6 
+cloak clothes 6 

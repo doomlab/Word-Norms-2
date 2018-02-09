@@ -1,0 +1,15 @@
+bench colors 6 
+bench at 10 
+bench bus 10 
+bench stops 10 
+bench parks 23 
+bench four 5 
+bench legs 5 
+bench back 6 
+bench hard 7 
+bench long 11 
+bench metal 9 
+bench wood 24 
+bench sitting 26 
+bench on 26 
+bench resting 5 

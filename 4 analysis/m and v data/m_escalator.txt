@@ -1,0 +1,13 @@
+escalator stairs 12 
+escalator buildings 8 
+escalator malls 15 
+escalator handrails 10 
+escalator steps 9 
+escalator goes 12 
+escalator down 12 
+escalator goes 25 
+escalator up 13 
+escalator moves 18 
+escalator black 5 
+escalator electrical 9 
+escalator metal 8 

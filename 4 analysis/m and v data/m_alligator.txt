@@ -1,0 +1,17 @@
+alligator reptile 13 
+alligator animal 16 
+alligator eat 5 
+alligator people 5 
+alligator swims 6 
+alligator mouth 6 
+alligator tail 9 
+alligator jaws 5 
+alligator scales 11 
+alligator teeth 22 
+alligator dangerous 5 
+alligator green 19 
+alligator long 14 
+alligator scary 8 
+alligator Florida 6 
+alligator swamps 12 
+alligator water 11 

@@ -1,0 +1,17 @@
+mink mammal 11 
+mink animal 11 
+mink four 9 
+mink legs 9 
+mink tail 9 
+mink eyes 5 
+mink teeth 5 
+mink hunted 14 
+mink people 14 
+mink brown 5 
+mink expensive 5 
+mink fast 6 
+mink furry 21 
+mink small 11 
+mink soft 7 
+mink coats 15 
+mink fur 6 

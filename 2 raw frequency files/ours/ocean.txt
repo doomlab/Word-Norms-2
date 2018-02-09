@@ -1,0 +1,205 @@
+ 13
+70 1
+a 14
+across 1
+also 1
+amphibians 1
+an 1
+and 8
+animals 1
+antarctic 1
+appears 1
+arctic 1
+are 2
+area 1
+areas 2
+atlantic 2
+atlantic 1
+beach 1
+beach 1
+beaches 1
+big 6
+billows 1
+blue 6
+blue 1
+body 13
+body 1
+bounding 2
+breeze 1
+brine 3
+briny 3
+called 2
+can 3
+change 1
+come 1
+contains 3
+continents 1
+covers 3
+creatures 2
+cycle 1
+cycle 1
+cycles 1
+davy 1
+deep 10
+deep 2
+depths 1
+dive 1
+diversity 1
+divided 1
+divides 1
+dolphins 1
+drink 2
+each 2
+earth 2
+earth 1
+enormous 1
+entire 1
+esp 1
+examples 1
+expanse 5
+fall 1
+fifths 1
+fish 2
+fish 1
+fishermen 1
+fishes 3
+fishes 1
+floats 1
+flow 1
+for 1
+forms 1
+full 1
+globe 1
+great 4
+has 6
+here 1
+high 2
+huge 3
+immense 1
+in 6
+indian 3
+infinity 1
+inside 1
+into 1
+is 12
+it 5
+jones 1
+journey 1
+land 1
+land 1
+lang 1
+large 10
+levels 1
+life 1
+liquid 1
+live 2
+living 1
+located 1
+locker 1
+long 1
+lot 1
+maiden 1
+main 5
+main 1
+major 1
+many 2
+marine 3
+maritime 2
+mass 1
+masses 1
+massive 1
+mean 1
+means 1
+medium 1
+miles 1
+more 3
+most 1
+natural 1
+nautical 1
+naval 1
+noun 1
+numerous 1
+ocean 4
+ocean 2
+oceanic 1
+oceanic 2
+oceans 1
+oceans 1
+of 31
+or 3
+other 1
+our 1
+pacific 4
+particular 1
+patterns 1
+people 1
+percent 1
+plants 1
+pond 2
+pool 1
+portion 2
+produce 1
+puddle 2
+quantity 1
+quantity 1
+rise 1
+s 3
+sail 1
+salt 9
+salty 2
+sand 2
+sea 22
+sea 6
+seas 4
+seaway 1
+separating 1
+seven 2
+sharks 1
+sink 2
+sound 1
+species 2
+spread 1
+sultry 1
+sunrise 1
+sunset 1
+surf 1
+surface 3
+surfers 1
+surprise 1
+swim 3
+swimming 1
+than 2
+that 6
+the 20
+there 1
+three 1
+throughout 1
+tide 1
+tide 1
+tides 2
+to 4
+transportation 1
+transportation 1
+travel 1
+underwater 1
+up 1
+vast 6
+vast 1
+vastly 1
+very 8
+volume 1
+water 35
+water 2
+wave 1
+waves 2
+waves 2
+weather 1
+wet 1
+whales 1
+where 1
+which 2
+whole 1
+wide 3
+winds 1
+world 3
+﻿body 1

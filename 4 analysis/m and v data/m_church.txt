@@ -1,0 +1,17 @@
+church building 14 
+church religion 10 
+church congregation 5 
+church cross 7 
+church alter 8 
+church clergy 18 
+church seats 11 
+church stained 6 
+church glass 6 
+church windows 6 
+church large 5 
+church quiet 6 
+church praying 9 
+church sermons 5 
+church weddings 7 
+church worshipping 14 
+church Sundays 6 

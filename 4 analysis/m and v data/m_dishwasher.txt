@@ -1,0 +1,15 @@
+dishwasher appliance 19 
+dishwasher kitchens 21 
+dishwasher door 5 
+dishwasher buttons 5 
+dishwasher racks 13 
+dishwasher electrical 14 
+dishwasher loud 5 
+dishwasher metal 7 
+dishwasher detergent 6 
+dishwasher soap 15 
+dishwasher water 10 
+dishwasher cleaning 14 
+dishwasher dishes 14 
+dishwasher washing 13 
+dishwasher dishes 27 

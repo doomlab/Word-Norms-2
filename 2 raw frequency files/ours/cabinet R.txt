@@ -1,0 +1,172 @@
+ 17
+a 9
+advisors 1
+aesthetic 1
+allows 1
+an 1
+and 6
+appliances 1
+appointed 1
+bathroom 3
+bathrooms 1
+be 3
+bedrooms 1
+big 2
+bowls 1
+boxes 1
+brown 3
+brown 2
+cabinet 1
+can 4
+canned 1
+carpenter 1
+cedar 1
+close 1
+closed 1
+closes 1
+clothes 1
+colors 1
+compartment 1
+consultations 1
+container 2
+could 1
+counter 1
+crafted 1
+cupboard 1
+cups 3
+cups 1
+decoration 1
+decorative 1
+designs 1
+different 1
+dish 1
+dished 1
+dishes 5
+dishes 3
+door 2
+door 1
+drawers 1
+dust 1
+efficient 1
+empty 1
+etc 1
+files 1
+food 9
+food 1
+for 4
+found 4
+from 1
+full 1
+garages 1
+glass 1
+glasses 2
+goods 1
+government 1
+government 1
+ground 1
+guns 1
+handle 2
+handles 3
+hard 1
+has 1
+have 1
+hide 1
+hinges 1
+hold 4
+holder 1
+holds 10
+home 1
+homes 2
+homes 1
+house 1
+house 1
+houses 1
+housing 1
+in 23
+is 2
+items 3
+items 1
+keep 2
+kitchen 16
+kitchen 8
+kitchens 4
+knickknacks 1
+knobs 1
+large 1
+living 1
+made 5
+make 1
+medicine 2
+metal 1
+more 1
+most 1
+oak 1
+object 1
+objects 1
+of 6
+off 1
+office 1
+offices 1
+one 1
+open 1
+opens 1
+opens 1
+or 1
+organization 1
+other 1
+painted 1
+pantry 1
+place 5
+place 1
+plates 4
+plates 1
+politics 1
+president 1
+presidents 1
+put 2
+rectangles 1
+restored 1
+room 1
+s 1
+secret 1
+shelving 1
+sight 1
+sink 1
+small 1
+small 1
+something 1
+space 2
+square 2
+stained 1
+storage 19
+storage 6
+store 9
+store 1
+stores 5
+storing 1
+supplies 1
+the 6
+them 1
+them 2
+thing 1
+things 8
+things 3
+to 12
+unit 1
+up 1
+used 7
+usually 1
+wall 1
+ware 1
+way 1
+what 1
+where 1
+which 1
+windows 1
+with 2
+wood 21
+wood 1
+wooded 1
+wooden 7
+you 3
+your 1

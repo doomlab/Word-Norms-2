@@ -1,0 +1,17 @@
+retch action 5
+retch bad 5
+retch complain 2
+retch dislike 1
+retch drink 2
+retch eat 2
+retch flu 1
+retch gross 1
+retch hurt 2
+retch mean 1
+retch mouth 2
+retch scare 1
+retch sick 7
+retch smell 2
+retch stomach 1
+retch throat 1
+retch upset 1

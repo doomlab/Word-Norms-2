@@ -1,0 +1,10 @@
+bin_waste emptied 8 
+bin_waste hollow 8 
+bin_waste large 5 
+bin_waste round 12 
+bin_waste small 5 
+bin_waste smelly 10 
+bin_waste metal 19 
+bin_waste plastic 12 
+bin_waste holding 20 
+bin_waste garbage 20 

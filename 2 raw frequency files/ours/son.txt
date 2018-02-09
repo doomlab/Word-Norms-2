@@ -1,0 +1,160 @@
+ 16
+a 67
+address 4
+adopted 1
+agent 1
+an 1
+any 1
+as 13
+baby 1
+beard 1
+biological 1
+bloke 1
+blood 1
+bold 1
+born 1
+both 1
+boy 22
+boy 3
+bring 1
+by 2
+care 1
+caring 1
+certain 2
+child 29
+child 8
+christ 1
+christianity 1
+circus 1
+close 1
+closely 1
+connected 1
+considered 3
+country 1
+cousin 1
+cute 1
+dependent 3
+descendant 10
+descendant 1
+dude 1
+earth 1
+either 1
+environment 1
+etc 1
+familiar 4
+family 3
+family 2
+father 2
+father 2
+fathers 1
+follower 1
+for 4
+force 1
+form 2
+foster 1
+friend 1
+from 4
+god 1
+good 1
+he 1
+heir 7
+his 11
+human 2
+if 5
+in 20
+india 1
+influence 1
+inheritor 1
+irritates 1
+is 8
+issue 2
+it 3
+jesus 2
+junior 2
+juvenile 1
+lad 4
+lass 1
+law 2
+le 1
+legal 2
+little 1
+logos 1
+looked 1
+ma 1
+male 48
+male 1
+man 15
+man 1
+masculine 1
+member 1
+mischievous 1
+mother 4
+moustache 1
+my 1
+of 25
+offspring 12
+offspring 1
+older 1
+one 9
+or 24
+our 1
+parent 4
+parent 3
+parents 7
+parents 4
+part 1
+particular 1
+patents 1
+person 15
+person 1
+personified 2
+place 1
+play 1
+position 1
+product 1
+progeny 1
+progeny 2
+proud 1
+regarded 2
+related 3
+relation 12
+relationship 5
+result 1
+s 5
+said 1
+school 1
+scion 2
+scion 1
+second 2
+ship 1
+sibling 3
+smart 1
+somebody 1
+sometime 1
+son 14
+sonship 1
+spoken 2
+study 1
+successor 1
+sweet 1
+taker 1
+teenager 2
+term 2
+the 11
+ties 2
+to 16
+train 1
+trinity 2
+unit 1
+up 1
+upon 1
+used 1
+usually 1
+ward 2
+when 1
+with 1
+with 1
+word 1
+young 5
+youngster 3
+youth 1

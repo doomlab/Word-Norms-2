@@ -1,0 +1,17 @@
+cheetah carnivore 9 
+cheetah cat 13 
+cheetah mammal 5 
+cheetah animal 19 
+cheetah hunts 9 
+cheetah runs 16 
+cheetah fast 16 
+cheetah four 7 
+cheetah legs 7 
+cheetah black 21 
+cheetah spots 21 
+cheetah hunted 5 
+cheetah people 5 
+cheetah fast 38 
+cheetah furry 8 
+cheetah yellow 7 
+cheetah Africa 11 

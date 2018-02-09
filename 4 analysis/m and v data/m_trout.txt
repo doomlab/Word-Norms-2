@@ -1,0 +1,17 @@
+trout fish 29 
+trout animal 5 
+trout lays 13 
+trout eggs 13 
+trout swims 18 
+trout eaten 10 
+trout catching 10 
+trout tail 6 
+trout fins 13 
+trout gills 14 
+trout scales 13 
+trout edible 24 
+trout smelly 6 
+trout lakes 7 
+trout water 20 
+trout tastes 6 
+trout good 6 

@@ -1,0 +1,13 @@
+tape_scotch rolls 12 
+tape_scotch clear 19 
+tape_scotch long 5 
+tape_scotch not 6 
+tape_scotch expensive 6 
+tape_scotch sticky 26 
+tape_scotch transparent 5 
+tape_scotch useful 6 
+tape_scotch attaching 7 
+tape_scotch things 7 
+tape_scotch holding 12 
+tape_scotch presents 5 
+tape_scotch walls 5 

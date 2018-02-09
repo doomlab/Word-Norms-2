@@ -1,0 +1,226 @@
+ 15
+a 42
+added 1
+advocate 1
+an 3
+and 3
+another 3
+any 1
+applicable 1
+arrangement 1
+as 1
+atop 1
+band 2
+bed 4
+bent 2
+beristor 1
+blanket 1
+board 1
+body 1
+branch 1
+bricks 1
+butter 1
+by 1
+cake 1
+cloak 1
+clothing 2
+coat 4
+coating 3
+coats 1
+coping 1
+course 1
+cover 2
+cover 4
+covered 3
+covering 13
+decorate 1
+delaminate 1
+denotes 1
+deposit 3
+depth 2
+depth 1
+desquamate 1
+different 1
+discoid 1
+division 1
+down 2
+each 1
+earth 2
+echelon 1
+egg 2
+eggs 1
+electronics 1
+eschar 1
+etc 1
+existing 1
+film 3
+flagstone 1
+flaky 1
+flap 1
+floor 2
+fold 2
+fold 1
+foliaceous 1
+foliated 1
+for 3
+forge 1
+form 1
+forming 1
+frost 1
+girdle 1
+ground 1
+hape 1
+has 1
+have 1
+hen 4
+hide 1
+hills 1
+homogeneous 1
+in 2
+increment 1
+indicating 1
+is 5
+it 5
+items 2
+jelly 1
+kept 3
+laid 4
+lamellar 1
+lamellate 1
+lamelllated 1
+lamina 1
+laminated 1
+lamination 1
+lap 1
+layer 7
+layer 3
+layers 1
+laying 2
+lays 6
+lays 1
+leader 1
+level 3
+level 2
+levels 1
+like 2
+living 2
+lode 1
+mans 1
+material 9
+matter 3
+may 2
+membrane 1
+membranous 1
+micaceous 1
+mold 1
+mould 1
+mountain 1
+multiple 2
+number 1
+object 1
+of 32
+of 1
+on 9
+one 11
+one 1
+onion 1
+or 21
+order 1
+other 2
+other 1
+over 6
+over 1
+overlap 1
+overlay 1
+overlayed 1
+overlying 1
+ozone 1
+paint 1
+panel 1
+part 1
+part 1
+partly 2
+peanut 1
+peel 1
+pellicle 1
+person 5
+plant 2
+plate 2
+ply 1
+production 2
+put 4
+putting 1
+refers 1
+related 1
+root 1
+root 1
+said 1
+sandwich 1
+scale 1
+scaliness 1
+schistose 2
+seam 2
+section 1
+sections 2
+segment 1
+set 1
+several 5
+shape 1
+shaving 1
+sheet 5
+shelf 1
+shield 2
+shoot 2
+shroud 1
+single 6
+skin 2
+slab 1
+smooth 1
+snow 1
+so 2
+soil 1
+some 5
+something 2
+spread 5
+squamous 1
+stage 1
+stages 1
+steps 1
+story 1
+stratified 1
+stratum 5
+stratum 2
+stripe 1
+substance 1
+substance 1
+substratum 1
+surface 6
+surface 7
+tablet 1
+tabular 1
+take 2
+that 10
+the 5
+thick 1
+thickness 17
+thin 1
+thing 6
+thing 1
+things 1
+things 1
+tier 3
+to 7
+top 4
+twig 2
+usually 1
+veil 1
+vein 1
+wall 1
+was 1
+where 1
+which 1
+who 1
+with 3
+work 1
+worn 2
+zone 2

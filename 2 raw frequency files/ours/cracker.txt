@@ -1,0 +1,160 @@
+ 8
+a 29
+added 1
+also 1
+amount 1
+and 4
+another 1
+apart 1
+apart 1
+as 2
+at 2
+baked 1
+be 1
+biscuit 8
+biscuit 1
+boaster 1
+bonbon 1
+both 1
+braggart 1
+break 1
+bursting 1
+by 1
+called 1
+can 1
+candy 1
+cause 1
+cheese 2
+chemical 1
+christmas 1
+colorful 1
+computer 1
+contains 1
+crack 1
+cracker 1
+cracker 1
+crackers 1
+cracks 5
+cracks 1
+creates 1
+crisp 7
+crispy 1
+crunchy 1
+cylinder 1
+data 1
+device 2
+disparaging 1
+dough 1
+dry 1
+during 1
+eaten 1
+eating 1
+else 1
+ends 1
+esp 1
+especially 1
+especially 2
+etc 2
+example 1
+exploding 1
+explosive 1
+express 1
+favor 1
+festival 1
+fire 3
+firecracker 3
+firecracker 2
+fired 1
+firework 2
+flour 1
+food 1
+for 1
+georgia 1
+happiness 1
+hat 1
+heat 1
+ignited 1
+inhabitant 1
+is 7
+it 9
+itself 1
+joke 1
+large 1
+light 1
+like 1
+living 1
+made 1
+make 2
+makes 1
+material 1
+mental 1
+mostly 1
+native 1
+negative 1
+nickname 1
+noise 3
+of 7
+offensive 1
+on 1
+one 5
+or 15
+out 1
+paper 2
+parts 1
+party 1
+person 5
+pollution 1
+poor 1
+pops 1
+produces 1
+producing 1
+product 1
+programs 1
+pulled 2
+releasing 1
+roll 1
+rural 1
+s 1
+salty 1
+sharp 1
+sharply 1
+simply 1
+small 2
+snack 1
+snap 1
+some 1
+something 1
+sometimes 1
+sound 2
+soups 1
+southeastern 1
+stealing 1
+sudden 1
+tamper 1
+that 10
+the 1
+thin 5
+thing 4
+things 2
+thinking 1
+thinks 1
+time 1
+to 6
+top 1
+trinkets 1
+u 1
+unauthorized 1
+unsweetened 1
+use 1
+used 2
+usually 3
+various 1
+wafer 2
+want 1
+when 3
+which 1
+white 1
+who 2
+with 5
+work 1
+you 1

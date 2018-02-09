@@ -1,0 +1,160 @@
+ 16
+4 1
+a 21
+able 1
+aisle 1
+and 2
+another 4
+area 2
+auditorium 1
+backwards 1
+be 3
+bedrooms 2
+between 4
+big 1
+building 8
+building 4
+buildings 5
+call 1
+can 2
+carpet 2
+ceilings 1
+classes 1
+classroom 1
+classrooms 1
+cold 1
+college 1
+confined 1
+connects 4
+cough 1
+courthouse 1
+craig 1
+creepy 1
+dance 1
+dance 1
+dante 1
+dark 1
+destination 1
+different 1
+dining 1
+dinning 1
+door 1
+doors 11
+doors 1
+doorways 1
+dorm 2
+down 1
+down 3
+drop 1
+each 1
+eating 1
+echo 1
+entrance 1
+every 1
+feature 1
+filled 1
+for 1
+forwards 1
+found 3
+freddy 2
+from 3
+get 5
+hall 5
+hall 2
+hallway 2
+hard 1
+has 2
+high 1
+homes 1
+hotel 1
+house 1
+house 3
+houses 1
+in 13
+inside 1
+is 5
+lane 1
+lead 1
+leading 3
+leads 3
+life 1
+line 1
+linking 1
+live 1
+live 1
+lockers 1
+long 26
+long 3
+lot 1
+lots 1
+many 2
+masonic 1
+may 1
+missouri 1
+monitors 1
+narrow 12
+narrow 5
+no 1
+of 5
+on 3
+one 2
+or 2
+other 1
+other 1
+outside 1
+painted 1
+passage 2
+passageway 1
+pathway 1
+people 1
+pictures 1
+place 3
+place 1
+places 1
+recital 1
+residence 1
+room 3
+room 2
+rooms 10
+rooms 6
+running 1
+scary 1
+school 4
+school 2
+schools 2
+section 1
+separates 1
+short 1
+sides 2
+sides 2
+somewhere 2
+space 6
+space 1
+stairs 1
+stairs 1
+state 1
+straight 1
+stretch 1
+students 1
+surrounding 1
+that 3
+the 6
+thin 1
+through 1
+tile 1
+to 18
+university 1
+used 2
+walk 5
+walked 1
+walking 3
+walkway 3
+walkway 3
+walls 2
+way 5
+way 1
+where 1
+wide 1
+windows 1
+with 3
+you 2

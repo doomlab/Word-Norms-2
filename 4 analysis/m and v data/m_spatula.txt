@@ -1,0 +1,12 @@
+spatula utensil 18 
+spatula kitchens 10 
+spatula handle 16 
+spatula flat 11 
+spatula long 7 
+spatula metal 11 
+spatula plastic 16 
+spatula rubber 5 
+spatula wood 6 
+spatula baking 6 
+spatula cooking 14 
+spatula flipping 11 

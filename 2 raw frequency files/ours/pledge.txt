@@ -1,0 +1,190 @@
+ 16
+a 30
+abide 1
+accepted 1
+affirmation 1
+against 1
+agree 1
+agreement 6
+allegiance 2
+also 2
+american 1
+an 2
+and 2
+animals 1
+as 8
+assurance 8
+at 2
+authority 1
+bail 1
+bailment 1
+being 3
+belongs 1
+benefit 1
+between 1
+bond 1
+by 2
+cause 1
+club 1
+college 1
+commitment 2
+condition 1
+confidence 2
+contract 6
+conveying 1
+country 1
+covenant 4
+created 1
+creditor 2
+debt 2
+debt 1
+debtor 2
+decide 1
+decision 1
+delivered 3
+deposit 1
+deposited 2
+do 8
+doing 2
+drink 1
+engage 2
+engagement 1
+etc 1
+exchange 1
+fidelity 1
+flag 1
+follow 2
+follow 1
+for 14
+forming 1
+fraternity 2
+from 3
+fulfillment 2
+fulfillment 1
+furniture 1
+give 4
+given 4
+gold 1
+guarantee 6
+guarantee 2
+hand 1
+health 2
+heart 1
+held 1
+help 1
+hock 1
+honor 4
+hook 1
+humans 1
+hypothecation 1
+in 3
+is 5
+it 1
+its 1
+land 1
+lieu 1
+loan 1
+looking 1
+loyalty 1
+made 1
+make 1
+making 1
+membership 1
+money 2
+mortgage 1
+mortgaged 1
+nation 1
+not 1
+noun 1
+oath 7
+oath 4
+of 17
+offer 1
+one 1
+or 14
+over 1
+parents 1
+parties 1
+pass 1
+pawn 3
+pawned 1
+payment 2
+person 1
+personal 1
+plea 1
+plead 1
+pleased 1
+pledge 10
+plight 3
+plight 1
+possession 2
+promise 25
+promise 4
+promose 1
+property 4
+put 1
+refrain 2
+regarded 1
+respects 1
+rules 1
+salute 1
+say 1
+school 1
+security 10
+security 1
+self 2
+sign 1
+so 2
+solemn 3
+someone 2
+someone 1
+something 10
+something 2
+species 1
+states 1
+strictly 1
+submission 1
+subscribe 1
+sure 1
+sureness 1
+surety 1
+swear 3
+swearing 1
+swears 1
+sworn 1
+take 2
+taking 1
+that 3
+the 10
+the 1
+thing 4
+thing 1
+things 1
+to 24
+toast 3
+toast 1
+transfer 1
+truthful 1
+undertaking 5
+united 1
+upholding 1
+valuable 1
+vehicle 1
+vow 6
+vow 1
+vowed 1
+warrant 3
+warrant 1
+warranty 1
+wassail 1
+we 1
+when 1
+which 1
+who 1
+with 1
+word 7
+word 3
+words 1
+you 1
+your 2
+yourself 1

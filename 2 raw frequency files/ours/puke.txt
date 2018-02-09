@@ -1,0 +1,261 @@
+ 44
+a 8
+able 1
+about 2
+acid 4
+acidic 1
+acids 1
+action 1
+adjective 1
+ago 1
+alcohol 9
+already 2
+an 3
+and 4
+animals 1
+ano0rexia 1
+any 1
+babies 2
+bad 5
+bad 1
+barf 4
+bathroom 1
+be 1
+beer 1
+being 3
+belima 1
+belongs 1
+bile 4
+bitter 1
+bodily 3
+body 3
+bowel 1
+boys 1
+brought 1
+brown 1
+buddy 1
+bulimia 2
+burning 1
+by 2
+can 3
+caused 1
+chewed 1
+chuck 1
+chunks 1
+chunks 1
+chunky 3
+chunky 1
+clean 1
+coli 1
+color 1
+color 1
+colored 1
+colors 1
+combination 1
+come 1
+comes 4
+considered 1
+consists 2
+consumed 1
+contains 2
+corn 1
+defense 1
+describing 2
+different 2
+digest 1
+digested 5
+dinner 2
+dirty 1
+disgusting 8
+disgusting 1
+dispose 1
+do 2
+doing 1
+don 1
+drank 1
+drink 1
+drinking 1
+drunk 2
+e 1
+eat 1
+example 1
+expelled 1
+feel 1
+feeling 1
+feeling 1
+flu 3
+flu 1
+fluid 1
+fluids 1
+food 16
+food 4
+foods 1
+from 2
+function 1
+gag 3
+get 2
+green 4
+grooms 1
+gross 18
+gross 4
+guts 1
+had 1
+half 1
+handle 1
+hang 1
+hangover 1
+happens 1
+has 2
+have 1
+hockey 2
+hope 1
+ht 1
+hurl 3
+hurts 2
+i 2
+ice 1
+ill 1
+illness 1
+im 1
+in 4
+is 8
+it 1
+just 1
+kids 1
+like 1
+liquids 1
+liquor 2
+little 1
+lumpy 1
+lunch 1
+made 1
+makes 1
+many 1
+mean 1
+mechanism 1
+messy 1
+mouth 1
+mouth 1
+movements 1
+much 1
+multi 1
+mushy 1
+nastiest 1
+nasty 14
+nausea 3
+need 1
+night 1
+not 1
+obnoxious 1
+occurs 1
+odor 1
+of 9
+often 1
+or 1
+organism 1
+others 1
+out 3
+over 1
+painful 1
+partially 2
+person 3
+physical 1
+pink 1
+poison 2
+poisoning 2
+poke 1
+pool 1
+pregnancy 1
+proceed 1
+puke 1
+puke 1
+puking 1
+pungent 1
+purge 1
+ralph 2
+reflux 1
+regurgitate 4
+regurgitate 1
+regurgitated 1
+regurgitating 1
+rejected 1
+rejection 1
+repugnant 1
+result 1
+rid 1
+right 1
+rude 1
+running 1
+runny 1
+s 1
+scared 1
+see 1
+sick 25
+sick 4
+sickening 1
+sickness 5
+sickness 3
+smell 4
+smelling 1
+smells 4
+smelly 3
+smelly 1
+so 2
+something 2
+spit 2
+stinks 1
+stinks 1
+stinky 3
+stomach 4
+stomach 2
+stomachache 2
+stomacher 1
+synonyms 1
+t 1
+talks 1
+taste 1
+teeth 1
+textures 1
+that 5
+the 10
+then 1
+thing 1
+things 1
+think 1
+through 1
+throw 20
+throwing 1
+to 6
+toilet 5
+toilet 1
+too 3
+trash 1
+unable 1
+undigested 1
+unpleasant 3
+up 24
+up 2
+upchuck 1
+upset 1
+used 1
+usually 1
+verb 1
+virus 2
+vomit 25
+vomit 8
+wa 1
+wanna 1
+was 1
+well 1
+when 5
+which 1
+while 1
+with 2
+word 1
+world 1
+yellow 2
+yellow 2
+you 4
+your 4
+yourself 1
+yuck 1

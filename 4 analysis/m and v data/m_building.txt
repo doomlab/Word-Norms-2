@@ -1,0 +1,15 @@
+building cities 6 
+building roof 5 
+building doors 9 
+building rooms 6 
+building walls 5 
+building windows 15 
+building large 8 
+building tall 12 
+building brick 14 
+building cement 6 
+building metal 5 
+building wood 7 
+building people 6 
+building residences 7 
+building work 7 

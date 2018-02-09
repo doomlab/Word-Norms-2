@@ -1,0 +1,183 @@
+ 50
+12 1
+a 12
+abbreviation 1
+about 1
+action 1
+adjective 1
+adverb 1
+after 1
+alarm 4
+alive 1
+am 12
+am 1
+ample 1
+amplitude 1
+an 3
+and 2
+anything 1
+applies 1
+are 2
+are 4
+as 2
+at 1
+atom 1
+bath 1
+be 8
+be 2
+beginning 1
+being 4
+bible 1
+birds 1
+books 1
+breakfast 2
+breakfast 1
+can 1
+chemical 2
+class 3
+clock 2
+clock 1
+coffee 4
+common 1
+condition 1
+conjunction 1
+copula 1
+current 1
+day 3
+describe 1
+described 1
+describes 1
+describing 1
+describing 1
+description 2
+descriptive 1
+do 3
+do 1
+doing 1
+doing 1
+don 2
+done 1
+dr 1
+early 8
+early 2
+element 1
+english 1
+exhausted 1
+exist 1
+exist 1
+exists 1
+expectation 1
+express 1
+feeling 1
+for 1
+fortune 1
+generally 1
+going 1
+grammar 1
+groggy 1
+half 1
+has 1
+helps 1
+hours 1
+human 1
+i 25
+i 1
+in 5
+individual 1
+is 9
+know 1
+leading 1
+legend 1
+like 2
+ll 1
+m 2
+m 1
+me 6
+me 1
+mean 1
+metaphor 1
+midnight 1
+morning 28
+morning 3
+myself 1
+myself 1
+never 1
+night 1
+not 1
+noun 1
+of 10
+on 1
+opposite 1
+or 1
+p 2
+period 1
+periodic 1
+person 1
+physical 1
+pm 7
+present 1
+proclamation 1
+pronoun 2
+quotes 1
+radio 1
+re 1
+real 1
+referring 1
+rising 1
+s 1
+sam 3
+schedule 1
+school 1
+self 2
+self 1
+set 1
+sign 1
+sleep 3
+sleep 1
+sleepy 2
+sluggish 1
+snooze 1
+someone 1
+something 3
+something 1
+state 2
+states 1
+stay 1
+stinks 1
+student 1
+sues 1
+sun 1
+sunlight 1
+sunrise 3
+t 2
+task 1
+term 1
+that 2
+the 7
+themselves 1
+they 1
+time 5
+time 2
+tired 7
+to 14
+too 1
+up 6
+used 4
+usually 1
+verb 1
+verses 1
+wake 5
+want 1
+was 3
+we 1
+were 1
+what 7
+wheel 1
+who 1
+will 1
+word 3
+word 1
+worms 1
+you 10
+your 1
+yourself 1

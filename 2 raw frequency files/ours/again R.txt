@@ -1,0 +1,140 @@
+ 16
+a 11
+action 1
+action 1
+addition 2
+addition 1
+additional 2
+adverb 2
+afresh 3
+again 18
+again 4
+all 1
+amend 1
+an 4
+and 5
+anew 8
+anon 3
+another 13
+any 1
+as 2
+back 1
+back 1
+being 1
+besides 4
+bis 3
+bring 1
+by 4
+case 2
+chance 3
+come 3
+comeback 1
+comes 1
+condition 1
+continuously 1
+copy 1
+cycle 1
+do 7
+doing 1
+else 1
+encore 3
+encountered 1
+english 1
+etc 1
+experienced 1
+for 3
+frequent 2
+frequently 1
+freshly 3
+frustrating 1
+further 1
+furthermore 7
+furthermore 1
+game 1
+give 1
+hand 2
+happens 1
+improvisation 1
+in 11
+instance 2
+is 6
+it 4
+its 3
+lately 1
+loop 1
+loop 1
+means 1
+more 35
+more 7
+moreover 4
+moreover 1
+newly 3
+not 1
+occurrence 1
+of 1
+on 3
+once 34
+once 1
+one 8
+or 11
+other 3
+over 14
+over 2
+person 1
+person 1
+place 6
+place 1
+position 2
+previous 3
+previously 1
+process 2
+re 1
+recurrently 3
+refers 1
+regular 1
+reiteratively 3
+repeat 14
+repeat 2
+repeated 4
+repeated 3
+repeatedly 4
+repeatedly 3
+repeating 2
+repetition 3
+repetition 1
+response 1
+retry 1
+return 5
+returning 1
+rewind 1
+same 4
+say 1
+scenario 1
+season 1
+second 5
+situation 2
+something 11
+sometimes 1
+speak 1
+state 2
+such 1
+tell 1
+than 4
+that 3
+the 6
+things 1
+time 18
+time 4
+to 15
+try 1
+us 1
+use 1
+video 1
+wait 1
+we 2
+when 1
+with 1
+word 2
+work 1
+working 1
+yet 1

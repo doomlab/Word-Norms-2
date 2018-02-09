@@ -1,0 +1,218 @@
+ 48
+a 13
+adventure 1
+adventures 1
+all 1
+and 2
+animals 9
+animals 1
+are 6
+area 1
+arid 1
+around 1
+as 1
+awesome 1
+bat 4
+batman 1
+bats 32
+bats 6
+be 2
+bear 1
+bears 13
+behemoths 1
+below 1
+big 4
+black 2
+boroughs 1
+bugs 5
+by 3
+can 5
+cave 4
+cave 2
+caveman 3
+caverns 1
+caves 1
+cliff 1
+cold 14
+cold 1
+concave 1
+cool 2
+crawl 1
+created 2
+creepy 2
+damp 7
+dangerous 1
+dark 64
+dark 6
+darkness 1
+death 1
+deep 2
+deep 1
+descent 1
+desire 1
+diamonds 1
+digging 1
+dim 1
+dirt 1
+dirty 2
+drafty 1
+dragons 1
+drawings 1
+earth 6
+easily 1
+echo 1
+echoes 1
+echoes 1
+echoing 1
+eerie 1
+entered 1
+erosion 1
+explore 1
+find 1
+fire 1
+flash 1
+for 4
+force 1
+found 1
+fugitives 1
+fun 1
+functional 1
+gecko 1
+gems 1
+gloomy 1
+gold 2
+granite 1
+gravel 1
+ground 3
+ground 1
+guide 1
+hard 1
+has 2
+here 1
+hibernate 1
+hidden 5
+hide 4
+hideout 1
+hideout 1
+hiding 1
+hole 11
+holes 1
+hollow 1
+home 1
+homes 1
+horror 1
+house 1
+hunted 1
+in 17
+in 1
+inside 1
+is 12
+isolated 1
+itchy 1
+jumping 1
+large 1
+lights 1
+lime 1
+limestone 1
+live 7
+live 1
+living 1
+lost 1
+made 3
+man 4
+manner 1
+men 1
+men 1
+mineral 1
+mines 1
+mining 1
+moisture 1
+mountain 2
+mountains 3
+movies 1
+mud 1
+muddy 1
+musty 2
+narrow 1
+natural 2
+neanderthals 1
+nocturnal 1
+of 6
+old 1
+on 1
+or 4
+out 1
+owl 1
+part 1
+people 1
+people 1
+pirates 1
+place 2
+place 2
+places 1
+pointy 1
+prehistoric 1
+provides 1
+quiet 2
+quiet 1
+rain 1
+reside 1
+rock 2
+rock 1
+rocks 8
+rocky 4
+room 1
+scary 15
+scary 2
+secrets 1
+shelter 6
+slick 1
+small 3
+smelly 2
+snakes 1
+something 1
+space 1
+spelunking 1
+spooky 1
+springfield 1
+stalactites 2
+stalactites 2
+stalagmites 2
+stone 3
+structure 1
+surrounded 1
+take 1
+temperature 1
+the 7
+them 2
+there 2
+there 2
+they 6
+things 2
+to 2
+tombs 1
+took 1
+torches 1
+tour 1
+trapped 1
+treasure 1
+treasures 2
+tunnel 1
+underground 4
+underground 1
+used 1
+usually 1
+vampires 1
+warm 1
+warmth 1
+water 3
+water 1
+wet 12
+wet 2
+where 3
+which 1
+whole 1
+wide 1
+without 1
+woods 1
+you 1

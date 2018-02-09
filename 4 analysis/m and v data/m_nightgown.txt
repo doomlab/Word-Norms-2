@@ -1,0 +1,13 @@
+nightgown clothing 5 
+nightgown colors 6 
+nightgown comfortable 13 
+nightgown long 16 
+nightgown short 9 
+nightgown soft 7 
+nightgown warm 7 
+nightgown cotton 6 
+nightgown silk 5 
+nightgown worn 25 
+nightgown night 25 
+nightgown worn 35 
+nightgown women 10 

@@ -1,0 +1,15 @@
+cathedral building 5 
+cathedral church 18 
+cathedral religion 9 
+cathedral benches 5 
+cathedral candles 5 
+cathedral stained 16 
+cathedral glass 16 
+cathedral windows 16 
+cathedral windows 21 
+cathedral large 17 
+cathedral Catholics 8 
+cathedral people 6 
+cathedral praying 7 
+cathedral weddings 6 
+cathedral worshipping 11 

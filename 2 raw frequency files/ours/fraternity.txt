@@ -1,0 +1,166 @@
+ 17
+a 16
+alcohol 4
+alike 1
+all 2
+and 3
+animals 1
+are 1
+athletic 1
+babies 1
+band 1
+bars 1
+basis 1
+beefy 1
+beer 6
+beer 1
+big 2
+black 1
+boys 14
+boys 1
+bros 1
+brother 3
+brother 1
+brotherhood 14
+brotherhood 4
+brothers 6
+brothers 2
+campuses 1
+cause 1
+clean 1
+club 2
+coed 1
+college 13
+college 5
+colleges 1
+common 1
+community 1
+confident 1
+conformity 1
+consumes 1
+council 1
+dedication 1
+desirable 1
+dirty 2
+doctors 1
+drink 1
+drinking 3
+drinking 1
+driver 1
+drunk 1
+drunk 2
+events 1
+events 1
+expensive 1
+for 3
+found 1
+fraternity 1
+friends 2
+friendship 1
+friendships 1
+fun 3
+games 1
+gather 1
+gathering 1
+gay 1
+greek 6
+greek 2
+group 10
+guys 5
+guys 2
+hazing 1
+hazing 1
+hood 1
+hood 1
+hot 1
+in 4
+individuals 1
+is 2
+jocks 1
+joining 1
+keggers 1
+kegs 1
+large 1
+lawyers 1
+letters 1
+life 1
+life 2
+light 1
+little 1
+lot 2
+lot 1
+lots 1
+loud 1
+made 1
+male 2
+males 3
+males 2
+membership 1
+men 9
+men 1
+messy 2
+money 1
+money 1
+mostly 1
+mothers 1
+natural 1
+network 1
+not 1
+obnoxious 1
+of 12
+on 2
+only 1
+or 1
+organization 4
+parties 7
+parties 5
+party 4
+party 2
+partying 1
+people 2
+philanthropy 1
+pledge 2
+pledges 1
+polo 1
+popular 1
+preppy 1
+reputation 1
+rush 1
+rushing 1
+service 2
+sex 1
+ship 1
+shirts 1
+show 1
+siders 1
+silly 1
+sober 1
+social 3
+socially 1
+society 1
+sorority 2
+sorority 1
+sperry 1
+sports 1
+sports 1
+step 1
+stepping 1
+students 1
+team 2
+test 1
+that 1
+they 2
+think 1
+together 1
+top 1
+trouble 1
+unity 1
+university 2
+up 1
+usually 1
+very 1
+wears 1
+who 2
+with 1
+work 1
+young 1

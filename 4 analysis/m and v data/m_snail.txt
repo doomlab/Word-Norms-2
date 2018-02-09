@@ -1,0 +1,11 @@
+snail eaten 5 
+snail as 5 
+snail escargot 5 
+snail shell 24 
+snail antennae 8 
+snail edible 12 
+snail slimy 24 
+snail slow 25 
+snail small 10 
+snail slug 5 
+snail shell 29 

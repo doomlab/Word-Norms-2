@@ -1,0 +1,207 @@
+ 46
+2 1
+4 1
+a 24
+adapt 1
+algae 1
+alone 1
+amphibian 2
+amphibians 1
+an 4
+and 5
+animal 17
+animal 3
+are 3
+as 1
+be 7
+beach 1
+big 7
+bite 1
+bites 1
+body 1
+box 2
+brown 6
+bugs 1
+bunny 1
+called 1
+can 10
+claws 3
+colored 1
+covering 1
+creature 1
+creek 1
+cross 1
+cute 4
+defense 1
+diseases 1
+dull 1
+during 1
+easily 2
+eat 1
+eats 3
+edible 1
+eggs 5
+eggs 2
+extinct 1
+eyes 1
+father 1
+feet 1
+finding 1
+fins 1
+fish 2
+flesh 1
+for 1
+four 4
+franklin 2
+franklin 1
+fresh 1
+frog 1
+fun 1
+functional 1
+get 1
+grass 2
+grass 1
+green 42
+green 3
+grow 1
+hard 21
+hare 2
+harmless 1
+has 15
+hatching 1
+head 1
+herbivore 1
+hibernates 1
+hid 1
+hidden 1
+hide 2
+hide 1
+hides 2
+in 8
+in 1
+insects 1
+inside 2
+interior 1
+is 21
+it 2
+its 1
+keep 1
+lakes 1
+land 5
+land 1
+large 3
+lay 1
+lays 4
+legs 5
+lettuce 1
+like 1
+live 5
+lives 8
+long 2
+many 2
+may 1
+mean 1
+mechanism 1
+migrates 1
+mothers 1
+move 1
+mover 1
+moves 4
+moving 1
+moving 1
+neck 1
+nemo 1
+nemo 1
+nest 1
+ninja 2
+ninja 1
+ocean 3
+of 1
+old 3
+on 2
+or 5
+outer 1
+outside 1
+over 1
+person 1
+pet 3
+pets 3
+pie 1
+pincher 1
+plants 1
+pokemon 1
+pond 2
+ponds 2
+protect 1
+protection 2
+protective 1
+pull 1
+quiet 1
+red 1
+reptile 8
+reptile 1
+reptiles 1
+road 1
+roads 2
+roll 1
+rough 1
+round 1
+salt 1
+sand 1
+scaly 2
+scared 6
+scared 3
+sea 4
+sea 3
+shell 51
+shell 9
+shells 1
+short 1
+shy 2
+skin 2
+slow 47
+slow 6
+slowly 4
+small 12
+small 1
+smells 1
+smelly 1
+smooth 1
+snap 1
+snapping 11
+soft 3
+soup 1
+species 1
+squirt 1
+squirtle 1
+steady 1
+stinky 2
+swim 3
+swimmers 1
+swims 1
+tadpole 1
+tail 1
+tender 1
+that 1
+the 6
+thick 1
+time 1
+to 3
+tortoise 1
+turtle 6
+turtle 1
+turtles 3
+used 1
+vegetables 1
+very 3
+warm 1
+watch 1
+water 15
+when 2
+which 1
+winter 1
+wrinkly 1
+years 1
+yellow 1
+yertle 1
+yurtle 1

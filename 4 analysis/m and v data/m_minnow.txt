@@ -1,0 +1,17 @@
+minnow bafish 5 
+minnow fish 22 
+minnow animal 5 
+minnow eats 5 
+minnow water 5 
+minnow plants 5 
+minnow swims 17 
+minnow swims 24 
+minnow schools 7 
+minnow eaten 9 
+minnow fish 31 
+minnow fins 7 
+minnow gills 9 
+minnow edible 5 
+minnow small 22 
+minnow water 22 
+minnow bait 12 

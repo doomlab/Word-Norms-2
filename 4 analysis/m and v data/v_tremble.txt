@@ -1,0 +1,16 @@
+tremble action 4
+tremble anger 1
+tremble body 9
+tremble cold 3
+tremble dog 1
+tremble excite 2
+tremble express 1
+tremble fear 13
+tremble hand 2
+tremble involuntary 10
+tremble move 3
+tremble nervous 5
+tremble sad 2
+tremble shake 19
+tremble vibrate 3
+tremble violent 1

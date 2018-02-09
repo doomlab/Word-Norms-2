@@ -1,0 +1,12 @@
+hook walls 11 
+hook curved 10 
+hook sharp 10 
+hook metal 20 
+hook plastic 6 
+hook as 11 
+hook hand 11 
+hook hanging 23 
+hook things 23 
+hook on 23 
+hook catching 9 
+hook fishing 12 

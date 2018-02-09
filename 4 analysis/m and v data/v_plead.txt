@@ -1,0 +1,17 @@
+plead action 4
+plead ask 8
+plead beg 19
+plead child 1
+plead cry 2
+plead desire 2
+plead emotion 3
+plead foot 1
+plead hand 1
+plead humans 5
+plead innocent 3
+plead knee 5
+plead request 3
+plead something 7
+plead strong 1
+plead verbal 3
+plead want 3

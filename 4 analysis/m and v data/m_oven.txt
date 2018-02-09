@@ -1,0 +1,15 @@
+oven appliance 9 
+oven kitchens 16 
+oven door 7 
+oven temperature 5 
+oven control 5 
+oven racks 10 
+oven dangerous 6 
+oven hot 22 
+oven metal 7 
+oven electricity 12 
+oven gas 9 
+oven baking 13 
+oven broiling 6 
+oven cooking 18 
+oven food 5 

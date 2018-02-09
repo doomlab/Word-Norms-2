@@ -1,0 +1,16 @@
+chipmunk mammal 5 
+chipmunk animal 14 
+chipmunk cartoons 6 
+chipmunk climbs 7 
+chipmunk trees 7 
+chipmunk eats 12 
+chipmunk nuts 12 
+chipmunk tail 6 
+chipmunk stripes 10 
+chipmunk brown 7 
+chipmunk cute 10 
+chipmunk fast 7 
+chipmunk furry 12 
+chipmunk small 14 
+chipmunk white 6 
+chipmunk trees 19 

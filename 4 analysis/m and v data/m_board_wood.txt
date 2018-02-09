@@ -1,0 +1,16 @@
+board_wood trees 5 
+board_wood brown 6 
+board_wood flat 5 
+board_wood hard 5 
+board_wood long 11 
+board_wood wood 5 
+board_wood wood 25 
+board_wood pirates 10 
+board_wood building 6 
+board_wood houses 6 
+board_wood building 16 
+board_wood things 10 
+board_wood construction 6 
+board_wood diving 6 
+board_wood boards 6 
+board_wood ships 8 

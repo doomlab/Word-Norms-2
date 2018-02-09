@@ -1,0 +1,13 @@
+partridge bird 29 
+partridge animal 6 
+partridge flies 17 
+partridge lays 10 
+partridge eggs 10 
+partridge beak 13 
+partridge feathers 21 
+partridge wings 14 
+partridge hunted 6 
+partridge people 6 
+partridge edible 9 
+partridge pear 9 
+partridge trees 9 

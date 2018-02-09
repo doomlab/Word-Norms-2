@@ -1,0 +1,16 @@
+hamster mammal 5 
+hamster pet 21 
+hamster rodent 11 
+hamster animal 19 
+hamster drinks 6 
+hamster drinks 11 
+hamster water 5 
+hamster eats 6 
+hamster runs 9 
+hamster wheels 9 
+hamster tail 7 
+hamster fur 23 
+hamster brown 5 
+hamster small 24 
+hamster soft 5 
+hamster cages 21 

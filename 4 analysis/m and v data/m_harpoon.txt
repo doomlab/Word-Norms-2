@@ -1,0 +1,13 @@
+harpoon weapon 8 
+harpoon boats 5 
+harpoon pointed 8 
+harpoon end 8 
+harpoon long 8 
+harpoon sharp 12 
+harpoon metal 11 
+harpoon shooting 7 
+harpoon hunting 10 
+harpoon killing 6 
+harpoon killing 14 
+harpoon killing 24 
+harpoon whales 10 

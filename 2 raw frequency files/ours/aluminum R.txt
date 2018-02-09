@@ -1,0 +1,133 @@
+ 13
+a 18
+abundant 1
+abundantly 1
+air 1
+airplanes 1
+airplanes 1
+al 1
+alloys 1
+also 1
+aluminum 3
+an 1
+and 5
+any 1
+as 1
+bbq 1
+be 3
+bendable 1
+bluish 1
+but 2
+by 1
+can 4
+cans 1
+cans 1
+chemical 2
+chiefly 1
+coated 1
+color 1
+color 1
+colored 1
+combination 1
+combination 1
+commonly 1
+cook 1
+corrode 1
+corrosion 1
+cover 1
+crust 1
+dense 1
+discovered 1
+dishes 1
+does 1
+door 1
+drink 1
+ductile 2
+earth 1
+easily 3
+easily 1
+element 6
+element 4
+elements 1
+etc 2
+flexible 1
+foil 3
+foil 1
+food 1
+for 4
+found 3
+gray 1
+great 1
+hard 1
+in 10
+into 1
+is 7
+it 2
+item 1
+kind 1
+light 9
+lightweight 1
+made 2
+make 3
+making 3
+malleable 3
+material 1
+metal 15
+metal 5
+metallic 8
+metallic 1
+most 1
+not 5
+of 5
+often 2
+one 1
+only 2
+or 1
+out 1
+oxide 1
+oxidizes 1
+pressed 1
+products 1
+recently 1
+reflective 1
+resists 1
+rusted 1
+s 1
+saucepans 1
+shaped 1
+sheet 1
+sheets 2
+shiny 1
+siding 1
+silver 5
+silver 1
+silvery 6
+soda 1
+sorts 1
+store 1
+strong 1
+tarnished 1
+that 2
+the 3
+thing 1
+thinly 1
+tin 2
+to 6
+type 2
+unable 1
+understand 1
+used 12
+very 2
+vessel 1
+vessel 1
+vessels 2
+weight 2
+when 1
+where 1
+white 4
+wire 1
+word 1
+worked 1
+wrap 1
+wrong 1
+﻿a 1

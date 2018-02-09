@@ -1,0 +1,200 @@
+ 14
+a 20
+absent 1
+additional 1
+afar 2
+after 1
+alone 7
+aloof 2
+an 2
+and 2
+another 7
+apart 10
+apart 2
+are 1
+as 6
+aside 12
+asunder 1
+at 8
+avoid 1
+away 17
+bad 1
+barn 1
+being 1
+beside 1
+between 1
+between 1
+broken 2
+by 6
+certain 1
+characteristics 2
+classical 1
+clock 1
+close 2
+company 2
+company 1
+consideration 5
+constructive 2
+cut 2
+decay 1
+differences 1
+different 1
+direction 1
+directions 1
+directions 1
+disassemble 3
+disassemble 1
+disassociated 2
+disconnected 3
+dismember 1
+dissect 1
+distance 9
+distance 4
+distant 4
+distant 1
+distinct 2
+distinguish 1
+divide 3
+divided 1
+divorced 2
+divorced 1
+do 1
+down 1
+each 5
+entity 1
+equality 1
+etc 1
+except 2
+exclude 1
+exclude 1
+excluded 3
+exclusive 1
+exclusively 2
+factor 2
+falling 1
+far 1
+features 1
+for 2
+force 1
+form 1
+freely 2
+from 22
+from 1
+give 1
+go 3
+group 1
+handle 1
+having 2
+hence 1
+identify 1
+in 24
+independent 3
+independently 1
+individually 5
+inequality 1
+into 9
+is 4
+isolated 6
+it 1
+item 1
+itself 3
+jokes 1
+joking 1
+keep 1
+life 1
+live 1
+lone 2
+make 1
+mathematics 1
+maths 1
+meaning 1
+miles 2
+motion 2
+motion 1
+neglating 1
+new 1
+next 1
+next 1
+not 13
+noun 1
+object 1
+objects 1
+obscure 1
+of 8
+off 2
+old 1
+one 7
+oneself 2
+opposite 1
+or 34
+other 4
+other 2
+others 5
+others 2
+out 4
+partition 1
+parts 5
+parts 1
+people 1
+pieces 9
+pieces 1
+place 8
+position 3
+predicate 1
+privately 1
+purpose 1
+purpose 1
+qualities 1
+refers 1
+regard 3
+relationship 1
+reserve 2
+sad 2
+separate 15
+separate 4
+separated 6
+separately 14
+separately 1
+separation 3
+set 2
+shared 1
+side 4
+side 2
+sidewise 1
+single 1
+singly 1
+small 1
+so 1
+something 2
+sorting 1
+space 4
+spaced 1
+special 3
+state 2
+substance 1
+take 2
+tear 3
+than 1
+than 1
+the 6
+thing 1
+thousands 1
+time 6
+to 23
+together 9
+together 1
+tokyo 1
+touch 1
+two 4
+unique 1
+units 1
+use 2
+used 1
+viewed 2
+watch 1
+way 1
+when 1
+whole 1
+wide 1
+wolf 2
+york 1

@@ -1,0 +1,182 @@
+ 18
+a 59
+also 3
+an 2
+and 11
+angus 1
+as 1
+at 2
+baked 2
+be 4
+beef 33
+beef 6
+beefsteak 3
+been 3
+belly 1
+between 5
+bread 11
+british 1
+broiled 3
+bun 16
+buns 1
+burger 8
+but 1
+cake 5
+called 1
+cheapest 1
+cheese 3
+cheeseburger 1
+cheeseburger 2
+chicken 1
+chopped 8
+chuck 3
+city 2
+comes 1
+comprising 1
+condiments 1
+consisting 5
+contain 1
+contains 3
+cooked 5
+cuisine 1
+delicious 2
+delicious 1
+dish 2
+double 1
+dressing 1
+easily 1
+eat 2
+eaten 1
+eating 1
+edible 5
+fast 7
+fattening 1
+fatty 1
+filling 1
+fills 1
+flat 2
+food 19
+food 2
+form 2
+found 1
+fried 7
+fried 1
+fries 1
+from 1
+garlic 1
+garnished 3
+germany 1
+good 2
+great 1
+ground 26
+ground 2
+ham 1
+hamburger 2
+has 3
+hinder 1
+home 1
+important 1
+in 16
+ingredient 1
+inside 1
+is 12
+it 2
+item 2
+its 1
+junk 3
+ketchup 3
+ketchup 2
+kind 1
+king 1
+largest 1
+lettuce 1
+lies 1
+like 1
+loaf 1
+made 10
+main 1
+make 1
+may 3
+mayo 1
+mcdonald 1
+mcdonalds 1
+meals 1
+meat 24
+meat 3
+menu 1
+mince 1
+minced 6
+minute 1
+more 1
+mustard 2
+mustard 2
+name 1
+nice 1
+not 1
+of 28
+often 2
+on 4
+one 1
+onions 3
+or 18
+patty 18
+patty 1
+pepsi 1
+pickles 2
+placed 1
+places 1
+pork 1
+product 1
+quick 1
+really 1
+relatively 1
+restaurant 1
+restaurants 1
+roll 11
+roll 1
+ronald 1
+round 5
+s 1
+salisbury 3
+sandwich 16
+sandwich 1
+sandwiched 1
+sandwiches 1
+sauce 1
+second 1
+see 1
+separated 1
+served 5
+sirloin 1
+sliced 1
+slices 1
+smells 1
+snack 4
+sold 1
+something 1
+spicy 1
+steak 5
+substance 1
+such 7
+tastes 2
+tasty 3
+telling 1
+that 4
+the 3
+them 1
+to 3
+tomato 1
+tomatoes 1
+two 1
+up 1
+used 3
+usually 14
+variously 3
+vegetable 1
+vegetables 1
+vegetarian 1
+very 1
+western 1
+which 1
+with 15
+yummy 1

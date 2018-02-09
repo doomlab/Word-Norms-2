@@ -1,0 +1,182 @@
+ 47
+a 7
+accompanied 1
+alone 1
+amusing 1
+an 1
+and 1
+annoying 1
+attention 1
+be 1
+black 2
+blades 1
+blah 1
+blah 1
+bland 9
+blank 1
+blunt 1
+bored 1
+boring 42
+boring 10
+bright 4
+bright 1
+brown 1
+by 1
+calm 1
+can 2
+cauliflower 1
+cheap 1
+color 2
+colorful 1
+colorless 1
+colors 2
+cut 1
+cut 1
+dark 3
+dark 1
+death 1
+describe 1
+description 1
+dim 1
+dirty 1
+discolored 1
+dismal 1
+do 1
+doesn 1
+don 1
+drab 1
+dream 1
+dull 2
+dull 1
+earthy 1
+easy 1
+eggplants 1
+empty 1
+entertaining 1
+enthusiasm 1
+excitement 1
+exciting 5
+exciting 1
+faded 1
+faded 1
+flavor 1
+flavorless 1
+forget 1
+fruitless 1
+frustrating 1
+fun 3
+funny 1
+gloomy 2
+go 1
+gray 11
+gross 1
+hard 1
+has 1
+have 1
+headed 1
+history 1
+hold 1
+if 1
+illness 1
+in 1
+induces 1
+interesting 3
+is 13
+knife 4
+knife 1
+know 1
+lacking 2
+lackluster 1
+lame 5
+learning 1
+less 1
+life 2
+lifeless 2
+lively 1
+minds 1
+moments 1
+monotone 1
+monotonous 1
+mud 1
+mundane 1
+needed 1
+needs 1
+new 1
+no 2
+not 51
+nothing 2
+nude 1
+object 1
+of 3
+often 2
+old 1
+opinions 1
+opposite 1
+or 1
+ordinary 1
+out 1
+pencil 3
+pencils 1
+people 1
+peoples 1
+person 5
+person 1
+personality 2
+physical 1
+plain 4
+plan 1
+predictable 1
+property 1
+quiet 1
+racing 1
+ragged 1
+reading 1
+rigid 1
+round 1
+rounded 1
+scary 1
+school 1
+sharp 18
+sharp 7
+sharpened 1
+shiny 5
+silence 1
+situation 1
+skinny 1
+sleep 1
+sleepy 2
+slow 1
+so 1
+something 1
+special 1
+stale 1
+stick 1
+stupid 1
+sucks 1
+survey 1
+t 3
+that 1
+the 3
+they 1
+this 1
+tired 1
+to 2
+ugly 4
+un 1
+uncreative 1
+unemotional 1
+unexciting 1
+unexciting 1
+unimportant 1
+uninteresting 2
+unsatisfying 1
+unsharpened 1
+useful 1
+vegetables 1
+very 1
+weird 1
+what 1
+will 1
+without 2
+word 1
+worn 1

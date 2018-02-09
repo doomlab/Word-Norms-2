@@ -1,0 +1,15 @@
+cage door 12 
+cage lock 9 
+cage bars 12 
+cage restricting 6 
+cage small 6 
+cage metal 24 
+cage wire 6 
+cage zoos 6 
+cage birds 6 
+cage criminals 5 
+cage holding 18 
+cage animals 18 
+cage holding 25 
+cage things 7 
+cage trapping 8 

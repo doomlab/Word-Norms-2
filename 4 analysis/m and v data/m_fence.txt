@@ -1,0 +1,14 @@
+fence metal 6 
+fence picket 5 
+fence wood 13 
+fence surrounds 5 
+fence yards 5 
+fence climbed 5 
+fence high 6 
+fence white 5 
+fence metal 14 
+fence wood 25 
+fence keeping 6 
+fence out 6 
+fence intruders 6 
+fence privacy 5 

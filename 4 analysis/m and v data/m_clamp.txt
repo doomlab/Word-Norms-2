@@ -1,0 +1,12 @@
+clamp tool 19 
+clamp vice 6 
+clamp metal 14 
+clamp steel 6 
+clamp tightening 8 
+clamp carpentry 5 
+clamp holding 20 
+clamp holding 27 
+clamp things 7 
+clamp together 7 
+clamp securing 5 
+clamp surgery 10 

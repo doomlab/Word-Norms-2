@@ -1,0 +1,17 @@
+mole_animal rodent 8 
+mole_animal animal 9 
+mole_animal burrows 5 
+mole_animal digs 10 
+mole_animal holes 10 
+mole_animal four 8 
+mole_animal legs 8 
+mole_animal nose 6 
+mole_animal claws 5 
+mole_animal feet 7 
+mole_animal hair 5 
+mole_animal brown 12 
+mole_animal furry 8 
+mole_animal short 8 
+mole_animal sighted 8 
+mole_animal small 17 
+mole_animal ground 18 

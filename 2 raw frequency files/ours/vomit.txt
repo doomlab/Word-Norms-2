@@ -1,0 +1,241 @@
+ 49
+a 2
+acid 3
+acidic 1
+after 1
+alcohol 7
+already 1
+an 1
+and 2
+another 1
+are 3
+around 1
+back 1
+backwards 1
+bad 5
+barf 1
+bars 1
+bathroom 1
+bathroom 1
+be 1
+beer 1
+being 1
+bile 2
+bodily 2
+body 3
+bowl 1
+brown 1
+by 5
+can 1
+cause 1
+caused 4
+chewed 1
+chunks 4
+chunky 3
+cleaning 1
+colored 2
+colors 1
+combination 1
+comes 5
+coming 2
+contagious 1
+contains 1
+contractions 1
+convulsed 1
+defense 1
+dehydrated 1
+describe 1
+different 2
+digested 3
+dis 1
+disgusting 6
+disgusting 1
+disorder 1
+distance 1
+do 1
+doctor 1
+drink 3
+drink 1
+drinking 1
+drunk 4
+drunk 1
+drunken 1
+drunkenness 1
+due 1
+eat 1
+eaten 1
+eating 1
+edible 1
+everything 1
+ew 1
+expelled 2
+expelling 1
+feels 1
+flu 1
+flu 1
+fluid 2
+fluids 1
+food 23
+food 4
+for 1
+from 7
+gag 3
+get 2
+goes 1
+green 2
+green 2
+gross 20
+gross 3
+had 1
+half 1
+hall 1
+hangover 1
+happens 2
+have 1
+horrible 1
+hospital 1
+hot 1
+hung 1
+hungover 1
+hurl 1
+ill 1
+in 2
+into 1
+is 11
+it 1
+kit 1
+like 1
+liquids 1
+liquor 1
+looks 2
+lot 1
+made 1
+martin 1
+medicine 1
+mouth 5
+mouth 1
+much 3
+mucus 1
+multi 1
+muscle 1
+mushy 1
+nasty 11
+nasty 1
+nausea 1
+not 1
+noun 1
+oatmeal 1
+of 10
+olfactory 1
+or 5
+organism 1
+our 1
+out 4
+out 1
+over 1
+pain 1
+painful 1
+partially 1
+particles 1
+parties 1
+people 1
+physical 1
+pimples 1
+pink 1
+poison 2
+poisoned 1
+poisoning 2
+pregnancy 1
+pregnant 1
+problems 1
+problems 1
+produced 1
+puke 30
+puke 2
+puking 1
+pungent 1
+purging 1
+put 1
+ralph 1
+rash 1
+reflex 1
+regurgitate 2
+regurgitated 2
+rejecting 1
+rejection 1
+rejects 1
+remnants 1
+remove 1
+running 1
+runny 1
+s 1
+scared 1
+school 1
+sick 33
+sick 4
+sickness 5
+sickness 3
+smell 2
+smells 7
+smells 1
+smelly 6
+something 1
+something 1
+spending 1
+spit 1
+stanky 1
+stimuli 2
+stinks 2
+stinky 1
+stomach 12
+stomach 2
+stomachache 1
+symptom 1
+taste 1
+temperature 1
+textures 1
+that 1
+the 9
+thermometer 1
+things 1
+this 1
+though 1
+through 1
+throw 20
+throwing 1
+time 1
+to 8
+toilet 2
+toilet 3
+toilets 1
+too 3
+twice 1
+unattractive 1
+unpleasant 1
+up 24
+up 1
+upset 1
+used 1
+vile 1
+violent 1
+virus 2
+visual 1
+vomit 2
+vomit 1
+was 1
+water 1
+way 1
+what 1
+whats 1
+when 5
+which 1
+with 1
+within 1
+word 1
+worms 1
+worse 1
+yellow 1
+yellowish 1
+you 4
+your 3
+yuck 1

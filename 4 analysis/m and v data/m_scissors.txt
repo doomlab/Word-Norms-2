@@ -1,0 +1,12 @@
+scissors tool 6 
+scissors two 8 
+scissors blades 8 
+scissors blades 13 
+scissors handles 7 
+scissors dangerous 9 
+scissors sharp 23 
+scissors metal 15 
+scissors plastic 8 
+scissors cutting 30 
+scissors cutting 38 
+scissors paper 8 

@@ -1,0 +1,14 @@
+table dining 8 
+table rooms 8 
+table kitchens 10 
+table furniture 7 
+table four 14 
+table legs 14 
+table chairs 9 
+table legs 22 
+table flat 6 
+table round 11 
+table square 6 
+table wood 26 
+table eating 25 
+table on 25 

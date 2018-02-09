@@ -1,0 +1,15 @@
+sweater clothing 14 
+sweater colors 10 
+sweater pull 5 
+sweater over 5 
+sweater sleeves 10 
+sweater knitted 6 
+sweater warm 13 
+sweater cotton 10 
+sweater wool 18 
+sweater worn 5 
+sweater cold 5 
+sweater worn 19 
+sweater warmth 14 
+sweater worn 27 
+sweater winter 8 

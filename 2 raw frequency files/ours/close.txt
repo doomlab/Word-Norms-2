@@ -1,0 +1,213 @@
+ 16
+a 15
+about 1
+abutting 2
+across 2
+action 1
+activities 1
+adjacent 2
+adjoining 1
+affinity 1
+after 1
+airflow 1
+almost 1
+an 6
+anything 1
+aperture 1
+approach 1
+approaching 2
+are 1
+around 1
+as 3
+at 6
+away 1
+ball 1
+bang 1
+barrier 1
+being 4
+beyond 1
+block 3
+bring 2
+business 1
+business 1
+by 3
+cease 1
+close 10
+closed 1
+closing 4
+come 2
+completely 1
+conclusion 1
+conclusion 1
+confidential 1
+contest 1
+contest 1
+contiguous 2
+convenient 1
+corner 1
+cover 1
+curtain 2
+customary 1
+detached 1
+dispose 1
+distance 3
+do 1
+door 5
+down 1
+down 1
+downs 1
+each 1
+encounter 1
+end 11
+end 1
+ending 1
+engage 1
+entrance 2
+entrances 2
+entry 1
+equal 1
+etc 3
+even 1
+eyes 1
+eyes 1
+far 1
+faraway 1
+fill 2
+final 1
+finale 2
+finis 2
+finish 1
+finish 1
+finished 2
+finishing 1
+flatts 1
+for 1
+friend 1
+friends 2
+friendship 1
+game 1
+gap 2
+get 1
+give 1
+grapple 1
+halt 1
+hand 5
+handy 2
+happen 1
+hard 2
+heart 2
+hole 1
+house 1
+immediate 1
+imminent 2
+impending 2
+imperceptive 1
+in 10
+inaccessible 1
+inner 1
+interval 1
+intimate 1
+intimate 1
+is 11
+last 1
+latch 1
+leave 1
+liquidate 1
+little 1
+location 1
+lock 2
+make 1
+means 1
+mind 1
+more 1
+narrow 1
+near 17
+near 2
+nearby 3
+nearest 1
+nearest 1
+nearly 2
+negative 1
+neighboring 1
+next 2
+nigh 2
+no 2
+nose 2
+not 4
+obstruct 5
+of 5
+off 1
+offer 1
+one 4
+open 3
+open 1
+opening 2
+opening 1
+openly 1
+operation 1
+opinion 1
+opposite 3
+or 15
+other 1
+out 1
+outside 1
+over 1
+pack 1
+park 1
+plaster 1
+point 1
+position 1
+proximate 2
+put 1
+rascal 1
+relation 1
+relationship 1
+relationship 1
+result 1
+s 3
+seal 3
+service 1
+services 1
+shop 1
+short 1
+shown 1
+shut 21
+shut 3
+situated 1
+slam 1
+something 6
+something 1
+song 1
+space 2
+spitting 2
+stick 1
+stop 11
+stopping 1
+street 2
+stuffy 1
+take 1
+terminate 1
+the 15
+their 1
+there 1
+tight 1
+time 2
+timing 1
+to 40
+together 2
+under 2
+unite 1
+up 5
+up 2
+verb 1
+wall 1
+warm 1
+was 1
+what 1
+when 1
+wind 1
+window 1
+with 2
+work 2
+yard 1
+you 1

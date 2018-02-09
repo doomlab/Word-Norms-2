@@ -1,0 +1,16 @@
+stop action 11
+stop brake 1
+stop cease 6
+stop do 1
+stop end 5
+stop finish 2
+stop friction 1
+stop humans 2
+stop intentional 2
+stop involuntary 1
+stop location 1
+stop motionless 7
+stop move 4
+stop object 1
+stop pause 1
+stop sign 6

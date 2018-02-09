@@ -1,0 +1,248 @@
+ 24
+a 18
+actions 1
+activities 1
+age 1
+aid 1
+allow 1
+allows 1
+also 1
+ambulate 1
+an 9
+and 20
+animal 7
+animal 1
+animals 4
+ankle 3
+any 1
+appendage 4
+appendages 1
+are 4
+arm 1
+around 1
+arthropod 1
+as 1
+assist 2
+at 1
+attach 1
+attached 2
+balance 1
+bayonet 1
+be 1
+bearing 1
+beautiful 1
+being 4
+being 1
+between 1
+biped 1
+blood 1
+bod 1
+body 14
+body 2
+bone 2
+bones 1
+boost 1
+both 1
+bough 1
+bowlegs 1
+brace 1
+branch 2
+break 1
+breast 1
+broken 1
+buttress 1
+by 1
+can 3
+carry 1
+cats 1
+chair 1
+circuit 1
+climbing 1
+collapsing 1
+color 1
+column 1
+columnar 1
+complete 1
+crawling 1
+creatures 2
+crutch 1
+dancing 1
+different 3
+dogs 1
+down 1
+e 1
+each 2
+either 1
+enable 1
+end 1
+esp 1
+etc 3
+etc 2
+even 1
+exhaustion 1
+falling 1
+feet 4
+feet 1
+femur 1
+fingers 2
+flesh 2
+flexible 1
+foot 4
+football 1
+for 15
+four 3
+from 2
+furniture 1
+g 1
+gams 1
+generally 1
+girls 1
+ground 1
+hand 1
+has 11
+have 5
+having 1
+help 2
+helping 1
+helps 2
+hip 1
+hold 1
+human 11
+humans 3
+if 1
+in 3
+inanimate 1
+instance 1
+is 6
+it 3
+its 2
+journey 1
+jump 2
+kick 2
+kicking 2
+knee 3
+knees 1
+lap 1
+large 1
+last 1
+leg 4
+leg 1
+legs 13
+legs 2
+leguminous 1
+limb 8
+limbs 12
+lives 1
+locomotion 2
+locomotion 1
+locomotive 1
+long 2
+lower 5
+made 1
+man 3
+means 2
+member 2
+metal 1
+most 1
+motion 1
+move 5
+move 1
+movement 1
+muscled 1
+near 1
+needs 1
+noun 1
+numbers 2
+objects 1
+of 35
+often 2
+old 1
+on 5
+only 1
+or 17
+or 1
+organ 2
+organs 4
+other 3
+our 1
+paired 1
+part 11
+parts 2
+person 2
+physical 1
+pile 1
+piling 1
+plant 1
+play 1
+playing 1
+pole 1
+portion 1
+post 1
+prop 2
+properly 1
+provide 1
+robotic 1
+run 3
+run 2
+running 2
+running 1
+section 2
+segment 1
+sensual 1
+shape 1
+skeletal 1
+skin 2
+slender 1
+some 2
+something 1
+species 1
+stand 3
+standing 3
+stands 1
+strides 1
+strong 1
+structure 1
+strut 1
+support 8
+supporters 1
+supporting 1
+supports 4
+swim 1
+swimming 2
+system 1
+table 3
+tall 2
+thai 1
+that 5
+the 23
+them 2
+themselves 1
+these 1
+they 2
+thighs 1
+thin 1
+to 23
+toes 1
+trees 1
+two 6
+two 1
+up 1
+us 1
+use 1
+used 16
+usually 1
+very 1
+walk 11
+walk 4
+walking 9
+walking 2
+walks 2
+we 1
+weight 2
+which 3
+wings 1
+with 3
+woman 1
+wood 1
+working 1
+you 2

@@ -1,0 +1,14 @@
+sledgehammer tool 13 
+sledgehammer handle 7 
+sledgehammer metal 7 
+sledgehammer head 7 
+sledgehammer wooden 13 
+sledgehammer handle 20 
+sledgehammer heavy 27 
+sledgehammer large 5 
+sledgehammer long 6 
+sledgehammer metal 28 
+sledgehammer wood 18 
+sledgehammer breaking 8 
+sledgehammer things 8 
+sledgehammer construction 9 

@@ -1,0 +1,15 @@
+shawl clothing 21 
+shawl colors 5 
+shawl knitted 6 
+shawl warm 5 
+shawl cotton 5 
+shawl wool 9 
+shawl worn 7 
+shawl old 7 
+shawl women 7 
+shawl worn 18 
+shawl women 18 
+shawl worn 35 
+shawl warmth 17 
+shawl worn 46 
+shawl shoulders 11 

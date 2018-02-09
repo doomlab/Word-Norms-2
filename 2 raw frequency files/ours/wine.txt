@@ -1,0 +1,209 @@
+ 18
+10 1
+15 1
+a 21
+alcohol 6
+alcohol 3
+alcoholic 12
+allowing 1
+amaranthine 1
+amethyst 2
+an 8
+and 8
+any 1
+aromatic 1
+as 8
+bar 1
+bear 1
+beer 1
+beverage 9
+beverage 1
+beverages 1
+black 1
+blue 3
+bluish 1
+blush 1
+blush 1
+booze 2
+bottle 5
+bottle 1
+boys 1
+brand 1
+branded 1
+brandy 1
+burgundy 1
+buy 1
+by 4
+can 1
+cap 1
+celebration 1
+celebrations 1
+cellar 1
+ceremonies 1
+cheese 1
+cheeses 1
+christmas 1
+collection 1
+color 5
+colored 2
+colors 1
+coloure 1
+comes 1
+commonly 1
+compounds 1
+consumption 1
+containing 1
+contains 1
+cooking 2
+crop 1
+dark 1
+date 1
+different 1
+dinner 1
+drink 25
+drink 5
+drinking 1
+drinks 1
+dry 1
+easy 1
+entertain 1
+epoch 1
+era 1
+esp 1
+etc 1
+etc 2
+exhilarates 1
+expressed 1
+ferment 1
+fermented 25
+fermenting 1
+foods 1
+for 2
+from 13
+fruit 3
+fruits 2
+fruits 1
+fuddle 1
+full 1
+furniture 1
+grape 12
+grapes 21
+grapes 5
+great 1
+happiness 1
+hard 1
+harvest 1
+has 1
+heliotrope 1
+hot 1
+in 18
+india 1
+insane 1
+is 7
+it 5
+it 1
+its 2
+juice 22
+juice 2
+just 1
+kind 1
+kinds 1
+lavender 3
+like 1
+lilac 3
+liquid 3
+liquor 2
+made 15
+magenta 2
+makes 1
+man 1
+many 3
+marriage 1
+mauve 3
+means 1
+mixed 1
+mulberry 2
+nature 1
+noun 1
+of 23
+offering 1
+often 1
+or 8
+orchid 1
+other 3
+out 1
+particular 3
+party 3
+people 1
+percent 1
+periwinkle 1
+perse 1
+person 1
+pharmacology 1
+pink 1
+plants 2
+plum 3
+pomegranate 1
+prepared 1
+racks 1
+red 10
+reddish 2
+regale 1
+religious 2
+restaurant 1
+rich 1
+rites 1
+royal 1
+s 1
+sale 1
+sauce 1
+served 1
+shop 1
+someone 1
+something 1
+sour 1
+sparkling 2
+spirits 1
+squeezing 1
+still 1
+strong 1
+substance 1
+such 5
+sweet 2
+taste 1
+tastes 1
+that 1
+the 8
+their 2
+them 1
+this 1
+to 4
+together 1
+treat 1
+type 3
+types 2
+unfermented 1
+use 1
+used 5
+usually 2
+varieties 2
+variety 4
+various 3
+verb 1
+very 1
+vino 1
+vinum 1
+violaceous 1
+violet 3
+violet 1
+volume 1
+waste 1
+we 1
+when 1
+white 5
+will 1
+wine 11
+wine 2
+wines 1
+with 3
+year 1

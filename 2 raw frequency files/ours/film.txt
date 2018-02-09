@@ -1,0 +1,214 @@
+ 50
+35mm 1
+4x6 1
+a 14
+acting 2
+action 3
+actor 2
+actors 10
+actors 1
+actress 3
+actresses 2
+adventure 1
+all 1
+amazing 1
+amber 1
+and 2
+animals 1
+are 1
+as 1
+at 1
+awards 2
+bacteria 1
+be 2
+big 1
+black 4
+block 1
+blockbuster 1
+brown 1
+by 1
+calming 1
+camera 10
+camera 2
+can 1
+candy 2
+capture 2
+celebrity 1
+chairs 1
+cinema 4
+coating 1
+cold 1
+colored 1
+comedies 1
+comedy 3
+commercial 1
+composers 1
+contains 1
+covering 1
+crew 1
+critics 1
+dark 3
+darkness 1
+develop 1
+developed 1
+device 1
+director 2
+directors 3
+documentary 1
+documented 1
+drama 1
+dvds 1
+education 1
+effects 1
+entertaining 2
+entertaining 1
+entertainment 8
+entertainment 1
+event 1
+everlasting 1
+feature 1
+festivals 1
+film 9
+film 1
+filth 1
+for 6
+fun 1
+functional 1
+good 1
+hard 1
+has 1
+have 1
+hd 1
+holds 2
+holes 1
+home 1
+horror 1
+images 3
+in 4
+information 1
+interesting 1
+invented 1
+is 8
+layer 3
+learning 1
+long 3
+make 1
+makes 1
+many 1
+memento 1
+memory 1
+mold 1
+moment 1
+moments 1
+money 1
+money 1
+most 1
+motion 2
+movie 42
+movie 7
+movies 19
+moving 2
+music 2
+negatives 1
+negatives 2
+new 1
+night 1
+noises 1
+of 2
+often 1
+oil 1
+old 4
+on 5
+or 6
+people 4
+photo 1
+photography 1
+photos 1
+picture 1
+pictures 12
+pictures 6
+plastic 2
+players 1
+plot 1
+popcorn 3
+porn 1
+presentation 1
+prestige 1
+processed 1
+produced 1
+producer 3
+production 1
+projector 1
+protect 1
+put 1
+read 1
+record 5
+rectangular 1
+reel 2
+replayed 1
+roll 1
+romantic 1
+scary 1
+scenes 1
+school 1
+screen 2
+screen 1
+see 1
+short 4
+shows 1
+singing 1
+slick 1
+slimy 1
+social 1
+soda 1
+something 4
+special 1
+sports 2
+stars 1
+store 1
+stores 1
+story 3
+story 1
+strip 2
+student 1
+studio 1
+substance 1
+such 1
+take 1
+takes 1
+tape 3
+television 1
+telling 1
+tells 1
+term 1
+that 4
+theater 6
+theaters 3
+theatres 1
+thin 2
+thin 1
+through 1
+tickets 1
+time 1
+to 9
+trailer 1
+transparent 1
+tv 4
+tv 1
+used 8
+vhs 1
+video 7
+video 1
+videos 1
+viewed 1
+visual 1
+walmart 1
+watch 3
+watch 1
+watched 2
+western 1
+western 1
+westerns 1
+white 1
+you 3
+your 1

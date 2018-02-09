@@ -1,0 +1,282 @@
+ 14
+a 29
+acoustic 3
+also 1
+an 2
+analog 1
+and 2
+animal 1
+annoying 1
+any 8
+are 1
+as 3
+audible 1
+audio 1
+babble 2
+babel 1
+bang 1
+be 3
+beat 1
+bedlam 2
+bell 1
+bellow 1
+bewailing 1
+blare 3
+blare 1
+blast 4
+block 1
+boisterousness 1
+boom 2
+both 1
+but 1
+buzz 2
+by 2
+cacophony 2
+called 1
+can 6
+caterwauling 1
+causes 2
+change 1
+clamor 4
+clang 1
+clank 1
+clatter 5
+common 1
+commotion 3
+communication 2
+communications 2
+complaint 1
+confused 3
+continuous 1
+converted 1
+count 1
+crash 2
+creates 2
+cry 1
+data 1
+decibals 1
+decibel 1
+detonation 3
+digital 1
+din 5
+disagreeable 1
+discord 2
+discordant 2
+disorganized 1
+disquiet 2
+disquietude 1
+dissonant 1
+distort 1
+distortion 1
+distraction 1
+disturb 1
+disturbance 4
+disturbance 3
+disturbing 2
+disturbs 2
+does 1
+drumming 1
+e 1
+ears 2
+ears 1
+electric 2
+electrical 1
+electronic 1
+electronics 1
+engine 1
+environment 1
+eruption 2
+esp 2
+especially 2
+excessive 1
+explosion 1
+extra 1
+extraneous 1
+fanfare 2
+fireworks 2
+for 1
+form 1
+fracas 1
+frequency 1
+frustrating 1
+fuss 1
+g 1
+garbled 1
+generalization 1
+go 1
+gossip 2
+group 2
+guitar 1
+gunfire 1
+ha 1
+harmonious 1
+harsh 2
+hazardous 1
+hear 1
+heard 3
+heared 1
+hearing 1
+heart 1
+high 3
+higher 1
+highways 1
+hoo 1
+horn 2
+hubbub 1
+hubbub 1
+hullabaloo 1
+human 1
+i 1
+if 1
+image 1
+in 5
+indicates 1
+information 1
+interfere 1
+interference 1
+interferes 1
+interfering 1
+into 1
+irritate 1
+irritates 1
+irritating 1
+irritating 1
+is 11
+it 4
+jangle 1
+jet 1
+kind 5
+kind 1
+lack 1
+lamentation 2
+level 1
+levels 1
+listening 1
+loud 20
+loud 1
+loudly 1
+loudness 1
+loudspeaker 1
+make 2
+makes 2
+manifests 1
+many 1
+market 1
+may 1
+meaning 1
+means 1
+message 1
+much 3
+music 2
+noise 22
+non 1
+not 2
+noun 1
+nuisance 1
+obnoxious 1
+of 19
+on 1
+one 2
+or 23
+outcry 3
+outside 1
+pandemonium 2
+peal 1
+people 1
+perturbation 1
+pitch 1
+place 1
+played 1
+pleasing 1
+pollution 5
+pollution 2
+pound 1
+produce 1
+produced 1
+properties 1
+protest 1
+publicly 1
+quality 1
+racket 4
+radio 1
+rain 1
+random 1
+randomness 1
+reception 1
+reduction 1
+refer 2
+resound 1
+ring 1
+roar 1
+row 2
+ruins 1
+rumor 2
+say 1
+scandal 1
+shot 1
+shouting 3
+shouting 1
+signal 5
+significant 1
+silence 1
+slander 1
+snow 1
+some 1
+someone 1
+something 1
+something 1
+sonance 1
+soothing 1
+sound 41
+sound 8
+sounds 5
+sounds 2
+specifically 1
+squawk 2
+static 1
+strange 1
+stridency 1
+student 1
+studying 1
+system 2
+talk 3
+talking 1
+television 1
+that 8
+the 8
+thermal 1
+throat 1
+through 1
+thud 2
+to 9
+together 1
+too 3
+traffic 1
+transmission 1
+tumult 1
+turbulence 2
+turns 1
+unbearable 1
+undesired 1
+undesired 1
+uneasy 1
+unexpected 2
+unpleasant 5
+unwanted 10
+uproar 2
+uproariousness 1
+use 1
+video 1
+voice 2
+voices 1
+wanted 1
+weak 1
+well 1
+when 1
+which 1
+while 1
+with 4
+word 1
+yelling 1
+yelp 1
+yelp 1

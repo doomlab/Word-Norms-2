@@ -1,0 +1,16 @@
+jeans clothing 7 
+jeans colors 7 
+jeans zipper 10 
+jeans buttons 9 
+jeans pockets 11 
+jeans rips 5 
+jeans fades 5 
+jeans blue 22 
+jeans casual 6 
+jeans comfortable 11 
+jeans durable 5 
+jeans denim 10 
+jeans worn 5 
+jeans people 5 
+jeans worn 10 
+jeans pants 5 

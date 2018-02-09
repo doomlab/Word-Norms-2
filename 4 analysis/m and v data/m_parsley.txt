@@ -1,0 +1,12 @@
+parsley food 8 
+parsley herb 9 
+parsley vegetable 14 
+parsley grows 8 
+parsley gardens 8 
+parsley edible 9 
+parsley green 28 
+parsley leafy 13 
+parsley tastes 5 
+parsley good 5 
+parsley decoration 11 
+parsley garnish 11 

@@ -1,0 +1,272 @@
+ 14
+a 27
+according 1
+adjustment 2
+after 1
+aligning 1
+among 2
+an 11
+and 1
+another 1
+answer 1
+any 2
+around 1
+arrange 2
+arranged 1
+arrangement 7
+arrangement 2
+array 2
+array 1
+arrogant 1
+as 2
+ask 2
+assortment 1
+at 1
+authoritative 5
+authority 3
+authority 1
+authorization 1
+b 1
+be 2
+being 2
+boss 1
+breed 1
+buy 3
+by 4
+can 2
+captain 1
+cast 1
+caste 1
+categorization 1
+categorize 1
+chain 1
+charge 1
+class 1
+classification 2
+classify 2
+club 2
+co 1
+codification 2
+command 18
+command 3
+composition 1
+comprehensible 2
+computation 1
+condition 5
+conduct 1
+constituted 1
+control 1
+correct 1
+court 3
+customer 1
+decorum 1
+decree 3
+demand 2
+demand 2
+description 1
+dictate 1
+dictation 1
+direct 1
+direction 4
+direction 1
+directive 1
+directive 1
+discipline 1
+disposal 1
+disposed 1
+disposition 3
+distribution 1
+do 4
+each 1
+eat 1
+edict 1
+elements 2
+established 1
+establishment 1
+etc 1
+every 2
+everything 1
+feather 1
+fiat 1
+filled 1
+fixed 1
+following 1
+food 3
+for 2
+for 1
+form 2
+format 1
+furnished 1
+gild 1
+give 2
+goods 1
+government 2
+group 2
+group 1
+grouping 1
+guild 1
+harmonious 2
+harmony 2
+hierarchy 1
+higher 1
+honor 1
+hotels 1
+in 13
+indent 1
+indication 1
+instruct 1
+instruction 7
+instruction 1
+is 8
+issued 1
+its 3
+judge 3
+judgement 1
+kind 2
+law 1
+laws 1
+layout 1
+line 4
+lineup 2
+lodge 1
+logical 2
+made 2
+magnitude 2
+maintain 1
+make 1
+manage 2
+management 1
+mandate 2
+means 1
+method 2
+methodical 2
+monastic 1
+must 1
+nature 1
+neat 1
+neatly 1
+neatness 3
+non 1
+obey 2
+obeyed 1
+of 19
+office 1
+official 1
+on 1
+one 4
+one 1
+or 20
+order 13
+order 2
+ordering 3
+orderliness 2
+ordination 1
+organize 1
+organized 1
+other 1
+other 1
+parent 1
+parliamentary 2
+part 2
+pattern 3
+people 2
+permission 1
+pigeonhole 1
+place 3
+placed 3
+placement 2
+placing 1
+plan 1
+police 1
+portion 1
+position 2
+prescript 1
+priests 1
+procedure 3
+procession 1
+progression 2
+proper 3
+properly 1
+propriety 1
+purchase 5
+purpose 1
+pvt 1
+rank 1
+reference 1
+regular 2
+regularity 1
+regulate 1
+regulate 1
+regulation 3
+relation 1
+request 2
+request 1
+restaurant 2
+right 1
+rows 1
+rule 2
+rules 3
+sales 1
+scale 1
+schedules 1
+scheme 2
+separate 2
+sequence 9
+sequence 1
+series 2
+setup 1
+shape 1
+shop 1
+slot 1
+social 1
+society 2
+some 1
+somebody 1
+someone 1
+something 7
+sort 2
+space 1
+species 1
+specified 1
+stages 1
+standardization 1
+state 2
+statement 2
+station 1
+status 1
+stipulation 1
+strict 1
+stripe 1
+strong 1
+structure 1
+subclass 1
+subscription 1
+succession 3
+succession 1
+supplied 1
+symmetry 1
+system 1
+system 1
+taxonomic 1
+the 7
+their 1
+thing 1
+things 4
+things 1
+tidiness 3
+tidiness 1
+tidy 2
+time 1
+to 19
+type 1
+under 2
+uniformity 1
+unit 1
+waiter 1
+want 1
+we 2
+what 1
+when 1
+which 4
+with 2
+workers 1

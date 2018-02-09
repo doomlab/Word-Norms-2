@@ -1,0 +1,15 @@
+pigeon bird 24 
+pigeon animal 9 
+pigeon coos 5 
+pigeon eats 5 
+pigeon flies 24 
+pigeon manure 10 
+pigeon two 6 
+pigeon feet 6 
+pigeon beak 11 
+pigeon feathers 15 
+pigeon feet 13 
+pigeon wings 18 
+pigeon grey 9 
+pigeon cities 12 
+pigeon parks 6 

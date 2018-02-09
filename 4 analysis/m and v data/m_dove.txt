@@ -1,0 +1,12 @@
+dove bird 25 
+dove flies 22 
+dove lays 7 
+dove eggs 7 
+dove beak 13 
+dove feathers 16 
+dove wings 13 
+dove white 25 
+dove nest 5 
+dove trees 5 
+dove symbol 17 
+dove peace 17 

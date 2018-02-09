@@ -1,0 +1,220 @@
+ 16
+a 3
+able 2
+accomplishment 1
+across 1
+after 1
+amounts 1
+an 2
+and 1
+be 5
+behavior 1
+ben 1
+big 1
+bill 1
+bills 3
+buy 12
+buying 1
+buys 3
+by 4
+can 7
+cash 4
+cause 1
+cent 1
+certain 1
+change 2
+clothing 1
+coins 6
+coins 1
+comes 1
+commerce 1
+composition 1
+consumers 1
+counterfeit 1
+created 1
+crisp 1
+currencies 1
+currency 6
+currency 2
+depends 1
+determines 1
+different 5
+dime 1
+dirty 2
+divides 1
+doesn 1
+dollar 3
+dollar 1
+dollars 2
+earned 1
+earning 1
+economy 1
+euros 1
+everyone 1
+everyone 1
+everything 1
+evil 1
+exchange 4
+exchanging 1
+extraordinary 1
+faces 2
+fibers 1
+financial 1
+for 8
+form 2
+franklin 1
+free 1
+george 1
+get 1
+getting 1
+gives 1
+go 1
+goods 2
+government 3
+greed 2
+greedy 1
+green 25
+green 4
+happiness 3
+happy 1
+hard 1
+has 2
+have 1
+heads 1
+heavy 1
+helps 1
+highly 1
+homes 1
+how 1
+hundred 1
+illuminati 1
+important 1
+in 5
+ink 1
+instrument 1
+investments 1
+is 10
+it 10
+it 1
+items 1
+jobs 1
+lack 1
+light 1
+lot 1
+lots 1
+luxury 1
+made 3
+make 1
+makes 1
+making 1
+material 1
+metal 3
+mint 1
+monetary 1
+money 1
+more 1
+necessary 1
+necessity 1
+need 1
+need 1
+needed 5
+nice 1
+nickel 1
+nothings 1
+object 1
+of 11
+on 2
+only 1
+operate 1
+or 4
+owl 1
+paper 18
+paper 4
+pay 2
+payment 1
+penny 1
+people 4
+people 1
+pesos 1
+plastic 1
+poor 3
+possesses 1
+possessions 1
+power 2
+presidents 3
+presidents 1
+printed 1
+prosperity 1
+purchase 2
+purchasing 1
+quarter 1
+rates 1
+relieve 1
+rent 1
+revenue 1
+rich 7
+rich 1
+rough 1
+round 1
+s 3
+shopping 4
+silver 1
+smelly 1
+society 2
+something 1
+sought 1
+spend 1
+spend 1
+spendable 1
+spending 1
+stability 1
+stamped 1
+status 1
+stiff 1
+stores 1
+stress 2
+stressful 1
+succeed 1
+survival 1
+symbolizes 1
+t 1
+tangible 1
+that 2
+the 5
+thing 1
+things 6
+things 6
+through 1
+throughout 1
+to 15
+today 1
+trade 1
+trees 1
+trusted 1
+unit 2
+used 13
+useful 1
+valuable 1
+value 4
+value 1
+values 1
+want 2
+wanted 1
+wants 1
+washington 1
+way 1
+we 1
+wealth 7
+weight 1
+what 2
+when 1
+will 1
+win 1
+with 2
+work 3
+work 1
+working 1
+world 4
+worth 1
+worth 1
+you 7

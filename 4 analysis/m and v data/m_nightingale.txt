@@ -1,0 +1,6 @@
+nightingale bird 25 
+nightingale flies 15 
+nightingale sings 11 
+nightingale beak 7 
+nightingale feathers 12 
+nightingale wings 12 

@@ -1,0 +1,11 @@
+catfish fish 18 
+catfish eats 6 
+catfish garbage 6 
+catfish swims 15 
+catfish fins 10 
+catfish gills 9 
+catfish scales 8 
+catfish whiskers 18 
+catfish edible 11 
+catfish lakes 5 
+catfish water 20 

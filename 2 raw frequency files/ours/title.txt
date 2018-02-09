@@ -1,0 +1,179 @@
+ 16
+a 17
+about 2
+address 1
+after 1
+am 1
+an 3
+and 3
+are 2
+art 1
+article 2
+as 1
+at 1
+authority 1
+be 4
+beginning 5
+book 19
+book 3
+books 2
+books 1
+by 1
+called 2
+can 5
+capitalized 1
+car 3
+cars 1
+chapter 1
+class 1
+come 1
+company 1
+coneys 1
+creativity 1
+credibility 1
+define 1
+defined 1
+degree 1
+denote 1
+description 2
+descriptive 1
+direction 1
+dr 2
+earned 1
+earning 1
+english 1
+essay 3
+essays 1
+event 1
+exclamation 1
+explains 1
+for 2
+found 1
+front 1
+give 1
+given 1
+gives 1
+government 1
+have 1
+head 2
+header 1
+heading 3
+heading 1
+hold 1
+house 1
+houses 1
+id 1
+idea 1
+idea 2
+importance 1
+important 1
+in 2
+introduces 1
+introduction 1
+irrelevant 1
+is 6
+job 1
+job 1
+journal 1
+label 1
+literary 1
+literature 1
+long 1
+ma 1
+magazine 1
+magazine 2
+magazines 2
+main 4
+meaning 1
+miss 3
+movie 3
+movie 1
+movies 1
+mr 5
+mrs 4
+mrs 1
+ms 2
+ms 1
+music 1
+name 16
+name 3
+needed 1
+newspaper 6
+newspapers 1
+nine 1
+novel 1
+object 1
+object 1
+objects 1
+occupation 1
+of 20
+on 1
+or 6
+owning 1
+page 2
+paper 7
+paper 3
+papers 1
+papers 1
+people 1
+person 1
+persons 1
+places 1
+poem 1
+point 1
+position 2
+preview 1
+profession 1
+property 1
+rank 1
+reading 1
+reason 1
+registration 1
+relationship 1
+s 1
+sale 1
+says 1
+sell 1
+sentence 1
+short 1
+sir 1
+sneak 1
+some 1
+someone 1
+something 6
+something 5
+song 1
+sort 1
+start 1
+status 1
+status 1
+stereotype 1
+stories 1
+story 2
+subject 1
+subject 1
+substance 1
+summarization 1
+sums 1
+tag 1
+tells 1
+the 13
+title 1
+titles 2
+to 8
+topic 1
+topic 1
+underlined 1
+up 1
+used 1
+usually 1
+way 1
+what 6
+whats 1
+win 1
+word 1
+words 1
+work 1
+writing 2
+you 4
+your 1

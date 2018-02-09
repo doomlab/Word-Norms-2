@@ -1,0 +1,144 @@
+ 19
+a 17
+age 1
+also 1
+and 2
+annoying 4
+associated 1
+austin 1
+be 3
+best 1
+big 1
+bigger 1
+biological 1
+blood 2
+bonding 1
+born 1
+boy 10
+boy 2
+brave 1
+brother 1
+brother 1
+bully 1
+can 4
+caring 1
+child 1
+close 2
+competition 1
+compliant 1
+connotations 1
+courage 1
+cousin 1
+crime 1
+family 12
+family 13
+fight 1
+for 1
+frat 1
+fraternity 1
+friend 9
+friend 1
+friendship 1
+from 2
+fun 1
+funny 1
+games 1
+generation 1
+genes 1
+genetics 1
+grown 1
+has 1
+hate 1
+have 2
+helpful 1
+hero 1
+humor 1
+i 2
+in 4
+inspiring 1
+is 10
+kin 1
+kind 1
+leader 1
+likes 1
+loss 1
+lovable 1
+love 7
+love 1
+loved 1
+loving 1
+loyal 2
+male 8
+male 1
+man 1
+mean 1
+mean 1
+member 1
+model 1
+mother 1
+my 1
+of 5
+often 1
+old 1
+older 7
+older 2
+one 1
+or 3
+pain 1
+parents 2
+parents 3
+part 2
+partner 1
+person 2
+pest 1
+playmate 2
+problem 1
+protect 1
+protection 1
+protective 4
+protective 1
+protector 2
+related 2
+relation 3
+relative 2
+relative 1
+religious 1
+role 1
+rough 1
+same 6
+shares 1
+sibling 23
+sibling 6
+siblings 1
+siblings 1
+similar 3
+sister 8
+sister 1
+sisters 1
+smile 1
+some 1
+someone 3
+stand 1
+strong 2
+strong 1
+sweet 1
+talk 1
+tall 1
+teacher 1
+that 2
+the 4
+to 3
+tough 1
+trustworthy 1
+unconditionally 1
+up 2
+used 1
+video 1
+who 2
+with 2
+you 2
+you 1
+young 1
+younger 6
+younger 2
+your 1

@@ -1,0 +1,14 @@
+pajamas clothing 5 
+pajamas two 8 
+pajamas pieces 8 
+pajamas shirt 13 
+pajamas pants 15 
+pajamas comfortable 15 
+pajamas soft 6 
+pajamas warm 12 
+pajamas cotton 8 
+pajamas silk 5 
+pajamas worn 10 
+pajamas night 10 
+pajamas worn 39 
+pajamas bed 29 

@@ -1,0 +1,217 @@
+ 50
+a 29
+also 1
+an 4
+and 4
+are 1
+artery 1
+avatar 1
+away 1
+bank 1
+bank 1
+bare 1
+bark 7
+bark 1
+bats 1
+be 5
+big 3
+birds 5
+birds 1
+branch 3
+branch 1
+break 2
+breaks 1
+broken 1
+brown 23
+brown 6
+buds 1
+bugs 1
+burned 1
+burns 1
+can 6
+carries 1
+center 1
+ceo 1
+climb 5
+climbing 2
+color 1
+comes 3
+companies 1
+company 2
+connected 1
+continues 1
+corporate 1
+court 1
+covered 1
+cut 1
+deion 1
+derive 1
+different 2
+down 1
+durable 1
+employees 1
+extension 2
+extension 1
+extensions 1
+fall 1
+family 3
+farthest 1
+fire 1
+firewood 2
+food 1
+football 1
+for 3
+found 1
+from 4
+fruit 2
+fruits 1
+functional 1
+gets 1
+government 3
+green 1
+grow 1
+grows 3
+growth 1
+hang 2
+hanging 2
+hangs 1
+hard 4
+hard 1
+has 6
+have 1
+heart 1
+heat 1
+heavy 1
+helpful 1
+hold 1
+holds 1
+holy 1
+in 7
+is 14
+it 4
+it 1
+item 1
+its 2
+large 1
+leaf 2
+leaf 1
+leafs 1
+leafy 1
+leave 1
+leaves 25
+leaves 4
+light 1
+lightening 1
+like 1
+limb 5
+limbs 1
+little 1
+living 1
+location 2
+long 11
+made 4
+main 2
+make 2
+may 1
+meal 1
+michelle 1
+military 1
+monkeys 2
+moves 1
+movie 1
+nature 1
+nest 2
+nests 2
+nicodemus 1
+ninjas 1
+not 2
+of 31
+off 6
+office 2
+office 1
+often 1
+on 19
+on 1
+one 2
+or 2
+organism 1
+organization 1
+out 1
+out 1
+outward 1
+owls 1
+oxygen 1
+paper 1
+park 1
+part 12
+parts 1
+path 1
+photosynthesis 1
+piece 2
+politics 1
+previous 1
+protects 1
+reach 1
+reaching 1
+rope 1
+rough 1
+sap 1
+scattered 1
+segment 1
+segment 1
+services 1
+set 1
+short 4
+sit 1
+sitting 1
+skinny 1
+small 4
+smaller 1
+solid 1
+something 3
+stand 1
+stick 1
+stick 1
+sticks 1
+sticky 1
+stomp 1
+strong 3
+sturdy 1
+supports 1
+sways 1
+swing 4
+switch 2
+system 1
+takes 1
+tangled 1
+tarzan 1
+textured 1
+than 1
+that 3
+the 15
+their 1
+them 1
+thick 3
+thin 4
+things 2
+to 6
+trail 1
+tree 71
+tree 8
+trees 8
+trunk 1
+twig 1
+twig 2
+twigs 1
+use 1
+used 2
+usually 3
+water 1
+way 1
+which 1
+wind 1
+winter 2
+with 2
+wood 11
+wood 2
+your 1

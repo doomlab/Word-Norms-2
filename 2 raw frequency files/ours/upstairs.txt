@@ -1,0 +1,167 @@
+ 16
+2 1
+a 26
+above 15
+accessed 1
+air 1
+also 1
+an 9
+and 1
+any 2
+are 2
+are 1
+at 8
+at 1
+attic 1
+authority 3
+authority 2
+banister 1
+be 2
+bedrooms 2
+bottom 1
+brain 1
+building 6
+building 1
+by 1
+called 1
+can 1
+cant 1
+cement 1
+climb 4
+command 1
+connecting 1
+construct 1
+current 1
+difficult 1
+directly 1
+dominant 1
+downfloor 1
+easy 1
+elevated 1
+elevated 1
+elevation 1
+first 3
+fist 1
+floor 22
+floor 7
+floors 1
+go 3
+god 1
+going 1
+ground 3
+ground 1
+have 2
+having 1
+head 1
+heavenly 1
+hierarchy 1
+high 2
+higher 16
+home 1
+house 4
+house 1
+in 13
+inclines 1
+informal 1
+is 8
+it 1
+ladders 1
+landing 1
+leg 1
+level 12
+level 3
+like 1
+little 1
+located 1
+location 1
+made 1
+make 1
+making 1
+mans 1
+matter 1
+may 1
+means 1
+military 1
+mind 3
+mind 1
+more 1
+most 1
+move 1
+next 2
+not 1
+of 15
+office 1
+on 16
+one 2
+or 22
+other 1
+overhead 1
+pain 1
+part 3
+path 1
+place 1
+position 2
+positions 1
+present 1
+reference 1
+refers 1
+respect 1
+roof 2
+room 1
+run 1
+s 2
+see 3
+set 1
+shops 1
+situated 1
+slang 1
+someone 1
+staircase 3
+stairs 10
+stairs 3
+stairway 1
+steel 1
+steps 6
+steps 2
+story 2
+take 2
+takes 1
+temple 1
+terms 1
+than 2
+that 3
+the 30
+them 2
+thing 1
+this 1
+those 1
+three 1
+through 1
+to 30
+toilet 1
+top 3
+top 1
+toward 1
+towards 2
+up 13
+upper 20
+upper 1
+upperfloor 1
+upperfloor 1
+upstair 1
+upstairs 4
+upstairs 1
+upwards 2
+upwards 1
+use 2
+usually 2
+very 1
+walk 1
+weak 1
+what 1
+where 3
+who 1
+with 1
+wood 1
+woods 1
+you 3

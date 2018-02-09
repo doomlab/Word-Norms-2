@@ -1,0 +1,17 @@
+parakeet bird 30 
+parakeet pet 11 
+parakeet chirps 6 
+parakeet eats 10 
+parakeet eats 18 
+parakeet seeds 8 
+parakeet flies 12 
+parakeet sings 8 
+parakeet talks 16 
+parakeet beak 9 
+parakeet feathers 13 
+parakeet wings 10 
+parakeet colorful 22 
+parakeet loud 6 
+parakeet small 5 
+parakeet tropical 8 
+parakeet cages 15 

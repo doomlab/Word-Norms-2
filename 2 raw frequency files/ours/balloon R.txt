@@ -1,0 +1,180 @@
+ 14
+99 1
+a 7
+air 24
+air 3
+an 1
+and 4
+animals 4
+animals 2
+are 1
+at 5
+attached 2
+away 1
+away 1
+ball 1
+balloon 4
+balloon 1
+balloons 1
+be 8
+big 3
+big 1
+birthday 4
+birthday 1
+birthdays 3
+bladders 1
+blow 3
+blown 2
+by 1
+can 10
+car 1
+caring 1
+carnivals 1
+carnivals 1
+celebrate 1
+celebrating 1
+celebration 3
+celebrations 2
+childhood 1
+children 2
+children 1
+circular 1
+circus 1
+clown 1
+clowns 7
+clowns 1
+color 1
+colored 1
+colorful 9
+colorful 1
+colors 5
+colors 1
+contain 1
+containing 2
+contains 1
+cool 1
+decoration 1
+decoration 1
+decorations 1
+deflates 1
+different 5
+down 1
+elastic 1
+entertains 1
+expand 1
+expands 1
+expansion 1
+fair 1
+fairs 1
+festivities 1
+filed 1
+fill 1
+filled 9
+flies 1
+flies 1
+float 7
+float 2
+floating 3
+floats 5
+fly 1
+for 1
+found 4
+full 1
+fun 2
+get 1
+given 2
+go 1
+happiness 1
+happy 1
+happy 1
+have 2
+held 1
+helium 17
+helium 7
+hot 2
+in 3
+inflate 1
+inflated 1
+inflates 2
+instrument 1
+into 1
+is 3
+it 1
+kids 7
+kids 1
+latex 4
+letting 1
+light 2
+lighter 1
+like 1
+little 1
+lots 1
+loud 2
+love 1
+made 6
+many 1
+materials 1
+multi 1
+object 3
+of 10
+on 1
+or 3
+oxygen 1
+parades 1
+parks 1
+parties 7
+parties 2
+party 3
+party 5
+piece 1
+pig 1
+plastic 1
+plastic 1
+pop 8
+pop 1
+popping 1
+process 1
+red 2
+red 1
+round 7
+rubber 10
+shaped 1
+shapes 1
+sizes 1
+small 2
+small 1
+so 1
+something 1
+something 1
+static 2
+stores 2
+stretchy 1
+string 5
+string 1
+substance 1
+symbol 1
+teardrop 1
+than 1
+that 3
+the 3
+them 3
+them 1
+theme 1
+thing 1
+tied 3
+to 7
+toy 1
+travel 1
+up 3
+up 2
+used 3
+usually 2
+water 1
+weather 1
+weight 1
+weightless 1
+well 1
+which 1
+with 13
+words 1
+you 1

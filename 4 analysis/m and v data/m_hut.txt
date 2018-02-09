@@ -1,0 +1,6 @@
+hut house 18 
+hut small 17 
+hut humans 5 
+hut grass 5 
+hut straw 8 
+hut wood 13 

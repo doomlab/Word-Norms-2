@@ -1,0 +1,17 @@
+spear weapon 23 
+spear handle 6 
+spear head 10 
+spear pointed 11 
+spear end 11 
+spear wooden 6 
+spear handle 12 
+spear dangerous 8 
+spear long 14 
+spear primitive 7 
+spear sharp 11 
+spear thin 5 
+spear wood 5 
+spear throwing 14 
+spear fishing 5 
+spear hunting 24 
+spear killing 8 

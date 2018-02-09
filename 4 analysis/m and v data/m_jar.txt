@@ -1,0 +1,16 @@
+jar container 12 
+jar label 5 
+jar lid 29 
+jar screw 6 
+jar lid 35 
+jar breakable 10 
+jar transparent 5 
+jar glass 27 
+jar plastic 5 
+jar holding 5 
+jar food 5 
+jar holding 15 
+jar jam 10 
+jar holding 38 
+jar things 23 
+jar preserves 8 

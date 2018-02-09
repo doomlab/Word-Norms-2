@@ -1,0 +1,217 @@
+ 46
+a 19
+able 1
+accessories 1
+action 3
+adorable 2
+american 1
+an 2
+and 4
+animal 1
+animal 1
+antique 1
+arms 1
+asian 1
+associated 1
+babies 3
+baby 9
+baby 1
+barbie 22
+barbie 4
+batman 1
+be 1
+beach 1
+being 1
+black 2
+blink 1
+blonde 3
+blow 1
+body 1
+bottles 1
+bratz 1
+broken 1
+by 1
+cabbage 1
+calming 1
+can 1
+car 1
+cars 1
+characters 1
+child 6
+childhood 1
+children 5
+chuckie 1
+chucky 1
+cloth 2
+clothes 5
+clothes 1
+collected 1
+collectible 2
+combing 1
+comforting 1
+companion 1
+cotton 1
+creation 1
+cry 1
+cuddle 1
+cute 3
+depending 1
+diapers 1
+diapers 1
+doll 9
+doll 2
+dolls 2
+dress 11
+dress 1
+dresses 3
+dresses 1
+dressing 1
+earrings 1
+easily 1
+entertaining 1
+entertainment 1
+expansion 1
+eyes 2
+fabric 1
+fake 2
+features 1
+female 1
+fibers 1
+figure 2
+figures 1
+films 1
+for 7
+fragile 2
+friend 1
+friends 1
+fun 3
+functional 1
+g 1
+gi 1
+girl 18
+girls 25
+girls 1
+girly 1
+girly 2
+hair 11
+hair 1
+happy 1
+hard 1
+has 4
+have 2
+hispanic 1
+horror 1
+house 4
+human 2
+i 1
+imagination 1
+imitation 1
+in 1
+inanimate 1
+is 11
+it 1
+item 1
+joe 2
+ken 6
+kids 2
+large 1
+legs 1
+like 3
+little 17
+living 1
+long 3
+looks 1
+love 1
+made 7
+makeup 1
+malibu 1
+mannequin 1
+mart 1
+materials 1
+minaj 1
+mini 2
+miniature 2
+mom 1
+movable 1
+my 1
+nails 1
+name 1
+new 1
+nicki 1
+object 1
+of 9
+on 1
+or 2
+out 1
+outfits 1
+patch 1
+people 1
+perfect 2
+person 4
+pink 2
+plastic 9
+plastic 2
+play 18
+played 1
+playful 1
+playhouse 1
+playing 1
+plays 2
+plush 1
+ply 1
+pockets 1
+polly 1
+porcelain 2
+portrays 2
+pretty 9
+rag 2
+rag 1
+real 2
+replica 1
+replica 1
+rubber 1
+s 7
+scary 2
+section 1
+shoes 1
+simulates 1
+sister 1
+skirts 1
+sleep 1
+small 5
+smile 1
+soft 2
+soft 1
+something 2
+spiderman 1
+stores 1
+stuffed 1
+stupid 1
+that 2
+them 3
+thing 1
+to 5
+toy 27
+toy 6
+toys 2
+toys 1
+unblinking 1
+up 8
+up 2
+used 2
+usually 3
+usually 1
+valuable 1
+various 1
+wal 1
+we 1
+wear 2
+wears 2
+weird 1
+what 1
+when 1
+where 1
+white 3
+with 12
+with 4
+young 2

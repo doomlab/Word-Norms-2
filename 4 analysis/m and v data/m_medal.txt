@@ -1,0 +1,16 @@
+medal prize 7 
+medal reward 6 
+medal award 8 
+medal achievements 8 
+medal Olympics 5 
+medal winning 9 
+medal ribbon 9 
+medal engraved 5 
+medal round 5 
+medal bronze 16 
+medal gold 18 
+medal metal 6 
+medal silver 16 
+medal worn 9 
+medal around 9 
+medal neck 9 

@@ -1,0 +1,12 @@
+skateboard board 8 
+skateboard four 16 
+skateboard wheels 16 
+skateboard wheels 46 
+skateboard fast 5 
+skateboard long 7 
+skateboard wood 16 
+skateboard children 6 
+skateboard riding 6 
+skateboard performing 10 
+skateboard tricks 10 
+skateboard transportation 11 

@@ -1,0 +1,12 @@
+cigar ca 11 
+cigar cancer 11 
+cigar smoke 15 
+cigar brown 16 
+cigar expensive 5 
+cigar large 5 
+cigar long 5 
+cigar smelly 20 
+cigar thick 5 
+cigar Cuba 10 
+cigar tobacco 15 
+cigar smoking 19 

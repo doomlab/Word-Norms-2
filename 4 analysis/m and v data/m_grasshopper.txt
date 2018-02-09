@@ -1,0 +1,14 @@
+grasshopper insect 25 
+grasshopper eats 6 
+grasshopper flies 5 
+grasshopper jumps 23 
+grasshopper summer 8 
+grasshopper antennae 5 
+grasshopper legs 12 
+grasshopper long 9 
+grasshopper legs 21 
+grasshopper wings 7 
+grasshopper edible 8 
+grasshopper green 26 
+grasshopper small 7 
+grasshopper grass 18 

@@ -1,0 +1,17 @@
+gun weapon 11 
+gun rifle 5 
+gun trigger 8 
+gun fires 19 
+gun fires 36 
+gun bullets 17 
+gun black 8 
+gun dangerous 11 
+gun loud 7 
+gun metal 10 
+gun police 11 
+gun crimes 8 
+gun hunting 10 
+gun killing 18 
+gun protection 7 
+gun shooting 7 
+gun war 5 

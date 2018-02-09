@@ -1,0 +1,13 @@
+raccoon animal 23 
+raccoon eats 19 
+raccoon garbage 19 
+raccoon nocturnal 11 
+raccoon offspring 5 
+raccoon mask 7 
+raccoon tail 12 
+raccoon eyes 12 
+raccoon stripes 6 
+raccoon black 16 
+raccoon furry 13 
+raccoon small 7 
+raccoon white 8 

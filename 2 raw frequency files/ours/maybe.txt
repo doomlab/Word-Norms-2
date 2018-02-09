@@ -1,0 +1,145 @@
+ 22
+a 15
+about 1
+accept 1
+adverb 1
+after 1
+almost 1
+an 2
+and 2
+answer 3
+apparently 1
+are 1
+as 4
+available 1
+be 22
+be 3
+believe 1
+between 1
+but 3
+by 2
+can 6
+cannot 1
+cant 1
+cards 1
+caution 1
+certain 2
+certain 1
+certainly 1
+chance 2
+chance 2
+clear 1
+come 1
+commit 1
+conceivable 3
+conceivably 1
+confirmation 1
+correct 1
+could 9
+credible 3
+day 1
+decide 1
+definitely 1
+do 3
+doubt 5
+either 1
+element 1
+explained 1
+feasible 3
+fifty 2
+for 1
+future 1
+getting 1
+god 1
+good 1
+grammar 1
+hap 1
+happen 2
+happen 2
+held 1
+i 3
+imaginably 2
+impossibly 1
+in 3
+is 7
+it 7
+likely 2
+ll 1
+may 7
+maybe 4
+mayhap 1
+means 1
+mere 1
+might 8
+might 1
+negative 2
+neither 2
+no 1
+no 2
+nor 2
+not 18
+noun 1
+obtainable 3
+of 5
+one 1
+opinion 1
+options 1
+or 9
+peradventure 2
+peradventure 1
+perchance 5
+perhaps 20
+perhaps 5
+permitting 2
+permitting 1
+positive 2
+positive 1
+possibilities 1
+possibility 11
+possibility 2
+possible 5
+possibly 12
+possibly 3
+probability 1
+probable 4
+probable 1
+probably 3
+provides 1
+question 2
+saying 1
+so 1
+some 1
+somebody 1
+something 3
+something 1
+sometimes 3
+sure 10
+sure 2
+surely 1
+t 3
+the 3
+there 2
+things 1
+think 1
+to 7
+today 1
+tomorrow 2
+uncertain 2
+uncertainty 5
+uncertainty 3
+unlikely 1
+unsure 1
+used 2
+way 1
+we 1
+weather 3
+when 2
+which 1
+willing 2
+wind 1
+with 1
+won 2
+word 1
+word 1
+yes 3
+﻿possibility 1

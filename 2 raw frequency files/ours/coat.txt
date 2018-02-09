@@ -1,0 +1,164 @@
+ 16
+a 4
+all 1
+an 2
+and 6
+animal 1
+apparel 1
+are 3
+article 2
+be 3
+big 2
+bodies 1
+body 1
+buttons 1
+can 3
+carries 1
+closet 1
+cloth 2
+cloth 2
+clothes 1
+clothing 3
+clothing 3
+coat 3
+coat 1
+cold 13
+cold 3
+colors 4
+colors 1
+come 2
+comfort 1
+comfort 1
+comfortable 1
+cost 1
+cotton 2
+cover 1
+cover 1
+covering 1
+covering 1
+designs 1
+different 5
+dressy 1
+during 2
+elements 1
+elements 1
+expensive 1
+expensive 1
+fabric 1
+fabrics 2
+fashion 1
+feathers 1
+fleece 1
+fluffy 2
+for 4
+formal 1
+from 4
+fur 4
+fur 2
+furry 3
+fuzzy 1
+get 1
+goes 1
+has 3
+have 2
+heavy 5
+human 1
+in 11
+inexpensive 1
+insulation 1
+insulation 2
+is 4
+it 1
+jacket 6
+jacket 1
+keep 6
+keeps 8
+layer 1
+layers 1
+leather 1
+leather 1
+light 2
+long 4
+luxury 1
+made 1
+maintenance 1
+many 1
+material 1
+mountains 1
+noisy 1
+not 1
+object 1
+of 2
+on 1
+one 2
+or 1
+others 1
+outer 1
+over 1
+patterns 1
+pea 1
+person 1
+personal 1
+pockets 1
+polyester 1
+prints 1
+protect 2
+protection 1
+protects 2
+provides 1
+puffy 1
+put 1
+rack 2
+rain 4
+redcoats 1
+requires 1
+s 1
+seasonal 1
+shapes 1
+shelter 1
+shield 1
+shirt 1
+sleet 1
+sleeved 3
+sleeves 1
+snow 7
+snow 1
+soft 6
+some 4
+something 1
+statement 1
+stay 2
+style 1
+styles 2
+stylish 1
+suede 1
+summer 1
+symbolic 1
+synthetic 1
+than 1
+the 8
+they 1
+thick 3
+thicker 1
+thin 1
+time 1
+to 11
+track 1
+used 11
+varies 1
+warm 30
+warm 8
+warmth 16
+warmth 4
+wear 2
+weather 4
+weather 2
+what 1
+when 1
+wind 1
+windy 1
+winter 16
+winter 8
+wool 3
+worn 3
+you 11

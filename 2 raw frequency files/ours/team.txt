@@ -1,0 +1,166 @@
+ 17
+2 1
+a 19
+academic 1
+accomplish 3
+accomplishment 1
+achieve 1
+activities 1
+ages 1
+all 1
+ambition 1
+and 1
+as 1
+athletic 4
+baseball 1
+basketball 2
+basketball 1
+be 1
+bonding 2
+bonding 1
+bonds 1
+bonds 1
+boys 1
+business 1
+business 1
+can 2
+cause 1
+co 1
+coexistence 1
+collaborating 1
+collection 1
+coming 1
+common 5
+community 1
+competing 1
+competition 3
+competitive 1
+composed 1
+contains 1
+deal 1
+debate 2
+driven 1
+ed 1
+effort 1
+ensemble 1
+environments 1
+everyone 1
+family 1
+family 2
+feels 1
+football 1
+for 3
+found 2
+friends 1
+friends 1
+friendship 4
+friendships 1
+fun 1
+fun 1
+game 2
+girls 1
+goal 6
+goal 3
+group 19
+group 1
+groups 1
+hard 1
+have 1
+help 1
+helpful 1
+hockey 1
+i 1
+in 5
+includes 1
+individuals 2
+interest 1
+interests 1
+involves 1
+is 2
+jocks 1
+large 1
+leadership 1
+learn 1
+like 1
+losing 1
+loyalty 1
+made 1
+many 3
+mascot 1
+members 1
+men 1
+more 4
+multiple 1
+no 1
+number 1
+numerous 1
+of 13
+often 1
+one 7
+one 1
+or 1
+order 1
+organized 1
+others 1
+pack 1
+parts 1
+people 12
+people 3
+person 2
+placement 1
+play 3
+player 1
+players 3
+powerful 1
+purpose 1
+reliance 1
+rules 1
+same 1
+school 1
+second 1
+separate 1
+similar 1
+skinny 1
+soccer 1
+something 2
+something 1
+spirit 1
+sport 2
+sport 1
+sporting 1
+sports 19
+sports 7
+structured 1
+successful 1
+team 4
+team 2
+teammates 1
+teammates 1
+teamwork 3
+teamwork 1
+tennis 1
+than 3
+the 1
+theatre 1
+to 5
+together 16
+together 8
+tolerance 1
+toward 1
+towards 3
+unit 1
+unity 3
+unity 1
+up 1
+used 2
+volleyball 1
+who 1
+whole 1
+win 1
+winning 1
+with 4
+women 1
+work 9
+work 1
+working 18
+you 1

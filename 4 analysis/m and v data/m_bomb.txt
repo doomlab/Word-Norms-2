@@ -1,0 +1,17 @@
+bomb weapon 12 
+bomb dropped 6 
+bomb airplanes 6 
+bomb timer 5 
+bomb explodes 20 
+bomb dangerous 12 
+bomb destructive 11 
+bomb frightening 8 
+bomb lethal 6 
+bomb loud 6 
+bomb nuclear 12 
+bomb at 5 
+bomb Hiroshima 5 
+bomb dropping 8 
+bomb killing 13 
+bomb terrorism 6 
+bomb war 16 

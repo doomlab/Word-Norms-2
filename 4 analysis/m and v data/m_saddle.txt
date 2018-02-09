@@ -1,0 +1,11 @@
+saddle horses 5 
+saddle backs 5 
+saddle stirrups 12 
+saddle straps 6 
+saddle brown 10 
+saddle heavy 6 
+saddle leather 26 
+saddle sitting 10 
+saddle on 10 
+saddle riding 14 
+saddle horses 32 

@@ -1,0 +1,236 @@
+ 17
+2 1
+a 8
+abuse 1
+accomplish 1
+aggressive 3
+and 3
+anger 3
+angry 5
+angry 1
+another 1
+any 1
+argument 1
+arguments 1
+armed 1
+arrogance 1
+as 2
+at 1
+athletic 1
+bad 1
+badly 1
+beat 1
+believer 1
+big 1
+blood 2
+blue 1
+boxer 4
+boxer 1
+boxing 5
+boxing 5
+brave 2
+brave 2
+bravery 1
+bruises 3
+brutal 1
+buff 1
+built 1
+bull 2
+bully 2
+bully 2
+cage 2
+cage 2
+can 1
+cancer 2
+capable 1
+cause 1
+causes 1
+chuck 1
+cocky 1
+colors 1
+competitive 1
+confidence 1
+confident 2
+defend 1
+defends 1
+determined 2
+determined 1
+ding 1
+does 1
+doesn 2
+dog 1
+easily 1
+endurance 1
+endures 1
+fake 1
+fast 2
+fear 1
+female 1
+ferocious 1
+fierce 1
+fight 1
+fight 2
+fighter 1
+fighter 1
+fighters 1
+fighting 1
+fighting 1
+fights 4
+fire 6
+firefighter 1
+firefighter 1
+firemen 1
+fist 1
+for 2
+forces 1
+freedom 1
+from 1
+fury 1
+get 1
+gets 1
+give 3
+giving 1
+gloves 1
+hands 1
+hard 5
+hates 1
+helpful 1
+hit 1
+hits 1
+hitter 1
+honest 1
+hurt 1
+hurts 1
+in 4
+independent 1
+individual 1
+infantry 1
+intense 1
+irrationality 1
+is 10
+it 1
+jail 1
+jets 1
+jihadist 1
+job 1
+jousting 1
+kick 1
+lidell 1
+life 2
+lot 1
+lover 1
+lover 1
+mad 1
+male 1
+man 1
+mean 3
+mean 1
+member 1
+men 1
+military 1
+mma 2
+mr 1
+muscles 2
+muscular 4
+muscular 1
+nobility 1
+not 2
+of 2
+one 1
+opposite 1
+or 3
+other 1
+others 1
+overcome 1
+own 1
+pain 2
+pain 1
+past 1
+peaceful 1
+peacekeepers 1
+people 3
+person 1
+physical 1
+physically 1
+pilot 1
+problems 1
+professional 1
+professional 1
+protective 1
+proud 1
+punch 3
+punch 1
+punches 1
+puts 1
+quick 1
+reaction 1
+really 1
+recreation 1
+red 1
+resilient 1
+respects 1
+ring 2
+risk 1
+rocky 1
+rough 1
+rude 1
+scary 1
+soldier 1
+solider 1
+solves 1
+some 1
+someone 9
+someone 1
+something 3
+something 1
+sounds 1
+sport 1
+strong 12
+strong 1
+survivor 2
+sweat 1
+sweaty 1
+swollen 1
+swords 1
+t 3
+takes 1
+terrorist 1
+the 2
+their 1
+things 1
+time 1
+to 4
+tough 6
+trained 1
+trains 1
+tries 1
+troubled 1
+trying 1
+type 1
+ufc 1
+unflinching 1
+up 3
+up 1
+uppercut 1
+upset 1
+used 1
+usually 1
+very 1
+victims 1
+violence 1
+violent 1
+voracious 1
+wants 2
+war 2
+wars 1
+weapons 1
+well 1
+who 7
+win 1
+with 1
+working 1
+works 1
+wrestler 1
+wrestler 1
+wrestling 3
+wwe 1

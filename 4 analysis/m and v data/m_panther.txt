@@ -1,0 +1,15 @@
+panther carnivore 14 
+panther cat 18 
+panther predator 7 
+panther animal 16 
+panther climbs 5 
+panther trees 5 
+panther hunts 6 
+panther four 7 
+panther legs 7 
+panther tail 5 
+panther black 23 
+panther fast 14 
+panther sleek 5 
+panther wild 10 
+panther jungles 5 

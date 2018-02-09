@@ -1,0 +1,12 @@
+crane_machine machine 6 
+crane_machine heavy 8 
+crane_machine large 18 
+crane_machine powerful 6 
+crane_machine yellow 6 
+crane_machine metal 16 
+crane_machine operators 10 
+crane_machine building 6 
+crane_machine construction 14 
+crane_machine lifting 19 
+crane_machine moving 5 
+crane_machine things 5 

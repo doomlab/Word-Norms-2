@@ -1,0 +1,14 @@
+bluejay bird 30 
+bluejay animal 7 
+bluejay builds 5 
+bluejay nests 5 
+bluejay flies 19 
+bluejay lays 7 
+bluejay eggs 7 
+bluejay sings 6 
+bluejay beak 15 
+bluejay feathers 10 
+bluejay wings 14 
+bluejay blue 26 
+bluejay pretty 5 
+bluejay small 5 

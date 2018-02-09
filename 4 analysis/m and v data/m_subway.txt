@@ -1,0 +1,15 @@
+subway train 10 
+subway cities 5 
+subway large 6 
+subway cities 11 
+subway graffiti 7 
+subway crowded 13 
+subway dirty 9 
+subway efficient 5 
+subway electrical 5 
+subway fast 16 
+subway loud 7 
+subway underground 22 
+subway train 15 
+subway passengers 14 
+subway transportation 16 

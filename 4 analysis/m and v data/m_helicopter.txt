@@ -1,0 +1,10 @@
+helicopter blades 9 
+helicopter propellers 11 
+helicopter flies 16 
+helicopter hovers 6 
+helicopter loud 14 
+helicopter metal 5 
+helicopter pilots 6 
+helicopter people 6 
+helicopter police 6 
+helicopter transportation 5 

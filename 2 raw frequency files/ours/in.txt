@@ -1,0 +1,235 @@
+ 15
+a 20
+abbreviation 1
+abstract 1
+accepted 1
+activity 1
+adverb 1
+all 2
+allow 2
+also 2
+am 1
+amid 1
+among 1
+an 3
+and 2
+another 1
+appears 1
+area 4
+as 1
+ask 1
+associated 1
+at 1
+be 3
+beyond 1
+bottom 1
+boundary 1
+bounds 1
+by 3
+can 1
+carried 1
+chemical 1
+chic 1
+chichi 2
+circumstance 1
+circumstances 1
+come 1
+conditions 1
+contemporary 2
+cool 1
+covered 1
+current 1
+customary 1
+dashing 2
+defined 1
+describing 1
+destination 1
+direction 1
+door 1
+drawer 1
+during 3
+earth 1
+eg 1
+element 1
+else 2
+enclosed 1
+english 1
+enter 2
+enter 2
+entering 1
+entering 1
+entry 1
+etc 1
+event 1
+exit 1
+expressing 2
+exterior 1
+faddy 2
+fashion 1
+fashionable 1
+favored 1
+fly 2
+for 1
+form 2
+forwards 1
+from 3
+function 1
+genteel 1
+get 2
+go 2
+gone 1
+grammar 1
+grammar 1
+groups 1
+hand 1
+having 1
+here 1
+here 1
+hide 1
+hip 1
+home 1
+home 1
+honor 1
+hot 2
+hotels 1
+house 1
+i 1
+immaterial 1
+implies 2
+in 29
+in 2
+inch 2
+included 1
+inclusion 6
+indicate 10
+indium 2
+inner 2
+inner 1
+inside 20
+inside 2
+internal 1
+into 5
+into 1
+involved 1
+is 5
+it 1
+its 2
+la 1
+last 1
+latest 4
+length 1
+let 1
+liked 1
+limit 2
+limitation 1
+limits 5
+location 1
+mean 2
+means 3
+means 1
+measurement 1
+metal 1
+minute 1
+mod 2
+mode 1
+modern 2
+modish 3
+motion 1
+moving 2
+my 1
+natty 1
+natty 1
+near 1
+new 2
+newfangled 3
+not 2
+now 1
+object 2
+occupation 1
+occurrence 1
+of 18
+of 1
+one 1
+opposite 3
+or 24
+out 2
+out 1
+outside 2
+outside 1
+part 1
+people 1
+period 1
+place 8
+point 3
+popular 2
+posh 1
+position 1
+preposition 4
+preposition 3
+present 1
+prevailing 1
+process 1
+protest 1
+purpose 1
+put 1
+qualification 1
+rage 2
+rakish 1
+reached 1
+reference 3
+relation 1
+same 1
+selected 1
+sense 1
+shop 1
+short 1
+shows 2
+side 1
+side 1
+significance 1
+sit 1
+situation 1
+smaller 1
+smart 2
+some 2
+somebody 1
+something 7
+something 6
+space 6
+space 1
+speaking 1
+specific 2
+state 2
+style 2
+style 1
+surrounded 1
+swanky 1
+symbol 1
+table 1
+that 2
+the 20
+thing 5
+through 2
+time 3
+time 1
+to 27
+towards 1
+transition 1
+trendy 2
+trig 1
+under 2
+unit 2
+up 1
+upscale 1
+used 8
+using 1
+usually 1
+vogue 1
+walk 1
+water 1
+well 1
+with 7
+within 11
+within 1
+word 2
+work 1

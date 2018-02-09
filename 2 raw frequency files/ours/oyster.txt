@@ -1,0 +1,184 @@
+ 15
+a 21
+accomplish 1
+adhering 2
+advantage 2
+an 12
+and 2
+animal 6
+any 5
+aquatic 1
+are 2
+as 1
+attached 1
+attempt 1
+back 2
+bathysphere 1
+be 1
+beach 1
+bed 2
+bird 1
+bit 1
+bivalve 8
+bone 1
+bottom 2
+brackish 2
+bright 1
+by 1
+calcified 1
+can 2
+clam 1
+closemouthed 1
+coastal 1
+collect 3
+conatin 1
+consumed 1
+contains 1
+cooked 2
+crab 1
+crawfish 1
+creature 2
+dark 1
+delicacy 1
+derive 2
+desire 1
+dive 1
+divers 1
+do 1
+each 1
+eat 2
+eat 1
+eaten 2
+eating 1
+edible 11
+edible 2
+eggs 1
+either 2
+esp 1
+etc 1
+extract 2
+family 3
+fish 3
+fish 1
+flattened 1
+food 5
+food 3
+for 5
+formed 1
+found 2
+fowl 1
+fowl 1
+fried 1
+fried 1
+from 4
+front 1
+game 1
+garner 3
+gather 3
+got 1
+green 1
+grilled 1
+habitats 1
+has 2
+have 1
+having 4
+highly 1
+hollow 1
+huitre 2
+humility 1
+in 11
+irregular 3
+irregularly 5
+is 3
+it 2
+item 1
+its 1
+kind 4
+lays 1
+live 2
+lives 3
+living 3
+located 1
+marine 5
+may 2
+meat 1
+mollusc 3
+mollusc 1
+mollusks 5
+moss 1
+mostly 1
+muscle 2
+non 1
+objects 2
+occurring 2
+ocean 5
+of 19
+on 4
+or 13
+organism 1
+ostreidae 3
+other 3
+oval 1
+oyster 4
+oysters 1
+pearl 6
+pearl 3
+pearls 2
+people 1
+person 3
+place 1
+produces 1
+producing 2
+pull 3
+raw 4
+rocks 3
+rough 2
+sea 10
+sea 2
+seafood 1
+secluded 1
+selfish 1
+served 1
+several 6
+shallow 2
+shaped 6
+shelfish 1
+shell 13
+shell 3
+shellfish 1
+shells 1
+side 2
+silky 1
+skin 1
+small 2
+something 2
+sometimes 2
+special 1
+symbol 1
+that 4
+the 14
+them 1
+to 6
+together 1
+together 2
+two 1
+type 2
+uncommunicative 1
+under 2
+unequal 1
+used 3
+valves 1
+various 1
+vegitarian 1
+water 5
+water 3
+waters 1
+we 1
+wet 1
+which 4
+white 4
+wings 1
+wisdom 1
+with 1
+yummy 1
+zone 1

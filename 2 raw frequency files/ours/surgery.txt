@@ -1,0 +1,316 @@
+ 49
+911 1
+a 11
+accident 1
+accompanies 1
+act 1
+again 1
+ailments 1
+all 1
+an 4
+anatomy 2
+and 2
+anestesia 1
+anesthesia 6
+anesthesia 1
+anesthetic 2
+anesthetic 1
+anesthetics 1
+anethethisa 1
+animals 2
+anistesia 1
+another 1
+asleep 1
+at 1
+attempt 1
+attention 1
+avoid 1
+b 1
+back 1
+bad 1
+be 3
+because 1
+bed 2
+being 1
+blood 12
+bloody 2
+blue 1
+bodies 2
+body 6
+body 1
+bones 1
+brain 2
+broken 1
+by 9
+can 5
+candy 1
+careful 1
+cause 3
+change 1
+changing 1
+clinic 1
+close 1
+cold 1
+colors 1
+complex 1
+complication 1
+correct 1
+correcting 1
+correction 1
+corrects 1
+costly 1
+could 1
+covered 1
+critical 1
+cut 9
+cuts 1
+cutting 2
+cutting 1
+dangerous 1
+death 8
+developed 1
+difficult 2
+doctor 19
+doctor 1
+doctors 19
+doctors 2
+done 5
+drills 1
+drugs 1
+either 1
+emergency 1
+enhancing 1
+environment 2
+er 1
+event 1
+expensive 2
+expensive 1
+expertise 1
+exploring 1
+face 1
+family 1
+fascinating 1
+fast 1
+fear 1
+fix 6
+fixed 1
+fixes 2
+fixing 3
+for 2
+from 1
+fun 1
+functional 1
+gashes 1
+getting 2
+gloves 2
+go 1
+god 1
+grey 1
+gum 1
+have 1
+healing 1
+health 3
+health 1
+heart 4
+help 1
+helpful 2
+helpful 1
+helping 1
+hope 1
+hopefully 1
+horrible 1
+hospital 17
+hospital 3
+hospitals 4
+humans 1
+hurt 1
+icu 1
+illness 1
+imperfections 1
+important 1
+important 1
+improve 1
+in 5
+incision 2
+incisions 1
+injury 2
+insides 2
+instruments 1
+insurance 1
+interesting 1
+internal 1
+internally 1
+introduced 1
+is 11
+issue 1
+issue 1
+it 3
+iv 1
+kidney 1
+knee 1
+knife 2
+knives 3
+knocked 1
+leaves 1
+life 4
+lights 2
+lives 1
+living 1
+long 2
+looks 1
+lots 1
+make 2
+makes 1
+making 1
+many 2
+mask 1
+medical 6
+medication 1
+medicine 5
+metal 1
+miracles 1
+money 1
+monitor 1
+nasty 1
+need 2
+needed 2
+needle 1
+needles 5
+needs 1
+nervous 2
+nurse 6
+nurses 6
+nurses 1
+o 1
+of 6
+often 1
+on 1
+one 1
+ones 1
+open 7
+operated 1
+operating 2
+operation 6
+operation 1
+or 5
+organ 2
+organism 1
+organs 2
+orthopedic 1
+ouch 1
+ouch 1
+out 4
+outcome 1
+outpatient 1
+outside 1
+over 1
+pain 7
+painful 6
+painful 3
+painkillers 1
+parts 1
+patient 3
+people 6
+perform 1
+performed 7
+person 1
+physically 1
+plastic 1
+potatoes 1
+precise 1
+preformed 1
+problem 3
+problem 1
+problems 3
+procedure 2
+procedure 1
+professional 1
+pulse 1
+put 5
+recovery 4
+recovery 2
+red 1
+red 1
+remove 2
+repair 5
+repairs 1
+replacement 1
+requires 1
+risky 1
+rolling 1
+room 2
+s 3
+safe 1
+save 1
+saves 2
+saving 1
+saw 1
+scalpel 3
+scalpel 1
+scalpels 1
+scalpul 1
+scapula 1
+scar 1
+scars 1
+scary 8
+scary 1
+scrubs 3
+sedation 1
+serious 2
+severe 1
+sew 1
+sharp 3
+sick 2
+sickness 2
+skin 1
+sleep 3
+sleepy 2
+smells 1
+solve 1
+someone 3
+something 6
+something 1
+sour 1
+staples 2
+sterile 4
+sterilizer 1
+stitches 9
+surgeon 3
+surgeon 2
+surgeons 1
+surgery 2
+surgery 1
+sweet 2
+take 1
+tasty 1
+teamwork 1
+the 4
+time 1
+tissues 1
+to 19
+together 1
+too 1
+tools 5
+try 1
+typically 1
+unconscious 1
+under 1
+undergo 1
+up 1
+use 1
+used 4
+utensils 1
+very 2
+well 1
+well 1
+whenever 1
+where 1
+white 2
+whole 1
+with 3
+worrying 1
+wounds 1
+wrong 1
+years 1
+you 3
+your 2

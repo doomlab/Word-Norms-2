@@ -1,0 +1,211 @@
+ 49
+2 1
+8 1
+a 7
+adhere 1
+adhesive 7
+adhesive 1
+and 1
+art 1
+as 1
+attach 1
+audio 1
+be 9
+binding 1
+black 2
+black 1
+blue 2
+bond 2
+bonding 1
+bonds 1
+boxes 1
+brands 1
+brown 1
+burglar 1
+can 9
+cassette 5
+cassette 1
+cd 2
+chairs 1
+cheap 1
+christmas 1
+circle 1
+clear 19
+clear 2
+close 1
+cloth 1
+color 1
+colored 2
+comes 5
+connect 3
+copy 1
+covers 1
+creates 1
+deck 1
+decorate 1
+desk 1
+device 1
+different 3
+doors 1
+double 4
+duck 11
+duct 7
+duct 1
+durable 1
+dvd 1
+easily 1
+either 1
+electrical 2
+film 1
+fix 3
+for 4
+functional 1
+game 1
+gifts 1
+glue 1
+gray 2
+handy 1
+hang 2
+hanging 1
+hangs 1
+helpful 1
+helps 1
+hold 7
+holding 2
+holds 12
+homicide 1
+in 6
+invisible 1
+is 9
+it 1
+keeps 1
+kinds 2
+like 1
+line 1
+line 1
+liquid 1
+listen 1
+long 3
+long 1
+made 1
+make 1
+many 1
+masking 7
+material 2
+materials 1
+medical 1
+mend 1
+mostly 1
+movie 2
+music 2
+music 1
+nails 1
+non 1
+notes 1
+objects 2
+of 1
+office 2
+often 1
+old 2
+on 4
+onto 1
+or 4
+order 1
+out 1
+package 2
+packages 1
+packages 1
+packing 1
+paper 5
+papers 1
+patch 1
+pictures 1
+piece 1
+place 1
+plastic 2
+player 1
+police 1
+present 1
+presents 2
+properties 1
+put 1
+putting 2
+radios 1
+record 2
+recorded 1
+recording 1
+recording 1
+rectangular 1
+red 1
+repair 2
+repairs 1
+rip 1
+rips 1
+roll 1
+rolls 2
+round 2
+s 1
+school 1
+scotch 7
+scotch 3
+seal 2
+see 1
+short 1
+sided 4
+signs 1
+something 6
+something 1
+spool 1
+stay 1
+stick 6
+sticky 41
+sticky 3
+strips 1
+strong 2
+stuff 2
+substance 1
+substitute 1
+supplies 1
+surgical 1
+tape 19
+tape 4
+tapes 2
+tear 1
+the 2
+thing 1
+things 27
+things 2
+through 1
+times 1
+to 18
+together 23
+together 4
+track 2
+transparent 1
+types 1
+unifies 1
+up 2
+up 2
+use 1
+used 19
+useful 2
+vcr 3
+video 5
+videos 1
+vinyl 1
+wall 1
+walls 3
+wasted 1
+watch 1
+watching 1
+which 1
+white 2
+wide 1
+with 1
+work 1
+worms 1
+wound 1
+wrapping 1
+wraps 1
+yellow 1
+you 3

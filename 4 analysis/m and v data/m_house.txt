@@ -1,0 +1,17 @@
+house house 7 
+house roof 9 
+house bathrooms 5 
+house bedrooms 5 
+house doors 8 
+house rooms 7 
+house windows 9 
+house expensive 5 
+house large 8 
+house small 6 
+house warm 6 
+house humans 5 
+house brick 12 
+house wood 8 
+house living 18 
+house in 18 
+house shelter 15 

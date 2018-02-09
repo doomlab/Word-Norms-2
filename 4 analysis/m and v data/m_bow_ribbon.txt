@@ -1,0 +1,9 @@
+bow_ribbon colors 12 
+bow_ribbon sizes 5 
+bow_ribbon gifts 21 
+bow_ribbon long 6 
+bow_ribbon red 9 
+bow_ribbon decoration 8 
+bow_ribbon tying 13 
+bow_ribbon worn 11 
+bow_ribbon hair 11 

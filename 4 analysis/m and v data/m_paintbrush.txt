@@ -1,0 +1,6 @@
+paintbrush sizes 10 
+paintbrush handle 11 
+paintbrush bristles 16 
+paintbrush long 6 
+paintbrush wood 7 
+paintbrush painting 23 

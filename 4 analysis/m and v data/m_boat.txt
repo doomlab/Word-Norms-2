@@ -1,0 +1,10 @@
+boat water 21 
+boat motor 15 
+boat sails 7 
+boat floats 12 
+boat small 6 
+boat wood 13 
+boat people 7 
+boat fishing 9 
+boat transportation 16 
+boat oceans 7 

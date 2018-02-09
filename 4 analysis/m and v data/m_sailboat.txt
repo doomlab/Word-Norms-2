@@ -1,0 +1,14 @@
+sailboat boat 6 
+sailboat sizes 6 
+sailboat water 21 
+sailboat mast 5 
+sailboat motor 7 
+sailboat sails 21 
+sailboat floats 11 
+sailboat large 12 
+sailboat small 6 
+sailboat wind 19 
+sailboat humans 6 
+sailboat leisure 8 
+sailboat sports 10 
+sailboat transportation 8 

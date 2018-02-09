@@ -1,0 +1,10 @@
+moth insect 20 
+moth eats 9 
+moth clothing 9 
+moth flies 19 
+moth attracted 14 
+moth light 14 
+moth wings 14 
+moth brown 6 
+moth grey 6 
+moth small 6 

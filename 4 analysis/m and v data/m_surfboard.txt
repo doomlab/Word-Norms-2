@@ -1,0 +1,13 @@
+surfboard colors 5 
+surfboard styles 6 
+surfboard fins 11 
+surfboard floats 8 
+surfboard flat 9 
+surfboard long 20 
+surfboard fiberglass 9 
+surfboard wood 5 
+surfboard waxing 9 
+surfboard standing 7 
+surfboard on 7 
+surfboard water 14 
+surfboard waves 13 

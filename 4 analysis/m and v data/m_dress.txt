@@ -1,0 +1,16 @@
+dress clothing 21 
+dress colors 5 
+dress styles 9 
+dress sleeves 6 
+dress expensive 6 
+dress feminine 10 
+dress formal 10 
+dress long 10 
+dress short 9 
+dress material 9 
+dress worn 8 
+dress girls 8 
+dress worn 23 
+dress women 15 
+dress worn 28 
+dress weddings 5 

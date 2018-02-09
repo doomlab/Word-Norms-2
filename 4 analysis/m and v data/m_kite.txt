@@ -1,0 +1,15 @@
+kite toy 7 
+kite colors 5 
+kite string 21 
+kite flies 15 
+kite wind 15 
+kite colorful 10 
+kite popular 15 
+kite diamond 5 
+kite paper 5 
+kite plastic 7 
+kite wood 5 
+kite wind 30 
+kite children 10 
+kite flying 8 
+kite playing 6 

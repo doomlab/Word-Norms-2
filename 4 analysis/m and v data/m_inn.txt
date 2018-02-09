@@ -1,0 +1,13 @@
+inn building 8 
+inn hotel 9 
+inn country 7 
+inn beds 5 
+inn food 10 
+inn rooms 15 
+inn small 9 
+inn as 9 
+inn place 9 
+inn stay 9 
+inn sleeping 12 
+inn in 12 
+inn vacations 7 

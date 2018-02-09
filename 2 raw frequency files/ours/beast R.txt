@@ -1,0 +1,202 @@
+ 48
+a 11
+abnormal 2
+acts 1
+actual 1
+ad 1
+aggressive 1
+an 5
+and 13
+angry 2
+animal 26
+animal 3
+animalistic 2
+animals 1
+are 1
+at 1
+athletes 1
+attack 1
+bad 1
+be 2
+bear 5
+bears 1
+beast 8
+beast 2
+beauty 20
+beauty 1
+big 22
+big 1
+bloody 1
+book 1
+bosh 1
+brown 1
+brute 2
+bryant 1
+can 1
+castle 1
+causes 1
+chris 1
+claws 2
+considered 1
+contrast 1
+control 1
+control 1
+crazy 1
+creature 5
+creature 4
+cruel 1
+dangerous 5
+describe 2
+destructive 1
+different 1
+disgusting 1
+disney 2
+dog 1
+don 1
+dwyane 1
+east 1
+evil 3
+fear 2
+ferocious 2
+fittest 1
+football 1
+forest 1
+four 1
+frightening 1
+from 1
+functional 1
+fur 1
+furry 2
+gargoyles 1
+generally 1
+gentle 2
+giant 1
+giant 1
+good 1
+gory 1
+hair 1
+hairy 12
+hairy 3
+harmful 1
+harry 1
+has 1
+have 1
+heat 1
+heavy 1
+hideous 1
+huge 3
+huge 1
+human 3
+hungry 1
+imaginary 2
+in 3
+inhumane 1
+instinct 1
+instinctive 1
+insult 1
+intimidate 1
+intimidating 1
+intimidating 1
+is 10
+james 1
+know 1
+kobe 1
+large 7
+large 1
+lebron 1
+legs 1
+like 1
+lion 3
+lions 1
+lives 1
+logic 1
+long 1
+look 1
+loud 1
+loud 1
+manly 1
+massive 1
+may 1
+me 1
+mean 4
+mean 2
+miami 1
+middle 1
+might 1
+misunderstood 1
+monster 17
+monster 5
+more 1
+movie 1
+movie 1
+muscular 2
+nasty 1
+nightmares 1
+nine 1
+no 1
+noisy 1
+not 3
+of 3
+on 2
+or 2
+out 1
+paws 1
+people 2
+person 1
+players 1
+pleasant 1
+powerful 1
+refer 1
+runs 2
+savage 2
+scary 27
+scary 3
+seen 1
+self 1
+sharp 2
+smells 1
+something 1
+sometimes 1
+songs 1
+sounds 1
+strength 1
+strong 10
+survival 1
+t 1
+tall 1
+tech 1
+teeth 4
+teeth 1
+terrible 1
+than 1
+that 2
+the 14
+the 1
+they 1
+thick 1
+threatening 1
+tiger 2
+tigers 1
+to 6
+tormenting 1
+tough 1
+tough 1
+type 1
+ugly 8
+ugly 1
+unattractive 1
+unknown 2
+unpleasant 1
+unpredictable 1
+unruly 1
+used 2
+very 1
+villain 1
+violent 1
+wade 1
+wanted 1
+who 2
+wild 8
+wild 1
+wolf 1
+you 1

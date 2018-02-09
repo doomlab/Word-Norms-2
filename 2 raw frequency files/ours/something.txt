@@ -1,0 +1,45 @@
+ 6
+a 7
+act 1
+additional 1
+amount 1
+an 3
+anything 1
+as 1
+certain 3
+consequence 1
+creativity 1
+cyclical 1
+describe 1
+designated 1
+event 1
+imagination 1
+indefinite 2
+indeterminate 1
+innovative 1
+is 4
+it 4
+item 1
+little 1
+no 1
+not 1
+nothing 1
+noun 1
+of 1
+or 6
+person 1
+real 1
+some 2
+specifically 1
+that 1
+thing 5
+thing 2
+thinking 1
+to 1
+truth 1
+undetermined 4
+unknown 3
+unspecified 3
+unspecified 1
+value 1
+word 1

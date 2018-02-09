@@ -1,0 +1,222 @@
+ 17
+a 10
+absolutely 2
+accord 4
+accounts 1
+accuracy 4
+accurate 19
+accurate 4
+actual 1
+adherence 1
+adjective 1
+admitting 2
+agreeing 3
+all 1
+amount 1
+amount 1
+an 7
+and 5
+answer 1
+any 3
+approximate 5
+approximate 1
+approximated 1
+as 9
+authority 1
+be 1
+being 1
+bullseye 1
+button 1
+by 9
+call 1
+can 1
+capable 2
+careful 1
+challenge 1
+characterized 7
+claim 1
+clear 2
+clock 1
+close 1
+coerce 1
+color 1
+completely 4
+confident 1
+conform 1
+conforming 2
+consummate 1
+content 1
+copy 1
+correct 22
+correct 4
+current 2
+cut 1
+dead 3
+debt 1
+definite 4
+definite 1
+degree 1
+demand 5
+description 1
+detail 3
+detail 1
+details 2
+deviating 5
+deviation 1
+deviation 1
+disciplinarian 1
+discipline 1
+distinct 1
+down 3
+downright 1
+error 2
+errors 1
+every 3
+exact 13
+exceeding 1
+excellent 1
+explicit 2
+express 2
+extort 3
+fact 6
+fact 1
+faithful 2
+falling 1
+fault 1
+fault 1
+faultless 2
+for 1
+force 4
+form 2
+from 5
+graph 1
+have 1
+he 1
+i 2
+ideal 1
+identical 2
+identity 1
+if 1
+in 13
+inaccurate 1
+incorrect 1
+indefinite 1
+inexact 1
+inferences 2
+is 2
+it 1
+item 1
+its 3
+just 2
+keeps 1
+laws 1
+less 1
+letter 1
+likeness 2
+literal 3
+location 1
+make 1
+margins 2
+match 2
+mean 1
+means 1
+measurements 2
+methodical 2
+money 2
+nailed 1
+necessary 1
+neither 1
+nice 1
+no 3
+nor 1
+not 9
+numbers 1
+oblige 1
+obtain 1
+of 12
+of 1
+on 7
+one 4
+opposed 3
+or 27
+ordered 1
+orderly 1
+outer 1
+paid 1
+particular 3
+particular 1
+payment 3
+perfect 7
+perfect 1
+perfectly 2
+point 2
+precise 18
+precise 1
+precisely 3
+property 1
+proportion 1
+put 1
+quantitative 1
+reality 2
+reality 2
+really 1
+refinement 1
+replica 1
+require 1
+requiring 2
+resemble 1
+respect 1
+right 7
+rigorous 3
+rules 1
+same 6
+same 1
+science 1
+severe 1
+shake 1
+sharp 1
+short 1
+similar 1
+size 1
+sloppy 1
+small 2
+so 1
+something 2
+specific 2
+specifically 1
+specified 1
+spot 1
+standard 3
+standards 1
+strict 5
+strictly 10
+sure 1
+take 1
+target 1
+that 1
+the 20
+time 1
+to 9
+true 3
+true 1
+truth 5
+truth 1
+understood 1
+unerring 1
+using 2
+value 1
+variation 1
+veracious 1
+verbatim 1
+very 2
+way 1
+when 1
+where 1
+wholly 1
+with 10
+without 2
+without 1
+word 1
+wring 1
+yielding 1
+you 1

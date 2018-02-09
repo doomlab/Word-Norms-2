@@ -1,0 +1,158 @@
+ 48
+a 3
+amber 1
+and 9
+apples 1
+associated 1
+aunt 5
+be 3
+biscuit 1
+blackish 1
+blueberry 2
+bottle 1
+breakfast 10
+breakfast 4
+brown 9
+brown 1
+butter 4
+buttersworth 1
+butterworths 2
+buttery 2
+calories 1
+can 3
+canada 2
+chocolate 1
+chugging 1
+codeine 1
+coffee 1
+cold 1
+color 1
+colors 1
+comes 2
+comforting 1
+corn 1
+dark 1
+dark 1
+delicious 1
+delicious 1
+different 1
+dressing 1
+drips 1
+early 1
+eat 2
+eaten 3
+edible 1
+edible 1
+fatty 1
+flavor 2
+flavored 1
+flavorful 1
+flavors 1
+flavors 1
+food 6
+foods 1
+foods 1
+for 3
+fork 1
+form 1
+french 1
+from 1
+fruit 1
+functional 1
+goes 1
+good 4
+gooey 2
+grandma 1
+gumtree 1
+has 1
+honey 2
+hot 2
+house 1
+ihop 2
+in 3
+is 12
+it 2
+item 1
+items 1
+jelly 1
+jemima 5
+juices 1
+ketchup 1
+knife 1
+light 1
+like 1
+liquid 1
+liquid 1
+many 2
+maple 18
+maple 1
+mart 1
+meals 1
+medicine 1
+messy 1
+milk 1
+molasses 4
+morning 2
+most 1
+mostly 1
+mrs 2
+natural 1
+of 3
+oj 1
+on 12
+oozy 1
+or 2
+pancake 5
+pancakes 41
+pancakes 6
+put 5
+reduced 1
+rich 1
+room 1
+runny 1
+s 1
+sap 1
+sausage 2
+season 1
+slow 2
+smooth 1
+stain 1
+sticky 32
+sticky 7
+strawberry 1
+substance 1
+sugar 11
+sugar 2
+sugary 5
+sugary 1
+sweet 29
+sweet 4
+sweetness 1
+syrup 2
+syrup 2
+tasty 3
+tasty 1
+temperature 1
+that 1
+the 1
+thick 11
+to 4
+toast 2
+top 2
+tree 1
+tree 2
+use 1
+used 10
+vanilla 1
+very 1
+viscose 1
+waffle 2
+waffles 20
+waffles 4
+wal 1
+warm 3
+watery 1
+what 1
+with 4
+you 1
+yummy 1

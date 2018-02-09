@@ -1,0 +1,198 @@
+ 24
+1 2
+a 20
+ache 4
+aching 1
+all 1
+also 2
+ameliorated 1
+an 2
+animals 1
+appetence 2
+appetency 2
+appetite 5
+appetition 1
+baby 1
+badly 1
+be 1
+beggar 1
+belly 1
+big 2
+body 2
+bottomless 3
+by 7
+caused 3
+churning 1
+collapse 1
+commonly 1
+compelling 2
+condition 1
+consequence 1
+coupled 1
+cramping 1
+crave 2
+craving 4
+cravings 1
+deep 1
+describe 1
+desire 14
+desire 2
+desiring 1
+diet 1
+discomfort 2
+drink 1
+drought 1
+due 2
+eat 2
+eat 4
+eaten 1
+eating 2
+eating 1
+emergencies 1
+emptiness 2
+empty 3
+esurience 1
+etc 1
+exhaustion 1
+experience 1
+eyes 4
+famine 3
+famish 1
+famishment 1
+fashion 1
+fasting 2
+feel 2
+feeling 7
+feels 1
+first 1
+food 31
+food 11
+for 28
+freed 1
+frequently 1
+from 4
+fulfilled 1
+gas 1
+glut 1
+gluttony 3
+greed 3
+greediness 2
+greediness 1
+had 1
+have 2
+haven 1
+having 1
+hobbies 1
+horrible 1
+hunger 17
+hungriness 3
+hungry 1
+hurt 1
+hurt 1
+hurts 1
+in 5
+indication 1
+insufficient 1
+intensely 1
+is 7
+it 2
+its 1
+jail 1
+knowledge 1
+lack 8
+life 1
+long 3
+longing 3
+love 1
+lust 3
+lust 1
+man 1
+mania 3
+meals 1
+meals 1
+money 1
+most 1
+munchies 3
+national 1
+need 9
+needing 2
+needs 5
+normally 2
+not 2
+nothing 1
+nourishment 1
+nutrients 1
+occasioned 2
+of 22
+one 2
+or 7
+other 1
+pain 1
+painful 1
+pang 1
+panting 1
+people 2
+physical 2
+pit 3
+poverty 1
+procurer 1
+ravenousness 1
+related 1
+remind 1
+requiring 1
+satiation 1
+satisfaction 1
+security 1
+see 1
+sensation 4
+shortage 3
+signal 1
+smart 2
+social 1
+something 3
+something 1
+species 1
+starvation 5
+starvation 1
+starve 2
+starve 1
+state 1
+stomach 7
+stomach 1
+strike 1
+strong 3
+success 1
+suffer 1
+sweet 3
+t 1
+term 1
+that 2
+the 13
+thirst 4
+thirstiness 1
+this 1
+time 2
+to 15
+tooth 2
+tooth 1
+uneasy 2
+used 1
+vacancy 1
+very 1
+void 2
+voracity 2
+walks 1
+want 5
+wanting 1
+was 1
+weak 1
+weakness 2
+what 2
+when 2
+while 1
+who 1
+winter 1
+with 1
+yearning 2
+yen 1
+you 2

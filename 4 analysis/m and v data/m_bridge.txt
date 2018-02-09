@@ -1,0 +1,16 @@
+bridge drawbridge 8 
+bridge over 27 
+bridge water 27 
+bridge large 8 
+bridge long 6 
+bridge small 5 
+bridge humans 8 
+bridge concrete 11 
+bridge metal 15 
+bridge wood 7 
+bridge cars 13 
+bridge people 10 
+bridge trains 7 
+bridge connecting 17 
+bridge land 17 
+bridge crossing 7 

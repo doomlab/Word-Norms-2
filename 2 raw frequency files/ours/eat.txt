@@ -1,0 +1,198 @@
+ 14
+a 6
+act 1
+action 1
+activity 2
+all 1
+americans 1
+an 2
+and 3
+animal 1
+animals 1
+appetite 1
+are 1
+at 2
+ate 1
+be 5
+body 2
+bored 1
+bread 1
+breakfast 3
+brunch 1
+cafeteria 1
+calories 1
+calories 1
+can 5
+candy 1
+cause 1
+cheese 1
+chew 3
+chew 2
+chewing 2
+choices 1
+cold 1
+consume 4
+consuming 1
+consumption 1
+consumption 1
+crave 1
+cream 2
+daily 2
+dairy 1
+day 1
+deals 1
+delicious 1
+delicious 2
+desert 1
+diets 1
+diets 1
+different 1
+digest 1
+digest 1
+digested 1
+digesting 1
+digestion 1
+dining 1
+dinner 4
+disorder 1
+do 5
+does 1
+done 2
+drink 3
+drinks 1
+eat 3
+eat 1
+eating 1
+energy 2
+essential 1
+everyone 1
+fat 4
+fat 2
+filling 1
+fingers 1
+food 48
+food 8
+foods 1
+for 4
+fork 1
+fruit 3
+fuel 1
+fulfilling 1
+full 1
+gain 1
+greasy 1
+grilled 1
+groups 1
+hamburger 1
+have 2
+health 1
+healthy 5
+home 1
+hot 1
+humans 1
+hunger 2
+hunger 2
+hungry 7
+hungry 4
+ice 2
+if 1
+in 2
+ingest 2
+intake 1
+into 2
+is 1
+it 2
+life 2
+liquids 1
+live 2
+live 2
+lot 2
+love 1
+lunch 3
+made 1
+materials 1
+may 1
+mcdonalds 1
+meal 1
+meals 1
+meat 1
+meat 2
+messy 1
+money 1
+mouth 5
+much 1
+multiple 1
+munch 1
+nasty 1
+necessary 1
+necessity 1
+need 1
+need 2
+new 1
+nourishment 5
+nourishment 1
+nutrition 2
+obtain 1
+of 6
+or 7
+orleans 1
+out 1
+part 1
+pasta 1
+pastime 1
+per 1
+plants 1
+plate 2
+plates 1
+pleasure 1
+pretzels 1
+process 1
+put 2
+putting 1
+requirement 1
+requires 1
+restaurant 1
+restaurants 1
+room 1
+satisfy 1
+satisfying 1
+silverware 1
+snack 1
+snack 1
+social 1
+something 3
+species 1
+starve 1
+starving 1
+substances 1
+survival 2
+survival 1
+sustains 1
+sustenance 1
+swallow 3
+swallowed 1
+swallowing 1
+table 1
+tasting 1
+tasty 1
+teeth 1
+that 1
+the 5
+times 1
+to 15
+too 1
+unhealthy 1
+unhealthy 1
+up 1
+use 2
+used 1
+used 1
+utensils 2
+vegetables 1
+veggies 1
+weight 1
+what 2
+when 2
+with 5
+you 7
+your 2

@@ -1,0 +1,16 @@
+crowbar tool 13 
+crowbar weapon 5 
+crowbar black 6 
+crowbar hard 8 
+crowbar heavy 11 
+crowbar long 9 
+crowbar metal 27 
+crowbar thieves 6 
+crowbar breaking 9 
+crowbar things 9 
+crowbar injuring 5 
+crowbar opening 6 
+crowbar things 15 
+crowbar prying 8 
+crowbar things 23 
+crowbar open 8 

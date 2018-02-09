@@ -1,0 +1,15 @@
+vest clothing 11 
+vest colors 10 
+vest zipper 7 
+vest buttons 12 
+vest no 17 
+vest sleeves 17 
+vest bulletproof 8 
+vest fashionable 5 
+vest fabrics 7 
+vest worn 15 
+vest keeping 15 
+vest warm 15 
+vest worn 20 
+vest over 5 
+vest clothes 5 

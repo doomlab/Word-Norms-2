@@ -1,0 +1,16 @@
+corkscrew bars 5 
+corkscrew kitchens 5 
+corkscrew curly 5 
+corkscrew end 5 
+corkscrew handle 6 
+corkscrew screw 8 
+corkscrew end 13 
+corkscrew metal 21 
+corkscrew twisting 5 
+corkscrew opening 6 
+corkscrew bottles 6 
+corkscrew opening 15 
+corkscrew wine 9 
+corkscrew bottles 15 
+corkscrew removing 18 
+corkscrew corks 18 

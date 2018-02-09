@@ -1,0 +1,253 @@
+ 19
+a 28
+accountability 2
+accountability 2
+act 6
+action 9
+actions 1
+ad 1
+allegiance 1
+amount 2
+an 10
+and 2
+any 1
+are 1
+area 2
+as 3
+assigned 1
+assignment 3
+at 1
+be 3
+binding 2
+blame 1
+burden 3
+business 2
+business 1
+by 15
+call 1
+calling 2
+certain 1
+certificate 1
+charge 4
+charged 1
+choice 1
+chore 2
+commission 3
+commitment 3
+committal 3
+compulsion 1
+conditions 1
+conduct 1
+conscience 2
+contract 1
+cost 1
+course 3
+court 1
+crop 2
+cultivate 1
+custom 3
+debt 2
+devoir 1
+disregard 1
+do 14
+do 1
+done 2
+done 1
+due 2
+due 1
+dues 2
+duty 8
+efficiency 1
+either 1
+elder 1
+employment 1
+energy 1
+engagement 1
+especially 1
+etc 1
+etc 1
+even 1
+expected 6
+export 1
+expressed 1
+expression 2
+faith 2
+faithfulness 1
+faithlessness 1
+feeling 1
+feels 1
+felt 1
+followed 1
+for 1
+force 2
+fulfill 1
+function 7
+given 2
+good 2
+goods 1
+government 2
+harvest 1
+has 3
+have 3
+held 1
+high 1
+honor 1
+honor 1
+honorable 1
+hook 1
+if 1
+immediate 1
+import 1
+imports 1
+imposed 1
+in 2
+inconstancy 1
+indebtedness 2
+indebtedness 1
+inner 1
+instructed 1
+instrument 2
+integrity 1
+interest 1
+irresponsibility 1
+irrigate 1
+is 19
+it 2
+job 8
+job 1
+jobs 1
+kind 1
+law 4
+legal 7
+legally 3
+liability 1
+live 1
+load 1
+loyalty 1
+machine 1
+mandatory 1
+means 1
+measure 1
+meet 1
+military 1
+millstone 1
+minding 1
+mission 1
+moral 11
+morally 3
+must 4
+necessary 1
+need 3
+ness 2
+no 1
+normally 1
+noun 1
+obedience 1
+obedient 1
+obligation 22
+obligation 3
+obligatory 2
+occupation 4
+occupation 1
+of 27
+office 3
+older 1
+on 3
+one 16
+ones 1
+onus 1
+or 38
+order 1
+other 1
+others 1
+ought 2
+our 1
+pains 1
+parent 1
+parents 1
+part 1
+payment 1
+people 2
+per 1
+perfect 1
+perfect 1
+perform 1
+perform 1
+performed 1
+period 1
+person 4
+pledge 2
+police 1
+position 6
+profession 1
+provide 1
+province 3
+re 1
+reason 1
+referring 1
+religion 1
+religion 2
+required 14
+respect 3
+respectful 1
+responsibility 17
+responsibility 4
+responsible 2
+reverence 1
+right 2
+role 1
+s 4
+sacrifice 1
+school 1
+self 1
+sense 3
+serve 1
+service 4
+shift 1
+should 1
+show 1
+social 3
+soldier 1
+some 1
+someone 1
+something 9
+specific 2
+specified 1
+staff 1
+store 1
+such 1
+superior 1
+supposed 3
+supreme 1
+tariff 1
+tariff 2
+task 13
+task 1
+tax 3
+that 17
+the 12
+they 1
+time 1
+to 27
+total 1
+toward 1
+treachery 1
+trust 1
+type 1
+under 1
+unit 1
+until 1
+used 1
+valorem 1
+volume 1
+water 2
+we 3
+weight 1
+what 7
+when 1
+which 1
+work 7
+work 3
+worship 1
+you 5
+yourself 1

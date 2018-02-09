@@ -1,0 +1,13 @@
+ant insect 18 
+ant bites 5 
+ant crawls 5 
+ant six 6 
+ant legs 6 
+ant antennae 5 
+ant black 15 
+ant red 9 
+ant small 18 
+ant strong 11 
+ant colony 8 
+ant hill 9 
+ant ground 12 

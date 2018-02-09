@@ -1,0 +1,117 @@
+ 8
+a 6
+all 1
+an 1
+and 4
+as 1
+between 1
+bracelets 1
+bring 1
+by 3
+cables 1
+can 1
+chop 1
+comma 1
+connect 1
+connection 1
+connection 1
+correction 1
+cut 13
+cut 6
+cuts 1
+cutting 1
+dice 1
+divide 1
+divide 1
+don 1
+done 1
+dumb 1
+ends 1
+food 1
+food 1
+for 1
+forensics 1
+friendship 1
+functional 1
+half 1
+half 1
+halves 1
+i 1
+ice 1
+in 5
+is 5
+join 2
+joins 1
+kill 1
+know 1
+made 2
+make 2
+material 1
+mending 1
+middle 1
+mixing 1
+movie 1
+movie 2
+music 1
+music 1
+object 1
+object 1
+of 3
+onions 1
+opens 1
+people 1
+piece 2
+place 1
+quick 1
+repair 1
+ropes 1
+sample 1
+science 1
+section 1
+separate 1
+sharp 3
+slice 2
+slice 2
+small 2
+so 1
+soda 1
+soft 1
+something 5
+something 2
+soup 1
+spice 1
+spice 1
+splice 1
+splice 2
+splicing 1
+splinter 1
+split 3
+split 2
+such 1
+t 1
+tape 1
+the 4
+then 2
+thin 1
+things 3
+think 1
+tiny 1
+tires 1
+to 7
+together 3
+together 3
+torn 1
+twist 1
+twisted 1
+two 3
+two 1
+unite 1
+unusual 1
+up 1
+used 1
+verb 1
+wires 1
+wires 1
+wood 1
+word 1
+wound 1

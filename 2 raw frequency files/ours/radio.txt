@@ -1,0 +1,223 @@
+ 16
+10 1
+5 1
+96 1
+a 8
+ability 1
+advertisement 2
+advertisement 1
+advertisements 1
+along 1
+am 5
+amp 1
+an 3
+and 4
+antenna 2
+anywhere 1
+artists 1
+b 1
+baseball 1
+bass 1
+batteries 1
+be 3
+before 1
+box 2
+broadcast 1
+broadcast 1
+broadcasting 1
+buttons 2
+by 1
+can 6
+car 8
+car 1
+cars 3
+cars 2
+cds 1
+channels 1
+christian 1
+classical 1
+comes 1
+commercials 3
+commercials 3
+communication 6
+communication 1
+compact 1
+contains 1
+costs 1
+country 3
+country 1
+cuba 1
+dance 1
+dated 1
+device 1
+dial 1
+different 2
+disagreeing 1
+discs 1
+dj 1
+dj 1
+djs 1
+driving 1
+electronic 1
+entertainment 1
+entertainment 1
+etc 1
+everywhere 1
+financed 1
+fm 4
+fm 2
+for 2
+form 1
+found 1
+free 1
+frequencies 1
+frequency 1
+friends 1
+from 1
+fun 1
+funny 1
+fuzzy 1
+giveaways 1
+gooding 1
+grants 1
+has 6
+have 1
+hear 2
+hip 2
+hop 1
+hop 1
+host 1
+host 1
+hosts 1
+house 1
+in 9
+information 2
+information 2
+instrument 1
+invented 1
+is 5
+it 1
+it 1
+jazz 1
+jr 1
+kind 1
+knob 2
+large 1
+like 1
+listen 10
+lot 1
+loud 3
+loud 1
+made 1
+many 1
+may 1
+media 2
+metal 1
+method 1
+money 1
+morning 1
+movie 2
+mp3 1
+music 42
+music 11
+musical 1
+musician 1
+must 1
+news 5
+no 1
+object 2
+obsolete 1
+of 11
+often 1
+on 1
+one 1
+or 2
+out 2
+overplayed 1
+people 1
+pitch 1
+plastic 1
+play 1
+players 1
+plays 3
+plugged 1
+prizes 1
+produces 1
+projects 1
+provides 2
+r 1
+radio 2
+radio 1
+rap 2
+receives 1
+rectangle 1
+rock 2
+rooms 1
+row 1
+school 1
+seek 1
+shoe 1
+show 4
+shows 7
+sing 1
+singing 2
+size 1
+small 1
+something 3
+sometimes 1
+song 1
+songs 4
+songs 1
+sound 3
+sounds 1
+speaker 1
+speakers 5
+speakers 1
+sports 2
+static 2
+station 1
+stations 6
+stations 2
+stereo 2
+stereos 1
+sub 1
+system 1
+talk 11
+tapes 1
+tastes 1
+tell 1
+that 1
+the 8
+them 1
+through 1
+time 1
+to 16
+tool 1
+transferring 1
+transmission 2
+tune 1
+tuner 1
+tv 1
+type 1
+urgent 1
+used 1
+usually 1
+variety 2
+volume 1
+waiting 1
+watching 1
+watts 1
+wave 2
+wave 2
+waves 1
+waves 1
+way 2
+where 1
+which 1
+while 1
+wide 1
+win 1
+with 2
+woofer 1
+you 1
+your 1

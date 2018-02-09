@@ -1,0 +1,197 @@
+ 48
+a 14
+after 1
+aids 1
+allergies 2
+aloe 1
+also 1
+always 2
+angel 1
+animals 1
+apart 1
+are 2
+at 1
+away 1
+bags 1
+bathroom 10
+be 4
+better 1
+biological 1
+blow 12
+blowing 5
+bodily 1
+body 9
+body 1
+booger 1
+boogers 2
+box 4
+box 2
+boxed 1
+brown 1
+buggers 1
+by 1
+calories 1
+can 5
+charmin 1
+clean 6
+clean 1
+cleaning 1
+cloth 2
+cloth 1
+cold 5
+color 1
+colorful 1
+comes 3
+comforting 1
+cover 1
+cry 1
+crying 4
+crying 2
+describe 1
+dirty 1
+disposable 1
+doesn 1
+drying 1
+during 1
+easily 1
+essential 1
+eyes 1
+face 3
+falls 1
+fat 1
+feel 1
+fiber 1
+fibers 1
+fixes 2
+flu 2
+fluffy 1
+fluids 1
+for 6
+form 1
+found 1
+functional 1
+funeral 1
+gently 1
+gland 1
+goodbye 1
+hankie 1
+hankies 1
+has 1
+have 1
+hello 1
+helpful 1
+hidden 1
+hypoallergenic 1
+if 1
+illness 2
+in 13
+inside 1
+is 8
+it 1
+item 1
+kleenex 13
+kleenex 2
+life 1
+lightweight 1
+long 1
+made 2
+makes 2
+material 2
+mother 1
+muscle 3
+mushy 1
+my 1
+napkin 1
+napkins 1
+napkins 1
+nose 26
+nose 9
+noses 1
+of 5
+one 1
+or 3
+organ 1
+organs 3
+out 1
+paint 1
+paper 14
+paper 3
+papery 1
+part 1
+pieces 1
+pink 1
+plied 1
+poop 1
+presents 3
+product 1
+puffs 4
+put 1
+red 1
+relieves 1
+restroom 1
+rolled 1
+rough 1
+runny 5
+s 2
+sad 1
+sadness 1
+sadness 1
+scar 2
+sheet 1
+sick 3
+sick 2
+sickness 1
+skin 2
+small 1
+smell 2
+sneeze 7
+sneeze 2
+sneezing 1
+sneezing 1
+snot 6
+snot 1
+soft 32
+soft 3
+someone 1
+spills 1
+store 1
+stuffy 1
+substances 1
+t 1
+tears 6
+tears 1
+term 1
+the 8
+thin 4
+thin 1
+throw 1
+tissue 3
+tissue 1
+to 9
+toilet 5
+towel 1
+trash 2
+unusable 1
+up 1
+upset 1
+use 3
+used 16
+using 1
+usually 1
+vera 1
+very 1
+warm 1
+what 1
+when 2
+white 16
+white 2
+winter 1
+winter 1
+wipe 3
+wipes 1
+with 1
+wound 1
+wrapping 2
+wrappings 1
+you 3
+your 9

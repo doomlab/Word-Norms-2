@@ -1,0 +1,17 @@
+pen colors 12 
+pen ball 7 
+pen point 7 
+pen cap 5 
+pen pointed 5 
+pen end 5 
+pen ink 24 
+pen blue 10 
+pen long 14 
+pen red 5 
+pen round 8 
+pen thin 8 
+pen metal 6 
+pen plastic 13 
+pen writing 5 
+pen writing 21 
+pen paper 5 

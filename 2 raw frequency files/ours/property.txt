@@ -1,0 +1,151 @@
+ 15
+a 12
+acres 1
+acres 1
+allowed 1
+an 2
+and 1
+animals 1
+are 1
+area 1
+arnt 1
+asset 2
+be 4
+belonging 3
+belongings 1
+belongings 2
+boat 2
+building 1
+building 1
+by 3
+can 1
+cannot 1
+car 3
+car 1
+carries 1
+cars 1
+caused 1
+certain 1
+characteristic 1
+characteristics 1
+clothing 1
+commercial 1
+community 1
+could 1
+country 1
+development 1
+disagreements 1
+estate 1
+expensive 1
+farm 1
+farm 1
+farming 1
+feature 1
+field 1
+free 1
+function 1
+games 1
+government 1
+grass 4
+has 5
+have 1
+having 1
+his 1
+home 2
+homestead 1
+house 11
+house 2
+houses 4
+in 2
+insurance 1
+is 8
+it 4
+items 1
+land 17
+land 7
+lawn 1
+limited 1
+many 1
+mass 1
+material 1
+math 1
+means 1
+mine 3
+money 2
+my 1
+no 2
+object 3
+objects 1
+obtain 1
+of 4
+on 1
+on 1
+or 3
+other 1
+out 1
+own 10
+own 7
+owned 9
+owned 1
+owner 1
+ownership 9
+ownership 5
+owning 1
+owns 2
+owns 1
+people 3
+person 3
+personal 4
+personal 1
+physical 1
+piece 1
+place 2
+pool 1
+posses 1
+possess 2
+possession 1
+possession 1
+possessions 2
+private 3
+property 1
+property 2
+protected 1
+real 1
+rent 1
+rental 1
+resource 1
+s 1
+sell 1
+sold 2
+sold 1
+someone 5
+something 9
+something 2
+space 2
+specific 1
+strive 1
+take 1
+taxes 3
+term 1
+territory 1
+that 3
+the 3
+their 1
+they 1
+things 1
+to 9
+toys 1
+trees 1
+trespassers 1
+trespassing 1
+trespassing 1
+trying 1
+used 1
+valuable 1
+value 2
+value 2
+valued 1
+what 4
+when 1
+you 11
+yours 2

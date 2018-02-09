@@ -1,0 +1,12 @@
+squid fish 5 
+squid seafood 7 
+squid shoots 6 
+squid ink 6 
+squid swims 9 
+squid tentacles 15 
+squid edible 18 
+squid slimy 6 
+squid oceans 10 
+squid saltwater 5 
+squid seas 5 
+squid water 13 

@@ -1,0 +1,16 @@
+leave action 7
+leave animal 1
+leave change 1
+leave location 1
+leave destination 8
+leave exit 10
+leave express 2
+leave intentional 7
+leave leg 1
+leave location 6
+leave move 5
+leave something 1
+leave take 1
+leave off 1
+leave travel 1
+leave walk 3

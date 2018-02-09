@@ -1,0 +1,16 @@
+flamingo bird 18 
+flamingo animal 5 
+flamingo flies 11 
+flamingo stands 8 
+flamingo one 8 
+flamingo leg 8 
+flamingo beak 11 
+flamingo long 6 
+flamingo neck 6 
+flamingo feathers 7 
+flamingo long 22 
+flamingo legs 16 
+flamingo pink 23 
+flamingo warm 6 
+flamingo climates 6 
+flamingo water 5 

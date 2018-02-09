@@ -1,0 +1,13 @@
+rhubarb fruit 8 
+rhubarb vegetable 16 
+rhubarb grows 17 
+rhubarb gardens 17 
+rhubarb leaves 9 
+rhubarb crunchy 5 
+rhubarb edible 12 
+rhubarb green 13 
+rhubarb long 5 
+rhubarb red 16 
+rhubarb tastes 7 
+rhubarb sour 7 
+rhubarb pies 20 

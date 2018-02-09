@@ -1,0 +1,10 @@
+pipe_smoking smoke 7 
+pipe_smoking smelly 7 
+pipe_smoking wood 6 
+pipe_smoking inhaling 6 
+pipe_smoking old 5 
+pipe_smoking men 5 
+pipe_smoking smoking 5 
+pipe_smoking drugs 5 
+pipe_smoking smoking 23 
+pipe_smoking tobacco 18 

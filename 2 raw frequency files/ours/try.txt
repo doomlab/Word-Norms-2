@@ -1,0 +1,220 @@
+ 12
+a 13
+abstain 1
+accomplish 5
+accomplish 1
+accuracy 2
+achieve 3
+achieving 1
+act 1
+act 1
+action 2
+adapt 1
+adjudicate 1
+adjudicate 1
+afflict 1
+again 2
+again 3
+aim 4
+all 1
+an 24
+and 1
+annoyance 1
+another 1
+any 1
+appraise 1
+as 2
+assay 2
+at 3
+attempt 29
+attempt 2
+attempts 1
+be 1
+best 2
+bid 1
+british 1
+by 6
+chance 1
+clarification 1
+continue 1
+corn 1
+court 1
+crack 1
+crucify 1
+dab 2
+decide 1
+delight 1
+determine 1
+divide 1
+do 16
+doing 1
+don 1
+door 1
+effect 2
+effort 21
+effort 5
+efforts 1
+endeavor 9
+energy 1
+english 1
+essay 3
+etc 4
+evaluate 3
+exam 1
+examine 4
+excruciate 1
+experience 2
+experience 1
+experiment 4
+experimentation 1
+extra 1
+failure 1
+find 1
+fitness 2
+fling 1
+follow 1
+followed 2
+for 2
+forth 1
+frequently 1
+from 2
+get 1
+giving 2
+go 1
+good 1
+got 1
+harass 1
+hard 1
+have 2
+hear 1
+hopes 1
+idea 1
+in 4
+inconvenience 1
+individual 1
+inspect 1
+investigate 1
+irritate 1
+is 4
+it 3
+its 1
+jab 1
+judge 3
+last 1
+law 1
+laziness 1
+legal 1
+loose 1
+make 14
+making 2
+may 1
+me 1
+means 1
+mental 1
+method 1
+new 1
+observe 1
+of 7
+often 1
+on 2
+one 3
+open 1
+opportunity 1
+or 17
+our 2
+ourself 1
+out 8
+people 1
+peoples 1
+perfect 1
+physical 1
+pick 1
+plaque 1
+please 1
+point 1
+pop 2
+practice 1
+practices 1
+proof 2
+prove 2
+proverb 1
+pull 1
+put 8
+qualities 1
+quality 3
+recipe 1
+render 1
+result 2
+rugby 1
+s 1
+sample 2
+sample 1
+say 1
+seek 5
+seek 1
+separate 1
+shot 4
+sift 1
+slang 1
+slap 1
+something 3
+something 4
+sort 1
+spoonful 1
+stab 1
+strain 1
+stress 2
+strive 4
+striving 2
+struggle 4
+subject 1
+succeed 1
+succeed 2
+success 2
+success 1
+t 1
+task 1
+task 2
+taste 1
+tax 1
+tell 1
+test 12
+test 3
+testing 1
+that 1
+the 12
+there 1
+think 1
+this 1
+to 66
+touchdown 1
+trial 2
+trial 2
+trials 2
+trouble 1
+try 13
+trying 1
+undertake 2
+undertaking 2
+unsuccessful 1
+until 1
+used 1
+value 2
+verification 1
+view 2
+weigh 1
+whack 1
+what 1
+when 1
+whirl 1
+whirl 1
+wild 1
+will 3
+window 1
+winnow 1
+with 2
+without 1
+word 3
+work 1
+work 1
+you 4

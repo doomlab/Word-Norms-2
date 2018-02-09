@@ -1,0 +1,147 @@
+ 15
+a 11
+able 1
+able 1
+act 1
+advantage 1
+aim 1
+and 1
+any 1
+anything 3
+anything 2
+atoms 2
+be 12
+being 1
+blank 1
+bright 1
+broad 1
+by 1
+can 19
+color 1
+concrete 1
+deceiving 1
+decoration 1
+deny 2
+describe 1
+description 1
+different 1
+disagree 1
+dull 1
+emotion 1
+enemy 1
+everything 1
+everything 1
+everywhere 1
+fixture 1
+for 1
+fun 1
+glass 1
+guessing 1
+hard 2
+harmful 1
+has 4
+having 1
+hold 3
+hold 1
+important 1
+inanimate 1
+inanimate 1
+is 3
+is 1
+it 4
+item 1
+item 4
+items 1
+lack 1
+living 1
+loving 1
+made 3
+man 1
+many 1
+mass 3
+mass 1
+material 1
+materialistic 1
+matter 1
+much 1
+name 1
+new 1
+not 1
+noun 5
+object 1
+objectification 1
+observe 1
+of 7
+on 1
+one 1
+oppose 2
+or 3
+own 1
+ownership 1
+permanence 1
+personal 1
+physical 1
+pick 1
+picked 2
+piece 1
+plain 1
+play 1
+point 1
+possession 1
+possession 1
+pretty 1
+purpose 1
+re 1
+reason 1
+round 2
+s 1
+see 1
+shape 1
+shape 1
+shapes 2
+sharp 1
+short 1
+size 1
+sizes 1
+small 1
+smells 1
+soft 1
+solid 1
+some 1
+someone 1
+something 9
+something 2
+sort 1
+sour 1
+space 3
+square 1
+stolen 1
+study 1
+subject 1
+sweet 1
+t 1
+takes 2
+talk 1
+tall 1
+tangible 6
+term 1
+that 5
+the 4
+their 1
+they 1
+thing 20
+thing 5
+this 1
+to 6
+touch 2
+touch 1
+touched 2
+touched 1
+toy 2
+up 3
+up 1
+used 2
+vandalized 1
+versatile 1
+what 1
+you 5

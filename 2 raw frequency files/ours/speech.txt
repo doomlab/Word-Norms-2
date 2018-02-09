@@ -1,0 +1,200 @@
+ 16
+115 1
+a 15
+ability 1
+about 1
+accent 1
+across 1
+act 1
+address 1
+allowed 1
+alphabet 1
+also 1
+an 4
+and 2
+anxious 1
+art 1
+articulation 1
+audience 4
+audience 3
+auditorily 1
+be 3
+boring 2
+business 1
+by 1
+can 2
+cards 1
+cards 1
+charisma 1
+chords 1
+class 4
+class 1
+classes 1
+com 1
+common 1
+communicate 2
+communicate 1
+communication 7
+communication 1
+coney 1
+conference 1
+confidence 1
+conversation 1
+conveying 1
+convince 1
+crowd 3
+crowd 1
+debate 1
+debates 1
+declaration 1
+determined 1
+different 2
+difficult 1
+education 1
+eloquence 1
+emotion 1
+express 1
+expressions 1
+facial 1
+facts 1
+fast 1
+fear 1
+figures 1
+fluent 1
+form 1
+formal 1
+fright 1
+front 4
+fun 1
+getting 1
+given 3
+giving 2
+grades 1
+group 3
+hard 1
+has 1
+how 1
+humans 1
+ideals 1
+ideas 1
+impediment 4
+impromptu 1
+in 5
+inform 1
+information 2
+information 1
+informative 1
+informs 1
+inspire 1
+interesting 1
+introduction 1
+is 3
+king 1
+language 3
+language 2
+languages 2
+large 1
+lecture 1
+lectures 1
+listening 1
+long 3
+long 1
+loud 4
+luther 1
+making 1
+martin 1
+messages 1
+minutes 1
+mouth 1
+needs 1
+nerve 1
+nerves 1
+nervous 3
+nervousness 1
+nonverbal 1
+note 2
+of 14
+on 1
+one 1
+opinion 1
+or 1
+oratorical 1
+others 2
+others 1
+out 1
+paper 1
+papers 1
+people 4
+people 2
+period 1
+person 1
+pitch 1
+point 1
+point 1
+politics 1
+prepared 1
+presentation 1
+presentation 1
+presenting 1
+presenting 1
+president 1
+process 1
+pronunciation 1
+public 8
+public 1
+questions 1
+quite 1
+rate 1
+recited 1
+rejection 1
+respect 1
+said 1
+says 1
+scary 1
+sentences 2
+similar 1
+slang 1
+slow 1
+some 1
+someone 1
+something 1
+sounds 1
+speak 3
+speaking 4
+speaking 2
+specific 1
+speech 1
+speech 1
+spoken 2
+spoken 2
+stage 1
+statement 1
+stutter 1
+subject 1
+subject 1
+talk 5
+talk 4
+talking 14
+talking 5
+testimony 1
+the 5
+thing 1
+thoughts 1
+timed 1
+to 16
+tone 1
+understand 1
+used 2
+uses 2
+using 1
+verbal 2
+vocal 2
+voice 2
+way 3
+well 1
+when 1
+with 2
+words 8
+wracking 1
+you 1
+your 2

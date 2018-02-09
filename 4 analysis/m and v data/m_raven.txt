@@ -1,0 +1,15 @@
+raven bird 25 
+raven scavenger 6 
+raven animal 10 
+raven builds 5 
+raven nests 5 
+raven caws 6 
+raven flies 20 
+raven lays 12 
+raven eggs 12 
+raven beak 17 
+raven feathers 20 
+raven feet 5 
+raven wings 16 
+raven black 21 
+raven large 5 

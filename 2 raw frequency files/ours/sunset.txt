@@ -1,0 +1,223 @@
+ 44
+3 1
+a 4
+about 1
+afternoon 1
+almost 1
+and 8
+apart 1
+around 1
+as 1
+at 3
+away 1
+be 2
+beach 8
+beach 4
+beaches 2
+beautiful 24
+beautiful 5
+beauty 1
+bedtime 1
+before 4
+blue 3
+books 1
+breezy 2
+bright 3
+bright 2
+by 1
+calm 1
+campfire 1
+can 1
+caused 1
+change 1
+charms 1
+clouds 7
+cold 1
+colorful 4
+colorful 2
+colors 8
+colors 3
+come 1
+coming 1
+contains 1
+cooler 1
+couples 2
+daily 1
+dark 9
+dark 1
+dates 1
+day 7
+day 3
+daytime 1
+death 1
+different 4
+dinner 3
+down 6
+down 3
+dropped 1
+dusk 1
+dusk 1
+dust 1
+earth 2
+east 4
+eat 1
+end 5
+ending 1
+evening 10
+everywhere 1
+experience 1
+experiencing 1
+feet 1
+flowing 1
+for 3
+fun 1
+funcional 1
+get 1
+gets 1
+getting 1
+go 1
+goes 4
+going 5
+gorgeous 1
+hair 1
+half 1
+happens 3
+happiness 1
+has 1
+heat 1
+hillside 1
+hits 1
+horizon 2
+horizon 2
+images 1
+in 6
+is 13
+it 3
+kissing 1
+lake 1
+light 2
+light 1
+lots 1
+love 2
+lowering 1
+lucky 1
+means 1
+memorable 1
+moon 2
+moon 1
+morning 2
+mountains 1
+moves 1
+movie 1
+name 1
+nature 1
+nice 1
+night 9
+night 1
+nighttime 1
+nighttime 1
+not 1
+occurrence 1
+occurs 3
+ocean 4
+of 15
+on 3
+only 1
+opposite 1
+or 1
+orange 15
+oranges 1
+other 1
+outside 1
+over 1
+paintings 1
+particles 1
+peace 1
+peaceful 2
+people 1
+perfect 1
+picture 1
+picturesque 1
+pink 8
+pinks 1
+pm 2
+point 1
+pollution 1
+pretty 22
+pretty 2
+proposals 1
+purple 6
+rainbow 1
+reaches 1
+ready 1
+red 8
+red 1
+reds 1
+relaxing 3
+relaxing 1
+rest 2
+resting 1
+rise 2
+rises 1
+rising 3
+river 1
+rocks 1
+romance 2
+romantic 8
+romantic 2
+rotates 1
+rotating 1
+s 1
+sand 2
+scene 1
+set 2
+sets 1
+setting 1
+shoreline 1
+side 1
+signaling 1
+sitting 1
+skies 1
+skirts 1
+sky 7
+sleep 2
+slips 1
+sometimes 1
+star 1
+street 1
+summer 1
+sun 33
+sunny 2
+sunrise 8
+sunrise 1
+sunset 1
+sunset 1
+sunsets 1
+tasteful 1
+that 1
+the 42
+time 9
+to 9
+tropical 1
+turns 1
+under 1
+used 1
+vacation 1
+very 1
+view 1
+walk 1
+warm 2
+warm 1
+warmth 1
+watch 1
+watch 1
+water 2
+water 1
+we 1
+west 3
+western 1
+when 8
+where 1
+world 1
+world 1
+yellow 13

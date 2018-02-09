@@ -1,0 +1,14 @@
+owl bird 21 
+owl animal 9 
+owl eats 8 
+owl mice 8 
+owl flies 15 
+owl hoots 15 
+owl nocturnal 25 
+owl beak 7 
+owl eyes 16 
+owl feathers 13 
+owl wings 12 
+owl brown 7 
+owl forests 5 
+owl trees 11 

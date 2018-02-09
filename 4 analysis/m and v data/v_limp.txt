@@ -1,0 +1,16 @@
+limp action 5
+limp difficult 2
+limp drag 5
+limp favor 3
+limp foot 8
+limp funny 2
+limp hop 1
+limp hurt 15
+limp intentional 1
+limp leg 16
+limp move 5
+limp notice 2
+limp pain 5
+limp relax 1
+limp slow 2
+limp walk 11

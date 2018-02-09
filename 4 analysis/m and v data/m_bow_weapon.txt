@@ -1,0 +1,14 @@
+bow_weapon weapon 7 
+bow_weapon string 12 
+bow_weapon curved 6 
+bow_weapon dangerous 6 
+bow_weapon long 6 
+bow_weapon plastic 5 
+bow_weapon wood 14 
+bow_weapon arrows 28 
+bow_weapon archery 5 
+bow_weapon hunting 18 
+bow_weapon killing 7 
+bow_weapon sports 5 
+bow_weapon long 12 
+bow_weapon ago 6 

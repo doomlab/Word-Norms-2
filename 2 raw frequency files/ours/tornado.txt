@@ -1,0 +1,269 @@
+ 18
+a 51
+about 1
+accompanied 2
+activity 1
+activity 1
+africa 1
+ai 1
+air 11
+all 1
+and 16
+animals 1
+anything 1
+appearance 1
+are 3
+areas 1
+as 3
+at 2
+atlantic 1
+been 1
+before 1
+being 1
+black 1
+blade 1
+blow 1
+both 1
+breadth 1
+building 1
+but 1
+by 4
+calamity 1
+can 5
+cause 2
+causes 1
+certain 1
+change 1
+chap 1
+characterized 1
+circular 1
+clash 1
+cleft 1
+climatic 1
+cloud 6
+cloud 1
+cloudy 1
+cocaine 1
+cold 2
+collects 1
+column 7
+commonly 1
+cone 1
+considerable 1
+contact 1
+crack 3
+cracking 1
+creates 1
+crevice 1
+crops 1
+cumulonimbus 2
+cycle 1
+cyclone 9
+damage 3
+damages 1
+dangerous 4
+dangerous 2
+deadly 1
+debate 1
+debris 1
+definition 1
+destroy 1
+destroyed 1
+destroying 2
+destroys 1
+destruction 2
+destructive 7
+destructive 2
+destructively 2
+devastation 1
+disaster 1
+disaster 1
+displays 1
+distinguished 1
+do 1
+downward 1
+duration 1
+earth 1
+emotion 2
+especially 1
+etc 1
+event 1
+everything 1
+everything 1
+extension 1
+extent 2
+extreme 1
+extremely 1
+fast 1
+fatalities 1
+feature 1
+few 3
+find 1
+fissure 1
+fling 1
+force 3
+form 2
+fracture 1
+frequent 1
+frightening 1
+from 4
+fruit 2
+funnel 10
+go 1
+goings 1
+grass 1
+great 1
+happen 1
+happens 1
+having 1
+high 4
+horrible 1
+hot 1
+human 2
+hurricane 5
+hurricane 2
+in 10
+is 11
+it 3
+its 3
+land 2
+lightning 1
+like 2
+localized 1
+long 1
+many 1
+mass 1
+massive 1
+means 1
+meteorology 1
+middle 1
+mile 3
+mobile 2
+more 4
+motion 2
+movement 1
+moves 1
+much 1
+narrow 1
+natural 3
+nature 2
+nearby 1
+noun 2
+occurring 1
+of 27
+offer 1
+often 1
+on 2
+or 7
+out 1
+outburst 3
+over 4
+pass 1
+path 1
+pendant 1
+people 1
+possible 1
+power 1
+powered 1
+pressure 1
+progressive 1
+quip 1
+r 1
+rain 1
+raining 1
+rains 1
+ranging 3
+rapid 1
+read 1
+referred 1
+result 1
+rotating 9
+round 1
+ruckus 1
+s 1
+sally 1
+secure 1
+severe 1
+shaped 3
+shaped 1
+short 1
+slow 1
+small 4
+snap 1
+spanish 1
+specifically 1
+speed 1
+speeds 1
+speeds 1
+squall 1
+storm 13
+storm 2
+strong 1
+structures 1
+surface 1
+swirling 3
+tempest 1
+than 3
+that 4
+the 11
+there 1
+they 3
+things 1
+through 1
+throw 1
+thunder 2
+thunder 1
+thunderstorm 2
+thunderstorm 1
+to 7
+tomato 2
+top 1
+tornado 10
+torrents 1
+touches 1
+tree 1
+turbulence 1
+twirling 1
+twist 1
+twister 9
+twister 1
+typhoon 2
+unexpected 1
+unpredictable 1
+usually 2
+vegetable 1
+very 2
+village 1
+violence 1
+violent 14
+violently 4
+vortex 2
+warm 1
+was 1
+waters 1
+way 1
+weather 3
+weather 1
+west 1
+western 1
+when 2
+whether 1
+which 2
+whirl 2
+whirling 6
+whirlwind 7
+whirlwind 1
+why 1
+width 3
+wild 1
+wind 12
+wind 6
+windows 1
+winds 2
+winds 1
+windstorm 6
+wisecrack 1
+with 6
+word 1
+world 1
+yards 3

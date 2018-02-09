@@ -1,0 +1,17 @@
+emerald birth 12 
+emerald stone 12 
+emerald jewel 8 
+emerald stone 25 
+emerald underground 8 
+emerald beautiful 5 
+emerald expensive 17 
+emerald green 26 
+emerald precious 8 
+emerald shiny 17 
+emerald worn 18 
+emerald as 18 
+emerald jewelry 18 
+emerald worn 23 
+emerald necklaces 5 
+emerald worn 29 
+emerald rings 6 

@@ -1,0 +1,9 @@
+bat_baseball heavy 5 
+bat_baseball long 15 
+bat_baseball metal 16 
+bat_baseball wood 22 
+bat_baseball swinging 6 
+bat_baseball hitting 11 
+bat_baseball hitting 29 
+bat_baseball balls 18 
+bat_baseball sports 7 

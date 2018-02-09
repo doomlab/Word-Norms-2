@@ -1,0 +1,12 @@
+cellar room 6 
+cellar basements 20 
+cellar houses 10 
+cellar shelves 5 
+cellar cold 22 
+cellar damp 12 
+cellar dark 22 
+cellar storage 11 
+cellar storing 11 
+cellar food 11 
+cellar storing 21 
+cellar wine 10 

@@ -1,0 +1,61 @@
+ 2
+a 7
+alcohol 1
+alcoholic 1
+and 2
+any 1
+beverage 3
+beverage 1
+bubbly 1
+bubbly 1
+can 1
+carbon 1
+carbonate 2
+carbonated 4
+chemical 2
+chemically 1
+coke 1
+combined 1
+cream 1
+digestion 1
+dioxide 1
+drink 4
+drink 2
+drinks 2
+drinks 2
+fizzy 1
+flavoring 1
+for 1
+forms 1
+from 1
+have 1
+hydroxide 1
+ice 1
+is 1
+it 1
+kind 1
+made 1
+mixed 1
+mouth 1
+non 1
+of 3
+pop 1
+preservative 1
+product 1
+refreshment 2
+related 1
+relief 1
+salt 1
+saltine 1
+sodium 4
+soft 2
+sometimes 1
+sweet 1
+taste 1
+through 1
+to 1
+used 1
+usually 1
+various 1
+water 5
+with 2

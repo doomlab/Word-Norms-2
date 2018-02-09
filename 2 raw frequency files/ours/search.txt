@@ -1,0 +1,175 @@
+ 50
+a 4
+abducted 1
+act 1
+action 1
+an 4
+and 2
+answer 1
+answers 1
+around 1
+ask 4
+attempt 1
+attention 1
+avalanches 1
+bar 2
+be 1
+because 1
+blank 1
+books 1
+boring 1
+browse 1
+but 1
+by 1
+can 1
+catalog 1
+chase 1
+children 1
+children 1
+christopher 1
+closer 1
+columbus 1
+com 1
+content 1
+could 1
+describe 1
+desperate 1
+destroy 1
+dictionary 1
+diligently 1
+discover 4
+discover 1
+do 1
+doesn 1
+dogs 1
+engine 2
+examine 1
+exhausting 1
+expedition 2
+exploration 1
+explore 2
+fast 1
+find 47
+find 3
+firefighters 1
+for 25
+for 8
+found 6
+found 1
+games 1
+gaze 1
+global 1
+goggle 1
+google 10
+google 3
+goole 1
+ha 1
+hard 1
+have 3
+hiding 1
+house 1
+hunt 6
+inspection 1
+intently 1
+internet 5
+invoke 1
+is 7
+it 3
+item 1
+jeeves 1
+know 1
+last 1
+learn 1
+library 1
+light 1
+living 1
+locate 3
+location 1
+long 1
+look 35
+look 2
+looking 14
+lost 18
+lost 1
+map 1
+meaning 1
+missing 3
+mission 1
+more 1
+moving 1
+national 1
+necessarily 1
+need 1
+noisy 1
+object 2
+obtain 1
+of 1
+oil 1
+on 1
+online 1
+or 5
+out 1
+paper 1
+party 1
+paying 1
+people 1
+people 1
+person 2
+phone 1
+physical 1
+picking 1
+police 1
+ponder 1
+quest 1
+quest 1
+relocate 1
+rescue 1
+research 1
+resources 1
+response 1
+s 2
+scavenger 1
+scrupulous 1
+search 3
+search 1
+seek 6
+seeking 1
+seizure 1
+sexual 1
+someone 3
+something 12
+something 8
+soul 1
+spill 1
+spotter 1
+t 2
+task 1
+team 1
+that 1
+the 2
+things 4
+time 1
+timely 1
+to 36
+treasure 3
+truth 1
+try 1
+trying 4
+unknown 1
+up 2
+use 1
+used 6
+violence 1
+walk 1
+want 2
+warming 1
+warrant 1
+web 1
+when 1
+wikipedia 1
+wonder 2
+word 3
+yahoo 3
+you 1
+young 1
+zoom 1

@@ -1,0 +1,245 @@
+ 50
+a 12
+accent 4
+accent 1
+accents 3
+accents 2
+africa 2
+agriculture 1
+al 1
+alabama 3
+along 1
+america 1
+and 3
+antarctica 1
+antebellum 1
+any 1
+ar 1
+area 2
+arkansas 1
+arkansas 1
+atlanta 1
+away 1
+back 1
+bad 1
+barns 1
+bbq 2
+beach 2
+beach 1
+beaters 1
+behind 1
+bell 1
+bell 2
+belles 1
+below 6
+below 1
+beneath 1
+birds 1
+blues 4
+bottom 4
+bottom 1
+bread 1
+breakfast 1
+cardinal 4
+carolina 2
+catfish 1
+charming 1
+chicken 3
+christmas 1
+church 1
+civil 1
+coast 1
+cold 1
+compass 1
+compass 1
+confederacy 2
+confederacy 1
+confederate 4
+confederate 2
+confederates 1
+cooking 2
+corn 1
+cotton 2
+countries 1
+country 9
+country 1
+courteous 1
+cows 1
+crazy 1
+culture 2
+dakota 2
+dancing 1
+describe 3
+desert 1
+direction 14
+direction 6
+directions 1
+directions 1
+dirty 2
+dixie 1
+dixon 2
+dogs 1
+down 11
+down 1
+downward 1
+east 5
+east 1
+elvis 1
+equator 1
+farming 1
+farms 2
+fashioned 1
+favorite 1
+fl 1
+florida 4
+food 7
+foods 3
+football 1
+for 1
+fraternities 1
+fried 4
+from 2
+fun 2
+funny 1
+ga 2
+gardens 1
+gentlemen 1
+gentlemen 1
+georgia 3
+globe 1
+going 1
+good 1
+grammar 1
+greens 1
+hampton 1
+hay 1
+heat 3
+hell 1
+history 1
+home 2
+hood 1
+horses 1
+hospitality 5
+hot 13
+houses 1
+humid 2
+i 1
+ignorant 1
+in 1
+is 10
+jazz 2
+julep 1
+kkk 1
+korea 1
+ky 1
+la 1
+laid 1
+land 1
+leads 1
+life 1
+line 1
+line 1
+live 1
+locating 1
+louisiana 2
+lynching 1
+magnolia 1
+map 1
+mason 2
+meridian 1
+mexico 1
+mimosa 1
+mint 1
+miss 3
+mississippi 14
+money 1
+more 1
+ms 2
+music 2
+my 1
+negative 1
+new 1
+nice 2
+north 25
+north 6
+nostalgic 1
+not 1
+of 21
+old 3
+ole 3
+opposite 14
+orleans 1
+outgoing 1
+overalls 1
+park 1
+part 3
+people 2
+physical 1
+places 1
+pole 3
+pole 1
+poles 1
+polite 1
+poor 1
+prejudice 1
+prime 1
+racism 3
+racist 2
+redneck 2
+rednecks 1
+reference 1
+region 2
+region 1
+regions 1
+religious 1
+rodeos 1
+santa 1
+sc 1
+segregation 2
+shows 1
+side 1
+slavery 4
+soul 2
+south 14
+south 2
+southeastern 1
+southern 13
+spicy 1
+state 1
+states 1
+sticky 1
+supremacy 1
+sweet 8
+tea 8
+tennessee 2
+texas 6
+the 18
+tn 1
+to 4
+towards 1
+tractors 1
+tradition 1
+traditional 1
+traveling 1
+trees 2
+turnip 1
+tx 1
+under 2
+united 1
+used 2
+va 1
+war 2
+warm 4
+warm 1
+warmer 2
+warmer 1
+watermelon 1
+way 1
+weather 2
+west 6
+where 1
+white 1
+wife 1
+with 1
+word 2
+yellow 1

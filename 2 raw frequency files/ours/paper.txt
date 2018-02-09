@@ -1,0 +1,229 @@
+ 12
+2nd 2
+a 26
+ad 1
+also 1
+although 1
+an 2
+and 11
+any 1
+aqueous 1
+archaeological 1
+are 2
+as 3
+asian 1
+bark 1
+basic 1
+bc 1
+be 9
+books 2
+books 1
+by 5
+c 1
+cai 1
+can 6
+cellulose 2
+century 2
+certain 1
+chiefly 1
+china 2
+chinese 1
+cleaning 1
+collection 1
+color 1
+colour 1
+combustible 1
+common 1
+composed 1
+construction 1
+contents 1
+court 1
+covering 2
+crumpled 1
+cultures 1
+data 1
+deposit 1
+derive 1
+derived 1
+developed 1
+diaries 1
+document 3
+document 2
+drawing 2
+dried 1
+during 1
+earliest 1
+early 1
+easily 1
+empty 1
+especially 1
+etc 3
+eunuch 1
+even 1
+fiber 1
+fibrous 1
+files 1
+first 1
+flexible 2
+food 1
+for 11
+form 2
+found 1
+fragments 1
+from 13
+grasses 1
+han 1
+has 1
+history 2
+in 12
+industrial 1
+info 1
+information 1
+ingredient 1
+instrument 1
+intended 2
+into 1
+invented 1
+is 15
+it 4
+it 1
+its 1
+journal 1
+kind 1
+laminated 1
+leaf 1
+leaves 2
+letter 1
+letters 1
+like 1
+like 1
+loose 1
+lun 1
+made 13
+mainly 2
+making 1
+manufactured 1
+many 2
+material 13
+material 1
+means 1
+modern 1
+molded 1
+money 1
+most 1
+multiple 1
+need 1
+negotiable 2
+news 3
+newspaper 2
+newspaper 1
+newspapers 1
+normally 1
+note 1
+notebooks 1
+notes 2
+number 1
+of 19
+often 1
+on 7
+on 1
+one 3
+or 17
+other 3
+out 1
+packaging 1
+packing 1
+pad 1
+paper 9
+paper 1
+papermaking 1
+papyrus 1
+parcels 1
+particularly 1
+pen 2
+pencil 1
+perishable 1
+person 1
+piece 2
+posters 1
+pressed 1
+printed 4
+printing 3
+printing 2
+process 1
+processed 1
+processes 1
+product 1
+products 1
+promissory 1
+publisher 1
+pulp 8
+purpose 1
+rags 3
+range 1
+read 1
+recyclable 1
+recycled 1
+reduced 1
+rolls 1
+said 1
+school 1
+schoolwork 1
+scribble 1
+sheet 6
+sheets 4
+sheets 1
+single 1
+straw 1
+substance 3
+surface 1
+suspension 1
+texture 1
+that 2
+the 13
+theme 1
+then 1
+these 1
+thesis 1
+thin 4
+thin 1
+this 1
+to 11
+torn 1
+tree 1
+trees 5
+unique 1
+upon 3
+use 1
+used 14
+uses 1
+using 2
+versatile 2
+very 1
+wallpaper 1
+walls 1
+was 1
+we 1
+what 1
+where 2
+which 2
+whilst 1
+white 2
+white 1
+widely 1
+with 3
+wood 9
+words 1
+work 1
+world 1
+wrapper 1
+wrapping 5
+write 6
+write 1
+writes 1
+writing 14
+writing 2
+writings 1
+written 6
+you 1
+– 1

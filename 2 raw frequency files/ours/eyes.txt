@@ -1,0 +1,254 @@
+ 20
+2 1
+a 14
+aggregate 1
+aids 1
+allows 1
+also 1
+an 2
+and 3
+appear 1
+appreciation 1
+are 6
+assist 1
+at 4
+balance 1
+be 1
+beautiful 4
+below 1
+black 2
+blinks 1
+blowing 1
+blue 3
+blue 1
+body 9
+body 1
+bony 1
+both 1
+braille 1
+brain 1
+brings 1
+brown 2
+bud 1
+bull 1
+cameras 1
+can 5
+capable 1
+cat 1
+center 2
+chemical 1
+color 3
+color 1
+colors 4
+come 1
+communication 1
+convert 1
+conviction 1
+cornea 2
+cortex 1
+couple 1
+creation 1
+detect 3
+device 1
+different 1
+dilate 1
+direction 1
+dust 1
+each 1
+either 1
+electro 1
+emotion 1
+especially 1
+etc 1
+every 1
+everything 1
+eye 5
+eyeball 2
+eyebrows 1
+eyed 1
+eyelid 1
+eyelids 1
+eyes 4
+eyes 1
+fabric 1
+face 3
+faculty 1
+focusing 1
+for 6
+from 4
+functioning 1
+gaze 1
+gift 1
+glance 1
+glances 1
+glasses 1
+god 1
+gray 2
+green 1
+half 1
+has 1
+have 4
+having 1
+he 1
+head 3
+helps 4
+her 1
+hole 3
+hollow 1
+hook 2
+human 3
+i 1
+images 1
+important 1
+important 1
+impulses 2
+in 20
+incident 1
+independently 1
+inserted 1
+interact 1
+internal 1
+into 2
+iris 4
+iris 1
+irises 1
+is 2
+it 2
+its 1
+judgement 1
+judgment 3
+large 1
+lashes 1
+law 1
+lens 1
+light 7
+live 1
+living 1
+located 2
+look 3
+look 1
+looks 1
+loop 2
+mainly 1
+make 1
+man 1
+many 1
+nature 1
+near 1
+needle 1
+nerve 1
+neurons 1
+objects 2
+observe 2
+of 37
+ogle 1
+on 1
+one 1
+one 1
+opinion 3
+optic 1
+optical 1
+or 7
+orbit 1
+organ 16
+organisms 1
+organs 5
+out 1
+pair 1
+pair 1
+part 8
+parts 2
+peeks 1
+person 1
+persuasion 1
+photosensitive 1
+point 1
+potato 1
+process 1
+produces 1
+protect 2
+pupil 2
+pupils 1
+receive 1
+refer 1
+region 1
+relay 1
+respect 2
+retina 1
+retina 1
+round 2
+s 2
+same 1
+scrutiny 1
+see 12
+seeing 1
+seeing 2
+seen 1
+sees 1
+sense 4
+sensitive 2
+sensitivity 1
+sent 1
+sharp 1
+sight 9
+sight 4
+situated 1
+skull 1
+slanted 1
+small 2
+sneaky 1
+sockets 1
+soft 1
+someone 1
+soul 1
+soul 1
+spectacles 1
+stare 1
+stranger 1
+strong 1
+structures 2
+sun 1
+support 1
+surrounding 1
+suspicion 1
+symmetry 1
+system 1
+target 1
+tears 1
+tears 1
+that 6
+the 43
+thing 2
+things 2
+this 2
+throw 1
+to 19
+together 1
+top 1
+two 3
+two 1
+us 2
+use 2
+used 4
+usually 1
+vertebrate 1
+very 1
+video 1
+view 2
+vision 8
+vision 3
+visual 1
+was 1
+watch 4
+we 1
+which 6
+wind 1
+window 1
+windows 1
+with 4
+within 1
+world 3
+world 1
+wrong 1
+you 1
+your 2

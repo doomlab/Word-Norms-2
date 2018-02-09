@@ -1,0 +1,15 @@
+scooter vehicle 7 
+scooter two 9 
+scooter wheels 9 
+scooter engine 15 
+scooter handle 8 
+scooter bars 8 
+scooter wheels 25 
+scooter fast 8 
+scooter slow 5 
+scooter small 5 
+scooter metal 5 
+scooter children 12 
+scooter pushing 5 
+scooter transportation 16 
+scooter helmets 7 

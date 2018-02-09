@@ -1,0 +1,133 @@
+ 17
+$1000 1
+000 1
+1 1
+a 5
+achievement 1
+adjective 2
+amazing 3
+amazing 4
+amount 2
+amount 1
+an 1
+and 1
+antique 1
+attachment 1
+awesome 1
+awesome 2
+ballroom 1
+bars 1
+be 1
+beautiful 1
+better 1
+big 21
+big 2
+buildings 2
+candy 1
+candy 1
+canyon 1
+canyon 1
+central 1
+country 1
+describe 1
+detailed 1
+eating 1
+elaborate 1
+elaborate 2
+elegant 2
+eloquent 1
+enormous 2
+epic 1
+events 1
+exciting 1
+expensive 1
+expensive 1
+extraordinary 1
+extravagant 4
+extravagant 4
+fancy 3
+fantastic 1
+feelings 1
+finale 2
+first 1
+for 3
+gigantic 1
+glitzy 1
+good 1
+good 2
+grand 1
+grand 1
+great 4
+great 1
+hall 1
+happy 2
+have 1
+huge 2
+huge 2
+important 2
+important 2
+in 4
+intimidating 1
+is 8
+king 1
+large 15
+large 2
+larger 1
+lot 1
+lots 1
+lottery 1
+luxurious 2
+magnificent 1
+mansion 1
+marvelous 1
+massive 1
+mighty 1
+money 7
+money 2
+name 2
+name 1
+named 1
+names 1
+nice 4
+noble 1
+notable 1
+of 5
+old 1
+opening 2
+openings 1
+or 1
+others 1
+outstanding 1
+over 1
+palace 1
+people 1
+piano 2
+pianos 1
+pleasant 1
+positive 1
+possession 1
+prestigious 1
+prized 1
+respected 1
+scale 1
+size 2
+something 8
+splendid 1
+springfield 1
+springfield 1
+station 1
+street 7
+street 1
+tall 1
+than 1
+that 1
+the 1
+theater 1
+thousand 1
+to 4
+top 1
+treasure 1
+type 1
+used 3
+very 1
+wonderful 2

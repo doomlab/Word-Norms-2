@@ -1,0 +1,10 @@
+leopard carnivore 9 
+leopard predator 5 
+leopard animal 16 
+leopard four 5 
+leopard legs 5 
+leopard spots 18 
+leopard fast 5 
+leopard furry 10 
+leopard large 6 
+leopard cat 11 

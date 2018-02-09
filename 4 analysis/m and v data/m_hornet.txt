@@ -1,0 +1,13 @@
+hornet insect 10 
+hornet buzzes 9 
+hornet flies 19 
+hornet likes 5 
+hornet flowers 5 
+hornet stings 24 
+hornet stinger 6 
+hornet wings 17 
+hornet black 7 
+hornet large 6 
+hornet yellow 7 
+hornet bee 9 
+hornet nest 10 

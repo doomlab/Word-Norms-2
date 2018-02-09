@@ -1,0 +1,15 @@
+pipe_plumbing connections 5 
+pipe_plumbing leaks 6 
+pipe_plumbing hard 7 
+pipe_plumbing hollow 12 
+pipe_plumbing long 13 
+pipe_plumbing round 17 
+pipe_plumbing copper 7 
+pipe_plumbing metal 18 
+pipe_plumbing plastic 6 
+pipe_plumbing carrying 8 
+pipe_plumbing water 8 
+pipe_plumbing holding 8 
+pipe_plumbing water 16 
+pipe_plumbing transporting 6 
+pipe_plumbing liquids 6 

@@ -1,0 +1,8 @@
+clam seafood 6 
+clam animal 6 
+clam shell 23 
+clam pearls 7 
+clam edible 21 
+clam hard 11 
+clam oceans 14 
+clam water 14 

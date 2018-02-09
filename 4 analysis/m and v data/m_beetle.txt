@@ -1,0 +1,13 @@
+beetle bug 9 
+beetle insect 22 
+beetle crawls 7 
+beetle flies 10 
+beetle shell 11 
+beetle eyes 5 
+beetle legs 5 
+beetle wings 9 
+beetle black 11 
+beetle hard 8 
+beetle large 5 
+beetle small 5 
+beetle ugly 6 

@@ -1,0 +1,210 @@
+ 50
+a 15
+age 2
+aggression 1
+and 5
+anger 1
+anymore 1
+armor 2
+army 1
+arthur 2
+artifact 1
+as 2
+bad 1
+balanced 1
+battle 3
+battle 1
+battles 1
+before 2
+big 2
+black 1
+blade 5
+blade 2
+blood 4
+can 1
+careful 1
+caribbean 1
+ceremonies 1
+china 1
+chinese 2
+chop 1
+cinderella 1
+close 1
+collectable 1
+combat 1
+considered 1
+courage 1
+creates 1
+curved 2
+cut 5
+cut 2
+cutting 2
+dagger 2
+dangerous 2
+dangerous 4
+dark 1
+deadly 1
+death 3
+defend 1
+designs 1
+desperate 1
+destroy 1
+dragons 2
+dull 1
+edge 1
+edged 1
+end 1
+end 1
+engraved 1
+excailbur 1
+excalibur 1
+fancy 1
+fantasy 1
+fashion 1
+fear 1
+feelings 1
+fencing 1
+fight 5
+fight 2
+fighting 14
+fighting 2
+fish 2
+flea 1
+for 4
+functional 1
+gold 1
+greek 1
+grip 1
+guns 2
+halo 1
+handle 3
+handsome 1
+has 5
+heavy 6
+heavy 2
+heroes 1
+his 1
+history 1
+honor 1
+horse 2
+horses 1
+hurt 1
+hurtful 1
+if 1
+in 8
+individuals 1
+inflicts 1
+injury 1
+iron 1
+is 12
+japanese 2
+jousting 1
+kill 5
+kill 1
+killing 1
+kills 2
+king 4
+knife 10
+knife 1
+knight 7
+knights 5
+knights 1
+light 1
+like 1
+long 16
+long 2
+lord 2
+made 4
+market 1
+medieval 10
+merlin 1
+metal 16
+middle 1
+movies 1
+museums 1
+musketeer 1
+ninja 2
+ninja 1
+ninjas 1
+not 2
+object 1
+object 1
+of 11
+old 2
+old 1
+on 1
+or 1
+ornate 1
+others 1
+oversized 1
+pain 1
+people 1
+pirate 3
+pirate 1
+pirates 3
+plastic 1
+point 2
+pointed 2
+pointy 1
+primitive 1
+prince 1
+pronounced 1
+quarters 1
+really 1
+respect 1
+rings 2
+round 1
+samurai 1
+scary 1
+self 1
+sharp 54
+sharp 6
+sharpened 1
+sheathed 1
+shinning 1
+shinny 1
+shiny 5
+short 2
+should 1
+silver 4
+sir 1
+skill 1
+slice 1
+something 1
+sord 1
+stab 5
+stabbing 1
+status 1
+steel 1
+stone 1
+straight 1
+strong 1
+sword 1
+sword 1
+symbol 1
+table 1
+tall 1
+the 5
+thick 1
+time 1
+times 1
+to 6
+tool 2
+toy 1
+two 1
+type 1
+untrained 1
+use 1
+used 18
+usually 1
+very 1
+war 4
+wars 1
+weapon 17
+weapon 3
+weapons 1
+white 1
+with 1
+wood 1
+zelda 1
+zoro 1

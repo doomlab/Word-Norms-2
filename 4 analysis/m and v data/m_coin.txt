@@ -1,0 +1,13 @@
+coin sizes 6 
+coin value 5 
+coin round 20 
+coin shiny 6 
+coin small 7 
+coin metal 18 
+coin silver 5 
+coin as 16 
+coin money 16 
+coin buying 9 
+coin items 9 
+coin collecting 6 
+coin currency 11 

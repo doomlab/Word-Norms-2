@@ -1,0 +1,181 @@
+ 8
+a 7
+afraid 2
+am 1
+amount 2
+an 1
+and 2
+ante 1
+apprehension 1
+apprehensive 1
+as 3
+aside 1
+attention 1
+attract 1
+averse 2
+avoid 2
+away 4
+awkwardness 1
+back 1
+backward 1
+bashful 5
+bashful 1
+be 1
+bird 1
+bit 1
+cannot 1
+cautious 2
+chary 1
+circumspect 2
+comfort 1
+communicative 1
+company 3
+company 1
+complex 1
+confidence 2
+confidence 1
+conscious 3
+contact 1
+coy 3
+demure 3
+describe 1
+diffeident 1
+diffident 2
+discomfort 1
+disinclined 1
+dislike 1
+distrustful 4
+does 1
+drawing 1
+due 2
+easily 5
+easy 1
+effacing 1
+especially 1
+every 1
+faced 1
+familiarity 1
+fear 1
+fearful 1
+feeling 2
+female 1
+fling 1
+forthright 1
+free 1
+frightened 6
+from 1
+front 1
+go 1
+going 1
+group 1
+have 2
+having 2
+he 1
+hesitant 1
+hesitation 1
+humble 1
+i 1
+in 10
+indisposed 1
+inferiority 1
+interactions 1
+introvert 2
+introverted 4
+involvement 1
+is 3
+lack 1
+lacking 3
+less 1
+limited 1
+loath 1
+loneliness 1
+loner 2
+low 1
+meek 1
+mingle 1
+modest 2
+modest 1
+needed 1
+negative 1
+neglecting 1
+nervous 9
+nervous 1
+not 7
+of 9
+one 2
+or 3
+other 2
+others 2
+out 1
+outgoing 1
+paid 1
+parties 1
+people 1
+people 2
+person 2
+persons 1
+poker 1
+presence 1
+profile 1
+quiet 1
+quiet 1
+recessive 1
+reluctant 2
+reserved 1
+reticent 1
+retiring 2
+s 1
+self 3
+seperated 1
+shame 1
+shamefaced 1
+shameful 1
+sheepish 1
+sheepish 1
+show 1
+shrinking 1
+shy 4
+shy 1
+skittish 1
+someone 2
+sometimes 1
+sort 1
+specific 1
+start 1
+startled 1
+stay 1
+strangers 1
+sudden 1
+suspicious 2
+than 1
+that 1
+the 4
+things 1
+this 1
+throw 1
+throw 1
+timed 2
+timid 11
+timid 1
+timidness 1
+to 5
+too 1
+un 1
+unashamed 1
+unassertive 1
+unassured 2
+uneager 1
+uneasier 1
+uneffusive 1
+unreserved 1
+unresponsive 2
+unsocial 3
+unwilling 1
+used 1
+wanted 1
+wanting 1
+wary 2
+wary 1
+who 2
+with 2
+withdrawn 1

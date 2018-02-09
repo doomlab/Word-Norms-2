@@ -1,0 +1,111 @@
+ 19
+a 3
+able 5
+able 1
+accept 1
+accept 1
+access 1
+achieve 1
+acknowledge 1
+action 1
+action 2
+agree 2
+ahead 2
+allow 1
+allowed 1
+an 2
+approval 2
+approve 1
+asking 1
+bad 1
+be 7
+being 2
+belong 1
+bow 1
+can 1
+capability 1
+caretaker 1
+class 1
+concede 1
+control 1
+cupid 1
+decision 1
+denied 1
+deny 1
+directive 1
+do 15
+do 1
+doesn 1
+don 1
+enable 1
+exciting 1
+freedom 3
+get 1
+give 5
+give 2
+given 1
+giving 1
+go 5
+going 1
+good 1
+government 1
+grant 2
+granted 1
+green 1
+happen 3
+happen 4
+help 1
+hosting 1
+hunt 1
+in 1
+it 2
+it 2
+law 1
+laws 1
+let 19
+letting 2
+light 1
+no 1
+not 1
+of 2
+ok 2
+okay 4
+or 1
+order 1
+parents 2
+parties 1
+parties 1
+perform 1
+permission 19
+permission 6
+permit 6
+permit 2
+please 1
+problem 1
+proceed 1
+receive 1
+release 1
+responsibility 1
+rules 3
+s 1
+someone 5
+something 9
+something 7
+stop 1
+stopped 1
+strict 1
+superior 1
+t 2
+teachers 2
+the 1
+to 27
+to 1
+trust 2
+upon 1
+want 1
+welcome 1
+what 1
+willing 1
+with 5
+yes 1
+you 3

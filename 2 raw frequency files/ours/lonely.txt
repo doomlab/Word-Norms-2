@@ -1,0 +1,203 @@
+ 14
+a 13
+abandoned 2
+accompanied 1
+adjective 1
+affected 1
+alienated 1
+alone 19
+alone 12
+aloneness 2
+aloneness 1
+along 1
+also 1
+and 4
+any 1
+anybody 2
+anybody 1
+apart 6
+aren 1
+around 1
+around 1
+as 1
+awareness 1
+batching 1
+be 2
+because 1
+being 10
+beings 1
+bereft 1
+bored 2
+boring 1
+by 11
+can 1
+causing 2
+cell 1
+characterized 3
+child 1
+comfortless 2
+companion 3
+companionless 4
+companions 7
+companions 2
+companionship 6
+companionship 1
+company 7
+company 2
+consciousness 1
+days 1
+dejected 1
+dejection 1
+depressing 3
+depression 2
+deserted 1
+desolate 4
+destitute 4
+disconnection 1
+disconsolate 1
+doing 1
+down 1
+empty 1
+estranged 1
+etc 1
+exhile 1
+feel 1
+feeling 16
+for 1
+forlorn 2
+forsaken 3
+frequented 1
+friendless 4
+friendless 1
+friendly 2
+friends 1
+friends 1
+from 2
+group 1
+habit 1
+happiness 1
+happy 1
+has 2
+having 1
+hearts 1
+hermit 1
+homeless 2
+homesick 1
+house 1
+human 1
+in 1
+indicates 1
+intercourse 1
+introverted 1
+involving 1
+is 2
+isolated 6
+isolated 2
+isolation 2
+it 3
+its 1
+joy 1
+lacking 5
+left 2
+less 2
+like 1
+live 1
+living 1
+location 1
+lone 7
+lone 1
+lonely 9
+lonesome 4
+lonesome 1
+lorn 1
+lost 1
+makes 1
+man 1
+may 1
+meditation 1
+mind 1
+missing 1
+more 1
+negative 1
+neighbors 1
+nice 1
+no 5
+not 4
+of 18
+one 6
+oneself 3
+onliest 1
+only 1
+or 12
+outcast 2
+peers 1
+people 5
+people 1
+person 2
+place 1
+private 1
+producing 1
+reclusive 1
+rejected 2
+remote 2
+renounced 1
+resulting 1
+retired 1
+retiring 1
+sad 5
+sad 1
+sadness 3
+say 1
+secluded 1
+see 1
+separate 1
+separately 2
+sequestered 1
+shag 1
+single 10
+single 1
+sitting 1
+situation 1
+solely 1
+solitary 10
+solitary 1
+solo 2
+some 2
+someone 1
+something 1
+sometime 1
+sometimes 2
+standing 3
+state 2
+such 1
+support 1
+sympathetic 2
+sympathetic 1
+t 1
+the 3
+this 1
+to 1
+together 1
+tower 1
+traveling 1
+unaccompanied 2
+unaided 1
+unattached 1
+unattended 2
+unescorted 1
+unfrequented 4
+unhappy 1
+unsocial 2
+unsocial 1
+unwanted 1
+wanting 2
+who 1
+widowed 1
+with 2
+withdrawn 1
+without 16
+woman 1
+word 1
+work 1
+you 2
+yourself 2

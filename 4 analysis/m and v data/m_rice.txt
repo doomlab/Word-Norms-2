@@ -1,0 +1,12 @@
+rice food 13 
+rice grain 7 
+rice China 6 
+rice eaten 7 
+rice cooking 7 
+rice grows 12 
+rice water 12 
+rice brown 12 
+rice edible 14 
+rice round 5 
+rice small 12 
+rice white 26 

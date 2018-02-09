@@ -1,0 +1,12 @@
+envelope colors 5 
+envelope sizes 5 
+envelope seal 9 
+envelope white 13 
+envelope paper 14 
+envelope stamp 10 
+envelope address 5 
+envelope licking 5 
+envelope sealing 7 
+envelope posting 15 
+envelope sending 17 
+envelope letters 17 

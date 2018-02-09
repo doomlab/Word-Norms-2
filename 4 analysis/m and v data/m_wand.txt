@@ -1,0 +1,10 @@
+wand stick 13 
+wand black 7 
+wand long 22 
+wand magical 6 
+wand round 7 
+wand fairies 9 
+wand magicians 11 
+wand waving 5 
+wand witches 8 
+wand magic 18 

@@ -1,0 +1,176 @@
+ 21
+1 1
+12 2
+5 1
+6 1
+10 4
+11 10
+12 1
+2011 1
+a 32
+added 1
+after 8
+amounting 1
+an 2
+and 9
+any 1
+are 2
+as 7
+ascending 1
+authority 1
+band 1
+be 1
+because 1
+before 4
+between 2
+break 2
+by 3
+california 1
+called 1
+can 1
+cannot 1
+cardinal 6
+cardinal 2
+class 1
+clock 2
+clock 1
+comes 4
+count 3
+counted 1
+counting 1
+cricket 2
+date 1
+decimal 1
+digit 4
+digit 1
+digits 1
+double 4
+eight 1
+eleven 10
+eleven 2
+equal 1
+experience 1
+figure 2
+figure 1
+fingers 1
+first 1
+five 1
+football 4
+for 4
+from 1
+grandical 1
+hard 1
+hockey 1
+honesty 1
+human 1
+id 1
+idealistic 1
+in 5
+indicated 1
+indicates 1
+individuals 1
+inspiration 1
+intuition 1
+is 4
+it 1
+its 2
+legs 1
+lunch 1
+many 2
+mathematical 1
+men 1
+minute 1
+more 3
+movie 1
+name 1
+next 1
+night 1
+normally 1
+november 1
+number 42
+number 6
+numeric 2
+numerical 1
+o 2
+odd 1
+of 8
+one 13
+one 2
+ones 3
+or 7
+order 1
+others 1
+party 1
+patience 1
+people 1
+person 1
+persons 2
+placed 1
+player 1
+players 1
+plus 10
+position 1
+positions 1
+possesses 1
+precinct 1
+prime 1
+qualities 1
+quantity 1
+represents 1
+rock 1
+roll 1
+s 2
+sensitivity 1
+set 3
+seven 1
+six 1
+size 1
+slang 1
+sleep 1
+sleeping 1
+soccer 1
+specific 1
+spirituality 1
+sports 1
+stadium 1
+street 1
+sum 1
+symbol 3
+system 1
+tea 1
+teaching 1
+team 9
+ten 18
+ten 3
+than 3
+that 1
+the 12
+thin 1
+things 2
+this 5
+time 5
+to 4
+together 1
+turn 1
+twelve 2
+two 5
+type 1
+unit 1
+unity 1
+uplifted 1
+use 2
+used 1
+usually 1
+walk 1
+walking 1
+was 1
+we 2
+which 2
+who 1
+whole 1
+with 1
+word 1
+work 1
+x 1
+xi 2
+xi 1

@@ -1,0 +1,11 @@
+brick colors 6 
+brick hard 14 
+brick heavy 20 
+brick rectangular 9 
+brick red 14 
+brick rough 6 
+brick cement 7 
+brick building 9 
+brick buildings 9 
+brick building 30 
+brick houses 21 

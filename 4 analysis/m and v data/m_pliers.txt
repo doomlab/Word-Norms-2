@@ -1,0 +1,14 @@
+pliers tool 26 
+pliers sizes 5 
+pliers toolboxes 7 
+pliers dead 5 
+pliers nose 5 
+pliers handles 14 
+pliers hand 7 
+pliers held 7 
+pliers useful 5 
+pliers metal 16 
+pliers steel 8 
+pliers carpentry 5 
+pliers gripping 5 
+pliers pulling 6 

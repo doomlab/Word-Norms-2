@@ -1,0 +1,11 @@
+doorknob doors 15 
+doorknob lock 8 
+doorknob cold 5 
+doorknob round 11 
+doorknob brass 5 
+doorknob metal 10 
+doorknob turning 17 
+doorknob closing 7 
+doorknob doors 22 
+doorknob opening 19 
+doorknob doors 41 

@@ -1,0 +1,13 @@
+want action 2
+want car 1
+want crave 7
+want desire 13
+want emotion 4
+want expensive 1
+want feel 5
+want good 1
+want humans 4
+want involuntary 1
+want long 1
+want love 1
+want nice 1

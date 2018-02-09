@@ -1,0 +1,242 @@
+ 19
+a 10
+activity 1
+after 1
+alert 1
+all 2
+also 1
+and 2
+anemic 1
+are 1
+as 5
+awake 1
+banal 2
+be 2
+beat 4
+beaten 1
+become 2
+becoming 1
+being 3
+blah 1
+bland 1
+bleary 2
+bored 6
+bored 1
+boring 1
+burn 1
+burned 1
+burnout 1
+burnt 1
+bushed 3
+by 8
+can 1
+caused 1
+collapse 2
+common 1
+commonplace 2
+condition 1
+cooking 1
+crawl 1
+dazed 1
+dead 3
+debilitate 1
+deject 1
+depleted 1
+depress 1
+describes 1
+discomfort 1
+displease 1
+dizzy 1
+dog 1
+doing 2
+done 3
+down 2
+downness 1
+drain 1
+drained 4
+drained 1
+droop 1
+drowsy 1
+emotional 1
+emotionally 1
+energetic 1
+energy 5
+energy 5
+enthusiasm 1
+etc 1
+everyone 1
+exertion 3
+exertion 1
+exhaust 2
+exhausted 15
+exhausted 2
+exhaustion 1
+exhaustion 1
+faint 3
+fatigue 3
+fatigued 10
+fatigued 1
+fatique 1
+fed 2
+feeling 11
+feels 1
+fell 1
+felt 1
+flag 1
+floppy 1
+fold 2
+fresh 1
+from 1
+give 1
+go 2
+good 1
+grow 1
+hackneyed 5
+harass 1
+hard 3
+has 1
+hat 2
+having 3
+impatient 2
+in 9
+interest 1
+is 2
+its 2
+jaded 1
+joke 1
+knackered 1
+lack 5
+late 1
+lazy 1
+left 1
+less 1
+lethargic 1
+life 1
+limp 2
+lively 1
+load 1
+loggy 1
+logy 1
+longer 1
+loss 1
+lost 2
+man 1
+man 1
+mean 1
+means 2
+mental 2
+much 1
+muzzy 1
+need 3
+needing 2
+needs 2
+night 2
+no 2
+not 6
+nothing 1
+of 28
+old 2
+or 14
+out 15
+out 2
+overburden 1
+overtax 1
+overused 1
+part 1
+patience 1
+person 1
+person 1
+peter 1
+phrase 1
+physical 4
+physically 1
+played 1
+playing 2
+poop 1
+pooped 2
+postpone 1
+principal 1
+prostrate 1
+pup 1
+reading 1
+regain 1
+required 1
+rest 6
+rest 2
+resting 1
+restlessness 1
+same 1
+sermon 1
+shade 1
+shaky 1
+shattered 1
+shift 1
+shopping 1
+shopworn 2
+sick 2
+situation 1
+slang 1
+sleep 4
+sleep 1
+sleeping 1
+sleepy 6
+sleepy 1
+slow 1
+sluggish 2
+something 4
+somnolent 1
+spent 3
+spirit 1
+stale 4
+state 2
+stock 2
+strain 1
+strength 4
+stressed 1
+sweating 1
+tapped 1
+that 2
+the 4
+thing 1
+things 1
+threadbare 2
+timeworn 1
+tire 1
+tired 9
+tiredness 1
+tireless 1
+to 5
+toil 1
+too 1
+trite 3
+trite 1
+unsteady 1
+up 2
+upbeat 1
+verb 1
+wasted 1
+weak 3
+weaken 1
+weaken 1
+weakness 1
+weakness 1
+wear 2
+wearied 2
+weary 11
+weary 3
+well 3
+when 1
+wilt 1
+wiped 1
+with 3
+wobbly 1
+woozy 1
+work 7
+working 2
+workout 1
+works 1
+worn 5
+worn 2
+writing 1
+yawning 1
+you 1

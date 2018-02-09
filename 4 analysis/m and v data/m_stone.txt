@@ -1,0 +1,11 @@
+stone rock 10 
+stone weapon 5 
+stone cold 8 
+stone grey 13 
+stone hard 18 
+stone heavy 7 
+stone round 8 
+stone small 5 
+stone smooth 8 
+stone throwing 9 
+stone construction 12 

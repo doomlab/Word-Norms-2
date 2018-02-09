@@ -1,0 +1,12 @@
+bedroom room 7 
+bedroom houses 20 
+bedroom bed 24 
+bedroom closet 12 
+bedroom dresser 8 
+bedroom window 6 
+bedroom walls 9 
+bedroom small 5 
+bedroom personal 5 
+bedroom space 5 
+bedroom sleeping 24 
+bedroom in 24 

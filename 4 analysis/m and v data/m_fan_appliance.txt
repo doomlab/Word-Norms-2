@@ -1,0 +1,13 @@
+fan_appliance speeds 5 
+fan_appliance houses 6 
+fan_appliance ceilings 6 
+fan_appliance guard 5 
+fan_appliance propeller 5 
+fan_appliance blades 6 
+fan_appliance turns 13 
+fan_appliance electrical 17 
+fan_appliance metal 5 
+fan_appliance blowing 20 
+fan_appliance air 20 
+fan_appliance cooling 21 
+fan_appliance summer 7 

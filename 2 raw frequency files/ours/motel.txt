@@ -1,0 +1,212 @@
+ 15
+6 1
+8 1
+a 25
+ac 1
+accessed 1
+aids 1
+alarm 1
+amount 1
+and 1
+are 2
+as 2
+at 2
+at 1
+away 1
+bathroom 1
+be 2
+because 1
+bed 6
+bedrooms 1
+beds 3
+best 1
+breakfast 2
+bright 1
+bugs 1
+building 1
+by 3
+cable 1
+can 3
+car 1
+certain 1
+chair 1
+cheap 14
+cheap 4
+cheaper 3
+city 2
+clean 1
+clock 1
+comfortable 1
+concrete 1
+contain 1
+costs 2
+creepy 3
+dark 1
+desk 2
+different 1
+dirty 11
+dirty 4
+doors 2
+down 1
+driving 1
+during 1
+eight 1
+empty 1
+every 2
+family 1
+for 6
+free 1
+friends 1
+from 2
+front 1
+funny 1
+getaway 1
+ground 1
+has 3
+have 1
+haven 1
+highway 1
+highways 1
+holiday 1
+home 2
+home 1
+hostel 1
+hotel 20
+hotel 5
+housekeeper 1
+housing 1
+in 4
+inhabited 1
+inn 1
+inn 1
+internet 1
+is 5
+it 1
+lamp 1
+levels 1
+like 2
+living 1
+living 1
+lobby 1
+located 1
+lodging 1
+long 2
+looks 1
+loud 1
+made 1
+made 1
+maid 2
+many 1
+money 1
+money 2
+motel 1
+motel 1
+movies 1
+movies 1
+musky 1
+nice 1
+night 5
+nights 1
+nights 1
+not 3
+of 5
+old 1
+on 8
+one 3
+open 2
+opening 1
+other 1
+out 1
+outdoor 1
+outside 1
+outside 2
+over 1
+overnight 1
+pay 2
+people 3
+place 19
+pool 2
+pool 1
+porn 1
+pricy 1
+public 1
+rent 1
+rest 4
+rest 1
+road 1
+roads 1
+room 6
+room 1
+rooms 6
+run 1
+rundown 1
+safe 1
+scary 3
+service 2
+services 1
+sex 1
+shelter 2
+shower 1
+side 1
+sleep 6
+sleeping 1
+slept 1
+small 8
+smaller 2
+smells 1
+smelly 1
+sounds 1
+sports 1
+stands 1
+stands 1
+stay 11
+stay 3
+staying 2
+sterile 1
+stop 1
+story 1
+table 1
+tables 1
+telephone 1
+television 1
+temporary 5
+than 1
+the 5
+then 1
+there 1
+times 1
+to 21
+town 1
+towns 1
+travel 2
+travel 2
+travelers 2
+travelers 1
+traveling 1
+traveling 1
+trip 1
+trips 2
+trips 2
+trusted 1
+tv 1
+two 1
+unattractive 1
+uncomfortable 1
+undesirable 1
+uneasy 1
+uninviting 1
+units 1
+used 7
+usually 1
+vacancy 1
+vacation 1
+vacation 4
+vacations 2
+version 2
+visit 1
+western 1
+where 3
+white 1
+who 1
+with 3
+you 2

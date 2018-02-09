@@ -1,0 +1,17 @@
+tomahawk tool 5 
+tomahawk weapon 16 
+tomahawk axe 12 
+tomahawk blade 15 
+tomahawk handle 11 
+tomahawk stone 6 
+tomahawk blade 21 
+tomahawk wooden 7 
+tomahawk handle 18 
+tomahawk adorned 5 
+tomahawk feathers 5 
+tomahawk sharp 5 
+tomahawk wood 5 
+tomahawk Indians 23 
+tomahawk throwing 6 
+tomahawk scalping 7 
+tomahawk war 7 

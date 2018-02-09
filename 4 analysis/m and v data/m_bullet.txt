@@ -1,0 +1,17 @@
+bullet gun 5 
+bullet pointed 8 
+bullet end 8 
+bullet fast 17 
+bullet small 12 
+bullet lead 5 
+bullet metal 15 
+bullet gunpowder 5 
+bullet as 5 
+bullet projectile 5 
+bullet firing 13 
+bullet gun 18 
+bullet hunters 8 
+bullet police 6 
+bullet injuring 5 
+bullet killing 29 
+bullet guns 24 

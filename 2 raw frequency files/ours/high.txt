@@ -1,0 +1,252 @@
+ 22
+1 1
+a 20
+above 10
+accumulated 1
+activity 1
+adjective 1
+aerial 2
+after 1
+aloft 1
+alpine 2
+also 2
+altitude 1
+altitude 1
+altitudinous 1
+always 1
+an 3
+analysis 1
+and 2
+another 1
+any 1
+arch 1
+are 1
+as 3
+at 3
+atop 1
+authority 1
+base 2
+be 1
+being 3
+below 1
+between 1
+big 5
+blood 1
+can 2
+capital 1
+center 1
+climb 1
+colossal 3
+common 1
+considerable 2
+costly 1
+culminating 1
+degree 1
+denotes 1
+describe 1
+direction 1
+distance 3
+drugs 2
+drunk 1
+dwarfed 1
+earth 1
+elated 1
+elevated 9
+elevation 3
+eminent 3
+emotional 1
+essential 1
+etc 1
+exceeding 1
+expensive 1
+extended 1
+extending 3
+extension 1
+extent 7
+extent 1
+extravagant 1
+fall 1
+far 4
+feel 1
+feeling 1
+fever 1
+fluctuations 1
+flying 2
+for 1
+formidable 3
+from 2
+gear 1
+giant 2
+gigantic 3
+going 1
+good 2
+grand 2
+grave 1
+great 15
+greater 2
+ground 3
+ground 2
+happy 1
+having 10
+height 3
+heights 1
+high 34
+higher 2
+hovering 1
+huge 3
+hyper 1
+immense 2
+importance 1
+important 1
+in 4
+increase 1
+intense 1
+intensity 1
+is 4
+it 1
+its 1
+jobs 1
+known 1
+lank 1
+lanky 1
+large 2
+legs 1
+level 1
+level 1
+lifted 2
+line 1
+location 1
+lofty 5
+long 2
+longer 1
+look 1
+lot 1
+low 5
+luxurious 1
+luxuriously 1
+magnitude 1
+measure 1
+measurement 1
+more 1
+more 1
+mostly 1
+mount 1
+mountain 1
+near 1
+necessary 1
+noble 1
+normal 2
+not 5
+object 1
+of 11
+off 1
+on 3
+one 2
+ones 1
+opposite 1
+or 20
+paid 1
+peak 2
+physical 1
+pitched 1
+place 1
+place 1
+platform 1
+point 1
+position 4
+powerful 1
+pressure 2
+problem 1
+products 1
+profile 1
+qualifications 1
+quality 1
+quantity 1
+raised 2
+rank 1
+rate 1
+reach 3
+reaching 1
+refers 2
+relatively 3
+rich 2
+richly 1
+rise 1
+s 1
+school 2
+scraping 2
+scrapping 1
+see 1
+senior 2
+serious 1
+short 1
+significant 1
+situated 1
+size 1
+sky 7
+soaring 2
+some 2
+someone 1
+something 3
+specific 1
+specified 4
+speed 2
+stage 1
+standards 1
+starting 1
+state 1
+status 1
+steep 3
+stoned 1
+strong 1
+stunted 1
+substance 1
+sun 1
+super 1
+supreme 1
+surface 1
+surmount 1
+taking 1
+tall 6
+tall 4
+technical 1
+temperature 1
+tense 1
+tension 1
+than 2
+that 2
+the 15
+through 1
+tides 1
+to 5
+to 1
+top 1
+top 2
+towards 1
+tower 1
+towering 2
+tree 1
+tremendous 3
+up 3
+up 2
+uplifted 2
+upper 2
+upraised 1
+upraised 1
+upstage 1
+upstairs 1
+upward 6
+upward 2
+vertical 4
+vertically 1
+vertically 1
+very 2
+wall 1
+water 1
+weight 1
+when 1
+windy 1
+within 1
+yall 1
+you 1
+zenith 1

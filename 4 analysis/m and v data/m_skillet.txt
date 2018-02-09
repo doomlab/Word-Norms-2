@@ -1,0 +1,12 @@
+skillet pan 8 
+skillet kitchens 11 
+skillet handle 15 
+skillet hot 10 
+skillet round 7 
+skillet iron 6 
+skillet metal 11 
+skillet cooking 21 
+skillet food 9 
+skillet frying 18 
+skillet stove 13 
+skillet tops 13 

@@ -1,0 +1,196 @@
+ 15
+a 10
+abode 1
+after 1
+always 1
+and 4
+another 1
+anywhere 1
+apartment 1
+as 1
+away 1
+basement 1
+bathroom 1
+be 2
+beautiful 1
+bed 4
+bed 2
+belongings 1
+bored 1
+brick 2
+brother 1
+building 1
+busy 1
+can 1
+car 1
+carpet 1
+character 1
+close 1
+comfort 10
+comfort 2
+comfortable 3
+comfortable 4
+comforting 1
+comfy 2
+concrete 1
+contains 2
+couch 1
+couples 1
+course 1
+cozy 2
+curtains 1
+dad 1
+devote 1
+different 1
+dog 1
+domain 1
+door 1
+doors 1
+entertaining 1
+environment 1
+environment 1
+establish 1
+family 32
+family 4
+father 1
+feel 1
+fire 1
+floor 1
+food 1
+food 1
+for 2
+found 2
+fridge 1
+friendly 1
+friends 1
+friends 1
+from 3
+front 1
+fun 1
+furniture 2
+get 1
+go 4
+golf 1
+good 2
+grew 1
+grow 1
+happiness 2
+happy 2
+happy 1
+has 3
+heart 11
+holds 1
+home 1
+home 1
+house 12
+house 1
+houses 1
+in 3
+in 1
+is 13
+is 3
+known 1
+large 1
+live 7
+live 5
+lives 4
+lives 1
+living 5
+living 1
+loud 1
+louis 2
+lovable 1
+love 3
+love 1
+made 4
+materials 1
+memories 1
+mom 1
+mom 1
+montana 1
+mortgage 1
+most 1
+mother 1
+nails 1
+neighborhoods 1
+nest 1
+normal 1
+of 9
+on 1
+one 1
+or 1
+original 1
+own 2
+parents 2
+peaceful 1
+people 2
+person 1
+personal 2
+pets 1
+place 17
+possessions 1
+privacy 1
+property 1
+protection 2
+provides 2
+relax 1
+relaxing 1
+relaxing 1
+reliever 1
+resale 1
+residence 2
+roof 2
+roof 1
+room 1
+rooms 1
+safe 5
+safety 3
+safety 2
+security 2
+shelter 4
+siding 1
+sink 1
+sister 1
+sleep 2
+sleep 1
+small 1
+smells 2
+somewhere 1
+st 2
+stability 1
+state 1
+storms 1
+street 1
+stress 1
+strong 1
+such 1
+sweet 2
+texas 1
+that 2
+the 10
+them 1
+throughout 1
+time 1
+to 9
+up 1
+up 1
+upbeat 1
+value 1
+walls 1
+warm 5
+warmth 2
+warmth 1
+welcoming 1
+welcoming 1
+well 1
+were 1
+where 28
+will 1
+windows 2
+windows 1
+wonderful 1
+wood 4
+work 1
+world 1
+you 13
+your 9

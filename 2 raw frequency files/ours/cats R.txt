@@ -1,0 +1,259 @@
+ 13
+a 18
+accrual 1
+active 1
+adorable 1
+also 1
+an 11
+and 12
+animal 19
+animal 4
+animals 8
+animals 1
+any 2
+apple 1
+are 2
+as 3
+at 1
+attention 1
+axial 2
+babies 1
+beaten 1
+belonging 1
+big 1
+big 1
+bigger 1
+birth 1
+black 1
+block 1
+blooded 1
+blue 1
+bobcat 1
+bobcats 1
+body 1
+both 1
+boxes 1
+breeds 1
+brown 1
+by 4
+calm 1
+can 2
+capulets 1
+carnivore 2
+carnivore 1
+carnivores 1
+carnivorous 7
+cat 6
+cat 2
+catch 2
+caterpillar 1
+cats 17
+certificates 1
+cheetah 2
+claw 1
+claws 3
+claws 1
+clean 1
+climber 1
+colored 1
+colors 2
+comes 2
+common 1
+computed 2
+computerized 2
+conserve 1
+creature 1
+ct 1
+cuddly 1
+cute 2
+dangerous 1
+darling 1
+day 1
+dear 1
+definition 1
+different 2
+dogs 1
+domestic 3
+domestic 1
+domesticated 6
+drinking 1
+drinks 1
+easily 1
+eat 2
+enemy 1
+energy 1
+etc 1
+eye 1
+eyes 4
+face 1
+family 7
+felicdad 1
+felidae 2
+feline 4
+feline 1
+felines 1
+female 1
+feral 1
+finance 1
+fish 2
+fluffy 1
+for 1
+four 3
+from 2
+fur 3
+furry 7
+given 1
+gives 1
+gossip 1
+grimalkin 1
+hairy 1
+hard 2
+has 3
+have 1
+having 1
+house 2
+household 2
+houses 1
+houses 1
+hunt 1
+in 5
+includes 3
+including 1
+independent 1
+inside 1
+intelligent 1
+investment 1
+is 13
+it 2
+jaguar 1
+jewel 1
+jungle 1
+keep 1
+kept 2
+kills 1
+kind 1
+kitten 1
+kitten 1
+kittens 1
+kitty 1
+land 1
+land 1
+legged 1
+legs 3
+leopard 3
+lesser 1
+licking 1
+licks 1
+like 1
+likes 2
+lion 4
+lions 2
+litter 1
+little 1
+lives 3
+living 1
+long 2
+looks 1
+love 1
+lynx 3
+male 1
+malicious 1
+malkin 1
+mammal 6
+mammal 1
+mammals 4
+many 2
+meat 1
+member 1
+meows 2
+mice 2
+milk 3
+montagues 1
+more 2
+most 1
+mouse 1
+mouser 1
+newton 1
+night 2
+nine 1
+non 1
+ocelot 1
+of 9
+on 3
+one 1
+or 4
+other 2
+outside 1
+panters 1
+panther 1
+paws 1
+people 1
+pests 1
+pet 10
+pet 2
+pets 6
+pets 1
+picture 1
+popular 1
+predator 1
+purring 1
+purrs 1
+purrs 1
+pussy 1
+quick 1
+rain 2
+raised 1
+range 1
+rates 1
+rats 2
+retractile 1
+roaring 1
+rodents 1
+s 1
+securities 1
+see 2
+sharp 1
+shiny 1
+short 1
+sleeping 1
+small 12
+snatch 1
+snout 1
+soft 2
+sometimes 2
+spiteful 1
+startled 1
+story 1
+tabby 2
+tail 1
+tails 1
+tale 1
+tame 1
+that 2
+the 7
+themselves 1
+tiger 4
+tiger 2
+tigers 3
+times 1
+to 7
+tomcat 1
+tomography 4
+treasure 1
+treasury 1
+true 1
+use 1
+usually 1
+various 2
+vegetarian 1
+vermin 1
+very 1
+wags 1
+walks 1
+warm 1
+which 4
+white 1
+widely 1
+wild 1
+with 4
+woman 1

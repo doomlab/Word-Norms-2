@@ -1,0 +1,16 @@
+pumpkin fruit 8 
+pumpkin vegetable 8 
+pumpkin eaten 26 
+pumpkin pies 26 
+pumpkin grows 7 
+pumpkin vines 7 
+pumpkin seeds 22 
+pumpkin large 14 
+pumpkin orange 27 
+pumpkin round 13 
+pumpkin at 27 
+pumpkin Hallowe'en 27 
+pumpkin carving 7 
+pumpkin Jack 16 
+pumpkin O'Lanterns 16 
+pumpkin autumn 6 

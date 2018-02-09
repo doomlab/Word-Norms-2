@@ -1,0 +1,259 @@
+ 50
+a 17
+able 2
+actions 1
+air 1
+always 1
+an 4
+and 1
+anger 1
+angered 1
+animals 1
+annoying 1
+appointment 1
+asked 1
+assistance 1
+assists 1
+at 2
+babies 1
+be 2
+being 6
+being 2
+bible 1
+bored 1
+boring 1
+breath 1
+calm 13
+calm 3
+can 1
+cancer 1
+care 4
+care 1
+cared 2
+center 1
+characteristic 1
+check 2
+child 1
+claim 1
+client 1
+confused 1
+conservative 1
+content 2
+cooking 1
+customer 1
+deal 1
+diagnose 1
+do 1
+doctor 26
+doctors 6
+doctors 1
+doing 1
+don 1
+down 1
+easily 1
+easy 2
+electronics 1
+else 1
+emergency 1
+er 1
+event 1
+examined 1
+family 1
+fever 1
+for 4
+for 1
+found 1
+fresh 1
+getting 1
+going 2
+good 3
+gown 1
+grieving 1
+handles 1
+has 2
+have 3
+have 1
+headache 1
+health 3
+healthcare 1
+help 4
+help 1
+holding 1
+hospital 22
+human 2
+hurry 1
+hurt 2
+hurting 1
+i 1
+ia 1
+illness 3
+in 9
+injury 2
+injury 1
+institution 1
+is 9
+issue 1
+issues 1
+iv 1
+kids 2
+kind 1
+kind 1
+lack 1
+little 1
+lonely 1
+lounge 1
+magazine 1
+magazine 1
+make 1
+male 1
+marijuana 1
+may 2
+medical 1
+medication 2
+medicine 1
+mentally 1
+monitored 1
+monk 1
+most 1
+need 3
+needing 2
+needs 7
+needy 1
+nervous 1
+nice 2
+nice 1
+no 2
+not 5
+nurse 1
+nurses 2
+occipital 1
+of 8
+office 4
+office 2
+offices 1
+official 1
+on 2
+on 1
+one 2
+or 5
+others 2
+over 1
+overreact 1
+own 1
+pain 4
+pain 1
+pale 1
+patience 1
+patient 1
+patient 1
+person 7
+person 1
+personality 1
+physical 1
+pleasing 1
+polite 1
+popsicle 1
+possess 1
+problem 3
+problem 1
+psychologist 1
+quality 2
+questions 1
+quick 1
+quiet 2
+reads 1
+recover 1
+relaxed 2
+relaxed 1
+religions 1
+requires 2
+resolved 1
+respectful 1
+rest 1
+results 1
+robe 2
+room 6
+rush 1
+rushing 1
+s 2
+sad 1
+sad 1
+scary 1
+sedated 1
+seeing 1
+seeks 1
+serene 1
+sick 20
+sick 3
+sickness 2
+sickness 1
+slow 2
+some 2
+someone 4
+something 3
+something 1
+sounds 1
+specific 1
+staying 1
+stays 1
+steady 1
+stethoscope 1
+stick 1
+still 1
+stoplight 1
+student 1
+subtle 1
+sufferer 1
+surgery 1
+t 1
+takes 1
+that 2
+the 4
+them 1
+them 1
+time 1
+tired 1
+tissue 1
+to 8
+tolerant 2
+traffic 1
+treatment 3
+trouble 1
+type 1
+typically 1
+u 1
+under 2
+understanding 1
+unhappy 1
+unhealthy 2
+unstable 1
+up 2
+usually 1
+victim 2
+virtue 3
+visit 1
+wait 4
+wait 1
+waiting 16
+waiting 3
+waits 1
+want 1
+wanting 1
+weak 2
+wears 2
+well 2
+what 1
+white 1
+who 3
+whom 1
+will 1
+with 3
+work 1
+worked 1
+working 1
+worry 1
+wrong 1
+wrong 1
+young 1
+your 1
+yourself 1

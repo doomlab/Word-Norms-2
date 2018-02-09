@@ -1,0 +1,205 @@
+ 18
+5 3
+8 1
+9 1
+a 12
+accomplish 1
+achieve 1
+act 2
+action 1
+adult 1
+after 1
+always 1
+amount 1
+an 1
+and 1
+apply 1
+assignment 1
+attire 1
+be 3
+being 1
+benefits 2
+boring 3
+boss 1
+boss 1
+brain 1
+buildings 1
+business 2
+business 1
+by 4
+can 2
+care 1
+career 1
+chasing 1
+check 1
+college 1
+construction 1
+consuming 3
+consuming 1
+cooperating 1
+cubicles 1
+daily 1
+days 3
+determined 1
+different 1
+diverse 1
+do 4
+do 1
+doing 2
+done 3
+drag 1
+dream 1
+dull 1
+earn 5
+easy 1
+effort 2
+effort 1
+employee 1
+employees 1
+employment 1
+enjoyable 1
+exert 1
+exhaust 1
+exhausting 1
+experience 2
+family 2
+feat 1
+for 6
+forced 1
+found 1
+friday 1
+friday 1
+full 1
+fun 6
+future 1
+get 5
+go 1
+goal 1
+growth 1
+hard 14
+hard 1
+has 1
+hate 1
+have 1
+health 1
+help 1
+high 1
+hot 1
+hours 2
+hours 1
+houses 1
+in 3
+individuals 1
+interaction 1
+interesting 1
+involved 1
+is 8
+it 4
+job 11
+job 5
+jobs 2
+labor 4
+leads 1
+learning 1
+life 2
+live 1
+living 1
+long 4
+love 2
+low 1
+make 4
+making 2
+manual 1
+many 1
+meetings 1
+minimum 1
+monday 2
+money 20
+money 10
+motivated 1
+necessary 1
+no 1
+not 5
+occupation 1
+of 8
+office 2
+opportunity 1
+outcome 1
+outside 1
+paid 2
+paper 1
+papers 1
+paperwork 1
+part 2
+pay 2
+paycheck 1
+paycheck 2
+paying 1
+paying 1
+payment 1
+people 2
+people 1
+perfection 1
+persistence 1
+place 3
+productive 1
+professional 1
+provide 1
+provided 1
+provides 3
+pump 1
+put 1
+putting 1
+receive 1
+repairing 1
+required 2
+requires 1
+responsibility 1
+restaurant 1
+retirement 1
+rewarding 2
+rewards 1
+salary 2
+salary 1
+satisfying 1
+school 1
+science 1
+service 1
+sheet 1
+sleep 1
+smart 1
+social 1
+something 5
+something 1
+standing 1
+stress 1
+stressful 1
+success 1
+support 1
+task 1
+tasks 1
+tedious 1
+the 6
+their 1
+throughout 1
+time 8
+time 1
+tire 1
+tiring 1
+tiring 2
+to 13
+up 1
+used 1
+usually 1
+volunteer 1
+wage 2
+way 1
+we 1
+week 2
+where 4
+work 1
+work 1
+working 1
+world 1
+you 5
+your 2

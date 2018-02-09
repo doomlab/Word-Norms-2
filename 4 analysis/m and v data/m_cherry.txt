@@ -1,0 +1,16 @@
+cherry fruit 25 
+cherry eaten 11 
+cherry pies 11 
+cherry eaten 18 
+cherry summer 7 
+cherry maraschino 5 
+cherry grows 16 
+cherry trees 16 
+cherry pit 23 
+cherry stem 17 
+cherry delicious 6 
+cherry red 27 
+cherry round 15 
+cherry small 14 
+cherry tastes 18 
+cherry sweet 18 

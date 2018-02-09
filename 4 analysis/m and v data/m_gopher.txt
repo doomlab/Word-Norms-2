@@ -1,0 +1,10 @@
+gopher animal 21 
+gopher digs 13 
+gopher holes 13 
+gopher four 5 
+gopher legs 5 
+gopher fur 15 
+gopher legs 10 
+gopher brown 9 
+gopher small 12 
+gopher ground 16 

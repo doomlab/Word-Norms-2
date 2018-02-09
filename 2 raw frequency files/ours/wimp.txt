@@ -1,0 +1,212 @@
+ 49
+a 10
+ability 1
+able 1
+acne 1
+acting 1
+activity 1
+afraid 2
+afraid 2
+all 1
+alone 1
+and 3
+around 1
+as 1
+away 1
+baby 5
+baby 1
+backs 1
+basic 1
+be 2
+beat 1
+bitch 2
+boy 1
+boy 1
+brave 2
+bullied 1
+bullied 1
+bullies 1
+bully 2
+bullying 1
+calling 1
+can 2
+cannot 1
+cant 3
+careless 1
+cat 1
+chicken 2
+chump 1
+complains 1
+confident 1
+cool 2
+courage 1
+coward 6
+cowards 1
+cries 1
+cry 5
+cry 1
+crybaby 1
+daring 1
+defend 1
+delicate 1
+depicted 1
+describe 1
+do 2
+doesn 1
+dominance 1
+don 1
+dork 1
+down 1
+easily 3
+embarrassed 1
+enforce 1
+everything 1
+failure 1
+fear 1
+feminine 2
+fight 1
+flimsy 1
+for 3
+fragile 2
+frail 3
+friend 1
+frightened 1
+fun 1
+gets 2
+girl 1
+girly 1
+give 1
+glasses 2
+has 1
+helpless 1
+high 2
+homosexual 1
+hurt 1
+i 1
+in 2
+is 7
+it 1
+jocks 1
+kid 2
+kid 1
+kids 1
+lack 1
+lacking 2
+lame 2
+lazy 3
+lazy 1
+life 1
+like 1
+little 5
+loser 7
+losser 1
+lot 2
+lunch 1
+made 1
+male 1
+man 1
+meek 1
+money 1
+much 1
+muscles 1
+muscular 1
+name 1
+needs 1
+nerd 5
+nerd 2
+nerdy 1
+nervous 1
+nigga 1
+no 2
+not 16
+of 5
+on 2
+or 2
+others 1
+outgoing 1
+over 1
+pain 1
+pale 1
+pansy 1
+pants 1
+pathetic 2
+perform 1
+person 4
+person 3
+physical 1
+picked 2
+pimp 1
+pip 1
+poor 1
+prone 1
+punk 5
+puny 2
+push 1
+pushed 1
+pussy 4
+quiet 2
+runs 1
+s 1
+sad 2
+scared 25
+scares 1
+scary 3
+school 2
+scrawny 6
+scrutiny 1
+self 2
+shaken 1
+sheltered 1
+shy 4
+sissy 2
+skinny 5
+small 13
+small 2
+soft 3
+someone 4
+something 2
+sometimes 1
+sorry 1
+spoken 1
+sports 1
+squeak 1
+stand 4
+standards 1
+steve 1
+strength 3
+strong 3
+strong 1
+suffers 1
+t 4
+tears 1
+term 1
+the 1
+themselves 1
+themselves 1
+thin 1
+time 1
+timid 3
+tiny 1
+to 9
+too 1
+tough 3
+unadventurous 1
+up 5
+up 1
+upset 1
+urkel 1
+used 3
+wamp 1
+weak 15
+weak 6
+weakling 1
+week 1
+whines 1
+whinny 1
+who 6
+willing 1
+wimpy 1
+without 1
+won 1
+worthless 1
+young 1

@@ -1,0 +1,251 @@
+ 47
+2 1
+10 1
+12 1
+a 22
+about 2
+acc 1
+an 2
+and 4
+another 2
+are 1
+area 2
+arguments 1
+association 1
+attend 1
+banquet 1
+be 3
+beepers 1
+between 1
+big 4
+board 1
+boards 1
+boring 4
+boss 2
+brief 1
+bring 1
+buildings 1
+business 14
+business 1
+by 2
+call 7
+call 1
+calls 1
+can 3
+careers 1
+case 1
+cause 1
+celebrations 1
+centers 1
+certain 1
+chairs 4
+chairs 1
+church 1
+clothing 1
+coffee 2
+cold 1
+collaborating 1
+collection 2
+committee 1
+common 2
+community 1
+companies 1
+company 1
+competitive 1
+compromises 1
+computer 1
+computers 1
+conference 2
+conference 1
+conservative 1
+convention 1
+conversation 4
+conversation 1
+could 1
+debating 1
+decide 1
+delegation 1
+desks 1
+different 1
+discuss 5
+discussing 1
+division 1
+employees 2
+event 1
+everyone 1
+executives 1
+feels 1
+few 1
+football 1
+for 6
+formal 1
+fun 1
+functional 1
+gaining 1
+gathering 2
+gathering 3
+get 2
+going 1
+group 13
+group 1
+groups 1
+has 1
+have 1
+having 1
+held 1
+hotel 1
+hotels 1
+ideas 1
+important 5
+important 1
+in 6
+inform 1
+information 1
+informational 1
+informing 1
+interaction 1
+interest 1
+intermission 1
+involved 1
+is 7
+issues 1
+job 1
+knowledge 1
+large 4
+lawyers 1
+league 1
+league 1
+learning 2
+learning 1
+leather 1
+lecture 1
+like 3
+long 5
+long 1
+lot 2
+lots 4
+lunch 1
+make 1
+manager 1
+many 4
+market 1
+massive 1
+meet 3
+meeting 45
+meeting 12
+memos 1
+men 3
+minded 2
+more 2
+multiple 1
+new 2
+nice 3
+noisy 1
+not 3
+notes 1
+of 21
+office 3
+official 1
+old 1
+on 2
+one 2
+or 9
+organized 1
+other 1
+others 1
+over 2
+page 1
+parent 1
+parents 2
+pay 1
+people 34
+people 4
+person 2
+phone 6
+phones 2
+place 1
+point 1
+political 1
+portfolio 1
+power 1
+presentation 1
+presentation 1
+president 1
+problems 1
+professional 2
+professionals 1
+projector 1
+purposes 1
+quite 1
+ringing 1
+room 4
+rooms 1
+round 1
+same 2
+scheduled 1
+school 1
+screens 1
+sec 2
+set 1
+several 1
+sharing 1
+shiny 1
+shoes 1
+sitting 1
+situation 1
+skyscrapers 1
+so 2
+someone 1
+something 3
+sounds 1
+speeches 1
+sport 1
+sports 2
+stock 1
+student 1
+subject 1
+suitcases 1
+suits 6
+sure 1
+table 2
+tables 4
+talk 3
+talking 6
+talking 4
+talks 1
+tasks 1
+teacher 2
+teachers 2
+teams 1
+telephones 1
+television 1
+than 1
+that 3
+the 4
+their 1
+theories 1
+things 2
+ties 2
+time 1
+title 1
+to 10
+together 4
+together 1
+too 1
+tournament 1
+trouble 1
+type 1
+used 4
+usually 2
+via 1
+viewing 1
+views 1
+waste 1
+water 1
+well 1
+windows 1
+with 4
+women 1
+work 5
+you 1
+your 1

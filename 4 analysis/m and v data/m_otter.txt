@@ -1,0 +1,9 @@
+otter mammal 8 
+otter animal 19 
+otter eats 5 
+otter swims 25 
+otter tail 5 
+otter fur 16 
+otter brown 10 
+otter cute 5 
+otter water 20 

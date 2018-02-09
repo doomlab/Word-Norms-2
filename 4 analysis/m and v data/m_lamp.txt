@@ -1,0 +1,16 @@
+lamp floors 6 
+lamp tables 12 
+lamp furniture 9 
+lamp cord 5 
+lamp shade 19 
+lamp switch 10 
+lamp lightbulbs 15 
+lamp heat 5 
+lamp bright 5 
+lamp electrical 18 
+lamp oil 5 
+lamp hanging 5 
+lamp hanging 10 
+lamp ceilings 5 
+lamp making 25 
+lamp light 25 

@@ -1,0 +1,16 @@
+lantern candle 6 
+lantern bright 5 
+lantern hand 5 
+lantern held 5 
+lantern lit 6 
+lantern flames 6 
+lantern old 5 
+lantern fashioned 5 
+lantern glass 11 
+lantern metal 6 
+lantern gas 6 
+lantern oil 6 
+lantern at 7 
+lantern night 7 
+lantern camping 8 
+lantern light 21 

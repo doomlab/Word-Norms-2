@@ -1,0 +1,190 @@
+ 17
+3 3
+4 1
+a 28
+able 1
+along 1
+an 1
+and 6
+appliance 1
+associated 1
+be 14
+bendable 2
+big 1
+can 13
+certain 1
+china 1
+cold 2
+color 1
+combined 1
+comes 1
+coming 1
+common 1
+consume 1
+consuming 1
+could 1
+designed 1
+designs 1
+devils 1
+different 4
+dinner 1
+disposable 1
+division 1
+drawer 1
+drawer 1
+eat 27
+eat 4
+eating 13
+eating 7
+edible 1
+either 1
+end 1
+everyday 1
+fancy 1
+flexible 1
+food 18
+food 7
+foods 1
+for 19
+fork 1
+fork 1
+found 4
+four 6
+goes 2
+grab 1
+handle 1
+hard 5
+hard 1
+has 14
+help 1
+helps 1
+hold 1
+humans 1
+in 17
+into 1
+is 33
+it 10
+its 1
+keep 1
+kept 1
+kitchen 8
+kitchens 2
+knife 5
+knifes 1
+lengths 1
+like 2
+long 5
+looks 1
+machine 1
+made 16
+may 1
+meal 2
+meant 1
+metal 37
+metal 2
+metallic 1
+microwaved 1
+napkin 1
+non 1
+not 3
+object 1
+object 1
+of 20
+on 2
+one 1
+or 9
+out 2
+part 1
+parts 1
+pasta 1
+people 1
+pick 6
+picks 4
+piece 1
+pitchfork 1
+placed 1
+plain 1
+plastic 17
+plastic 3
+plate 1
+pointed 1
+pointing 1
+points 3
+pointy 7
+pointy 1
+poke 1
+portions 1
+predominantly 1
+prod 1
+prong 1
+pronged 3
+prongs 14
+prongs 2
+puncture 1
+purpose 1
+put 1
+relatively 1
+restaurants 1
+river 1
+road 2
+salad 1
+separate 1
+set 1
+sharp 10
+sharp 2
+sharps 1
+shiny 2
+silver 16
+silver 1
+silverware 4
+sits 1
+size 1
+sizes 2
+skinny 2
+small 1
+small 1
+something 1
+specially 1
+specific 1
+spiked 1
+spikes 1
+spiky 1
+split 1
+spoon 7
+spoons 1
+spork 1
+stab 1
+stab 1
+stabs 2
+stationary 1
+stem 1
+stick 1
+stick 1
+stored 1
+structure 1
+table 1
+table 1
+the 3
+them 1
+thin 1
+things 2
+three 4
+through 1
+time 1
+tines 1
+to 39
+tool 2
+tool 1
+triage 1
+up 10
+use 4
+used 45
+useful 2
+usually 2
+utensil 15
+utensil 4
+washable 1
+washing 1
+which 1
+with 15
+with 1

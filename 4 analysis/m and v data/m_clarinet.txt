@@ -1,0 +1,16 @@
+clarinet musical 25 
+clarinet instrument 25 
+clarinet keys 9 
+clarinet reeds 8 
+clarinet music 17 
+clarinet notes 5 
+clarinet black 12 
+clarinet long 8 
+clarinet metal 8 
+clarinet wood 5 
+clarinet blowing 13 
+clarinet air 13 
+clarinet through 13 
+clarinet bands 10 
+clarinet orchestras 8 
+clarinet fingers 6 

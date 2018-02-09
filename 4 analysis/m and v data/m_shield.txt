@@ -1,0 +1,10 @@
+shield weapon 5 
+shield knights 5 
+shield swords 6 
+shield large 5 
+shield medieval 8 
+shield metal 19 
+shield wood 5 
+shield battle 5 
+shield protection 25 
+shield war 7 

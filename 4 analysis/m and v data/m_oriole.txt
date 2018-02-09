@@ -1,0 +1,10 @@
+oriole bird 23 
+oriole baseball 10 
+oriole flies 15 
+oriole lays 5 
+oriole eggs 5 
+oriole beak 9 
+oriole feathers 9 
+oriole wings 10 
+oriole black 6 
+oriole orange 8 

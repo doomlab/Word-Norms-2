@@ -1,0 +1,13 @@
+turnip vegetable 26 
+turnip eaten 9 
+turnip cooking 9 
+turnip grows 9 
+turnip gardens 9 
+turnip grows 23 
+turnip ground 14 
+turnip crunchy 5 
+turnip edible 14 
+turnip round 5 
+turnip white 8 
+turnip tastes 9 
+turnip bad 9 

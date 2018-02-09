@@ -1,0 +1,15 @@
+oak tree 30 
+oak grows 9 
+oak forests 9 
+oak leaves 15 
+oak brown 6 
+oak hard 8 
+oak large 8 
+oak strong 7 
+oak tall 7 
+oak wood 16 
+oak as 6 
+oak home 6 
+oak animals 6 
+oak making 14 
+oak furniture 14 

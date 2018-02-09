@@ -1,0 +1,13 @@
+doll toy 14 
+doll babies 5 
+doll Barbie 7 
+doll hair 12 
+doll own 17 
+doll clothes 17 
+doll pretty 9 
+doll human 7 
+doll porcelain 10 
+doll children 9 
+doll girls 13 
+doll collecting 8 
+doll playing 15 

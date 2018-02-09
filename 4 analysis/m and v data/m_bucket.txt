@@ -1,0 +1,9 @@
+bucket handle 22 
+bucket round 11 
+bucket metal 13 
+bucket plastic 13 
+bucket carrying 13 
+bucket things 13 
+bucket holding 11 
+bucket things 24 
+bucket water 10 

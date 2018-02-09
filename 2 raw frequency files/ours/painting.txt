@@ -1,0 +1,217 @@
+ 17
+a 6
+abstract 4
+acrylic 1
+action 1
+after 1
+an 4
+and 3
+angelo 1
+are 1
+aroma 1
+art 17
+art 9
+artist 7
+artist 4
+artistic 2
+artists 2
+artsy 1
+artwork 3
+at 1
+bad 1
+be 5
+beautiful 2
+beautiful 1
+beauty 1
+boring 2
+bright 2
+brush 4
+brush 1
+brushes 7
+brushes 1
+by 3
+calming 1
+can 7
+canvas 7
+canvas 4
+canvass 2
+cement 1
+change 2
+changing 1
+chapel 1
+color 4
+color 2
+colorful 10
+colorful 1
+colors 14
+colors 2
+completed 1
+cost 1
+created 1
+creates 1
+creative 2
+decorating 1
+decoration 1
+depict 2
+deportation 1
+different 1
+displayed 1
+do 1
+doing 1
+done 1
+draw 1
+easel 1
+elegance 1
+elementary 1
+emotion 3
+everyone 1
+evokes 1
+exciting 1
+express 2
+expressing 1
+expression 1
+expression 1
+expressive 2
+fabric 1
+face 1
+famous 1
+feelings 1
+fine 1
+finger 1
+fingers 1
+for 1
+form 1
+found 3
+framed 1
+fun 2
+fun 1
+functional 1
+furniture 1
+galleries 1
+go 1
+good 1
+hangs 1
+hard 3
+has 1
+history 1
+homes 1
+house 1
+houses 1
+in 5
+ink 1
+is 10
+it 2
+landscape 1
+latex 1
+lead 1
+life 1
+light 1
+liquidly 1
+lisa 1
+lisa 1
+lot 1
+lots 1
+louvre 1
+made 6
+make 1
+makeover 1
+many 1
+men 1
+messy 2
+michael 1
+mind 1
+mixing 1
+mona 1
+monet 1
+money 2
+mono 1
+movements 1
+museums 1
+museums 1
+object 2
+odorous 1
+of 7
+off 1
+oil 2
+on 7
+one 1
+or 2
+paint 15
+paint 4
+paintbrushes 1
+painter 1
+painters 1
+painting 1
+painting 1
+paints 1
+paper 4
+people 1
+people 1
+personal 1
+persuasive 1
+picasso 1
+picture 3
+picture 1
+pictures 1
+piece 1
+portrait 1
+pretty 4
+priceless 1
+putting 2
+quiet 1
+real 1
+relaxes 1
+relaxing 2
+rendition 1
+renewing 1
+room 1
+rooms 1
+s 1
+scene 1
+school 1
+self 2
+sell 1
+side 1
+sistine 1
+smock 1
+smooth 1
+soft 1
+something 2
+stains 1
+subjective 1
+substances 1
+supplies 1
+t 1
+tedious 1
+the 7
+their 1
+them 1
+thoughts 1
+times 1
+to 7
+took 1
+touch 1
+toxic 1
+ugly 1
+unique 1
+used 3
+uses 1
+using 2
+utilizing 1
+valuable 1
+van 1
+visualized 1
+wall 1
+wall 1
+walls 2
+watercolor 2
+wet 1
+what 1
+which 1
+with 2
+wood 1
+work 3
+work 2
+world 1
+would 1
+you 1

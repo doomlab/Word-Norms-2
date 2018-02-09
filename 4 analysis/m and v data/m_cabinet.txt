@@ -1,0 +1,11 @@
+cabinet houses 6 
+cabinet kitchens 11 
+cabinet furniture 6 
+cabinet doors 14 
+cabinet drawers 5 
+cabinet handles 7 
+cabinet shelves 10 
+cabinet wood 27 
+cabinet storage 22 
+cabinet storing 6 
+cabinet dishes 6 

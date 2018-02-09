@@ -1,0 +1,14 @@
+sardine fish 28 
+sardine swims 5 
+sardine cans 26 
+sardine eaten 8 
+sardine pizza 8 
+sardine edible 17 
+sardine slimy 5 
+sardine small 18 
+sardine smelly 15 
+sardine water 10 
+sardine tastes 6 
+sardine bad 6 
+sardine tastes 15 
+sardine salty 9 

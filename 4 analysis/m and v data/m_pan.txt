@@ -1,0 +1,16 @@
+pan kitchens 8 
+pan handle 13 
+pan lid 5 
+pan Teflcoating 5 
+pan non 5 
+pan stick 5 
+pan round 8 
+pan cast 6 
+pan iron 6 
+pan metal 16 
+pan cooking 24 
+pan finding 6 
+pan gold 6 
+pan frying 18 
+pan stove 6 
+pan tops 6 

@@ -1,0 +1,13 @@
+garage doors 17 
+garage large 8 
+garage wood 7 
+garage part 18 
+garage house 18 
+garage as 5 
+garage room 5 
+garage junk 7 
+garage storage 16 
+garage storing 28 
+garage cars 28 
+garage storing 35 
+garage tools 7 

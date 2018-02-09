@@ -1,0 +1,16 @@
+mirror sizes 8 
+mirror bathrooms 10 
+mirror bedrooms 6 
+mirror houses 5 
+mirror walls 6 
+mirror breaks 7 
+mirror gives 6 
+mirror bad 6 
+mirror luck 6 
+mirror if 6 
+mirror breaks 13 
+mirror breakable 6 
+mirror shiny 7 
+mirror glass 15 
+mirror showing 30 
+mirror reflections 30 

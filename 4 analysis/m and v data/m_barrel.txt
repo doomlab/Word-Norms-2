@@ -1,0 +1,13 @@
+barrel container 8 
+barrel lid 5 
+barrel metal 5 
+barrel bands 5 
+barrel brown 8 
+barrel large 7 
+barrel round 18 
+barrel wood 27 
+barrel storage 9 
+barrel storing 20 
+barrel beer 8 
+barrel water 5 
+barrel wine 7 

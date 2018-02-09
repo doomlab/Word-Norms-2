@@ -1,0 +1,15 @@
+chain jewelry 8 
+chain links 12 
+chain gold 8 
+chain long 7 
+chain shiny 5 
+chain silver 9 
+chain strong 8 
+chain metal 17 
+chain holding 9 
+chain things 9 
+chain together 9 
+chain bicycles 7 
+chain worn 10 
+chain around 10 
+chain neck 10 

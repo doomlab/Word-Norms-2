@@ -1,0 +1,17 @@
+card_greeting envelopes 5 
+card_greeting bought 6 
+card_greeting sold 6 
+card_greeting stores 6 
+card_greeting message 8 
+card_greeting pictures 5 
+card_greeting colorful 6 
+card_greeting humorous 7 
+card_greeting Hallmark 10 
+card_greeting paper 19 
+card_greeting mailing 8 
+card_greeting thoughtful 6 
+card_greeting people 6 
+card_greeting birthdays 8 
+card_greeting special 6 
+card_greeting occasions 6 
+card_greeting sympathy 6 

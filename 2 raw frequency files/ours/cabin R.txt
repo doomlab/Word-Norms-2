@@ -1,0 +1,152 @@
+ 17
+a 15
+after 1
+airplane 1
+and 1
+are 1
+at 1
+away 1
+bathroom 1
+bedroom 1
+beds 2
+boating 1
+brown 3
+bugs 1
+building 1
+building 1
+built 1
+by 4
+cabin 1
+calling 1
+camp 1
+camping 3
+camping 2
+comfort 1
+comforting 1
+comfy 1
+cottage 1
+country 1
+countryside 1
+cozy 5
+dirt 1
+door 1
+escape 1
+expensive 1
+fall 1
+farm 2
+fire 3
+fire 1
+fireplace 2
+fireplace 2
+for 4
+forest 4
+forest 1
+forests 1
+found 3
+four 1
+from 1
+fun 1
+fun 1
+get 1
+has 2
+having 1
+home 3
+home 1
+homey 1
+homey 1
+house 6
+house 2
+housing 1
+hunting 2
+hunting 1
+in 24
+in 1
+is 8
+it 1
+kitchen 1
+lake 6
+lake 3
+lakes 1
+like 2
+live 1
+living 2
+located 1
+lodge 1
+log 10
+logs 13
+logs 4
+lonely 1
+love 1
+lumberjacks 1
+made 17
+marshmallows 1
+middle 1
+mountains 1
+musty 1
+nature 1
+night 1
+no 1
+of 16
+old 1
+on 1
+or 1
+out 3
+outdoors 1
+outdoors 1
+peace 1
+peaceful 1
+peaceful 1
+people 1
+pilots 1
+pioneers 1
+place 8
+plane 1
+primitive 1
+private 1
+prom 1
+quilts 1
+relax 2
+rest 1
+room 1
+rustic 1
+secluded 1
+shelter 3
+sleep 1
+sleep 1
+small 6
+smells 1
+space 1
+spot 1
+spot 1
+stay 2
+stay 2
+staying 1
+stove 1
+structure 1
+structure 1
+surrounded 1
+syrup 1
+the 19
+they 1
+tight 1
+to 7
+trees 2
+trees 1
+used 5
+usually 2
+vacation 4
+vacation 1
+warm 2
+warmth 1
+wheeling 1
+where 1
+wilderness 1
+window 1
+windows 1
+winter 3
+with 1
+wood 17
+wood 2
+wooden 6
+woods 28
+woods 4

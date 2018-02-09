@@ -1,0 +1,8 @@
+shell house 10 
+shell colors 7 
+shell shapes 6 
+shell seas 7 
+shell beaches 11 
+shell breakable 6 
+shell hard 11 
+shell protection 12 

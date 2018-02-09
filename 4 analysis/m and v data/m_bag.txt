@@ -1,0 +1,14 @@
+bag color 7 
+bag sizes 10 
+bag grocery 5 
+bag stores 5 
+bag handles 12 
+bag breakable 8 
+bag useful 5 
+bag material 5 
+bag paper 14 
+bag plastic 22 
+bag carrying 19 
+bag groceries 5 
+bag things 20 
+bag holding 6 

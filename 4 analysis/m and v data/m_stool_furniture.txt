@@ -1,0 +1,17 @@
+stool_furniture bars 12 
+stool_furniture four 8 
+stool_furniture legs 8 
+stool_furniture cushion 5 
+stool_furniture foot 7 
+stool_furniture rest 7 
+stool_furniture seat 5 
+stool_furniture legs 16 
+stool_furniture no 5 
+stool_furniture backrest 5 
+stool_furniture round 10 
+stool_furniture small 8 
+stool_furniture tall 11 
+stool_furniture metal 8 
+stool_furniture wood 22 
+stool_furniture sitting 16 
+stool_furniture on 16 

@@ -1,0 +1,183 @@
+ 14
+911 1
+a 7
+accident 1
+act 1
+action 1
+airplane 1
+allow 1
+ammunition 1
+amounts 1
+and 1
+anger 3
+anger 1
+balloon 1
+be 2
+big 4
+big 1
+blast 1
+blow 6
+blowing 1
+bomb 19
+bomb 3
+bombs 4
+boom 4
+boom 1
+breaking 1
+bright 1
+building 1
+burst 1
+catastrophic 1
+cause 1
+chaos 1
+chemical 1
+chemicals 2
+combust 2
+combust 1
+combustion 1
+control 1
+control 1
+could 2
+cracker 1
+crash 1
+damage 1
+damage 2
+damaging 2
+dangerous 4
+deadly 1
+deals 1
+death 2
+demolish 1
+demolished 1
+demolition 1
+describing 1
+destruction 1
+destructive 2
+disaster 1
+disasters 2
+disorienting 1
+disruptive 1
+drama 1
+dramatic 1
+dynamite 2
+dynamite 3
+emotions 1
+energy 1
+erupt 3
+erupt 1
+everywhere 1
+everywhere 1
+expand 2
+expands 1
+explode 1
+explode 1
+explosion 2
+explosions 1
+fashion 1
+fire 14
+firecrackers 1
+fires 1
+firework 2
+fireworks 1
+fireworks 1
+flammable 1
+flavor 1
+flying 2
+food 1
+forceful 1
+frightening 1
+frustration 1
+fury 1
+fuse 1
+gases 1
+get 1
+goes 1
+gone 1
+good 1
+gunpowder 1
+happens 1
+harmful 2
+has 2
+hazardous 1
+heat 1
+heat 1
+implode 1
+in 1
+injury 1
+irate 1
+is 2
+it 1
+kills 1
+large 1
+light 1
+lightning 1
+lose 1
+lots 1
+loud 14
+loud 1
+mad 1
+massive 1
+matter 1
+mess 2
+messy 1
+messy 1
+missiles 1
+mistake 1
+mistake 1
+movies 1
+natural 1
+noise 2
+noise 1
+noises 2
+obnoxious 1
+of 6
+ones 1
+oneself 1
+opposite 1
+orange 1
+out 1
+out 1
+outward 1
+particle 1
+people 1
+point 1
+pressure 2
+reaction 2
+red 1
+related 1
+ruin 1
+scared 1
+scary 2
+scary 1
+smells 1
+smoke 1
+something 1
+something 1
+sound 1
+sparkler 1
+sparks 1
+spontaneously 1
+stress 1
+substances 1
+the 3
+threatening 1
+thunder 1
+tnt 1
+tnt 1
+to 13
+unnecessary 1
+up 3
+up 4
+usually 1
+volcano 4
+volcano 1
+volcanoes 1
+war 3
+war 3
+waves 1
+went 1
+with 2
+word 1
+works 1
+wrong 1
+yellow 1

@@ -1,0 +1,13 @@
+ox mammal 11 
+ox animal 24 
+ox eats 5 
+ox grass 5 
+ox four 15 
+ox legs 15 
+ox horns 11 
+ox brown 9 
+ox furry 7 
+ox large 18 
+ox strong 12 
+ox cow 6 
+ox ploughing 5 

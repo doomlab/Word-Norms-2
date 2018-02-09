@@ -1,0 +1,180 @@
+ 18
+1 2
+a 31
+achieve 1
+achiever 4
+achiever 1
+achieving 1
+advantageous 1
+after 1
+all 1
+always 1
+an 1
+anything 1
+assigned 1
+awarded 1
+be 2
+befitting 1
+being 1
+bell 1
+best 1
+bet 1
+better 1
+big 1
+boy 1
+by 2
+called 2
+celebration 1
+challenge 1
+champ 5
+champion 11
+champion 1
+comes 1
+competition 2
+competition 1
+competitor 1
+completes 1
+congratulation 1
+conquering 2
+conqueror 6
+contest 8
+contest 1
+contestant 3
+destined 2
+determined 1
+dog 2
+entrant 1
+etc 1
+etc 1
+exam 1
+face 1
+face 1
+failure 1
+feeling 1
+fighter 1
+finish 1
+first 12
+first 3
+front 2
+frontrunner 1
+gains 2
+gambler 1
+game 3
+game 1
+games 1
+gaming 1
+gaming 1
+gets 2
+gold 1
+grand 1
+great 1
+had 1
+happiness 1
+happy 2
+happy 1
+he 1
+hero 5
+holder 3
+holder 1
+in 10
+informal 1
+is 4
+joy 2
+leader 1
+leader 1
+leading 1
+loser 4
+loser 1
+lottery 1
+lucky 1
+manner 1
+match 1
+may 1
+medal 3
+medalist 2
+most 1
+national 1
+no 2
+noun 1
+number 2
+obstacles 1
+of 9
+olympic 1
+one 12
+opposite 4
+or 27
+outcome 1
+past 1
+person 22
+place 2
+place 2
+position 1
+post 1
+praised 1
+prize 3
+prize 4
+prizes 1
+prizewinner 2
+proud 1
+raffle 1
+receives 1
+record 1
+refers 1
+respectable 1
+result 1
+reward 1
+rewards 1
+ringer 1
+runner 2
+see 1
+seems 4
+situation 1
+someone 2
+something 3
+sports 2
+stands 1
+stood 1
+strong 1
+succeed 2
+succeed 1
+succeeder 3
+succeeds 2
+success 4
+success 1
+successes 1
+successful 5
+successful 1
+successor 3
+sure 2
+takes 1
+task 1
+than 1
+that 20
+the 14
+thing 12
+those 1
+ticket 1
+title 3
+to 6
+top 3
+triumph 1
+triumphant 1
+undefeated 1
+vanquisher 2
+vanquisher 1
+victor 15
+victor 4
+victorious 5
+victory 1
+victory 1
+whereby 1
+who 20
+win 7
+winner 11
+winning 2
+wins 21
+wins 3
+with 1
+won 1
+won 1
+you 2

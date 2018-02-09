@@ -1,0 +1,165 @@
+ 15
+6 2
+a 9
+after 3
+and 1
+animals 1
+are 4
+around 1
+avoid 1
+away 1
+bad 1
+be 3
+being 1
+black 2
+body 1
+body 3
+burial 5
+burial 1
+buried 11
+buried 3
+bury 2
+by 2
+can 1
+casket 3
+cemetery 6
+cemetery 2
+coffin 3
+coffin 1
+cold 2
+concrete 2
+corpse 1
+cross 1
+cry 1
+dangerous 1
+dark 4
+darkness 1
+dead 8
+dead 2
+death 26
+death 7
+deceased 1
+depressed 1
+depressing 2
+died 1
+died 1
+dies 1
+dies 1
+dig 1
+digger 1
+dingy 1
+dire 1
+dirt 6
+dirt 2
+dirty 2
+discouraging 1
+dustin 1
+dyer 1
+earth 2
+eaten 1
+emotional 1
+engraved 1
+feet 2
+flower 1
+flowers 1
+flowers 1
+for 2
+found 1
+funeral 6
+funeral 2
+funerals 1
+go 2
+good 1
+grass 2
+grave 1
+grave 2
+gravestone 1
+gray 2
+grief 1
+ground 8
+ground 2
+halloween 1
+halloween 3
+hard 1
+has 2
+haunted 1
+headstone 1
+holds 1
+hole 3
+hole 1
+ill 1
+in 8
+in 1
+is 5
+justin 1
+lay 1
+lays 1
+loss 1
+made 1
+marble 1
+mark 1
+marking 1
+melancholy 1
+mourn 1
+mourning 2
+not 1
+of 5
+often 1
+old 1
+or 1
+pass 1
+peace 1
+people 5
+person 1
+place 7
+popular 1
+put 1
+re 1
+reaper 1
+remember 1
+reminisce 1
+rest 1
+resting 1
+rip 2
+s 1
+sad 6
+sad 1
+sadness 5
+sadness 1
+scary 3
+scary 1
+site 2
+situation 2
+sleep 1
+someone 4
+something 1
+spirits 1
+spooky 1
+spot 1
+stone 4
+stone 2
+surrounded 1
+symbol 1
+that 2
+the 8
+their 1
+they 2
+thing 1
+to 6
+tomb 1
+tomb 1
+tombstone 10
+tombstone 2
+tombstones 1
+under 1
+underground 1
+underground 1
+used 1
+very 1
+visitation 1
+when 1
+where 11
+who 1
+will 1
+yard 2
+you 4

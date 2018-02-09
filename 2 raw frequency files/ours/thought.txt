@@ -1,0 +1,219 @@
+ 12
+a 14
+about 1
+act 7
+action 1
+action 1
+activity 7
+activity 2
+an 13
+anticipation 2
+as 2
+assume 2
+assumed 1
+attention 1
+attention 1
+bad 1
+be 3
+behind 1
+belief 2
+body 1
+brain 2
+by 4
+can 1
+capacity 1
+celebration 1
+cerebration 1
+cogitation 1
+cognition 1
+collect 1
+comprehend 1
+conceive 2
+concept 1
+conception 1
+conclude 2
+consciousness 1
+consider 2
+consideration 7
+considering 1
+contemplation 2
+convinced 2
+credit 1
+day 1
+death 1
+decision 1
+deem 1
+deep 1
+deliberations 1
+design 1
+determine 2
+direct 1
+disbelieve 1
+disregard 1
+do 1
+does 1
+dream 2
+envisage 1
+envision 2
+esteem 1
+esteem 1
+estimate 2
+everyone 1
+excogitate 1
+expect 2
+expectation 3
+expectation 1
+expected 1
+faculty 2
+fancy 1
+feature 1
+feedback 1
+feel 1
+feeling 1
+felt 1
+for 1
+foresee 1
+formed 1
+gather 1
+get 1
+gift 1
+giving 1
+go 1
+good 1
+grasped 1
+group 1
+guess 2
+had 1
+have 1
+he 1
+head 1
+heart 1
+her 1
+here 1
+hold 1
+hope 1
+human 1
+i 1
+idea 16
+idea 4
+ideas 4
+image 3
+imagination 2
+imagine 3
+important 1
+in 7
+independent 1
+inner 1
+intellection 1
+intellection 1
+intellectual 5
+intention 3
+intentional 1
+is 5
+its 2
+judge 2
+judgment 1
+lightbulb 1
+like 1
+making 2
+meditation 3
+mental 9
+mentation 2
+mind 6
+mind 2
+mindful 1
+model 1
+mood 1
+new 1
+no 1
+notion 2
+occurring 1
+of 30
+on 1
+one 4
+ones 1
+opinion 5
+opinion 2
+or 29
+originate 1
+outcome 1
+part 1
+particular 2
+past 1
+person 1
+persuasion 1
+piece 1
+plan 2
+planning 1
+plans 1
+ponder 1
+power 4
+presume 2
+private 1
+process 8
+produced 1
+product 4
+production 1
+project 2
+prospect 1
+purpose 1
+realize 2
+reason 1
+reasoning 1
+reckon 2
+recollection 1
+reflection 4
+regard 1
+related 1
+remember 1
+review 1
+s 3
+saying 1
+scheme 1
+scrutiny 1
+see 1
+seeing 1
+sense 2
+sentiment 1
+single 1
+sober 2
+some 1
+someone 1
+something 3
+something 1
+suddenly 1
+suppose 1
+surmise 2
+suspect 2
+take 1
+terrified 1
+that 3
+the 14
+things 2
+think 4
+think 1
+thinking 22
+thinking 5
+thinks 1
+thought 9
+thoughts 1
+time 1
+to 4
+towards 1
+understand 2
+us 1
+use 1
+view 1
+vision 1
+visualize 1
+visualize 1
+wearies 1
+well 1
+what 3
+which 1
+with 1
+wonder 1
+wonder 1
+work 1
+you 4
+your 3

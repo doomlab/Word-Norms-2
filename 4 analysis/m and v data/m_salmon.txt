@@ -1,0 +1,11 @@
+salmon fish 28 
+salmon animal 6 
+salmon lays 12 
+salmon eggs 12 
+salmon swims 16 
+salmon tail 6 
+salmon fins 9 
+salmon gills 8 
+salmon edible 17 
+salmon pink 12 
+salmon water 13 

@@ -1,0 +1,11 @@
+bazooka gun 15 
+bazooka weapon 7 
+bazooka fires 11 
+bazooka dangerous 9 
+bazooka destructive 8 
+bazooka large 6 
+bazooka loud 6 
+bazooka metal 8 
+bazooka army 6 
+bazooka killing 7 
+bazooka war 11 

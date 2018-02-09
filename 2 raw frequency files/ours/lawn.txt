@@ -1,0 +1,217 @@
+ 14
+a 51
+acres 1
+activities 1
+aesthetic 2
+an 10
+and 12
+apartment 1
+archaic 1
+archaic 1
+are 3
+area 11
+around 7
+as 8
+at 1
+attraction 1
+backyard 2
+be 3
+beautiful 1
+beautifully 1
+beautify 1
+between 1
+blouses 1
+building 1
+can 2
+cared 1
+children 1
+claim 1
+cleanliness 1
+cleared 1
+closely 6
+cloth 1
+color 1
+common 1
+consistent 1
+contemporary 1
+contexts 1
+continent 1
+cool 1
+cotton 5
+covered 5
+created 1
+cultivated 4
+curtains 1
+decorative 1
+depending 1
+development 1
+do 1
+dogs 1
+durable 1
+earn 1
+enclosed 1
+esp 1
+especially 3
+estate 5
+estate 1
+etc 3
+fabric 4
+feature 1
+field 4
+field 1
+fine 5
+flat 2
+flat 1
+flowers 2
+for 4
+forest 1
+fountains 1
+fresh 1
+front 5
+full 1
+garden 9
+garden 3
+gardened 1
+gardening 1
+glade 2
+glade 1
+grass 39
+grass 6
+grasses 2
+grassy 4
+green 14
+green 3
+greenish 1
+greensward 1
+ground 1
+ground 1
+grounds 1
+growing 1
+grown 1
+has 1
+he 1
+height 1
+herbs 1
+home 1
+home 1
+homestead 1
+hotel 1
+house 7
+house 1
+in 18
+insects 1
+irrigation 1
+is 7
+it 1
+it 1
+its 2
+itself 1
+kept 2
+kids 1
+land 10
+landscaping 2
+lawn 6
+level 2
+light 4
+linen 5
+location 1
+low 2
+made 1
+maintained 3
+manicured 1
+may 1
+meadow 1
+meadows 1
+money 1
+mow 3
+mowed 12
+mowed 1
+mower 1
+mowing 2
+mown 5
+names 1
+natural 1
+near 2
+needs 1
+noun 1
+of 41
+often 1
+often 1
+on 4
+one 7
+ones 1
+open 6
+option 1
+or 27
+ornamental 1
+other 1
+out 1
+outside 1
+park 13
+part 2
+party 1
+pasture 1
+patch 1
+picnic 1
+piece 2
+pitch 1
+place 1
+planted 2
+plants 2
+play 2
+pleasant 2
+pleasure 1
+plot 12
+plush 1
+private 1
+properly 1
+property 1
+recreational 4
+regularly 1
+residence 4
+royal 1
+s 1
+seen 1
+set 1
+sheer 1
+short 3
+small 1
+smooth 2
+sod 1
+soft 2
+someones 2
+somewhere 1
+space 4
+specialized 1
+sport 1
+stretch 3
+styles 1
+surrounding 1
+surroundings 1
+sward 1
+symbol 1
+tended 5
+tendered 1
+terrace 2
+territory 1
+that 1
+the 9
+there 1
+to 4
+trailer 1
+trees 2
+turf 2
+turf 1
+used 3
+usually 10
+vacant 1
+very 3
+water 1
+weave 2
+weave 2
+weed 1
+which 1
+with 7
+woods 1
+yard 3
+yard 1

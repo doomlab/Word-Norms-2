@@ -1,0 +1,285 @@
+ 29
+20s 1
+30s 1
+a 35
+abbreviation 2
+about 1
+achieve 1
+act 1
+advantage 1
+against 10
+air 1
+also 2
+an 2
+and 9
+another 2
+anyway 1
+are 2
+argument 3
+arrest 1
+artist 3
+artist 1
+artists 1
+aspect 5
+bad 15
+bad 3
+balance 1
+be 4
+been 1
+before 2
+being 1
+beneficial 1
+better 1
+between 1
+breaking 1
+but 1
+cage 1
+can 4
+causes 1
+certain 1
+change 1
+charts 1
+cheat 1
+cheat 1
+cheating 1
+choice 1
+choices 1
+choose 1
+clutter 1
+collection 1
+compare 1
+compared 1
+comparison 2
+comparisons 1
+con 5
+confidence 1
+connie 1
+conniving 1
+connor 1
+connotation 2
+connotation 1
+cons 2
+consequence 1
+consider 1
+converse 1
+convict 3
+convict 1
+convicted 2
+convince 1
+crafty 1
+crime 2
+criminal 3
+criminal 2
+criminals 1
+debate 2
+debate 1
+debates 2
+deceitful 1
+deceiver 1
+decision 2
+decisions 1
+decisions 1
+difference 1
+dirty 1
+disadvantage 1
+dishonest 2
+dishonesty 1
+do 1
+does 1
+doing 1
+don 1
+done 1
+downside 2
+drawback 1
+e 1
+effect 1
+effects 1
+end 1
+evaluate 1
+evil 1
+fake 1
+false 1
+false 1
+favor 1
+felon 2
+female 1
+fool 2
+for 8
+fraud 1
+from 2
+fugitive 1
+fully 1
+g 1
+games 1
+generally 1
+goals 1
+goes 1
+good 3
+group 1
+guy 1
+happy 1
+harsh 1
+has 2
+heists 1
+helps 1
+house 1
+hustlers 1
+in 8
+increase 1
+individual 1
+ingredients 1
+intangible 1
+is 13
+it 1
+it 1
+jail 1
+knows 1
+law 1
+lawyer 1
+leave 1
+less 1
+liar 2
+lie 3
+like 2
+list 1
+lists 1
+loser 1
+lot 1
+lying 1
+main 1
+make 1
+makes 1
+making 1
+man 2
+manipulation 1
+manipulative 1
+many 1
+math 1
+me 1
+meaning 1
+men 1
+mind 1
+minded 1
+mischievous 1
+money 1
+more 1
+muscular 1
+nasty 1
+negative 28
+negatives 4
+negatives 1
+nice 1
+nick 1
+no 1
+not 13
+not 1
+objective 1
+of 35
+one 2
+opinion 2
+opposite 18
+or 5
+others 1
+pain 1
+part 2
+parts 1
+people 1
+peoples 1
+person 2
+person 2
+perspective 1
+persuasive 1
+pessimistic 1
+plan 1
+playing 1
+plot 1
+point 2
+politics 1
+positive 2
+powerful 1
+prefix 1
+previously 1
+prison 1
+prison 1
+prisoner 1
+pro 17
+pro 3
+pros 3
+rather 1
+real 1
+reason 1
+reasons 1
+relationships 1
+released 1
+reverse 1
+s 1
+say 1
+scam 3
+scheme 1
+seduce 1
+short 1
+should 1
+shown 1
+side 2
+signify 1
+simple 1
+situation 3
+skinny 1
+slang 1
+somebody 1
+someone 10
+something 15
+something 2
+spanish 1
+speculation 1
+statement 1
+steal 1
+stealing 2
+storage 1
+swindle 1
+swindling 1
+t 2
+take 1
+takes 1
+telling 1
+than 1
+that 7
+the 15
+they 1
+thief 1
+thievery 1
+thing 2
+things 6
+think 1
+this 1
+to 14
+total 1
+trick 4
+tricks 1
+tricky 1
+trouble 1
+true 1
+trusted 1
+trustworthy 1
+truthful 1
+two 1
+underhanded 1
+undesirable 2
+unsuspecting 1
+untrustworthy 1
+used 5
+usually 3
+very 1
+video 1
+view 1
+was 1
+when 2
+who 9
+with 4
+word 1
+words 1
+wrong 1
+wronged 1
+yet 1
+you 4
+your 1

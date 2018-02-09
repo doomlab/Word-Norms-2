@@ -1,0 +1,16 @@
+racquet utensil 5 
+racquet hand 7 
+racquet grip 7 
+racquet handle 10 
+racquet strings 26 
+racquet round 6 
+racquet metal 5 
+racquet wood 7 
+racquet hitting 15 
+racquet balls 15 
+racquet badminton 12 
+racquet racquet 6 
+racquet ball 6 
+racquet sports 8 
+racquet squash 17 
+racquet tennis 22 

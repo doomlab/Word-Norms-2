@@ -1,0 +1,276 @@
+ 15
+a 45
+about 5
+accepted 3
+account 1
+achieved 1
+achiever 1
+achieves 1
+actions 1
+active 1
+actually 1
+admirable 2
+adored 1
+all 1
+allegory 1
+an 9
+ancient 3
+and 12
+another 1
+apologue 1
+appointed 1
+appreciated 1
+are 4
+arises 1
+as 7
+at 1
+authenticated 1
+b 1
+be 7
+been 2
+beings 1
+believed 3
+best 1
+body 1
+both 1
+brave 1
+brief 1
+but 1
+by 7
+can 1
+caption 3
+celebrity 1
+celebrity 1
+certain 1
+chart 2
+christian 1
+chronicle 1
+classical 1
+clever 1
+coin 1
+collection 3
+collectively 1
+community 1
+defined 1
+down 7
+earlier 5
+elevated 1
+episode 1
+especially 3
+event 2
+events 1
+expert 1
+explaining 2
+explanation 1
+fable 6
+fable 1
+fairy 3
+false 1
+falsehood 1
+fame 1
+famous 1
+famous 1
+fiction 2
+fictional 1
+fictitious 1
+field 1
+field 2
+figment 1
+flexible 1
+folk 1
+folklore 1
+for 1
+formerly 1
+fresh 1
+from 6
+gandhi 1
+gender 1
+generation 1
+generations 2
+george 1
+give 1
+grandma 1
+great 6
+great 1
+handed 7
+happened 1
+happened 1
+happenings 2
+has 4
+having 1
+hero 2
+heroes 1
+heroic 1
+highly 1
+his 2
+historical 11
+historical 1
+historically 1
+history 2
+holds 1
+houses 1
+human 2
+idol 1
+illustration 1
+in 7
+include 1
+includes 1
+indoctrination 1
+inscription 4
+inscription 1
+inspires 1
+invention 1
+is 5
+it 2
+its 1
+keep 1
+kind 1
+known 2
+latin 2
+legend 8
+legend 1
+legenda 1
+legendary 1
+legends 1
+lie 1
+life 1
+life 1
+like 1
+listeners 1
+listing 2
+lives 1
+lore 1
+luminary 1
+mahamta 1
+man 1
+many 1
+map 3
+marvel 1
+matins 1
+may 2
+miracles 2
+modern 1
+more 1
+mortal 1
+myth 11
+myth 1
+mythical 2
+mythical 1
+mythology 1
+mythos 1
+narrative 2
+nature 1
+no 1
+non 3
+not 1
+noun 1
+novel 1
+novel 1
+object 1
+of 20
+of 1
+often 1
+old 7
+older 1
+on 4
+one 4
+one 2
+or 15
+order 1
+origin 1
+outside 1
+outstanding 1
+over 1
+parable 2
+parameters 1
+participants 1
+particular 1
+passive 1
+past 1
+perceived 2
+person 5
+person 1
+personality 1
+place 3
+popular 2
+popularly 6
+possess 1
+possibility 1
+presentation 1
+prodigy 1
+qualities 1
+read 4
+read 1
+realistic 1
+realm 1
+refectories 1
+refer 1
+regarded 1
+register 1
+related 1
+religious 1
+respected 1
+respected 1
+romance 1
+romanticism 1
+saga 1
+saga 1
+saint 1
+saints 1
+script 1
+set 1
+short 1
+some 1
+somebody 2
+something 1
+sometimes 2
+specific 1
+st 1
+star 1
+stories 5
+stories 3
+story 23
+story 2
+such 3
+supernatural 3
+symbol 1
+symbols 3
+table 2
+take 1
+taken 1
+tale 5
+talented 1
+teller 1
+than 1
+that 9
+the 16
+their 1
+these 1
+thing 1
+things 3
+through 1
+time 1
+times 5
+times 1
+title 1
+to 13
+told 1
+tradition 5
+traditional 5
+traditional 1
+traditions 1
+transformed 1
+true 1
+unbelievable 1
+unverifiable 3
+unverified 3
+used 2
+verisimilitude 1
+vital 1
+well 1
+where 1
+which 4
+who 2
+whose 1
+with 1
+within 3

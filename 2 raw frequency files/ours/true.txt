@@ -1,0 +1,293 @@
+ 73
+a 16
+abilities 1
+absolute 1
+accord 2
+accordance 5
+accuracy 1
+accurate 16
+accurately 1
+action 1
+actual 13
+agreeing 3
+all 2
+an 1
+and 2
+angel 1
+answer 1
+answer 1
+any 1
+appropriate 4
+are 1
+as 2
+ascertained 1
+atypical 1
+authentic 9
+authenticity 1
+authoritative 1
+base 1
+be 1
+being 8
+belief 1
+believe 4
+bona 2
+bring 1
+case 1
+character 2
+clean 1
+concordant 1
+concrete 1
+conditions 3
+confidence 1
+conformable 1
+conforming 3
+consistent 2
+constancy 1
+constant 1
+copy 1
+correct 19
+correct 1
+correctly 1
+correctness 1
+corrupt 1
+dead 2
+deceitful 2
+declaration 1
+dedicated 1
+definition 1
+dependable 2
+describing 1
+description 1
+desirable 1
+devoted 1
+direct 2
+do 1
+documents 1
+don 1
+enough 2
+erroneous 3
+essential 2
+event 1
+exact 10
+exact 1
+exactly 1
+exam 1
+fact 28
+fact 3
+facts 3
+factual 7
+factually 1
+faith 2
+faithful 7
+faithful 3
+fake 2
+faked 1
+false 16
+false 3
+family 1
+fear 1
+feeling 1
+fiction 2
+fictitious 1
+fide 2
+fidelity 1
+fitting 2
+for 2
+forward 1
+frank 1
+fraudulent 1
+free 1
+friend 2
+gandhi 1
+genuine 19
+genuine 3
+god 2
+good 2
+great 1
+happened 3
+happened 1
+heart 2
+hearted 1
+heir 1
+highly 1
+history 1
+honest 12
+honesty 1
+hope 1
+humanism 1
+i 1
+illegitimate 1
+imagined 1
+in 9
+inaccurate 2
+indubitable 2
+inharmonious 1
+innocent 1
+insincere 1
+invalid 1
+invented 1
+is 29
+it 14
+key 2
+kosher 2
+lawful 3
+legal 3
+legitimate 3
+legitimate 1
+lie 3
+lies 3
+life 2
+like 1
+love 2
+loyal 5
+magnetic 1
+matter 1
+mendacious 1
+mother 1
+movie 1
+narration 1
+natural 3
+nature 1
+non 2
+normal 1
+not 22
+occured 1
+of 11
+off 1
+on 8
+one 1
+one 1
+opposite 6
+or 30
+organic 1
+original 3
+paper 1
+particular 1
+pattern 1
+peace 2
+perfect 4
+perfectly 1
+person 1
+picture 1
+placed 1
+point 1
+position 1
+positive 1
+precise 3
+proof 1
+proper 6
+properly 1
+prophecy 1
+provable 1
+pure 3
+pursue 1
+question 2
+real 33
+real 3
+reality 14
+reality 2
+really 4
+refers 1
+reflecting 1
+reflection 1
+regular 3
+relating 1
+relation 1
+reliable 7
+reliable 1
+required 1
+respect 1
+results 1
+right 12
+right 1
+rightful 6
+rightful 1
+rightly 1
+say 2
+self 2
+sets 1
+sincere 7
+sincere 1
+situation 2
+solid 1
+some 1
+something 4
+song 1
+specific 1
+specious 1
+speech 1
+speech 1
+spot 2
+spurious 1
+state 5
+states 1
+steady 1
+story 2
+straight 6
+sure 2
+t 1
+target 4
+telling 4
+test 1
+that 5
+the 18
+these 1
+thing 4
+things 2
+thinks 1
+thoughts 1
+thrown 1
+to 13
+tool 1
+transparent 1
+true 25
+trumped 1
+trust 1
+trustworthy 4
+trut 1
+truth 9
+truth 1
+truthful 11
+truthfully 1
+typical 2
+undeniable 1
+understanding 1
+undesigning 1
+undoubted 1
+unerring 1
+uneven 1
+unfaithful 1
+unfeigned 2
+unharmonious 1
+unquestionable 2
+unreal 1
+untrue 1
+untrusting 1
+untrustworthy 1
+untypical 1
+unwavering 1
+up 3
+us 1
+used 1
+utmost 1
+valid 4
+value 2
+veracious 2
+veraciously 1
+veridical 1
+verified 2
+veritable 2
+very 1
+virtue 1
+was 1
+wash 1
+we 2
+what 3
+when 1
+which 5
+with 13
+without 2
+word 2
+wrong 1
+wrongly 1
+your 1

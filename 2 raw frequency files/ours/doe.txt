@@ -1,0 +1,207 @@
+ 21
+4 1
+14 1
+25 1
+2004 1
+a 26
+acquaintance 1
+action 1
+activities 1
+adult 4
+aged 1
+agenda 1
+also 2
+american 1
+an 3
+and 4
+animal 12
+animal 1
+animals 5
+antelope 5
+antlers 2
+antlers 1
+applied 1
+as 3
+associated 1
+at 1
+award 1
+beautiful 2
+big 1
+bird 1
+blocky 1
+bro 1
+brown 1
+buck 4
+bunny 2
+but 1
+by 6
+called 1
+capon 2
+category 1
+certain 4
+chinchilla 2
+coastal 4
+coney 2
+conservation 1
+cony 2
+cottontail 2
+cuniculus 2
+dear 1
+dear 1
+deer 34
+deer 6
+defying 1
+denote 1
+department 2
+department 1
+do 1
+doe 13
+doe 1
+does 1
+dog 1
+don 1
+duke 2
+dukedom 1
+e 1
+each 1
+eats 1
+edible 2
+edinburgh 3
+end 1
+energy 4
+especially 1
+etc 1
+etc 1
+eyes 1
+fallow 5
+female 48
+female 1
+fleshy 1
+food 1
+for 3
+forest 3
+four 1
+friend 1
+g 1
+generally 1
+gets 1
+global 1
+goat 7
+good 1
+good 1
+grass 1
+grazes 1
+grow 1
+hair 1
+hare 6
+has 3
+have 2
+head 1
+herbivores 1
+homie 1
+hunted 4
+hunters 1
+hunting 1
+in 11
+is 5
+it 3
+its 1
+kangaroo 2
+kingdom 1
+lady 1
+lagomorph 2
+language 4
+language 1
+lapin 2
+law 1
+layman 1
+leaps 1
+leg 1
+legs 1
+life 1
+live 1
+lives 1
+looks 1
+male 1
+mammal 1
+mammals 2
+mammals 2
+man 1
+marine 1
+mature 1
+means 2
+migrates 1
+money 1
+mother 2
+nature 1
+not 2
+note 1
+noun 1
+ocean 1
+of 30
+or 10
+other 4
+other 1
+pair 1
+people 9
+people 2
+person 1
+persons 1
+prey 1
+program 1
+rabbit 7
+rabbit 2
+rabbits 1
+rapper 1
+refers 1
+reindeer 2
+related 2
+river 4
+river 1
+rodent 2
+roe 1
+run 1
+runs 1
+s 3
+scotland 1
+see 1
+shot 1
+shy 1
+skin 1
+small 1
+some 3
+specie 1
+species 2
+specifically 1
+spoken 2
+street 1
+such 2
+t 1
+tanzania 2
+tanzania 2
+tennessee 2
+term 2
+terms 1
+the 33
+thing 1
+though 1
+to 4
+too 1
+typically 1
+under 1
+united 1
+unknown 1
+usa 1
+used 2
+usually 1
+variation 1
+various 3
+vegetarian 1
+walk 1
+which 1
+who 1
+wildlife 1
+with 1
+words 1
+young 2
+﻿an 1

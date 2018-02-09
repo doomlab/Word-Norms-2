@@ -1,0 +1,15 @@
+ring_jewelry cheap 5 
+ring_jewelry decorative 7 
+ring_jewelry expensive 17 
+ring_jewelry pretty 5 
+ring_jewelry round 18 
+ring_jewelry shiny 10 
+ring_jewelry diamonds 10 
+ring_jewelry gold 17 
+ring_jewelry metal 5 
+ring_jewelry silver 15 
+ring_jewelry symbol 5 
+ring_jewelry symbol 14 
+ring_jewelry marriages 9 
+ring_jewelry worn 20 
+ring_jewelry fingers 20 

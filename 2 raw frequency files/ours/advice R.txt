@@ -1,0 +1,337 @@
+ 29
+1 2
+2 2
+3 2
+a 53
+about 6
+abroad 2
+act 1
+act 1
+action 8
+action 3
+admonition 7
+admonitory 1
+adversarial 1
+advertising 1
+advice 23
+advice 1
+advices 2
+advisability 1
+advisable 1
+advise 2
+advisement 2
+advocacy 3
+advocate 1
+affect 1
+agney 1
+agreement 2
+agreement 1
+aid 3
+also 1
+alter 1
+always 1
+an 19
+and 4
+another 1
+appropriate 1
+as 13
+ask 1
+aspect 1
+assistance 1
+at 1
+aunt 1
+avoid 1
+bad 2
+be 3
+been 2
+behavioral 1
+beware 1
+binding 2
+boar 1
+bum 1
+business 3
+by 3
+caution 3
+cautionary 1
+charge 3
+christina 1
+code 1
+column 1
+comment 1
+comments 2
+communication 4
+communication 1
+complexity 3
+computing 1
+conduct 5
+confer 1
+consent 1
+consideration 1
+constitutional 3
+consult 1
+consultation 3
+containing 4
+could 1
+council 1
+counsel 8
+counsel 2
+counseling 1
+course 3
+current 1
+danger 1
+dangers 1
+dating 1
+decided 1
+decision 1
+deed 1
+deliberate 1
+deterrent 1
+device 1
+diplomatic 2
+direction 1
+directions 2
+dissuasion 2
+distance 4
+do 5
+doing 1
+done 1
+each 1
+easy 1
+effectively 1
+elder 2
+elders 2
+else 1
+else 1
+encouragement 2
+enforce 1
+especially 9
+etc 2
+example 4
+executed 1
+exhortation 3
+experience 1
+extra 1
+fallen 2
+feature 1
+feedback 1
+final 1
+followed 2
+for 2
+for 1
+forewarning 2
+form 1
+formal 2
+formation 1
+frequently 1
+from 8
+frustrating 1
+get 1
+give 5
+given 4
+gives 1
+giving 2
+go 1
+good 6
+government 2
+grimmie 1
+guardian 1
+guidance 7
+guide 10
+guide 1
+guideline 1
+guiding 1
+guy 1
+handle 2
+hard 1
+has 2
+have 2
+have 1
+he 1
+help 6
+help 1
+helpful 2
+him 1
+his 1
+holder 1
+hortative 1
+how 3
+humans 1
+i 1
+idea 1
+ideas 3
+if 1
+imminent 2
+immorality 1
+in 8
+information 7
+information 1
+informs 2
+injunction 2
+input 3
+instruction 3
+intelligence 1
+intended 1
+is 14
+issued 1
+it 3
+join 1
+judgment 2
+keep 1
+kindness 1
+known 1
+law 1
+law 1
+leech 1
+legal 3
+lesson 4
+letter 1
+life 2
+machine 1
+magazine 1
+make 3
+matches 1
+may 1
+means 1
+meant 1
+medical 1
+monition 1
+monitor 1
+more 1
+most 1
+mouth 1
+news 2
+newspaper 1
+not 1
+notice 1
+notification 4
+noun 1
+object 1
+of 20
+offer 1
+offered 10
+office 1
+official 4
+often 2
+ominous 2
+on 6
+one 6
+openion 1
+opinion 21
+opinion 5
+or 19
+order 1
+oriented 1
+other 3
+others 2
+others 1
+passed 1
+pay 2
+people 1
+per 1
+person 3
+persuasion 1
+persuasion 1
+pertaining 3
+piece 2
+play 1
+point 3
+pointer 1
+points 1
+preaching 1
+prescribe 1
+prescribe 1
+prescription 1
+principles 1
+problem 2
+procedure 1
+programming 1
+proposal 2
+proposition 1
+provided 2
+prudent 1
+punishment 1
+reached 1
+react 1
+recent 2
+recommend 1
+recommendation 16
+recommendation 3
+recommendations 1
+recommended 2
+refer 1
+reference 1
+regard 1
+regarding 2
+regular 1
+reputation 1
+result 1
+rule 1
+s 2
+serve 2
+shall 1
+should 4
+single 1
+site 1
+situation 3
+situation 1
+slip 1
+solve 1
+somebody 1
+someone 6
+something 5
+sometimes 4
+sought 1
+speech 1
+steer 1
+string 1
+substance 1
+suggest 1
+suggestion 11
+suggestion 2
+suggestions 2
+surprises 1
+take 1
+teacher 1
+tell 1
+telling 1
+tells 1
+that 3
+the 10
+their 1
+theory 1
+they 2
+thoughtful 1
+thoughts 1
+through 1
+thumb 1
+tip 2
+tips 1
+to 46
+trajectory 1
+turing 1
+unpleasantness 1
+unsolicited 1
+urging 1
+us 3
+used 1
+usually 1
+verbal 1
+view 3
+warn 1
+warning 4
+warning 1
+was 2
+way 1
+web 1
+welcomed 1
+what 5
+when 1
+wise 2
+with 4
+word 4
+worthy 2
+written 1
+you 4
+younger 1
+youngers 1
+your 1

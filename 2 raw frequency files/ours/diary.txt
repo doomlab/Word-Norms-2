@@ -1,0 +1,203 @@
+ 24
+a 50
+account 3
+activities 1
+agenda 2
+all 1
+an 1
+and 12
+anne 1
+appointment 4
+appointments 2
+are 2
+arranged 1
+as 2
+attitudes 2
+back 1
+barn 1
+basis 1
+be 1
+best 1
+blog 1
+book 29
+building 1
+butter 1
+butter 1
+buttery 1
+by 1
+calendar 3
+certain 1
+cheese 3
+chocolates 1
+chronicle 4
+chronicle 1
+company 1
+containing 2
+copy 1
+court 1
+cow 3
+creamery 1
+curd 1
+daily 21
+dairy 1
+date 1
+day 5
+day 1
+daybook 1
+diary 5
+differs 1
+distributed 1
+do 1
+done 1
+down 1
+down 2
+engagement 2
+engagements 1
+especially 5
+etc 3
+etc 1
+even 1
+event 1
+events 15
+everyone 1
+experiences 8
+experiences 2
+explanation 1
+factory 1
+farm 2
+farm 2
+feelings 3
+feelings 1
+fever 1
+food 1
+for 11
+frank 1
+ghee 1
+happened 1
+her 1
+his 1
+important 1
+important 1
+in 9
+indicate 1
+information 1
+inner 1
+into 1
+is 11
+it 8
+journal 11
+journal 1
+keep 3
+keeping 4
+keeps 3
+kept 1
+lasting 1
+life 3
+like 2
+log 3
+makes 1
+man 1
+marked 1
+matters 1
+may 2
+memento 1
+memo 1
+memoir 1
+memoirs 2
+memorable 1
+memories 1
+memories 2
+memory 1
+milk 11
+milk 1
+minutes 1
+note 3
+notebook 2
+notebook 1
+notes 4
+notes 1
+noting 1
+noun 1
+observation 1
+observations 5
+of 26
+on 3
+one 8
+or 10
+order 1
+organizer 1
+own 4
+pad 1
+pages 1
+past 2
+pasteurizing 1
+personal 9
+personal 1
+piece 1
+place 2
+planner 1
+plant 1
+possibly 1
+private 5
+private 1
+proceedings 1
+process 1
+processed 1
+processing 1
+producer 1
+product 1
+products 3
+products 1
+record 27
+record 2
+recording 2
+records 1
+records 1
+recounting 1
+register 1
+relaying 1
+reminders 1
+s 7
+schedule 1
+secrets 1
+sells 1
+shop 2
+some 2
+something 1
+something 1
+source 1
+souvenir 1
+specific 1
+stored 1
+such 2
+supplying 1
+that 3
+the 8
+their 2
+things 2
+thoughts 6
+thoughts 1
+time 1
+to 11
+too 1
+transactions 1
+travel 1
+type 1
+us 1
+use 3
+used 1
+uses 1
+usually 5
+where 3
+wherein 1
+which 4
+with 1
+woman 1
+work 1
+write 1
+write 1
+writer 4
+writes 1
+writing 6
+written 5
+your 1

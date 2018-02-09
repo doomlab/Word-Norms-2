@@ -1,0 +1,13 @@
+tank_army guns 14 
+tank_army tracks 6 
+tank_army wheels 7 
+tank_army bulletproof 5 
+tank_army green 13 
+tank_army heavy 5 
+tank_army large 17 
+tank_army powerful 5 
+tank_army metal 11 
+tank_army crew 8 
+tank_army armies 7 
+tank_army destruction 5 
+tank_army war 19 

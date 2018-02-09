@@ -1,0 +1,196 @@
+ 47
+200 1
+a 4
+added 1
+and 5
+as 1
+at 1
+bad 2
+bake 2
+baked 1
+baked 1
+batch 1
+be 4
+beans 1
+breath 1
+brown 17
+brown 1
+brownie 2
+brownies 3
+but 1
+butter 5
+cake 5
+calorie 1
+calories 2
+can 8
+candy 11
+candy 5
+caramel 1
+cavities 1
+chewy 5
+chewy 1
+chocolate 56
+chocolate 9
+chocolaty 1
+chocolaty 1
+christmas 4
+chunks 1
+coca 1
+coco 1
+cocoa 1
+cocoa 1
+coffee 1
+confectionary 1
+consists 1
+cooked 1
+cookies 1
+cream 8
+creamy 2
+dairy 1
+dark 5
+degrees 1
+delicious 12
+dense 1
+depends 1
+desert 1
+dessert 5
+different 3
+eat 3
+edible 3
+energy 1
+enjoyable 1
+factory 1
+fat 2
+fattening 3
+fattening 1
+flavor 1
+flavored 1
+flavors 1
+flour 1
+food 4
+for 2
+from 2
+fruit 1
+fudge 1
+fudge 2
+fudgy 1
+functional 1
+gifts 1
+goes 1
+good 5
+gooey 1
+grandma 2
+great 1
+gross 1
+happiness 1
+hard 5
+has 2
+have 1
+heat 1
+heated 1
+high 1
+holidays 1
+homemade 2
+homemade 1
+hot 3
+ice 7
+icing 1
+icing 1
+in 3
+ingredients 1
+is 23
+it 9
+item 1
+kinds 2
+lots 1
+love 1
+m 1
+made 6
+make 1
+marshmallows 1
+may 1
+melt 2
+melted 1
+melting 1
+melts 1
+messy 1
+milk 2
+mouth 1
+mouth 1
+ms 1
+nasty 1
+normally 1
+nuts 7
+of 8
+on 5
+or 7
+oven 2
+peanut 5
+peanuts 1
+person 1
+poop 1
+popsicles 1
+presented 1
+put 1
+rectangular 1
+resist 1
+rich 5
+rich 2
+shaped 1
+smell 1
+smells 1
+smooth 2
+snack 1
+soft 6
+soft 1
+sold 1
+solid 1
+solid 1
+some 2
+something 2
+square 4
+sticky 3
+store 1
+stores 1
+sugar 8
+sugar 3
+sugary 2
+sundae 1
+sweet 19
+sweet 1
+syrup 1
+taste 1
+tasteful 1
+tastes 1
+tasting 1
+tasty 6
+teeth 1
+that 1
+the 1
+thick 8
+time 1
+to 2
+too 1
+top 1
+topping 1
+traditional 1
+treat 2
+treat 1
+type 2
+unhealthy 2
+up 2
+used 2
+vanilla 2
+variety 1
+very 1
+warm 3
+warm 1
+watering 1
+white 3
+with 3
+wrapper 1
+yellow 1
+you 3
+yum 1
+yummy 8
+yummy 2

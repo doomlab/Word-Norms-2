@@ -1,0 +1,153 @@
+ 15
+a 16
+ability 1
+action 1
+advertisement 1
+also 1
+alternative 1
+always 1
+an 3
+and 4
+at 1
+be 2
+black 4
+blank 1
+block 1
+book 1
+books 1
+books 1
+can 2
+cartilage 1
+cartridges 1
+certain 1
+color 1
+colors 1
+colors 1
+comes 1
+computer 5
+computer 3
+computers 3
+copier 3
+copies 2
+copy 7
+created 1
+cursive 4
+cursive 1
+design 2
+document 1
+documents 1
+does 1
+down 1
+easiest 1
+end 1
+essay 1
+fabric 1
+fast 1
+font 1
+fonts 1
+for 1
+form 2
+found 1
+from 4
+go 1
+graphic 1
+hand 1
+handwriting 1
+handwriting 2
+hangs 1
+hard 2
+have 1
+homework 1
+how 1
+impression 1
+in 1
+information 1
+informative 1
+ink 19
+ink 3
+inked 1
+is 4
+journalism 1
+journalism 1
+kinko 1
+label 1
+labs 1
+learn 1
+legible 1
+legible 1
+library 1
+library 1
+make 2
+microsoft 1
+name 1
+neat 1
+news 1
+newspaper 1
+newspaper 1
+newspapers 1
+not 6
+notes 1
+of 11
+of 1
+off 1
+on 8
+onto 2
+opposite 1
+page 1
+page 1
+pages 1
+paint 1
+paper 27
+paper 14
+papers 2
+part 1
+photograph 1
+picture 1
+points 1
+power 1
+precise 1
+press 1
+print 1
+printer 9
+printer 3
+printers 2
+printing 2
+product 1
+put 5
+replica 1
+reproduce 1
+reproduction 1
+s 1
+school 1
+screen 1
+signature 1
+signature 1
+something 5
+the 4
+thin 1
+thumb 1
+to 14
+transfer 1
+transferring 1
+translate 1
+tree 1
+type 3
+typed 1
+typing 1
+used 2
+uses 1
+wall 1
+way 2
+what 1
+white 5
+white 1
+with 1
+wood 1
+word 1
+words 4
+words 2
+work 1
+write 6
+writing 4
+writing 3
+written 1

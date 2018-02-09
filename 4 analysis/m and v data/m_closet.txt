@@ -1,0 +1,16 @@
+closet space 9 
+closet bedrooms 8 
+closet hallways 6 
+closet doors 15 
+closet hangers 14 
+closet hanging 6 
+closet bars 6 
+closet shelves 13 
+closet dark 12 
+closet messy 7 
+closet small 10 
+closet storage 30 
+closet storing 23 
+closet clothing 23 
+closet storing 33 
+closet shoes 10 

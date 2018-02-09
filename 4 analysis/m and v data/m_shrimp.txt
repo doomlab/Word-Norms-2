@@ -1,0 +1,14 @@
+shrimp swims 6 
+shrimp shell 8 
+shrimp tail 6 
+shrimp edible 19 
+shrimp large 7 
+shrimp pink 11 
+shrimp red 6 
+shrimp small 17 
+shrimp white 5 
+shrimp oceans 8 
+shrimp seas 6 
+shrimp water 12 
+shrimp tastes 9 
+shrimp good 9 

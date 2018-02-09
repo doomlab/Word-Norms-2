@@ -1,0 +1,15 @@
+whip weapon 7 
+whip training 7 
+whip handle 5 
+whip noise 9 
+whip black 7 
+whip long 17 
+whip thin 5 
+whip leather 21 
+whip inflicting 15 
+whip pain 15 
+whip sex 8 
+whip torture 5 
+whip animals 5 
+whip horses 6 
+whip lions 5 

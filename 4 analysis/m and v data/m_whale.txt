@@ -1,0 +1,14 @@
+whale mammal 20 
+whale animal 9 
+whale breathes 6 
+whale eats 10 
+whale spouts 10 
+whale water 10 
+whale swims 10 
+whale blubber 7 
+whale hunted 12 
+whale people 12 
+whale endangered 14 
+whale large 27 
+whale oceans 12 
+whale water 19 

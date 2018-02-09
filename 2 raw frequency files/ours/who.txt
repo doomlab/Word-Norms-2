@@ -1,0 +1,116 @@
+ 16
+a 25
+about 1
+about 2
+an 2
+animal 2
+animals 1
+anyone 1
+asked 1
+asking 4
+associated 1
+band 4
+band 1
+be 1
+being 1
+can 1
+clueless 1
+commonly 1
+confused 1
+creates 1
+creature 1
+define 1
+description 2
+dr 3
+elf 1
+enemy 1
+english 1
+female 1
+find 1
+for 2
+friend 1
+gets 1
+grammar 1
+grinch 2
+group 2
+he 1
+her 1
+how 2
+in 4
+individuals 1
+inquiry 1
+involved 1
+involving 1
+is 3
+it 1
+know 1
+male 1
+me 1
+means 1
+meeting 1
+most 1
+names 1
+new 1
+noise 1
+of 4
+or 1
+out 1
+owl 1
+part 1
+people 3
+people 3
+person 19
+person 15
+pinball 1
+question 9
+question 5
+random 1
+re 1
+referring 1
+refers 1
+regards 1
+rock 3
+sang 1
+sentences 1
+seuss 2
+somebody 1
+someone 3
+someone 4
+specific 1
+stranger 1
+suess 1
+talked 1
+talking 1
+that 1
+the 8
+they 1
+thing 1
+to 5
+to 1
+uncertainty 1
+unknown 4
+unknown 2
+unsure 1
+used 3
+verb 1
+wanting 1
+what 12
+what 1
+when 8
+when 2
+where 8
+where 1
+which 1
+who 3
+who 1
+whom 2
+whose 1
+why 2
+why 4
+with 1
+wizard 1
+wonder 1
+word 5
+word 1
+words 1
+you 3

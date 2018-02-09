@@ -1,0 +1,16 @@
+pine coniferous 16 
+pine tree 23 
+pine evergreen 8 
+pine grows 9 
+pine forests 9 
+pine needles 22 
+pine green 20 
+pine prickly 7 
+pine tall 5 
+pine smells 7 
+pine nice 7 
+pine as 11 
+pine Christmas 11 
+pine trees 11 
+pine making 6 
+pine furniture 6 

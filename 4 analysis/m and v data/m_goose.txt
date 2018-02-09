@@ -1,0 +1,17 @@
+goose bird 26 
+goose animal 8 
+goose flies 18 
+goose honks 7 
+goose lays 12 
+goose eggs 12 
+goose migrates 9 
+goose beak 9 
+goose feathers 22 
+goose feet 11 
+goose webbed 10 
+goose feet 21 
+goose wings 5 
+goose edible 7 
+goose large 7 
+goose white 11 
+goose Canada 6 

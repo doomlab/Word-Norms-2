@@ -1,0 +1,14 @@
+armour heavy 12 
+armour medieval 12 
+armour shiny 8 
+armour silver 7 
+armour strong 5 
+armour metal 24 
+armour covering 5 
+armour body 5 
+armour long 5 
+armour ago 5 
+armour worn 54 
+armour knights 22 
+armour fighting 5 
+armour protection 27 

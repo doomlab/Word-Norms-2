@@ -1,0 +1,17 @@
+skirt accessory 1
+skirt casual 2
+skirt cloth 5
+skirt clothing 17
+skirt cover 1
+skirt colors 3
+skirt formal 5
+skirt leg 4
+skirt long 11
+skirt pretty 1
+skirt shirt 2
+skirt short 14
+skirt show 3
+skirt waist 9
+skirt warm 1
+skirt wear 17
+skirt women 17

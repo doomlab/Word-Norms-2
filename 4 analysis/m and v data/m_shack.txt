@@ -1,0 +1,16 @@
+shack door 5 
+shack roof 8 
+shack leaks 5 
+shack dirty 13 
+shack old 9 
+shack fashioned 9 
+shack run 16 
+shack down 16 
+shack small 14 
+shack metal 5 
+shack wood 20 
+shack as 10 
+shack house 10 
+shack storage 7 
+shack storing 5 
+shack tools 5 

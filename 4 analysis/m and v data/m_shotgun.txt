@@ -1,0 +1,10 @@
+shotgun gun 7 
+shotgun weapon 7 
+shotgun trigger 8 
+shotgun dangerous 9 
+shotgun loud 14 
+shotgun metal 13 
+shotgun bullets 17 
+shotgun police 5 
+shotgun hunting 13 
+shotgun killing 12 

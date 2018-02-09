@@ -1,0 +1,16 @@
+housefly pest 10 
+housefly insect 10 
+housefly buzzes 11 
+housefly eats 5 
+housefly garbage 5 
+housefly flies 20 
+housefly eyes 11 
+housefly legs 10 
+housefly wings 18 
+housefly annoying 16 
+housefly black 14 
+housefly dirty 6 
+housefly fast 9 
+housefly killed 7 
+housefly small 13 
+housefly houses 5 

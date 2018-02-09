@@ -1,0 +1,15 @@
+tray cafeterias 11 
+tray flat 15 
+tray rectangular 9 
+tray round 5 
+tray square 5 
+tray metal 9 
+tray plastic 16 
+tray waitresses 5 
+tray carrying 6 
+tray drinks 6 
+tray carrying 16 
+tray things 10 
+tray food 15 
+tray holding 6 
+tray things 16 

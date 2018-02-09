@@ -1,0 +1,12 @@
+asparagus vegetable 26 
+asparagus eat 10 
+asparagus cooking 5 
+asparagus soups 5 
+asparagus grows 11 
+asparagus gardens 11 
+asparagus edible 12 
+asparagus green 25 
+asparagus healthy 7 
+asparagus long 14 
+asparagus tastes 5 
+asparagus bad 5 

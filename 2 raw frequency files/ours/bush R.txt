@@ -1,0 +1,242 @@
+ 25
+6 1
+a 63
+abounding 2
+against 1
+also 2
+ambush 1
+america 1
+an 4
+and 5
+animals 4
+appearing 6
+area 4
+areas 1
+arise 4
+around 1
+as 10
+australia 1
+average 1
+axle 1
+back 1
+backwoods 1
+bank 2
+be 2
+beating 1
+beautiful 1
+berries 1
+between 1
+bird 1
+birds 1
+boscage 1
+bramble 1
+branch 1
+branches 5
+branches 2
+branching 1
+briar 1
+brush 2
+bunch 3
+bush 14
+bush 1
+bushes 1
+but 1
+by 2
+cable 1
+can 5
+chaparral 2
+clear 1
+cleared 1
+clump 2
+cluster 6
+cluster 1
+collection 1
+condensed 1
+contains 1
+country 1
+covered 1
+craft 1
+creeper 1
+crotch 1
+cultivation 1
+danger 1
+deciduous 1
+device 1
+eaten 1
+electric 1
+especially 1
+evergreen 1
+exist 2
+family 1
+fighting 1
+flowering 2
+foliage 1
+for 2
+forest 6
+form 2
+fox 3
+from 4
+funny 1
+furnish 1
+george 3
+grass 2
+grass 2
+green 4
+ground 3
+ground 1
+group 2
+growing 3
+growth 1
+guard 1
+hair 6
+hand 1
+have 1
+having 1
+head 2
+hedge 3
+height 1
+herbs 1
+hide 2
+hinterland 1
+hole 1
+hole 2
+in 16
+indicate 1
+insects 1
+instead 1
+into 1
+is 12
+it 3
+its 2
+jungle 1
+kind 1
+land 1
+land 1
+landscape 1
+landscaping 1
+large 4
+lawn 1
+leafy 1
+leakage 1
+leaves 3
+light 1
+like 1
+lining 3
+longer 1
+low 8
+main 1
+many 8
+maximum 1
+may 3
+metal 2
+meters 1
+mixed 1
+monkey 1
+more 2
+mostly 1
+mountain 1
+nature 1
+near 4
+needs 3
+not 3
+noun 1
+of 27
+on 2
+one 2
+one 1
+or 19
+orifice 1
+out 1
+outback 1
+outside 1
+people 1
+pine 1
+pivot 1
+place 2
+plant 23
+plant 3
+planted 1
+plants 3
+pond 1
+populated 1
+president 1
+prevent 1
+protects 1
+provides 1
+pubic 3
+rabbit 1
+resembling 2
+revolves 1
+river 1
+rose 1
+round 1
+rubber 1
+s 3
+scrub 3
+see 3
+set 1
+shade 1
+shaggy 2
+shelter 1
+shop 1
+short 2
+shrub 13
+shrub 3
+shrubbery 3
+shrubs 11
+shrubs 2
+single 6
+size 1
+sleeve 1
+slopes 1
+small 13
+smaller 2
+something 2
+sometimes 1
+sparsely 1
+stem 1
+stems 1
+suggesting 2
+tail 3
+tavern 1
+than 2
+that 7
+the 11
+themselves 1
+there 1
+thick 3
+thicket 4
+thing 1
+this 3
+thorny 2
+to 5
+tree 5
+tree 1
+trees 5
+trimmed 1
+trimming 1
+trunk 1
+twisted 1
+two 1
+type 1
+uncultivated 1
+used 1
+uss 1
+usually 2
+vine 1
+w 1
+was 1
+water 2
+wearing 1
+weeds 2
+which 1
+wild 4
+wilderness 2
+wilderness 1
+wine 1
+with 8
+woodland 1
+woods 1
+woody 4
+worth 1
+yellow 1

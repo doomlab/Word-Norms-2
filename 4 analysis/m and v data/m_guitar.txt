@@ -1,0 +1,14 @@
+guitar musical 20 
+guitar instrument 20 
+guitar rock 5 
+guitar and 5 
+guitar roll 5 
+guitar acoustic 7 
+guitar electric 14 
+guitar hole 8 
+guitar strings 26 
+guitar chords 5 
+guitar music 14 
+guitar wood 15 
+guitar pick 7 
+guitar bands 9 

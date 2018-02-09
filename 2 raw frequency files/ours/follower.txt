@@ -1,0 +1,266 @@
+ 18
+a 74
+accepts 4
+activities 2
+addict 2
+adherent 6
+adherent 3
+admirer 5
+admires 1
+advocate 3
+after 3
+ambition 1
+an 14
+and 1
+another 20
+another 1
+anther 1
+anything 1
+apostle 1
+as 6
+associate 1
+attendant 8
+attentive 1
+backer 2
+backs 1
+bandwagon 1
+be 1
+bearing 1
+behind 7
+behind 1
+belief 3
+beliefs 3
+believe 1
+believer 2
+believes 1
+believing 1
+bootlicker 2
+buff 2
+but 1
+by 7
+cam 1
+cannot 1
+cause 1
+chasing 1
+chooses 1
+client 1
+cohort 2
+come 1
+comes 3
+coming 1
+companion 2
+continue 1
+convert 1
+copier 2
+copies 4
+copycat 2
+current 1
+decisions 1
+definite 1
+dependent 1
+derives 1
+devoted 1
+devotee 4
+devotee 1
+disciple 11
+disciple 3
+does 2
+doesn 3
+doing 1
+driven 2
+element 4
+engineering 2
+enthusiast 5
+esp 3
+especially 1
+etc 2
+even 1
+fan 5
+fancier 2
+fans 1
+follow 4
+follower 3
+follower 1
+followers 1
+following 6
+follows 20
+follows 2
+for 2
+freak 1
+from 1
+gear 2
+given 2
+god 1
+good 2
+group 1
+guru 1
+habituã© 1
+hanger 3
+he 1
+heaney 1
+helper 1
+henchman 1
+her 3
+highly 2
+his 3
+honesty 1
+idea 1
+ideal 2
+ideas 6
+ideologist 1
+imitates 4
+imitator 3
+imitator 2
+in 8
+initiate 1
+inspired 1
+inspires 1
+interested 1
+is 9
+ism 1
+it 1
+its 1
+keeps 1
+lackey 1
+last 2
+leader 10
+leaders 1
+leaders 1
+leadership 1
+leads 1
+like 2
+listener 1
+listening 1
+little 1
+looks 1
+machine 7
+make 1
+making 1
+male 1
+mass 1
+may 2
+maybe 1
+means 1
+mechanical 2
+member 1
+methods 1
+minion 2
+model 3
+modes 1
+more 1
+motion 5
+motivated 1
+moved 2
+movements 1
+moves 1
+next 1
+not 5
+noun 1
+oath 1
+obeys 1
+of 19
+on 4
+one 13
+opinions 1
+or 55
+order 1
+orders 1
+organization 1
+other 5
+others 2
+own 1
+par 1
+parasite 1
+part 8
+part 2
+participant 2
+particular 1
+partisan 1
+path 2
+people 2
+person 32
+person 1
+persons 1
+philosophy 1
+poem 1
+politics 1
+principle 1
+program 1
+pursuer 2
+pursuit 1
+rally 1
+rare 1
+receiving 1
+regard 3
+regularly 1
+reliable 1
+religion 1
+religious 1
+representative 1
+retainer 3
+right 1
+risks 1
+role 1
+rules 1
+s 2
+say 1
+seamus 1
+servant 7
+servant 1
+set 1
+shadow 1
+show 1
+sidekick 1
+skills 1
+some 3
+somebody 3
+someone 11
+someone 1
+something 2
+specific 2
+sport 4
+stalker 1
+step 1
+student 1
+student 1
+subordinate 5
+subordinate 1
+subscribes 1
+successor 1
+supporter 5
+supporters 1
+supports 1
+t 3
+take 1
+takes 3
+teacher 1
+teachings 7
+team 2
+team 1
+than 1
+that 14
+the 15
+their 1
+them 1
+themselves 1
+thing 6
+thing 1
+think 1
+time 1
+to 11
+travel 1
+travels 1
+tv 1
+understand 1
+up 1
+vassal 1
+very 1
+walk 1
+walks 1
+was 1
+we 1
+what 1
+whatever 1
+who 38
+word 1
+zealot 1

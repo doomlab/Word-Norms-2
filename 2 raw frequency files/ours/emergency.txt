@@ -1,0 +1,234 @@
+ 48
+911 36
+911 1
+a 8
+accident 3
+accident 3
+accidents 1
+action 1
+aid 1
+ailment 1
+alarm 1
+alarming 1
+alerted 1
+altercation 1
+ambulance 26
+ambulance 2
+an 4
+and 6
+announced 1
+appendicitis 1
+assistance 1
+assistance 1
+attack 3
+attending 1
+attention 3
+attention 2
+away 1
+bad 6
+bad 1
+bankruptcy 1
+bathroom 1
+be 4
+blood 3
+bloody 1
+breaking 1
+brings 1
+broken 1
+by 4
+call 4
+called 1
+calling 1
+calm 1
+can 4
+car 2
+caused 1
+center 1
+come 1
+compelling 1
+contacts 1
+crash 1
+crazy 1
+crisis 1
+cross 1
+danger 4
+dangerous 1
+death 6
+demands 2
+dial 1
+dire 1
+dire 1
+disaster 1
+distress 1
+doctor 3
+doctors 4
+domestic 1
+dread 1
+drill 1
+dying 2
+emergency 3
+emergency 1
+emotional 1
+ems 1
+emt 4
+emt 1
+entering 1
+er 2
+er 1
+event 2
+exit 1
+family 3
+fast 5
+fatal 1
+fear 3
+feels 1
+fire 6
+firefighters 3
+firetruck 1
+first 1
+flashing 2
+for 1
+friends 1
+go 1
+great 1
+gunshot 1
+happened 2
+happening 2
+hazard 1
+health 1
+heart 1
+help 12
+help 3
+homicide 1
+hospital 14
+hospital 2
+hurricane 1
+hurried 1
+hurry 4
+hurt 6
+illness 1
+immediate 5
+immediately 1
+important 6
+in 2
+injured 1
+injuries 1
+injury 5
+involve 2
+is 14
+issues 1
+leg 1
+life 2
+lights 4
+loud 1
+natural 1
+need 6
+needed 2
+needs 4
+neighbors 1
+noisy 1
+nurses 1
+occurs 1
+of 3
+officers 1
+on 1
+or 2
+pace 1
+pain 4
+painful 1
+panic 7
+panic 3
+paramedics 1
+parents 1
+people 2
+person 2
+phone 1
+physical 1
+police 12
+prayers 1
+problem 3
+problem 2
+produces 1
+quick 2
+quickly 1
+red 4
+requiring 1
+response 1
+response 1
+right 1
+risky 1
+robbery 1
+room 3
+room 1
+run 1
+run 1
+rush 3
+sad 1
+safety 1
+scary 3
+seen 1
+serious 3
+serious 1
+shock 1
+shooting 1
+shouldn 1
+sick 1
+sickness 1
+sickness 1
+sirens 2
+situation 2
+situation 3
+smoke 1
+someone 3
+someones 3
+something 11
+soon 1
+sos 1
+sounds 2
+stay 1
+stroke 1
+sudden 2
+suddenly 1
+suddenly 1
+suicide 1
+support 1
+surgery 4
+t 1
+take 1
+terror 1
+terrorist 1
+tests 1
+that 4
+thats 1
+the 3
+threaten 1
+time 2
+to 4
+to 1
+together 1
+tornado 1
+trade 1
+trouble 1
+trouble 2
+truck 2
+turmoil 1
+unexpected 2
+unknown 1
+urgency 1
+urgent 9
+using 1
+vehicle 1
+very 1
+violence 1
+warrants 1
+weapon 1
+weather 1
+when 2
+whenever 1
+which 1
+world 1
+worry 1
+wreck 1
+wrong 2
+you 1
+yourself 1

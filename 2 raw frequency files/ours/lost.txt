@@ -1,0 +1,246 @@
+ 52
+a 12
+abandoned 1
+able 3
+about 1
+abrams 1
+admit 1
+alone 4
+am 2
+amazing 1
+an 2
+and 4
+animals 1
+are 5
+are 1
+associated 1
+at 1
+atlantis 1
+away 1
+backcountry 1
+be 7
+being 1
+blank 1
+books 1
+box 1
+boy 1
+by 1
+can 3
+cannot 5
+cant 6
+cat 1
+child 3
+children 2
+city 1
+clear 1
+clothes 1
+clueless 2
+compass 1
+compass 1
+concerned 1
+condition 1
+confused 6
+confused 3
+confusion 1
+countries 1
+creature 1
+current 2
+dark 2
+description 1
+desert 1
+deserted 1
+desk 1
+desperate 1
+direction 2
+directions 2
+disoriented 1
+distraught 1
+distress 1
+do 1
+does 1
+doesn 1
+dog 2
+dogs 1
+don 3
+dont 2
+drama 1
+driving 2
+earrings 1
+easy 1
+empty 2
+everything 1
+far 1
+feeling 1
+feelings 1
+feels 1
+find 15
+find 1
+flyers 1
+for 1
+forever 1
+forgetful 1
+forgotten 2
+forgotten 2
+forrest 1
+found 31
+found 5
+four 1
+fox 1
+frantic 1
+frightened 1
+g 1
+geographically 1
+girl 1
+go 1
+go 1
+gone 7
+gps 1
+gps 1
+guys 1
+hard 1
+have 1
+having 1
+help 3
+help 1
+helpless 1
+hidden 1
+home 1
+homework 1
+hopeless 1
+howling 1
+i 2
+id 1
+ids 1
+in 3
+is 6
+island 3
+island 1
+it 1
+it 1
+item 1
+items 1
+jj 1
+job 1
+key 1
+keys 1
+kidnapped 1
+know 8
+knowing 1
+knowledge 1
+letter 1
+lonely 2
+looking 1
+looks 1
+lost 5
+lost 1
+man 1
+map 1
+maps 1
+maybe 1
+men 1
+misplaced 5
+misplaced 3
+missing 8
+missing 3
+money 1
+movies 1
+my 1
+need 2
+needs 1
+needy 1
+nervous 1
+never 1
+new 2
+night 2
+no 3
+not 13
+object 1
+of 7
+old 1
+on 1
+one 1
+opposite 1
+or 2
+out 1
+p 1
+panic 2
+parties 1
+path 1
+pencil 1
+people 1
+person 2
+persons 1
+pet 1
+phone 3
+physical 1
+place 1
+place 1
+popular 1
+puppy 1
+routes 1
+s 1
+sad 2
+scared 8
+scary 3
+scent 1
+school 1
+search 1
+searching 2
+seen 1
+self 1
+series 2
+series 1
+service 1
+show 15
+show 1
+sight 1
+signs 1
+situation 1
+something 2
+something 1
+state 2
+stolen 1
+stranded 1
+sun 1
+surroundings 1
+survival 1
+survivor 1
+t 9
+television 1
+that 1
+the 10
+then 1
+there 1
+they 2
+to 12
+toothbrush 1
+traveling 1
+tv 9
+u 1
+unable 2
+unaware 2
+unfamiliar 1
+unintentional 1
+unknown 5
+untraceable 1
+v 3
+vacation 1
+walmart 2
+watch 1
+way 1
+way 1
+when 1
+where 11
+winning 1
+with 3
+without 2
+wont 1
+woods 3
+word 1
+worried 2
+worst 1
+wrong 1
+york 1
+you 6
+your 3
+zoo 1

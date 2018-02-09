@@ -1,0 +1,11 @@
+catapult weapon 9 
+catapult wheels 5 
+catapult large 6 
+catapult medieval 6 
+catapult wood 11 
+catapult launching 7 
+catapult objects 7 
+catapult throwing 22 
+catapult throwing 37 
+catapult stones 15 
+catapult war 5 

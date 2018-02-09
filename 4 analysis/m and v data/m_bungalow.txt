@@ -1,0 +1,11 @@
+bungalow house 16 
+bungalow one 16 
+bungalow level 16 
+bungalow basement 5 
+bungalow roof 8 
+bungalow levels 18 
+bungalow small 15 
+bungalow brick 8 
+bungalow living 11 
+bungalow in 11 
+bungalow shelter 5 

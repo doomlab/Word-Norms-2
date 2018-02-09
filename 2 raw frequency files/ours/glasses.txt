@@ -1,0 +1,211 @@
+ 14
+a 12
+ability 2
+able 2
+against 1
+aid 2
+all 1
+also 2
+an 2
+and 2
+are 5
+at 1
+bad 3
+be 3
+behind 1
+being 1
+better 3
+better 1
+beverage 1
+bifocals 2
+bifocals 1
+big 1
+black 1
+blurry 1
+breakable 4
+by 1
+can 4
+case 1
+ceramic 1
+chanel 1
+clarity 1
+clean 1
+clear 1
+clear 1
+clearly 1
+clearly 1
+colors 2
+consumption 1
+contacts 2
+contains 1
+cupboard 2
+delicate 1
+depending 1
+designs 1
+different 4
+dining 1
+don 1
+drink 4
+drinking 2
+drinking 1
+dull 1
+ears 1
+element 1
+expensive 1
+eye 4
+eyes 12
+eyes 4
+eyesight 3
+eyewear 2
+face 4
+facilitate 1
+fake 1
+far 1
+farsighted 1
+farsighted 1
+fashion 2
+fix 1
+focus 1
+fold 1
+for 7
+found 1
+four 3
+frame 4
+frames 3
+from 1
+geek 1
+give 2
+gives 1
+glass 9
+glass 1
+glasses 1
+glasses 2
+guard 1
+harry 1
+have 1
+help 11
+helpers 1
+helpful 2
+helps 3
+hold 2
+improve 3
+improves 2
+in 2
+instrument 1
+intelligence 1
+into 1
+is 2
+lens 3
+lenses 5
+lenses 2
+librarian 1
+like 1
+liquid 1
+liquids 1
+look 2
+lot 2
+made 3
+magnification 1
+magnify 1
+magnify 1
+make 2
+many 1
+metal 4
+mom 1
+monocle 1
+near 1
+nearsighted 2
+need 2
+needed 1
+needed 1
+nerds 2
+nerdy 1
+nice 1
+nose 1
+object 1
+objects 1
+of 10
+of 1
+old 1
+on 6
+optical 1
+or 3
+out 5
+people 6
+perception 1
+person 3
+pieces 1
+plastic 2
+potter 1
+prescribed 1
+prescription 2
+prescriptions 1
+protect 2
+protection 1
+put 1
+read 1
+read 2
+reading 3
+real 1
+rest 1
+rims 2
+round 3
+see 21
+see 6
+seeing 1
+seeing 2
+set 1
+shades 1
+shaped 1
+sight 1
+sighted 1
+sighted 1
+small 1
+smart 1
+smart 3
+something 1
+spectacles 1
+square 3
+square 1
+statement 1
+store 1
+style 1
+styles 1
+stylish 1
+sun 2
+sun 1
+t 1
+table 2
+tan 1
+that 1
+the 6
+them 2
+them 2
+thick 1
+thicker 1
+thin 1
+things 2
+through 4
+to 29
+tucks 1
+two 1
+uncomfortable 1
+up 1
+use 1
+used 14
+useful 1
+usually 2
+uv 1
+view 1
+vision 13
+vision 3
+water 1
+wear 1
+wearing 1
+wears 2
+which 1
+with 2
+with 1
+worn 4
+you 4
+your 2

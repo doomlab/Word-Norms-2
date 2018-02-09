@@ -1,0 +1,13 @@
+tap faucet 7 
+tap bathrooms 9 
+tap kitchens 10 
+tap sinks 11 
+tap metal 13 
+tap turning 5 
+tap getting 10 
+tap cold 10 
+tap water 10 
+tap getting 20 
+tap hot 10 
+tap water 20 
+tap water 40 

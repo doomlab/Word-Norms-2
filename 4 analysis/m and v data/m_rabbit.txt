@@ -1,0 +1,16 @@
+rabbit pet 7 
+rabbit animal 14 
+rabbit Easter 7 
+rabbit eats 6 
+rabbit carrots 6 
+rabbit hops 12 
+rabbit tail 5 
+rabbit ears 14 
+rabbit feet 6 
+rabbit teeth 5 
+rabbit whiskers 6 
+rabbit hunted 5 
+rabbit people 5 
+rabbit edible 7 
+rabbit furry 16 
+rabbit small 6 

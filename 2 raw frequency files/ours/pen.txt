@@ -1,0 +1,166 @@
+ 16
+5 1
+a 8
+able 1
+about 1
+advertisement 1
+agenda 1
+all 1
+also 1
+an 3
+and 3
+animals 2
+any 2
+appearances 1
+as 2
+ball 4
+ballpoint 2
+be 1
+black 9
+black 3
+blue 10
+bold 1
+books 1
+bought 1
+brands 1
+can 2
+cap 1
+cartridge 1
+cheap 1
+check 1
+chewed 1
+classroom 1
+clicks 2
+clip 1
+colicky 1
+color 1
+color 2
+colored 1
+colorful 1
+colors 3
+comes 1
+communicate 1
+containment 1
+contains 1
+cylinder 1
+dark 1
+delivers 1
+designs 1
+desk 1
+different 5
+disperses 1
+draw 2
+drawing 1
+easy 1
+enclosure 1
+erase 1
+etc 1
+every 1
+fits 1
+for 5
+forms 1
+gel 1
+generally 1
+grading 1
+green 1
+hand 3
+has 7
+held 2
+hold 1
+homework 2
+if 1
+important 1
+in 9
+in 1
+ink 34
+ink 5
+instrument 1
+into 1
+is 2
+it 1
+jell 1
+keep 1
+keeping 1
+kids 1
+length 1
+letters 1
+long 4
+made 4
+materials 1
+messy 2
+messy 1
+metal 1
+method 1
+multiples 1
+neat 1
+noise 1
+notes 1
+object 2
+of 6
+on 5
+or 2
+other 3
+out 1
+page 1
+paper 10
+paper 3
+pen 2
+pen 1
+pencil 5
+pencil 2
+pens 2
+permanent 4
+permanent 1
+place 1
+plastic 4
+point 2
+point 2
+pointed 1
+ran 1
+record 1
+red 4
+red 1
+reusable 1
+round 1
+school 3
+school 1
+scribble 1
+shaft 1
+sharp 1
+sharp 1
+sharpies 1
+small 1
+smooth 1
+something 2
+space 1
+stains 1
+stories 1
+styles 1
+t 1
+the 1
+thin 2
+tip 1
+to 22
+tool 1
+typically 1
+usable 1
+use 1
+used 20
+uses 1
+usually 1
+utensil 7
+utensil 1
+variety 1
+wire 1
+with 7
+with 5
+wood 1
+words 2
+work 1
+wright 1
+write 25
+write 4
+writing 20
+writing 5
+you 2
+your 1

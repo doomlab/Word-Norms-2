@@ -1,0 +1,17 @@
+dandelion flower 11 
+dandelion plant 6 
+dandelion weed 25 
+dandelion pollen 5 
+dandelion ca 5 
+dandelion allergies 5 
+dandelion grows 12 
+dandelion grass 12 
+dandelion grows 17 
+dandelion ground 5 
+dandelion green 13 
+dandelion stem 13 
+dandelion stem 30 
+dandelion seeds 7 
+dandelion annoying 7 
+dandelion fluffy 5 
+dandelion yellow 29 

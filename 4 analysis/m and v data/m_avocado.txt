@@ -1,0 +1,13 @@
+avocado fruit 17 
+avocado vegetable 8 
+avocado large 6 
+avocado pit 6 
+avocado seeds 7 
+avocado edible 11 
+avocado green 19 
+avocado high 6 
+avocado fat 6 
+avocado soft 5 
+avocado tastes 6 
+avocado good 6 
+avocado guacamole 7 

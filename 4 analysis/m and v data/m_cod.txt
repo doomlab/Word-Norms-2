@@ -1,0 +1,9 @@
+cod fish 22 
+cod swims 6 
+cod fins 5 
+cod gills 6 
+cod scales 6 
+cod caught 7 
+cod edible 14 
+cod Atlantic 5 
+cod water 11 

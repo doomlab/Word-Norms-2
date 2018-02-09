@@ -1,0 +1,14 @@
+menu lists 24 
+menu foods 24 
+menu lists 42 
+menu prices 18 
+menu words 6 
+menu it 6 
+menu paper 11 
+menu plastic 7 
+menu at 27 
+menu restaurants 27 
+menu ordering 6 
+menu food 6 
+menu selecting 5 
+menu meals 5 

@@ -1,0 +1,180 @@
+ 16
+4 3
+a 3
+able 1
+age 1
+ago 2
+amish 2
+an 2
+and 1
+are 1
+baby 1
+base 1
+be 2
+behind 1
+big 1
+black 1
+buggy 1
+by 8
+called 1
+can 1
+car 1
+car 1
+carriage 1
+carrier 1
+carrier 1
+carries 4
+carry 5
+carry 1
+child 1
+childhood 1
+children 7
+coach 1
+country 1
+cover 2
+covered 4
+covering 1
+cowboy 1
+cowboys 1
+cumbersome 1
+days 2
+desert 1
+device 1
+dog 1
+drawn 2
+drawn 1
+fabric 1
+farmers 1
+first 1
+flyer 1
+flyer 1
+for 4
+form 1
+forth 1
+four 5
+go 1
+handle 3
+has 5
+haul 4
+hay 1
+hills 1
+hitch 2
+holds 1
+horse 5
+horses 6
+horses 2
+hot 1
+in 4
+in 2
+is 9
+items 2
+items 1
+july 1
+kids 6
+kids 1
+large 1
+little 6
+loading 1
+long 1
+made 3
+means 1
+metal 2
+method 1
+mules 1
+object 2
+objects 1
+of 10
+old 8
+on 2
+one 1
+or 2
+oregon 5
+out 1
+oxen 1
+parades 1
+parents 1
+payload 1
+people 1
+picnics 1
+pioneers 2
+place 1
+play 2
+playing 1
+playing 1
+prairie 3
+pull 3
+pulled 8
+pulled 1
+push 1
+radio 1
+rectangular 1
+red 23
+red 2
+ride 3
+roll 1
+roof 1
+s 1
+seats 1
+settlers 1
+sit 1
+slow 2
+small 2
+something 1
+something 1
+spoke 1
+station 1
+stuff 2
+tan 1
+technology 1
+that 1
+the 3
+them 1
+thing 1
+things 2
+things 4
+three 1
+to 12
+tow 1
+toy 3
+toy 1
+tractor 1
+tractor 1
+trail 2
+trail 3
+trailer 1
+trailer 1
+train 1
+transpiration 1
+transport 2
+transport 1
+transportation 4
+transportation 5
+transports 1
+travel 1
+type 2
+unmechanized 1
+use 1
+used 15
+usually 2
+vehicle 1
+vehicle 1
+volkswagon 1
+wagon 2
+wagon 4
+wagons 1
+wagons 1
+weather 1
+west 2
+west 1
+westerns 1
+wheel 6
+wheelbarrow 1
+wheels 20
+wheels 2
+which 1
+wild 3
+with 3
+wood 7
+wooden 2
+wooden 1
+years 2

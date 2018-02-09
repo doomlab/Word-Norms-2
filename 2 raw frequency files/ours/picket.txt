@@ -1,0 +1,267 @@
+ 21
+a 78
+activity 1
+advance 2
+advanced 1
+against 6
+against 1
+aircraft 1
+an 7
+and 5
+angles 1
+animal 1
+animals 5
+approach 1
+are 2
+army 1
+as 6
+at 5
+barricade 1
+barrier 3
+blockade 1
+blockader 1
+blockage 1
+body 2
+bounds 1
+boycott 1
+bricks 1
+building 1
+by 5
+capacity 1
+carrying 1
+cause 1
+ceasing 1
+certain 1
+change 1
+create 1
+crossing 1
+customers 2
+defense 2
+defense 1
+deliver 1
+demonstrate 1
+demonstration 1
+detached 1
+detachment 3
+discourage 1
+dissuade 1
+dissuading 1
+divided 1
+don 1
+down 2
+driven 3
+during 4
+duty 1
+employed 1
+employed 1
+employees 1
+employment 1
+encampments 1
+enclose 1
+enemy 4
+enter 1
+entering 1
+entrance 1
+entry 1
+especially 1
+etc 4
+etc 1
+express 2
+factory 5
+faculty 1
+fasten 2
+fence 15
+fence 1
+fences 1
+fighting 1
+food 1
+for 7
+forcible 1
+form 1
+fortification 1
+fortify 1
+forward 2
+from 3
+getting 1
+go 2
+goods 1
+grievance 1
+ground 4
+ground 1
+group 6
+guard 4
+held 1
+hit 1
+hitching 1
+hold 1
+horizontal 1
+horses 1
+in 15
+into 4
+involves 1
+is 6
+it 1
+jobs 1
+know 1
+like 5
+line 4
+line 1
+lobby 1
+lookout 3
+lorries 1
+making 1
+man 1
+marching 1
+mark 6
+marker 1
+means 2
+men 1
+military 2
+military 1
+mine 1
+more 2
+my 1
+nonstriking 1
+not 3
+number 2
+of 26
+often 3
+on 5
+one 4
+opinion 1
+opposite 1
+or 41
+order 1
+other 1
+others 1
+out 3
+outpost 1
+outside 10
+pale 6
+paling 1
+palisade 2
+panel 1
+panel 1
+part 1
+patrol 1
+peak 1
+peg 4
+pegged 1
+people 5
+person 6
+persons 3
+persuade 3
+persuade 1
+phrase 1
+picket 9
+pickets 2
+pillar 2
+piquet 1
+place 3
+placed 2
+placing 1
+plae 1
+pointed 11
+points 4
+police 1
+position 2
+post 10
+present 1
+prevent 1
+protect 1
+protest 11
+protest 1
+protesters 1
+rail 2
+rally 2
+readiness 1
+repeat 1
+riot 1
+row 1
+s 1
+scout 1
+screw 1
+secure 5
+secure 1
+security 1
+sent 1
+sentinel 3
+sentry 1
+sentry 1
+serve 3
+serving 1
+set 1
+shake 1
+sharpened 1
+ships 1
+show 1
+signs 2
+similar 1
+slat 1
+small 2
+solder 1
+soldier 2
+soldiers 4
+solider 1
+some 1
+something 3
+spotter 1
+stake 12
+stake 1
+stakes 1
+stanchion 1
+stand 2
+standing 1
+stationed 6
+stick 2
+stop 1
+stops 1
+store 1
+strike 13
+strike 1
+structure 1
+support 3
+support 1
+supporting 1
+surprise 1
+surveying 4
+t 1
+tent 6
+tent 1
+tents 1
+tether 5
+tethering 1
+that 4
+the 17
+their 1
+there 2
+thing 1
+thinking 1
+those 1
+to 44
+top 3
+towards 1
+troop 1
+troops 2
+try 2
+trying 1
+type 1
+union 3
+up 2
+upright 2
+upright 1
+used 8
+usually 2
+venue 1
+walk 1
+warn 3
+watch 1
+watching 1
+when 3
+who 5
+with 3
+wooden 1
+work 5
+workers 3
+workplace 2
+yard 1

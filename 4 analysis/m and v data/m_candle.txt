@@ -1,0 +1,16 @@
+candle colors 10 
+candle shapes 11 
+candle sizes 9 
+candle wick 15 
+candle burns 9 
+candle melts 7 
+candle heat 12 
+candle light 21 
+candle decorative 5 
+candle scented 20 
+candle wax 25 
+candle lighting 8 
+candle source 8 
+candle romancing 5 
+candle starting 6 
+candle fires 6 

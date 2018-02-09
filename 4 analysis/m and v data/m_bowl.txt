@@ -1,0 +1,16 @@
+bowl colors 5 
+bowl kitchens 7 
+bowl curved 7 
+bowl round 19 
+bowl ceramic 5 
+bowl plastic 8 
+bowl spoon 5 
+bowl eating 12 
+bowl eating 22 
+bowl cereal 10 
+bowl food 11 
+bowl holding 7 
+bowl things 7 
+bowl liquids 10 
+bowl mixing 6 
+bowl soup 11 

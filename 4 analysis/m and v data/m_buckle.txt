@@ -1,0 +1,8 @@
+buckle belts 19 
+buckle shoes 9 
+buckle shiny 5 
+buckle small 6 
+buckle metal 19 
+buckle plastic 5 
+buckle fastening 8 
+buckle holding 9 
