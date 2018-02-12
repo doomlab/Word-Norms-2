@@ -63,8 +63,10 @@ chomp; tr/ \t/ /s;
 $jcn{$cue}{$target} = $jcn;
 $lsa{$cue}{$target} = $lsa;
 
+#print "$cue $target $jcn $lsa\n";
+
 }
-close(FIN);
+close(FIN); 
 
 open(FIN,"usf_norms.txt");
 while(<FIN>) {
@@ -89,6 +91,8 @@ chomp; tr/ \t/ /s;
 
 $oldcos{$cue}{$target} = $cos;
 
+#print "$cue $target $cos\n";
+
 }
 close(FIN);
 
@@ -110,6 +114,8 @@ foreach $cue (sort keys %rootwhere)
 
         $cue1 = substr($cue, 2);
         $target1 = substr($target, 2);
+        
+        #print $cue1, " ", $target1, "\n";
         
         if (defined $oldcos{$cue1}{$target1}){ print FOUT "$oldcos{$cue1}{$target1} ";}
         else { print FOUT "NULL ";}
@@ -147,19 +153,19 @@ foreach $cue (sort keys %root)
         if (defined $affix{$cue}{$target}){ print FOUT "$affix{$cue}{$target} ";}
         else { print FOUT "0 ";}
   
-        if (defined $oldcos{$cue1}{$target1}){ print FOUT "$oldcos{$cue1}{$target1} ";}
+        if (defined $oldcos{$cue}{$target}){ print FOUT "$oldcos{$cue}{$target} ";}
         else { print FOUT "NULL ";}
         
-        if (defined $jcn{$cue1}{$target1}){ print FOUT "$jcn{$cue1}{$target1} "; }
+        if (defined $jcn{$cue}{$target}){ print FOUT "$jcn{$cue}{$target} "; }
         else { print FOUT "NULL "; }
 
-        if (defined $lsa{$cue1}{$target1}){ print FOUT "$lsa{$cue1}{$target1} "; }
+        if (defined $lsa{$cue}{$target}){ print FOUT "$lsa{$cue}{$target} "; }
         else { print FOUT "NULL "; }        
 
-        if (defined $fsg{$cue1}{$target1}){ print FOUT "$fsg{$cue1}{$target1} "; }
+        if (defined $fsg{$cue}{$target}){ print FOUT "$fsg{$cue}{$target} "; }
         else { print FOUT "NULL "; }
 
-        if (defined $bsg{$cue1}{$target1}){ print FOUT "$bsg{$cue1}{$target1} \n"; }
+        if (defined $bsg{$cue}{$target}){ print FOUT "$bsg{$cue}{$target} \n"; }
         else { print FOUT "NULL \n"; }
         
         $done{$cue}{$target} = 1;
