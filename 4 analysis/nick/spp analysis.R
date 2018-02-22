@@ -1,13 +1,13 @@
 ##setup
 dat = read.csv("combined_spp_file.csv")
 
-options(sipen = 999)
+options(scipen = 999)
 
 ####models####
 ##t_ldt_RT
 ##first step (word info)
-model1 = lm(t_ldt_RT ~ PLength + PSubFreq + POrthoN + TLength + TSubFreq + TOrthoN, data = spp_noout) 
-summary(dat)
+model1 = lm(t_ldt_RT ~ PLength + PSubFreq + POrthoN + TLength + TSubFreq + TOrthoN, data = dat) 
+summary(model1, correlation = T)
 
 ##second step (association)
 model2 = lm(t_ldt_RT ~ PLength + PSubFreq + POrthoN + TLength + TSubFreq + TOrthoN +
