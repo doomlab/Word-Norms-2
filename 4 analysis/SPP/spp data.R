@@ -17,7 +17,8 @@ elp = read.csv("elp.csv")
 targets = read.csv("targetwords.csv")
 usf = read_excel("usf_norms.xlsx")
 maki = read.csv("usfjcnlsa.csv")
-
+cosiness = read.csv("cos set size.csv")
+cosinefs = read_excel("feature set size.xlsx")
 ####clean up the cue target columns for everything####
 
 ##lower case
@@ -39,6 +40,8 @@ usf$CUE = tolower(as.character(usf$CUE))
 usf$TARGET = tolower(as.character(usf$TARGET))
 maki$cue = tolower(as.character(maki$cue))
 maki$target = tolower(as.character(maki$target))
+cosiness$Var1 = tolower(as.character(cosiness$Var1))
+cosinefs$cue = tolower(as.character(cosinefs$cue))
 
 ##take out ' symbols
 firstassocLDT$TargetWord = gsub("'", "", firstassocLDT$TargetWord)
@@ -59,6 +62,8 @@ usf$CUE = gsub("'", "", usf$CUE)
 usf$TARGET = gsub("'", "", usf$TARGET)
 maki$cue = gsub("'", "", maki$cue)
 maki$target = gsub("'", "", maki$target)
+cosiness$Var1 = gsub("'", "", cosiness$Var1)
+cosinefs$cue = gsub("'", "", cosinefs$cue)
 
 ##take out spaces
 firstassocLDT$TargetWord = gsub(" ", "", firstassocLDT$TargetWord)
@@ -79,6 +84,8 @@ usf$CUE = gsub(" ", "", usf$CUE)
 usf$TARGET = gsub(" ", "", usf$TARGET)
 maki$cue = gsub(" ", "", maki$cue)
 maki$target = gsub(" ", "", maki$target)
+cosiness$Var1 = gsub(" ", "", cosiness$Var1)
+cosinefs$cue = gsub(" ", "", cosinefs$cue)
 
 ##make index column
 firstassocLDT$index = paste(firstassocLDT$Prime,firstassocLDT$TargetWord, sep = ".")
@@ -157,6 +164,35 @@ FALDT = merge(FALDT, maki_combined, by = "index", all.x = T)
 FAN = merge(FAN, maki_combined, by = "index", all.x = T)
 OALDT = merge(OALDT, maki_combined, by = "index", all.x = T)
 OAN = merge(OAN, maki_combined, by = "index", all.x = T)
+
+##add cosine set size and feature set size
+
+colnames(cosiness)[2:3] = c("TargetWord", "TCosine_Set")
+colnames(cosinefs)[1:3] = c("TargetWord", "Traw_feat_set", "Troot_feat_set")
+
+FALDT = merge(FALDT, cosiness, by = "TargetWord", all.x = T)
+FAN = merge(FAN, cosiness, by = "TargetWord", all.x = T)
+OALDT = merge(OALDT, cosiness, by = "TargetWord", all.x = T)
+OAN = merge(OAN, cosiness, by = "TargetWord", all.x = T)
+
+FALDT = merge(FALDT, cosinefs, by = "TargetWord", all.x = T)
+FAN = merge(FAN, cosinefs, by = "TargetWord", all.x = T)
+OALDT = merge(OALDT, cosinefs, by = "TargetWord", all.x = T)
+OAN = merge(OAN, cosinefs, by = "TargetWord", all.x = T)
+
+colnames(cosiness)[2:3] = c("Prime", "PCosine_Set")
+colnames(cosinefs)[1:3] = c("Prime", "Praw_feat_set", "Proot_feat_set")
+
+FALDT = merge(FALDT, cosiness, by = "Prime", all.x = T)
+FAN = merge(FAN, cosiness, by = "Prime", all.x = T)
+OALDT = merge(OALDT, cosiness, by = "Prime", all.x = T)
+OAN = merge(OAN, cosiness, by = "Prime", all.x = T)
+
+FALDT = merge(FALDT, cosinefs, by = "Prime", all.x = T)
+FAN = merge(FAN, cosinefs, by = "Prime", all.x = T)
+OALDT = merge(OALDT, cosinefs, by = "Prime", all.x = T)
+OAN = merge(OAN, cosinefs, by = "Prime", all.x = T)
+
 
 write.csv(FAN, "FAN.csv", row.names = F)
 write.csv(FALDT, "FALDT.csv", row.names = F)
