@@ -45,20 +45,20 @@ summary(model1)
 
 ##second step (association)
 model2 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn,
+              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set,
             data = dat) 
 summary(model2)
 
 ##third step (semantics)
 model3 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn +
+              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set +
               dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance,
             data = dat)
 summary(model3)
 
 ##fourth step (thematics)
 model4 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn +
+              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set +
               dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance +
               dat$LSA, ##beagle stuff?
             data = dat)
@@ -72,20 +72,20 @@ summary(model5)
 
 ##second step (association)
 model6 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn,
+              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set,
             data = dat) 
 summary(model6)
 
 ##third step (semantics)
 model7 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn +
+              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set +
               dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance,
             data = dat)
 summary(model7)
 
 ##fourth step (thematics)
 model8 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn +
+              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set +
               dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance +
               dat$LSA, ##beagle stuff?
             data = dat)
@@ -99,20 +99,20 @@ summary(model9)
 
 ##second step (association)
 model10 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn,
+              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set,
             data = dat) 
 summary(model10)
 
 ##third step (semantics)
 model11 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn +
+              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set +
               dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance,
             data = dat)
 summary(model11)
 
 ##fourth step (thematics)
 model12 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn +
+              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set +
               dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance +
               dat$LSA, ##beagle stuff?
             data = dat)
@@ -126,20 +126,20 @@ summary(model13)
 
 ##second step (association)
 model14 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-               dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn,
+               dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set,
              data = dat) 
 summary(model14)
 
 ##third step (semantics)
 model15 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-               dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn +
+               dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set
                dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance,
              data = dat)
 summary(model15)
 
 ##fourth step (thematics)
 model16 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-               dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn +
+               dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set
                dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance +
                dat$LSA, ##beagle stuff?
              data = dat)
