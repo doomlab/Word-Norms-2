@@ -1,6 +1,8 @@
 ##setup
 dat = read.csv("FALDT.csv")
 
+options(scipen = 999)
+
 ####finding best columns to work with -- step 1 word info####
 ##tlength, plength, ppos, tpos, psub, tsub, portho, tortho
 
@@ -37,110 +39,114 @@ summary(dat[ , c(21, 54, 84)]) ##using LSA column
 
 ##beagle?
 
+##create new dataset of just columns being used
+dat2 = dat[ , c(4:5, 8, 12, 18:35, 38, 42, 46, 49:51, 59, 83, 86:92)] ##getting just the columns for the analysis
+nomiss = na.omit(dat2)
+
 ####analysis -- ldt 200 rt####
 ##first step (word info)
 model1 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
-            data = dat) ##phonographic neighborhood?
+            data = nomiss) ##phonographic neighborhood?
 summary(model1)
 
 ##second step (association)
 model2 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set,
-            data = dat) 
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set,
+            data = nomiss) 
 summary(model2)
 
 ##third step (semantics)
 model3 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set +
-              dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance,
-            data = dat)
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
+              nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance,
+            data = nomiss)
 summary(model3)
 
 ##fourth step (thematics)
 model4 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set +
-              dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance +
-              dat$LSA, ##beagle stuff?
-            data = dat)
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
+              nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance +
+              nomiss$LSA, ##beagle stuff?
+            data = nomiss)
 summary(model4)
 
 ####analysis ldt 1200 rt####
 ##first step
 model5 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
-            data = dat) ##phonographic neighborhood?
+            data = nomiss) ##phonographic neighborhood?
 summary(model5)
 
 ##second step (association)
 model6 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set,
-            data = dat) 
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set,
+            data = nomiss) 
 summary(model6)
 
 ##third step (semantics)
 model7 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set +
-              dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance,
-            data = dat)
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
+              nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance,
+            data = nomiss)
 summary(model7)
 
 ##fourth step (thematics)
 model8 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set +
-              dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance +
-              dat$LSA, ##beagle stuff?
-            data = dat)
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
+              nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance +
+              nomiss$LSA, ##beagle stuff?
+            data = nomiss)
 summary(model8)
 
 ####ldt 200 rt priming####
 ##first step
 model9 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
-            data = dat) ##phonographic neighborhood?
+            data = nomiss) ##phonographic neighborhood?
 summary(model9)
 
 ##second step (association)
 model10 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set,
-            data = dat) 
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set,
+            data = nomiss) 
 summary(model10)
 
 ##third step (semantics)
 model11 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set +
-              dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance,
-            data = dat)
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
+              nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance,
+            data = nomiss)
 summary(model11)
 
 ##fourth step (thematics)
 model12 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set +
-              dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance +
-              dat$LSA, ##beagle stuff?
-            data = dat)
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
+              nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance +
+              nomiss$LSA, ##beagle stuff?
+            data = nomiss)
 summary(model12)
 
 ####ldt 1200 rt priming####
 ##first step
 model13 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
-            data = dat) ##phonographic neighborhood?
+            data = nomiss) ##phonographic neighborhood?
 summary(model13)
 
 ##second step (association)
 model14 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-               dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set,
-             data = dat) 
+               nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set,
+             data = nomiss) 
 summary(model14)
 
 ##third step (semantics)
 model15 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-               dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set
-               dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance,
-             data = dat)
+               nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
+               nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance,
+             data = nomiss)
 summary(model15)
 
 ##fourth step (thematics)
 model16 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-               dat$BAS + dat$FAS + dat$CueFanOut + dat$TargetFanIn + dat$PCosine_Set + dat$TCosine_Set + dat$Praw_feat_set + dat$Traw_feat_set + dat$Proot_feat_set + dat$Troot_feat_set
-               dat$jcn.y + dat$root + dat$raw + dat$affix + dat$distance +
-               dat$LSA, ##beagle stuff?
-             data = dat)
+               nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
+               nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance +
+               nomiss$LSA, ##beagle stuff?
+             data = nomiss)
 summary(model16)
