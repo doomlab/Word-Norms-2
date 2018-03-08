@@ -43,32 +43,56 @@ summary(dat[ , c(21, 54, 84)]) ##using LSA column
 dat2 = dat[ , c(4:5, 8, 12, 18:35, 38, 42, 46, 49:51, 59, 83, 86:92)] ##getting just the columns for the analysis
 nomiss = na.omit(dat2)
 
+##most common pos
+nomiss$TPOS = substr(nomiss$TPOS, 0, 2)
+nomiss$PPOS = substr(nomiss$PPOS, 0, 2)
+
+nomiss$TPOS = gsub("mi|RB", "JJ", nomiss$TPOS)
+nomiss$PPOS = gsub("mi|RB", "JJ", nomiss$PPOS)
+
 ####analysis -- ldt 200 rt####
 ##first step (word info)
 model1 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
             data = nomiss) ##phonographic neighborhood?
-summary(model1)
+summary(model1, correlation = T)
 
 ##second step (association)
-model2 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set,
+model2 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
+              PSubFreq + PPOS + TPOS + TSubFreq +
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + 
+              nomiss$TargetFanIn,
             data = nomiss) 
-summary(model2)
+summary(model2, correlation = T)
 
 ##third step (semantics)
-model3 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
-              nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance,
+##picking only root for cosine because of multicollinearity 
+##nomiss$Praw_feat_set + nomiss$Traw_feat_set + 
+##nomiss$raw + 
+model3 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
+              PSubFreq + PPOS + TPOS + TSubFreq +
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + 
+              nomiss$TargetFanIn + nomiss$PCosine_Set + 
+              nomiss$TCosine_Set + 
+              nomiss$Proot_feat_set + 
+              nomiss$Troot_feat_set +
+              nomiss$jcn.y + nomiss$root + 
+              nomiss$affix + nomiss$distance,
             data = nomiss)
-summary(model3)
+summary(model3, correlation = T)
 
 ##fourth step (thematics)
-model4 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
-              nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance +
+model4 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
+              PSubFreq + PPOS + TPOS + TSubFreq +
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + 
+              nomiss$TargetFanIn + nomiss$PCosine_Set + 
+              nomiss$TCosine_Set + 
+              nomiss$Proot_feat_set + 
+              nomiss$Troot_feat_set +
+              nomiss$jcn.y + nomiss$root + 
+              nomiss$affix + nomiss$distance +
               nomiss$LSA, ##beagle stuff?
             data = nomiss)
-summary(model4)
+summary(model4, correlation = T)
 
 ####analysis ldt 1200 rt####
 ##first step
