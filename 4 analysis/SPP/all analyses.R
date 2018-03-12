@@ -419,7 +419,7 @@ summary(oaldt.200RT.4, correlation = T)
 ##oaldt 1200RT
 oaldt.1200RT.1 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
                     data = oaldt.nomiss) 
-summary(oaldt.200RT.1, correlation = T)
+summary(oaldt.1200RT.1, correlation = T)
 
 ##add associations
 oaldt.1200RT.2 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
