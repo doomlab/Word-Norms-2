@@ -95,7 +95,7 @@ summary(faldt.200RT.4, correlation = T)
 ##faldt 1200RT
 faldt.1200RT.1 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
                    data = faldt.nomiss) 
-summary(faldt.200RT.1, correlation = T)
+summary(faldt.1200RT.1, correlation = T)
 
 ##add associations
 faldt.1200RT.2 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
