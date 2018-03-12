@@ -102,21 +102,33 @@ summary(model5)
 
 ##second step (association)
 model6 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set,
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn,
             data = nomiss) 
 summary(model6)
 
 ##third step (semantics)
-model7 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
-              nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance,
+model7 = lm(LDT.1200ms.RT ~PLength + TLength + POrthoN + TOrthoN + 
+              PSubFreq + PPOS + TPOS + TSubFreq +
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + 
+              nomiss$TargetFanIn + nomiss$PCosine_Set + 
+              nomiss$TCosine_Set + 
+              nomiss$Proot_feat_set + 
+              nomiss$Troot_feat_set +
+              nomiss$jcn.y + nomiss$root + 
+              nomiss$affix + nomiss$distance,
             data = nomiss)
 summary(model7)
 
 ##fourth step (thematics)
-model8 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
-              nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance +
+model8 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
+              PSubFreq + PPOS + TPOS + TSubFreq +
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + 
+              nomiss$TargetFanIn + nomiss$PCosine_Set + 
+              nomiss$TCosine_Set + 
+              nomiss$Proot_feat_set + 
+              nomiss$Troot_feat_set +
+              nomiss$jcn.y + nomiss$root + 
+              nomiss$affix + nomiss$distance +
               nomiss$LSA, ##beagle stuff?
             data = nomiss)
 summary(model8)
@@ -129,22 +141,34 @@ summary(model9)
 
 ##second step (association)
 model10 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set,
+              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn,
             data = nomiss) 
 summary(model10)
 
 ##third step (semantics)
-model11 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
-              nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance,
+model11 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
+               PSubFreq + PPOS + TPOS + TSubFreq +
+               nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + 
+               nomiss$TargetFanIn + nomiss$PCosine_Set + 
+               nomiss$TCosine_Set + 
+               nomiss$Proot_feat_set + 
+               nomiss$Troot_feat_set +
+               nomiss$jcn.y + nomiss$root + 
+               nomiss$affix + nomiss$distance,
             data = nomiss)
 summary(model11)
 
 ##fourth step (thematics)
-model12 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-              nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
-              nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance +
-              nomiss$LSA, ##beagle stuff?
+model12 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
+               PSubFreq + PPOS + TPOS + TSubFreq +
+               nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + 
+               nomiss$TargetFanIn + nomiss$PCosine_Set + 
+               nomiss$TCosine_Set + 
+               nomiss$Proot_feat_set + 
+               nomiss$Troot_feat_set +
+               nomiss$jcn.y + nomiss$root + 
+               nomiss$affix + nomiss$distance +
+               nomiss$LSA, ##beagle stuff?
             data = nomiss)
 summary(model12)
 
@@ -156,21 +180,33 @@ summary(model13)
 
 ##second step (association)
 model14 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-               nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set,
+               nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn,
              data = nomiss) 
 summary(model14)
 
 ##third step (semantics)
-model15 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-               nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
-               nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance,
+model15 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
+               PSubFreq + PPOS + TPOS + TSubFreq +
+               nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + 
+               nomiss$TargetFanIn + nomiss$PCosine_Set + 
+               nomiss$TCosine_Set + 
+               nomiss$Proot_feat_set + 
+               nomiss$Troot_feat_set +
+               nomiss$jcn.y + nomiss$root + 
+               nomiss$affix + nomiss$distance,
              data = nomiss)
 summary(model15)
 
 ##fourth step (thematics)
-model16 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq +
-               nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + nomiss$TargetFanIn + nomiss$PCosine_Set + nomiss$TCosine_Set + nomiss$Praw_feat_set + nomiss$Traw_feat_set + nomiss$Proot_feat_set + nomiss$Troot_feat_set +
-               nomiss$jcn.y + nomiss$root + nomiss$raw + nomiss$affix + nomiss$distance +
+model16 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
+               PSubFreq + PPOS + TPOS + TSubFreq +
+               nomiss$BAS + nomiss$FAS + nomiss$CueFanOut + 
+               nomiss$TargetFanIn + nomiss$PCosine_Set + 
+               nomiss$TCosine_Set + 
+               nomiss$Proot_feat_set + 
+               nomiss$Troot_feat_set +
+               nomiss$jcn.y + nomiss$root + 
+               nomiss$affix + nomiss$distance +
                nomiss$LSA, ##beagle stuff?
              data = nomiss)
 summary(model16)
