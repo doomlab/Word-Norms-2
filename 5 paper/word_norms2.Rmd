@@ -56,8 +56,77 @@ set.seed(42)
 We report how we determined our sample size, all data exclusions (if any), all manipulations, and all measures in the study. <!-- 21-word solution (Simmons, Nelson & Simonsohn, 2012; retrieved from http://ssrn.com/abstract=2160588) -->
 
 ## Participants
+```{r, echo=FALSE, results='asis'}
+library(papaja)
+
+####partcipant table####
+participant.table2 = matrix(NA, nrow = 5, ncol = 4)
+
+colnames(participant.table2) = c("Institution", "Total Participants",
+                         "Concepts", "Mean $N$")
+
+participant.table2[1, ] = c("University of Mississippi", 749, 658, 67.8)
+participant.table2[2, ] = c("Missouri State University", 1420, 720, 71.4)
+participant.table2[3, ] = c("Montana State University", 127, 120, 63.5)
+participant.table2[4, ] = c("Mechanical Turk 1", 571, 310, 60)
+participant.table2[5, ] = c("Mechanical Turk 2", 198, 1914, 30)         
+
+apa_table.latex(as.data.frame(participant.table2),
+                align = c(rep("l", 1), rep("c", 3)), 
+                caption = "",
+                note = "",
+                escape = FALSE,
+                col.names = c("Institution", "Total Participants",
+                         "Concepts", "Mean $N$"))
+```
 
 ## Material
+```{r, include=FALSE}
+dat1 = read.csv("final words 2017.csv")
+sub1 = subset(dat1,
+              dat1$where == "b")
+
+####stimuli table####
+##pulled all this code from what we did last time. Tried updating it with the new columns
+##table set up
+with(sub1, tapply(frequency_feature, list(pos_feature, school_code), mean)) ##mean frequency per school
+with(sub1, tapply(frequency_feature, list(pos_feature), mean)) ##total mean frequency per pos
+with(sub1, tapply(frequency_feature, list(school_code), mean)) ##total mean frequency per school
+
+with(sub1, tapply(frequency_feature, list(pos_feature, school_code), sd))
+with(sub1, tapply(frequency_feature, list(pos_feature), sd))
+with(sub1, tapply(frequency_feature, list(school_code), sd))
+
+mean(sub1$frequency_feature) ##total total
+sd(sub1$frequency_feature)
+
+```
+
+```{r, echo=FALSE, results='asis'}
+
+
+##table
+stim.table = matrix(NA, nrow = 6, ncol = 6)
+
+colnames(stim.table) = c("Institution", "Adjective",
+                         "Noun", "Verb", "Other", "Total")
+
+stim.table[1, ] = c("University of Mississippi", "10.97(12.48)", "10.40(13.08)",  "5.28(6.71)", "10.01(10.16)", "9.45(12.02)")
+stim.table[2, ] = c("Missouri State University", "10.41(11.57)", "10.71(13.48)", "5.87(6.46)", "10.11(11.74)", "9.52(11.94)")
+stim.table[3, ] = c("Montana State University", "10.95(11.58)", "10.66(12.13)", "5.89(7.86)", "11.27(10.64)", "9.67(11.34)")
+stim.table[4, ] = c("Mechanical Turk 1", "9.00(8.92)", "9.73(11.35)", "5.17(6.64)", "11.30(10.41)", "8.65(10.17)")
+stim.table[5, ] = c("Mechanical Turk 2", "5.23(4.85)", "5.71(5.15)", "3.36(3.50)", "5.87(4.84)", "5.02(4.81)")         
+stim.table[6, ] = c("Total", "8.32(9.62)", "8.19(10.07)", "4.55(5.91)", "8.31(8.52)", "7.42(9.30)")
+
+apa_table.latex(as.data.frame(stim.table),
+                align = c(rep("l", 1), rep("c", 5)), 
+                caption = "",
+                note = "",
+                escape = FALSE,
+                col.names =  c("Institution", "Adjective",
+                         "Noun", "Verb", "Other", "Total"))
+```
+
 
 ## Procedure
 
@@ -66,6 +135,248 @@ We used `r cite_r("r-references.bib")` for all our analyses.
 
 
 # Results
+```{r, include=FALSE}
+####Set up for response frequency table####
+##this code came from what we did last time
+
+library(memisc) ##percent function comes from memisc library
+
+##total
+master = sub1
+
+p0a = percent(master$pos_feature) #raw
+p0a
+
+p0b = percent(master$pos_translated) ##root
+p0b
+
+m0a = tapply(master$normalized_feature,
+             master$pos_feature, mean)
+m0a
+
+sd0a = tapply(master$normalized_feature,
+              master$pos_feature, sd)
+sd0a
+
+m0b = tapply(master$normalized_translated,
+             master$pos_translated, mean)
+m0b
+
+sd0b = tapply(master$normalized_translated,
+              master$pos_translated, sd)
+sd0b
+
+##subsetting by cue type
+adj = subset(master,
+             master$pos_cue == "adjective")
+
+noun = subset(master,
+              master$pos_cue == "noun")
+
+verb = subset(master,
+              master$pos_cue == "verb")
+
+other = subset(master,
+               master$pos_cue == "other")              
+
+##adjectives
+p1a = percent(adj$pos_feature) ##raw
+p1a
+
+p1b = percent(adj$pos_translated) ##root
+p1b
+
+m1a = tapply(adj$normalized_feature,
+             adj$pos_feature, mean)
+m1a
+
+sd1a = tapply(adj$normalized_feature,
+              adj$pos_feature, sd)
+sd1a
+
+m1b = tapply(adj$normalized_translated,
+             adj$pos_translated, mean)
+m1b
+
+sd1b = tapply(adj$normalized_translated,
+              adj$pos_translated, sd)
+sd1b
+
+##nouns
+p2a = percent(noun$pos_feature)
+p2a
+
+p2b = percent(noun$pos_translated)
+p2b
+
+m2a = tapply(noun$normalized_feature,
+            noun$pos_feature, mean)
+m2a
+
+sd2a = tapply(noun$normalized_feature,
+              noun$pos_feature, sd)
+sd2a
+
+m2b = tapply(noun$normalized_translated,
+             noun$pos_translated, mean)
+m2b
+
+sd2b = tapply(noun$normalized_translated,
+              noun$pos_translated, sd)
+sd2b
+
+##verbs
+p3a = percent(verb$pos_feature)
+p3a
+
+p3b = percent(verb$pos_translated)
+p3b
+
+m3a = tapply(verb$normalized_feature,
+             verb$pos_feature, mean)
+m3a
+
+sd3a = tapply(verb$normalized_feature,
+              verb$pos_feature, sd)
+sd3a
+
+m3b = tapply(verb$normalized_translated,
+             verb$pos_translated, mean)
+m3b
+
+sd3b = tapply(verb$normalized_translated,
+              verb$pos_feature, sd)
+sd3b
+
+##other
+p4a = percent(other$pos_feature)
+p4a
+
+p4b = percent(other$pos_translated)
+p4b
+
+m4a = tapply(other$normalized_feature,
+             other$pos_feature, mean)
+m4a
+
+sd4a = tapply(other$normalized_feature,
+              other$pos_feature, sd)
+sd4a
+
+m4b = tapply(other$normalized_translated,
+             other$pos_translated, mean)
+m4b
+
+sd4b = tapply(other$normalized_translated,
+              other$pos_translated, sd)
+sd4b
+
+```
+
+```{r, echo=FALSE, results='asis'}
+####response frequency table####
+response.table = matrix(NA, nrow = 20, ncol = 6)
+
+colnames(response.table) = c("Cue Type", "Feature Type",
+                         "%Raw", "%Root", "$M$ Freq. Raw", "$M$ Freq. Root")
+
+response.table[1, ] = c("Adjective", "Adjective", 38.09, 29.74, "17.84(16.47)", "30.02(18.83)")
+response.table[2, ] = c(" ", "Noun", 40.02, 46.74, "13.14(14.96)", "29.71(19.94)")
+response.table[3, ] = c(" ", "Verb", 17.69, 20.72, "8.51(9.78)", "26.88(17.27)")
+response.table[4, ] = c(" ", "Other", 4.20, 2.80, "15.17(15.64)", "28.04(15.54)")
+response.table[5, ] = c("Noun", "Adjective", 16.56, 12.07, "15.55(15.17", "31.20(18.17)")
+response.table[6, ] = c(" ", "Noun", 60.85, 62.67, "17.21(17.01)", "33.26(20.05)")
+response.table[7, ] = c(" ", "Verb", 20.80, 23.68, "8.88(9.73)", "31.01(17.87)" )
+response.table[8, ] = c(" ", "Other", 1.79, 1.58, "17.06(15.29)", "28.87(17.14)")
+response.table[9, ] = c("Verb", "Adjective", 15.16, 12.27, "13.95(13.98)", "30.03(18.28")
+response.table[10, ] = c(" ", "Noun", 42.92, 44.35, "14.59(14.92)", "29.59(18.90")
+response.table[11, ] = c(" ", "Verb", 36.92, 39.72, "12.75(14.85)", "30.43(19.54)")
+response.table[12, ] = c(" ", "Other", 5.00, 3.66, "19.16(15.95)", "25.59(19.54)")
+response.table[13, ] = c("Other", "Adjective", 20.80, 20.32, "16.61(17.37)", "31.66(19.51)")
+response.table[14, ] = c(" ", "Noun", 42.74, 39.03, "16.77(19.41)", "37.28(25.94")
+response.table[15, ] = c(" ", "Verb", 19.66, 23.93,"7.18(7.57)", "26.14(19.38")
+response.table[16, ] = c(" ", "Other", 16.81, 16.71, "22.72(16.69)", "30.70(18.48)")
+response.table[17, ] = c("Total", "Adjective", 19.74, 14.93, "16.12(15.57)", "30.75(18.37)")
+response.table[18, ] = c(" ", "Noun", 55.41, 57.81, "16.55(16.74)", "32.58(20.09)")
+response.table[19, ] = c(" ", "Verb", 22.02, 24.95, "9.50(10.91)", "30.29(18.24)")
+response.table[20, ] = c(" ", "Other", 2.82, 2.31, "17.76(15.83)", "28.45(16.83)")
+
+apa_table.latex(as.data.frame(response.table),
+                align = c(rep("l", 2), rep("c", 4)), 
+                caption = "",
+                note = "",
+                escape = FALSE,
+               col.names =  c("Cue Type", "Feature Type",
+                         "Raw", "Root", "$M$ Freq. Raw", "$M$ Freq. Root"))
+```
+```{r, include=FALSE}
+####tag examples####
+##code below is from what we did last time
+
+library(reshape)
+
+##Creating Affix dataset
+affixdata = sub1[,13:15]
+
+##Melting dataset
+affixdata$wordno = 1:nrow(affixdata)
+longdata = melt(affixdata,
+                id = "wordno",
+                measured = c("a1", "a2", "a3"))
+
+colnames(longdata) = c("partno", "order", "affix")
+
+summary(longdata)
+
+##Removing zero affixes##
+longaffix = longdata
+longaffix$affix[longaffix$affix == 0] = NA
+summary(longaffix)
+realaffix = na.omit(longaffix)
+summary(realaffix)
+
+##Actual percentages for real
+final = realaffix
+options(scipen = 999)
+affixtable = percent(droplevels(final$affix))
+#affixtable
+
+slangwords = subset(sub1,
+                    sub1$a1 == "slang")
+#slangwords$feature
+```
+
+```{r, echo=FALSE, results='asis'}
+####making the affix table####
+
+affix.table = matrix(NA, nrow = 13, ncol = 3)
+
+colnames(affix.table) = c("Affix Tag", "Example",
+                         "Percent")
+
+affix.table[1, ] = c("Actions/Processes", "ion, ment, ble, ate, ize", 7.38)
+affix.table[2, ] = c("Characteristic", "y, ous, nt, ful, ive, wise", 23.55)
+affix.table[3, ] = c("Location", "under, sub, mid, inter", 0.47)
+affix.table[4, ] = c("Magnitude", "er, est, over, super, extra", 1.54)
+affix.table[5, ] = c("Not", "less, dis, un, non, in , im, ab", 2.76)
+affix.table[6, ] = c("Number", "s, uni, bi, tri, semi", 26.05)
+affix.table[7, ] = c("Opposites/Wrong", "mis, anti, de", 0.15)
+affix.table[8, ] = c("Past Tense", "ed", 9.11)
+affix.table[9, ] = c("Person/Object", "er, or, men, person, ess, ist", 8.18)
+affix.table[10, ] = c("Present Participle", "ing", 14.33)
+affix.table[11, ] = c("Slang", "bros, bike, bbq, diff, h2o", 0.12)
+affix.table[12, ] = c("Third Person", "s", 5.85)
+affix.table[13, ] = c("Time", "fore, pre, post, re", 0.51)
+
+apa_table.latex(as.data.frame(affix.table),
+                align = c(rep("l", 2), rep("c", 1)), 
+                caption = "",
+                note = "",
+                escape = FALSE,
+               col.names =  c("Affix Tag", "Example",
+                         "Percent"))
+```
+
 
 # Discussion
 

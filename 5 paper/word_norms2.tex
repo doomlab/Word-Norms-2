@@ -1,0 +1,354 @@
+\documentclass[english,man]{apa6}
+
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+
+% Table formatting
+\usepackage{longtable, booktabs}
+\usepackage{lscape}
+% \usepackage[counterclockwise]{rotating}   % Landscape page setup for large tables
+\usepackage{multirow}		% Table styling
+\usepackage{tabularx}		% Control Column width
+\usepackage[flushleft]{threeparttable}	% Allows for three part tables with a specified notes section
+\usepackage{threeparttablex}            % Lets threeparttable work with longtable
+
+% Create new environments so endfloat can handle them
+% \newenvironment{ltable}
+%   {\begin{landscape}\begin{center}\begin{threeparttable}}
+%   {\end{threeparttable}\end{center}\end{landscape}}
+
+\newenvironment{lltable}
+  {\begin{landscape}\begin{center}\begin{ThreePartTable}}
+  {\end{ThreePartTable}\end{center}\end{landscape}}
+
+  \usepackage{ifthen} % Only add declarations when endfloat package is loaded
+  \ifthenelse{\equal{\string man}{\string man}}{%
+   \DeclareDelayedFloatFlavor{ThreePartTable}{table} % Make endfloat play with longtable
+   % \DeclareDelayedFloatFlavor{ltable}{table} % Make endfloat play with lscape
+   \DeclareDelayedFloatFlavor{lltable}{table} % Make endfloat play with lscape & longtable
+  }{}%
+
+
+
+% The following enables adjusting longtable caption width to table width
+% Solution found at http://golatex.de/longtable-mit-caption-so-breit-wie-die-tabelle-t15767.html
+\makeatletter
+\newcommand\LastLTentrywidth{1em}
+\newlength\longtablewidth
+\setlength{\longtablewidth}{1in}
+\newcommand\getlongtablewidth{%
+ \begingroup
+  \ifcsname LT@\roman{LT@tables}\endcsname
+  \global\longtablewidth=0pt
+  \renewcommand\LT@entry[2]{\global\advance\longtablewidth by ##2\relax\gdef\LastLTentrywidth{##2}}%
+  \@nameuse{LT@\roman{LT@tables}}%
+  \fi
+\endgroup}
+
+
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            pdfauthor={},
+            pdftitle={Word Norms 2 This Paper Will Get Finished},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=black,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+
+\setlength{\parindent}{0pt}
+%\setlength{\parskip}{0pt plus 0pt minus 0pt}
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+
+\ifxetex
+  \usepackage{polyglossia}
+  \setmainlanguage{}
+\else
+  \usepackage[english]{babel}
+\fi
+
+% Manuscript styling
+\captionsetup{font=singlespacing,justification=justified}
+\usepackage{csquotes}
+\usepackage{upgreek}
+
+ % Line numbering
+  \usepackage{lineno}
+  \linenumbers
+
+
+\usepackage{tikz} % Variable definition to generate author note
+
+% fix for \tightlist problem in pandoc 1.14
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Essential manuscript parts
+  \title{Word Norms 2 This Paper Will Get Finished}
+
+  \shorttitle{Title}
+
+
+  \author{First Author\textsuperscript{1}~\& Ernst-August Doelle\textsuperscript{1,2}}
+
+  % \def\affdep{{"", ""}}%
+  % \def\affcity{{"", ""}}%
+
+  \affiliation{
+    \vspace{0.5cm}
+          \textsuperscript{1} Wilhelm-Wundt-University\\
+          \textsuperscript{2} Konstanz Business School  }
+
+  \authornote{
+    Add complete departmental affiliations for each author here. Each new
+    line herein must be indented, like this line.
+    
+    Enter author note here.
+    
+    Correspondence concerning this article should be addressed to First
+    Author, Postal address. E-mail:
+    \href{mailto:my@email.com}{\nolinkurl{my@email.com}}
+  }
+
+
+  \abstract{Enter abstract here. Each new line herein must be indented, like this
+line.}
+  \keywords{keywords \\
+
+    \indent Word count: X
+  }
+
+
+
+
+
+\usepackage{amsthm}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}{Lemma}[section]
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{proposition}{Proposition}[section]
+\theoremstyle{definition}
+\newtheorem{example}{Example}[section]
+\theoremstyle{definition}
+\newtheorem{exercise}{Exercise}[section]
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+\newtheorem*{solution}{Solution}
+\begin{document}
+
+\maketitle
+
+\setcounter{secnumdepth}{0}
+
+
+
+\section{Methods}\label{methods}
+
+We report how we determined our sample size, all data exclusions (if
+any), all manipulations, and all measures in the study.
+
+\subsection{Participants}\label{participants}
+
+\begin{table}[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-1}}
+\begin{tabular}{lccc}
+\toprule
+Institution & Total Participants & Concepts & Mean $N$\\
+\midrule
+University of Mississippi & 749 & 658 & 67.8\\
+Missouri State University & 1420 & 720 & 71.4\\
+Montana State University & 127 & 120 & 63.5\\
+Mechanical Turk 1 & 571 & 310 & 60\\
+Mechanical Turk 2 & 198 & 1914 & 30\\
+\bottomrule
+\addlinespace
+\end{tabular}
+\begin{tablenotes}[para]
+\textit{Note.} 
+\end{tablenotes}
+\end{threeparttable}
+\end{center}
+\end{table}
+
+\subsection{Material}\label{material}
+
+\begin{table}[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-3}}
+\begin{tabular}{lccccc}
+\toprule
+Institution & Adjective & Noun & Verb & Other & Total\\
+\midrule
+University of Mississippi & 10.97(12.48) & 10.40(13.08) & 5.28(6.71) & 10.01(10.16) & 9.45(12.02)\\
+Missouri State University & 10.41(11.57) & 10.71(13.48) & 5.87(6.46) & 10.11(11.74) & 9.52(11.94)\\
+Montana State University & 10.95(11.58) & 10.66(12.13) & 5.89(7.86) & 11.27(10.64) & 9.67(11.34)\\
+Mechanical Turk 1 & 9.00(8.92) & 9.73(11.35) & 5.17(6.64) & 11.30(10.41) & 8.65(10.17)\\
+Mechanical Turk 2 & 5.23(4.85) & 5.71(5.15) & 3.36(3.50) & 5.87(4.84) & 5.02(4.81)\\
+Total & 8.32(9.62) & 8.19(10.07) & 4.55(5.91) & 8.31(8.52) & 7.42(9.30)\\
+\bottomrule
+\addlinespace
+\end{tabular}
+\begin{tablenotes}[para]
+\textit{Note.} 
+\end{tablenotes}
+\end{threeparttable}
+\end{center}
+\end{table}
+
+\subsection{Procedure}\label{procedure}
+
+\subsection{Data analysis}\label{data-analysis}
+
+We used R (Version 3.4.3; R Core Team, 2017) and the R-packages
+\emph{lattice} (Version 0.20.35; Sarkar, 2008), \emph{MASS} (Version
+7.3.47; Venables \& Ripley, 2002), \emph{memisc} (Version 0.99.14.9;
+Elff, 2017), \emph{papaja} (Version 0.1.0.9709; Aust \& Barth, 2018),
+and \emph{reshape} (Version 0.8.6; Wickham \& Hadley, 2007) for all our
+analyses.
+
+\section{Results}\label{results}
+
+\begin{table}[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-5}}
+\begin{tabular}{llcccc}
+\toprule
+Cue Type & Feature Type & Raw & Root & $M$ Freq. Raw & $M$ Freq. Root\\
+\midrule
+Adjective & Adjective & 38.09 & 29.74 & 17.84(16.47) & 30.02(18.83)\\
+ & Noun & 40.02 & 46.74 & 13.14(14.96) & 29.71(19.94)\\
+ & Verb & 17.69 & 20.72 & 8.51(9.78) & 26.88(17.27)\\
+ & Other & 4.2 & 2.8 & 15.17(15.64) & 28.04(15.54)\\
+Noun & Adjective & 16.56 & 12.07 & 15.55(15.17 & 31.20(18.17)\\
+ & Noun & 60.85 & 62.67 & 17.21(17.01) & 33.26(20.05)\\
+ & Verb & 20.8 & 23.68 & 8.88(9.73) & 31.01(17.87)\\
+ & Other & 1.79 & 1.58 & 17.06(15.29) & 28.87(17.14)\\
+Verb & Adjective & 15.16 & 12.27 & 13.95(13.98) & 30.03(18.28\\
+ & Noun & 42.92 & 44.35 & 14.59(14.92) & 29.59(18.90\\
+ & Verb & 36.92 & 39.72 & 12.75(14.85) & 30.43(19.54)\\
+ & Other & 5 & 3.66 & 19.16(15.95) & 25.59(19.54)\\
+Other & Adjective & 20.8 & 20.32 & 16.61(17.37) & 31.66(19.51)\\
+ & Noun & 42.74 & 39.03 & 16.77(19.41) & 37.28(25.94\\
+ & Verb & 19.66 & 23.93 & 7.18(7.57) & 26.14(19.38\\
+ & Other & 16.81 & 16.71 & 22.72(16.69) & 30.70(18.48)\\
+Total & Adjective & 19.74 & 14.93 & 16.12(15.57) & 30.75(18.37)\\
+ & Noun & 55.41 & 57.81 & 16.55(16.74) & 32.58(20.09)\\
+ & Verb & 22.02 & 24.95 & 9.50(10.91) & 30.29(18.24)\\
+ & Other & 2.82 & 2.31 & 17.76(15.83) & 28.45(16.83)\\
+\bottomrule
+\addlinespace
+\end{tabular}
+\begin{tablenotes}[para]
+\textit{Note.} 
+\end{tablenotes}
+\end{threeparttable}
+\end{center}
+\end{table}
+
+\begin{table}[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-7}}
+\begin{tabular}{llc}
+\toprule
+Affix Tag & Example & Percent\\
+\midrule
+Actions/Processes & ion, ment, ble, ate, ize & 7.38\\
+Characteristic & y, ous, nt, ful, ive, wise & 23.55\\
+Location & under, sub, mid, inter & 0.47\\
+Magnitude & er, est, over, super, extra & 1.54\\
+Not & less, dis, un, non, in , im, ab & 2.76\\
+Number & s, uni, bi, tri, semi & 26.05\\
+Opposites/Wrong & mis, anti, de & 0.15\\
+Past Tense & ed & 9.11\\
+Person/Object & er, or, men, person, ess, ist & 8.18\\
+Present Participle & ing & 14.33\\
+Slang & bros, bike, bbq, diff, h2o & 0.12\\
+Third Person & s & 5.85\\
+Time & fore, pre, post, re & 0.51\\
+\bottomrule
+\addlinespace
+\end{tabular}
+\begin{tablenotes}[para]
+\textit{Note.} 
+\end{tablenotes}
+\end{threeparttable}
+\end{center}
+\end{table}
+
+\section{Discussion}\label{discussion}
+
+\newpage
+
+\section{References}\label{references}
+
+\setlength{\parindent}{-0.5in} \setlength{\leftskip}{0.5in}
+
+\hypertarget{refs}{}
+\hypertarget{ref-R-papaja}{}
+Aust, F., \& Barth, M. (2018). \emph{papaja: Create APA manuscripts with
+R Markdown}. Retrieved from \url{https://github.com/crsh/papaja}
+
+\hypertarget{ref-R-memisc}{}
+Elff, M. (2017). \emph{Memisc: Management of survey data and
+presentation of analysis results}. Retrieved from
+\url{https://CRAN.R-project.org/package=memisc}
+
+\hypertarget{ref-R-base}{}
+R Core Team. (2017). \emph{R: A language and environment for statistical
+computing}. Vienna, Austria: R Foundation for Statistical Computing.
+Retrieved from \url{https://www.R-project.org/}
+
+\hypertarget{ref-R-lattice}{}
+Sarkar, D. (2008). \emph{Lattice: Multivariate data visualization with
+r}. New York: Springer. Retrieved from
+\url{http://lmdvr.r-forge.r-project.org}
+
+\hypertarget{ref-R-MASS}{}
+Venables, W. N., \& Ripley, B. D. (2002). \emph{Modern applied
+statistics with s} (Fourth.). New York: Springer. Retrieved from
+\url{http://www.stats.ox.ac.uk/pub/MASS4}
+
+\hypertarget{ref-R-reshape}{}
+Wickham, \& Hadley. (2007). Reshaping data with the reshape package.
+\emph{Journal of Statistical Software}, \emph{21}(12). Retrieved from
+\url{http://www.jstatsoft.org/v21/i12/paper}
+
+
+
+
+
+
+\end{document}

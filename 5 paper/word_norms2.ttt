@@ -1,0 +1,128 @@
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-1}}
+\begin{tabular}{lccc}
+\toprule
+Institution & Total Participants & Concepts & Mean $N$\\
+\midrule
+University of Mississippi & 749 & 658 & 67.8\\
+Missouri State University & 1420 & 720 & 71.4\\
+Montana State University & 127 & 120 & 63.5\\
+Mechanical Turk 1 & 571 & 310 & 60\\
+Mechanical Turk 2 & 198 & 1914 & 30\\
+\bottomrule
+\addlinespace
+\end{tabular}
+\begin{tablenotes}[para]
+\textit{Note.}
+\end{tablenotes}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-3}}
+\begin{tabular}{lccccc}
+\toprule
+Institution & Adjective & Noun & Verb & Other & Total\\
+\midrule
+University of Mississippi & 10.97(12.48) & 10.40(13.08) & 5.28(6.71) & 10.01(10.16) & 9.45(12.02)\\
+Missouri State University & 10.41(11.57) & 10.71(13.48) & 5.87(6.46) & 10.11(11.74) & 9.52(11.94)\\
+Montana State University & 10.95(11.58) & 10.66(12.13) & 5.89(7.86) & 11.27(10.64) & 9.67(11.34)\\
+Mechanical Turk 1 & 9.00(8.92) & 9.73(11.35) & 5.17(6.64) & 11.30(10.41) & 8.65(10.17)\\
+Mechanical Turk 2 & 5.23(4.85) & 5.71(5.15) & 3.36(3.50) & 5.87(4.84) & 5.02(4.81)\\
+Total & 8.32(9.62) & 8.19(10.07) & 4.55(5.91) & 8.31(8.52) & 7.42(9.30)\\
+\bottomrule
+\addlinespace
+\end{tabular}
+\begin{tablenotes}[para]
+\textit{Note.}
+\end{tablenotes}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-5}}
+\begin{tabular}{llcccc}
+\toprule
+Cue Type & Feature Type & Raw & Root & $M$ Freq. Raw & $M$ Freq. Root\\
+\midrule
+Adjective & Adjective & 38.09 & 29.74 & 17.84(16.47) & 30.02(18.83)\\
+ & Noun & 40.02 & 46.74 & 13.14(14.96) & 29.71(19.94)\\
+ & Verb & 17.69 & 20.72 & 8.51(9.78) & 26.88(17.27)\\
+ & Other & 4.2 & 2.8 & 15.17(15.64) & 28.04(15.54)\\
+Noun & Adjective & 16.56 & 12.07 & 15.55(15.17 & 31.20(18.17)\\
+ & Noun & 60.85 & 62.67 & 17.21(17.01) & 33.26(20.05)\\
+ & Verb & 20.8 & 23.68 & 8.88(9.73) & 31.01(17.87)\\
+ & Other & 1.79 & 1.58 & 17.06(15.29) & 28.87(17.14)\\
+Verb & Adjective & 15.16 & 12.27 & 13.95(13.98) & 30.03(18.28\\
+ & Noun & 42.92 & 44.35 & 14.59(14.92) & 29.59(18.90\\
+ & Verb & 36.92 & 39.72 & 12.75(14.85) & 30.43(19.54)\\
+ & Other & 5 & 3.66 & 19.16(15.95) & 25.59(19.54)\\
+Other & Adjective & 20.8 & 20.32 & 16.61(17.37) & 31.66(19.51)\\
+ & Noun & 42.74 & 39.03 & 16.77(19.41) & 37.28(25.94\\
+ & Verb & 19.66 & 23.93 & 7.18(7.57) & 26.14(19.38\\
+ & Other & 16.81 & 16.71 & 22.72(16.69) & 30.70(18.48)\\
+Total & Adjective & 19.74 & 14.93 & 16.12(15.57) & 30.75(18.37)\\
+ & Noun & 55.41 & 57.81 & 16.55(16.74) & 32.58(20.09)\\
+ & Verb & 22.02 & 24.95 & 9.50(10.91) & 30.29(18.24)\\
+ & Other & 2.82 & 2.31 & 17.76(15.83) & 28.45(16.83)\\
+\bottomrule
+\addlinespace
+\end{tabular}
+\begin{tablenotes}[para]
+\textit{Note.}
+\end{tablenotes}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-7}}
+\begin{tabular}{llc}
+\toprule
+Affix Tag & Example & Percent\\
+\midrule
+Actions/Processes & ion, ment, ble, ate, ize & 7.38\\
+Characteristic & y, ous, nt, ful, ive, wise & 23.55\\
+Location & under, sub, mid, inter & 0.47\\
+Magnitude & er, est, over, super, extra & 1.54\\
+Not & less, dis, un, non, in , im, ab & 2.76\\
+Number & s, uni, bi, tri, semi & 26.05\\
+Opposites/Wrong & mis, anti, de & 0.15\\
+Past Tense & ed & 9.11\\
+Person/Object & er, or, men, person, ess, ist & 8.18\\
+Present Participle & ing & 14.33\\
+Slang & bros, bike, bbq, diff, h2o & 0.12\\
+Third Person & s & 5.85\\
+Time & fore, pre, post, re & 0.51\\
+\bottomrule
+\addlinespace
+\end{tabular}
+\begin{tablenotes}[para]
+\textit{Note.}
+\end{tablenotes}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
