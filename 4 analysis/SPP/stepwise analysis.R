@@ -110,530 +110,364 @@ booteval.relimp(boot.faldt.200prime) # print result
 plot(booteval.relimp(boot.faldt.200prime,sort=TRUE)) # plot result 
 #sometimes the plot doesn't run unless you make it a really big plot window
 
-
-##faldt 1200RT priming
+##faldt 1200 priming
+##word characteristics
 faldt.1200priming.1 = lm(LDT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
                         data = faldt.nomiss) 
-summary(faldt.1200priming.1, correlation = T)
+stepAIC(faldt.1200priming.1, direction = "both")$anova
+#Tlength
 
-##add associations
-faldt.1200priming.2 = lm(LDT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                          PSubFreq + PPOS + TPOS + TSubFreq +
+#associations
+faldt.1200priming.2 = lm(LDT.1200ms.RT.Priming ~ 
                           BAS + FAS + CueFanOut + 
                           TargetFanIn,
                         data = faldt.nomiss) 
-summary(faldt.1200priming.2, correlation = T)
+stepAIC(faldt.1200priming.2, direction = "both")$anova
+##targetfanin + BAS
 
-##add semantics
-faldt.1200priming.3 = lm(LDT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                          PSubFreq + PPOS + TPOS + TSubFreq +
-                          BAS + FAS + CueFanOut + 
-                          TargetFanIn + PCosine_Set + 
+#semantics
+faldt.1200priming.3 = lm(LDT.1200ms.RT.Priming ~ PCosine_Set + 
                           TCosine_Set + 
                           Proot_feat_set + 
                           Troot_feat_set +
                           jcn.y + root + 
                           affix + distance,
                         data = faldt.nomiss)
-summary(faldt.1200priming.3, correlation = T)
+stepAIC(faldt.1200priming.3, direction = "both")$anova
+##affix + distance + prootfeatset
 
-##add thematics
-faldt.1200priming.4 = lm(LDT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                          PSubFreq + PPOS + TPOS + TSubFreq +
-                          BAS + FAS + CueFanOut + 
-                          TargetFanIn + PCosine_Set + 
-                          TCosine_Set + 
-                          Proot_feat_set + 
-                          Troot_feat_set +
-                          jcn.y + root + 
-                          affix + distance +
+#thematics
+faldt.1200priming.4 = lm(LDT.1200ms.RT.Priming ~ 
                           LSA, 
                         data = faldt.nomiss)
-summary(faldt.1200priming.4, correlation = T)
+stepAIC(faldt.1200priming.4, direction = "both")$anova
+##LSA
+
+faldt.1200priming.overall = lm(LDT.1200ms.RT.Priming ~ 
+                                TLength + BAS + TargetFanIn + 
+                                affix + distance + Proot_feat_set + LSA,
+                              data = faldt.nomiss)
+summary(faldt.1200priming.overall, correlation = T)
+
+#relative importance 
+calc.relimp(faldt.1200priming.overall, 
+            type = c("lmg", "last", "first", "betasq"), 
+            rela = TRUE)
+
+boot.faldt.1200prime = boot.relimp(faldt.1200priming.overall, 
+                                  b = 1000, 
+                                  type = c("lmg", "last", "first", "betasq"),
+                                  rank = TRUE, diff = TRUE, rela = TRUE)
+booteval.relimp(boot.faldt.1200prime) # print result
+plot(booteval.relimp(boot.faldt.1200prime,sort=TRUE))
 
 ####Fan####
-##fan 200RT
-##lexical measures
-fan.200RT.1 = lm(NT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
-                   data = fan.nomiss) 
-summary(fan.200RT.1, correlation = T)
-
-##add associations
-fan.200RT.2 = lm(NT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                     PSubFreq + PPOS + TPOS + TSubFreq +
-                     BAS + FAS + CueFanOut + 
-                     TargetFanIn,
-                   data = fan.nomiss) 
-summary(fan.200RT.2, correlation = T)
-
-##add semantics
-fan.200RT.3 = lm(NT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                     PSubFreq + PPOS + TPOS + TSubFreq +
-                     BAS + FAS + CueFanOut + 
-                     TargetFanIn + PCosine_Set + 
-                     TCosine_Set + 
-                     Proot_feat_set + 
-                     Troot_feat_set +
-                     jcn.y + root + 
-                     affix + distance,
-                   data = fan.nomiss)
-summary(fan.200RT.3, correlation = T)
-
-##add thematics
-fan.200RT.4 = lm(NT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                     PSubFreq + PPOS + TPOS + TSubFreq +
-                     BAS + FAS + CueFanOut + 
-                     TargetFanIn + PCosine_Set + 
-                     TCosine_Set + 
-                     Proot_feat_set + 
-                     Troot_feat_set +
-                     jcn.y + root + 
-                     affix + distance +
-                     LSA, 
-                   data = fan.nomiss)
-summary(fan.200RT.4, correlation = T)
-
-##fan 1200RT
-fan.1200RT.1 = lm(NT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
-                    data = fan.nomiss) 
-summary(fan.200RT.1, correlation = T)
-
-##add associations
-fan.1200RT.2 = lm(NT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                      PSubFreq + PPOS + TPOS + TSubFreq +
-                      BAS + FAS + CueFanOut + 
-                      TargetFanIn,
-                    data = fan.nomiss) 
-summary(fan.1200RT.2, correlation = T)
-
-##add semantics
-fan.1200RT.3 = lm(NT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                      PSubFreq + PPOS + TPOS + TSubFreq +
-                      BAS + FAS + CueFanOut + 
-                      TargetFanIn + PCosine_Set + 
-                      TCosine_Set + 
-                      Proot_feat_set + 
-                      Troot_feat_set +
-                      jcn.y + root + 
-                      affix + distance,
-                    data = fan.nomiss)
-summary(fan.1200RT.3, correlation = T)
-
-##add thematics
-fan.1200RT.4 = lm(NT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                      PSubFreq + PPOS + TPOS + TSubFreq +
-                      BAS + FAS + CueFanOut + 
-                      TargetFanIn + PCosine_Set + 
-                      TCosine_Set + 
-                      Proot_feat_set + 
-                      Troot_feat_set +
-                      jcn.y + root + 
-                      affix + distance +
-                      LSA, 
-                    data = fan.nomiss)
-summary(fan.1200RT.4, correlation = T)
-
 ##fan 200RT priming
+##word characteristics
 fan.200priming.1 = lm(NT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
-                        data = fan.nomiss) 
-summary(fan.200priming.1, correlation = T)
+                         data = fan.nomiss) 
+stepAIC(fan.200priming.1, direction = "both")$anova
+#Plength
 
-##add associations
-fan.200priming.2 = lm(NT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                          PSubFreq + PPOS + TPOS + TSubFreq +
-                          BAS + FAS + CueFanOut + 
-                          TargetFanIn,
-                        data = fan.nomiss) 
-summary(fan.200priming.2, correlation = T)
+#associations
+fan.200priming.2 = lm(NT.200ms.RT.Priming ~ 
+                           BAS + FAS + CueFanOut + 
+                           TargetFanIn,
+                         data = fan.nomiss) 
+stepAIC(fan.200priming.2, direction = "both")$anova
+##targetfanin + BAS + CueFanOut
 
-##add semantics
-fan.200priming.3 = lm(NT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                          PSubFreq + PPOS + TPOS + TSubFreq +
-                          BAS + FAS + CueFanOut + 
-                          TargetFanIn + PCosine_Set + 
-                          TCosine_Set + 
-                          Proot_feat_set + 
-                          Troot_feat_set +
-                          jcn.y + root + 
-                          affix + distance,
-                        data = fan.nomiss)
-summary(fan.200priming.3, correlation = T)
+# semantics
+fan.200priming.3 = lm(NT.200ms.RT.Priming ~ PCosine_Set + 
+                           TCosine_Set + 
+                           Proot_feat_set + 
+                           Troot_feat_set +
+                           jcn.y + root + 
+                           affix + distance,
+                         data = fan.nomiss)
+stepAIC(fan.200priming.3, direction = "both")$anova
+##TCosine_Set + PCosine_Set
 
-##add thematics
-fan.200priming.4 = lm(NT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                          PSubFreq + PPOS + TPOS + TSubFreq +
-                          BAS + FAS + CueFanOut + 
-                          TargetFanIn + PCosine_Set + 
-                          TCosine_Set + 
-                          Proot_feat_set + 
-                          Troot_feat_set +
-                          jcn.y + root + 
-                          affix + distance +
-                          LSA, 
-                        data = fan.nomiss)
-summary(fan.200priming.4, correlation = T)
+#thematics
+fan.200priming.4 = lm(NT.200ms.RT.Priming ~ 
+                           LSA, 
+                         data = fan.nomiss)
+stepAIC(fan.200priming.4, direction = "both")$anova
+##nothing
+
+fan.200priming.overall = lm(NT.200ms.RT.Priming ~ 
+                                 PLength + BAS + TargetFanIn + CueFanOut +
+                              TCosine_Set + PCosine_Set,
+                               data = fan.nomiss)
+summary(fan.200priming.overall, correlation = T)
+
+#relative importance 
+calc.relimp(fan.200priming.overall, 
+            type = c("lmg", "last", "first", "betasq"), 
+            rela = TRUE)
+
+boot.fan.200prime = boot.relimp(fan.200priming.overall, 
+                                   b = 1000, 
+                                   type = c("lmg", "last", "first", "betasq"),
+                                   rank = TRUE, diff = TRUE, rela = TRUE)
+booteval.relimp(boot.fan.200prime) # print result
+plot(booteval.relimp(boot.fan.200prime,sort=TRUE))
 
 ##fan 1200RT priming
+##word characteristics
 fan.1200priming.1 = lm(NT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
-                         data = fan.nomiss) 
-summary(fan.1200priming.1, correlation = T)
+                      data = fan.nomiss) 
+stepAIC(fan.1200priming.1, direction = "both")$anova
+#TPOS + TOrthoN + TSubFreq
 
-##add associations
-fan.1200priming.2 = lm(NT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                           PSubFreq + PPOS + TPOS + TSubFreq +
-                           BAS + FAS + CueFanOut + 
-                           TargetFanIn,
-                         data = fan.nomiss) 
-summary(fan.1200priming.2, correlation = T)
+#associations
+fan.1200priming.2 = lm(NT.1200ms.RT.Priming ~ 
+                        BAS + FAS + CueFanOut + 
+                        TargetFanIn,
+                      data = fan.nomiss) 
+stepAIC(fan.1200priming.2, direction = "both")$anova
+##targetfanin + FAS
 
-##add semantics
-fan.1200priming.3 = lm(NT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                           PSubFreq + PPOS + TPOS + TSubFreq +
-                           BAS + FAS + CueFanOut + 
-                           TargetFanIn + PCosine_Set + 
-                           TCosine_Set + 
-                           Proot_feat_set + 
-                           Troot_feat_set +
-                           jcn.y + root + 
-                           affix + distance,
-                         data = fan.nomiss)
-summary(fan.1200priming.3, correlation = T)
+#semantics
+fan.1200priming.3 = lm(NT.1200ms.RT.Priming ~ PCosine_Set + 
+                        TCosine_Set + 
+                        Proot_feat_set + 
+                        Troot_feat_set +
+                        jcn.y + root + 
+                        affix + distance,
+                      data = fan.nomiss)
+stepAIC(fan.1200priming.3, direction = "both")$anova
+##root + distance + Troot_feat_set
 
-##add thematics
-fan.1200priming.4 = lm(NT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                           PSubFreq + PPOS + TPOS + TSubFreq +
-                           BAS + FAS + CueFanOut + 
-                           TargetFanIn + PCosine_Set + 
-                           TCosine_Set + 
-                           Proot_feat_set + 
-                           Troot_feat_set +
-                           jcn.y + root + 
-                           affix + distance +
-                           LSA, 
-                         data = fan.nomiss)
-summary(fan.1200priming.4, correlation = T)
+#thematics
+fan.1200priming.4 = lm(NT.1200ms.RT.Priming ~ 
+                        LSA, 
+                      data = fan.nomiss)
+stepAIC(fan.1200priming.4, direction = "both")$anova
+##nothing
+
+fan.1200priming.overall = lm(NT.1200ms.RT.Priming ~  ##took out POS since it screws up the models below
+                               TOrthoN + TSubFreq +
+                               TargetFanIn + FAS + 
+                               root + distance + Troot_feat_set,
+                            data = fan.nomiss)
+summary(fan.1200priming.overall, correlation = T)
+
+#relative importance 
+calc.relimp(fan.1200priming.overall, ##gives a warning message.
+            type = c("lmg", "last", "first", "betasq"), 
+            rela = TRUE)
+
+boot.fan.1200prime = boot.relimp(fan.1200priming.overall, 
+                                b = 1000, 
+                                type = c("lmg", "last", "first", "betasq"),
+                                rank = TRUE, diff = TRUE, rela = TRUE)
+booteval.relimp(boot.fan.1200prime) # print result
+plot(booteval.relimp(boot.fan.1200prime,sort=TRUE))
+
 
 ####oaldt#####
-##oaldt 200RT
-##lexical measures
-oaldt.200RT.1 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
-                   data = oaldt.nomiss) 
-summary(oaldt.200RT.1, correlation = T)
-
-##add associations
-oaldt.200RT.2 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                     PSubFreq + PPOS + TPOS + TSubFreq +
-                     BAS + FAS + CueFanOut + 
-                     TargetFanIn,
-                   data = oaldt.nomiss) 
-summary(oaldt.200RT.2, correlation = T)
-
-##add semantics
-oaldt.200RT.3 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                     PSubFreq + PPOS + TPOS + TSubFreq +
-                     BAS + FAS + CueFanOut + 
-                     TargetFanIn + PCosine_Set + 
-                     TCosine_Set + 
-                     Proot_feat_set + 
-                     Troot_feat_set +
-                     jcn.y + root + 
-                     affix + distance,
-                   data = oaldt.nomiss)
-summary(oaldt.200RT.3, correlation = T)
-
-##add thematics
-oaldt.200RT.4 = lm(LDT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                     PSubFreq + PPOS + TPOS + TSubFreq +
-                     BAS + FAS + CueFanOut + 
-                     TargetFanIn + PCosine_Set + 
-                     TCosine_Set + 
-                     Proot_feat_set + 
-                     Troot_feat_set +
-                     jcn.y + root + 
-                     affix + distance +
-                     LSA, 
-                   data = oaldt.nomiss)
-summary(oaldt.200RT.4, correlation = T)
-
-##oaldt 1200RT
-oaldt.1200RT.1 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
-                    data = oaldt.nomiss) 
-summary(oaldt.1200RT.1, correlation = T)
-
-##add associations
-oaldt.1200RT.2 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                      PSubFreq + PPOS + TPOS + TSubFreq +
-                      BAS + FAS + CueFanOut + 
-                      TargetFanIn,
-                    data = oaldt.nomiss) 
-summary(oaldt.1200RT.2, correlation = T)
-
-##add semantics
-oaldt.1200RT.3 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                      PSubFreq + PPOS + TPOS + TSubFreq +
-                      BAS + FAS + CueFanOut + 
-                      TargetFanIn + PCosine_Set + 
-                      TCosine_Set + 
-                      Proot_feat_set + 
-                      Troot_feat_set +
-                      jcn.y + root + 
-                      affix + distance,
-                    data = oaldt.nomiss)
-summary(oaldt.1200RT.3, correlation = T)
-
-##add thematics
-oaldt.1200RT.4 = lm(LDT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                      PSubFreq + PPOS + TPOS + TSubFreq +
-                      BAS + FAS + CueFanOut + 
-                      TargetFanIn + PCosine_Set + 
-                      TCosine_Set + 
-                      Proot_feat_set + 
-                      Troot_feat_set +
-                      jcn.y + root + 
-                      affix + distance +
-                      LSA, 
-                    data = oaldt.nomiss)
-summary(oaldt.1200RT.4, correlation = T)
-
-##oaldt 200RT priming
+#word characteristics
 oaldt.200priming.1 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
                         data = oaldt.nomiss) 
-summary(oaldt.200priming.1, correlation = T)
+stepAIC(oaldt.200priming.1, direction = "both")$anova
+#PLength + TPOS
 
-##add associations
-oaldt.200priming.2 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                          PSubFreq + PPOS + TPOS + TSubFreq +
+#associations
+oaldt.200priming.2 = lm(LDT.200ms.RT.Priming ~ 
                           BAS + FAS + CueFanOut + 
                           TargetFanIn,
                         data = oaldt.nomiss) 
-summary(oaldt.200priming.2, correlation = T)
+stepAIC(oaldt.200priming.2, direction = "both")$anova
+#FAS + TargetFanIn
 
-##add semantics
-oaldt.200priming.3 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                          PSubFreq + PPOS + TPOS + TSubFreq +
-                          BAS + FAS + CueFanOut + 
-                          TargetFanIn + PCosine_Set + 
+# semantics
+oaldt.200priming.3 = lm(LDT.200ms.RT.Priming ~ PCosine_Set + 
                           TCosine_Set + 
                           Proot_feat_set + 
                           Troot_feat_set +
                           jcn.y + root + 
                           affix + distance,
                         data = oaldt.nomiss)
-summary(oaldt.200priming.3, correlation = T)
+stepAIC(oaldt.200priming.3, direction = "both")$anova
+PCosine_Set + TCosine_Set + distance
 
-##add thematics
-oaldt.200priming.4 = lm(LDT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                          PSubFreq + PPOS + TPOS + TSubFreq +
-                          BAS + FAS + CueFanOut + 
-                          TargetFanIn + PCosine_Set + 
-                          TCosine_Set + 
-                          Proot_feat_set + 
-                          Troot_feat_set +
-                          jcn.y + root + 
-                          affix + distance +
+#thematics
+oaldt.200priming.4 = lm(LDT.200ms.RT.Priming ~ 
                           LSA, 
                         data = oaldt.nomiss)
-summary(oaldt.200priming.4, correlation = T)
+stepAIC(oaldt.200priming.4, direction = "both")$anova
+#LSA
 
-##oaldt 1200RT priming
+oaldt.200priming.overall = lm(LDT.200ms.RT.Priming ~ 
+                                PLength  + #taking out TPOS
+                                FAS + TargetFanIn +
+                                PCosine_Set + TCosine_Set + distance + LSA,
+                              data = oaldt.nomiss)
+summary(oaldt.200priming.overall, correlation = T)
+
+#relative importance 
+calc.relimp(oaldt.200priming.overall, 
+            type = c("lmg", "last", "first", "betasq"), 
+            rela = TRUE)
+
+boot.oaldt.200prime = boot.relimp(oaldt.200priming.overall, 
+                                  b = 1000, 
+                                  type = c("lmg", "last", "first", "betasq"),
+                                  rank = TRUE, diff = TRUE, rela = TRUE)
+booteval.relimp(boot.oaldt.200prime) # print result
+plot(booteval.relimp(boot.oaldt.200prime,sort=TRUE)) # plot result 
+#sometimes the plot doesn't run unless you make it a really big plot window
+
+##oaldt 1200 priming
+##word characteristics
 oaldt.1200priming.1 = lm(LDT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
                          data = oaldt.nomiss) 
-summary(oaldt.1200priming.1, correlation = T)
+stepAIC(oaldt.1200priming.1, direction = "both")$anova
+#Plength
 
-##add associations
-oaldt.1200priming.2 = lm(LDT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                           PSubFreq + PPOS + TPOS + TSubFreq +
+#associations
+oaldt.1200priming.2 = lm(LDT.1200ms.RT.Priming ~ 
                            BAS + FAS + CueFanOut + 
                            TargetFanIn,
                          data = oaldt.nomiss) 
-summary(oaldt.1200priming.2, correlation = T)
+stepAIC(oaldt.1200priming.2, direction = "both")$anova
+##nothing
 
-##add semantics
-oaldt.1200priming.3 = lm(LDT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                           PSubFreq + PPOS + TPOS + TSubFreq +
-                           BAS + FAS + CueFanOut + 
-                           TargetFanIn + PCosine_Set + 
+#semantics
+oaldt.1200priming.3 = lm(LDT.1200ms.RT.Priming ~ PCosine_Set + 
                            TCosine_Set + 
                            Proot_feat_set + 
                            Troot_feat_set +
                            jcn.y + root + 
                            affix + distance,
                          data = oaldt.nomiss)
-summary(oaldt.1200priming.3, correlation = T)
+stepAIC(oaldt.1200priming.3, direction = "both")$anova
+##TCosine_Set + distance
 
-##add thematics
-oaldt.1200priming.4 = lm(LDT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                           PSubFreq + PPOS + TPOS + TSubFreq +
-                           BAS + FAS + CueFanOut + 
-                           TargetFanIn + PCosine_Set + 
-                           TCosine_Set + 
-                           Proot_feat_set + 
-                           Troot_feat_set +
-                           jcn.y + root + 
-                           affix + distance +
+#thematics
+oaldt.1200priming.4 = lm(LDT.1200ms.RT.Priming ~ 
                            LSA, 
                          data = oaldt.nomiss)
-summary(oaldt.1200priming.4, correlation = T)
+stepAIC(oaldt.1200priming.4, direction = "both")$anova
+##LSA
+
+oaldt.1200priming.overall = lm(LDT.1200ms.RT.Priming ~ 
+                                 PLength + 
+                                 TCosine_Set + distance + LSA,
+                               data = oaldt.nomiss)
+summary(oaldt.1200priming.overall, correlation = T)
+
+#relative importance 
+calc.relimp(oaldt.1200priming.overall, 
+            type = c("lmg", "last", "first", "betasq"), 
+            rela = TRUE)
+
+boot.oaldt.1200prime = boot.relimp(oaldt.1200priming.overall, 
+                                   b = 1000, 
+                                   type = c("lmg", "last", "first", "betasq"),
+                                   rank = TRUE, diff = TRUE, rela = TRUE)
+booteval.relimp(boot.oaldt.1200prime) # print result
+plot(booteval.relimp(boot.oaldt.1200prime,sort=TRUE))
 
 ####oan####
-##oan 200RT
-##lexical measures
-oan.200RT.1 = lm(NT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
-                 data = oan.nomiss) 
-summary(oan.200RT.1, correlation = T)
-
-##add associations
-oan.200RT.2 = lm(NT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                   PSubFreq + PPOS + TPOS + TSubFreq +
-                   BAS + FAS + CueFanOut + 
-                   TargetFanIn,
-                 data = oan.nomiss) 
-summary(oan.200RT.2, correlation = T)
-
-##add semantics
-oan.200RT.3 = lm(NT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                   PSubFreq + PPOS + TPOS + TSubFreq +
-                   BAS + FAS + CueFanOut + 
-                   TargetFanIn + PCosine_Set + 
-                   TCosine_Set + 
-                   Proot_feat_set + 
-                   Troot_feat_set +
-                   jcn.y + root + 
-                   affix + distance,
-                 data = oan.nomiss)
-summary(oan.200RT.3, correlation = T)
-
-##add thematics
-oan.200RT.4 = lm(NT.200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                   PSubFreq + PPOS + TPOS + TSubFreq +
-                   BAS + FAS + CueFanOut + 
-                   TargetFanIn + PCosine_Set + 
-                   TCosine_Set + 
-                   Proot_feat_set + 
-                   Troot_feat_set +
-                   jcn.y + root + 
-                   affix + distance +
-                   LSA, 
-                 data = oan.nomiss)
-summary(oan.200RT.4, correlation = T)
-
-##oan 1200RT
-oan.1200RT.1 = lm(NT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
-                  data = oan.nomiss) 
-summary(oan.200RT.1, correlation = T)
-
-##add associations
-oan.1200RT.2 = lm(NT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                    PSubFreq + PPOS + TPOS + TSubFreq +
-                    BAS + FAS + CueFanOut + 
-                    TargetFanIn,
-                  data = oan.nomiss) 
-summary(oan.1200RT.2, correlation = T)
-
-##add semantics
-oan.1200RT.3 = lm(NT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                    PSubFreq + PPOS + TPOS + TSubFreq +
-                    BAS + FAS + CueFanOut + 
-                    TargetFanIn + PCosine_Set + 
-                    TCosine_Set + 
-                    Proot_feat_set + 
-                    Troot_feat_set +
-                    jcn.y + root + 
-                    affix + distance,
-                  data = oan.nomiss)
-summary(oan.1200RT.3, correlation = T)
-
-##add thematics
-oan.1200RT.4 = lm(NT.1200ms.RT ~ PLength + TLength + POrthoN + TOrthoN + 
-                    PSubFreq + PPOS + TPOS + TSubFreq +
-                    BAS + FAS + CueFanOut + 
-                    TargetFanIn + PCosine_Set + 
-                    TCosine_Set + 
-                    Proot_feat_set + 
-                    Troot_feat_set +
-                    jcn.y + root + 
-                    affix + distance +
-                    LSA, 
-                  data = oan.nomiss)
-summary(oan.1200RT.4, correlation = T)
-
-##oan 200RT priming
+##word characteristics
 oan.200priming.1 = lm(NT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
                       data = oan.nomiss) 
-summary(oan.200priming.1, correlation = T)
+stepAIC(oan.200priming.1, direction = "both")$anova
+#PLength + TSubFreq
 
-##add associations
-oan.200priming.2 = lm(NT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                        PSubFreq + PPOS + TPOS + TSubFreq +
+#associations
+oan.200priming.2 = lm(NT.200ms.RT.Priming ~ 
                         BAS + FAS + CueFanOut + 
                         TargetFanIn,
                       data = oan.nomiss) 
-summary(oan.200priming.2, correlation = T)
+stepAIC(oan.200priming.2, direction = "both")$anova
+##BAS + CueFanOut
 
-##add semantics
-oan.200priming.3 = lm(NT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                        PSubFreq + PPOS + TPOS + TSubFreq +
-                        BAS + FAS + CueFanOut + 
-                        TargetFanIn + PCosine_Set + 
+#semantics
+oan.200priming.3 = lm(NT.200ms.RT.Priming ~ PCosine_Set + 
                         TCosine_Set + 
                         Proot_feat_set + 
                         Troot_feat_set +
                         jcn.y + root + 
                         affix + distance,
                       data = oan.nomiss)
-summary(oan.200priming.3, correlation = T)
+stepAIC(oan.200priming.3, direction = "both")$anova
+##PCosine_Set + Proot_feat_set
 
-##add thematics
-oan.200priming.4 = lm(NT.200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                        PSubFreq + PPOS + TPOS + TSubFreq +
-                        BAS + FAS + CueFanOut + 
-                        TargetFanIn + PCosine_Set + 
-                        TCosine_Set + 
-                        Proot_feat_set + 
-                        Troot_feat_set +
-                        jcn.y + root + 
-                        affix + distance +
+#thematics
+oan.200priming.4 = lm(NT.200ms.RT.Priming ~ 
                         LSA, 
                       data = oan.nomiss)
-summary(oan.200priming.4, correlation = T)
+stepAIC(oan.200priming.4, direction = "both")$anova
+##nothing
+
+oan.200priming.overall = lm(NT.200ms.RT.Priming ~ 
+                              PLength + TSubFreq + BAS + CueFanOut +
+                              PCosine_Set + Proot_feat_set,
+                            data = oan.nomiss)
+summary(oan.200priming.overall, correlation = T)
+
+#relative importance 
+calc.relimp(oan.200priming.overall, 
+            type = c("lmg", "last", "first", "betasq"), 
+            rela = TRUE)
+
+boot.oan.200prime = boot.relimp(oan.200priming.overall, 
+                                b = 1000, 
+                                type = c("lmg", "last", "first", "betasq"),
+                                rank = TRUE, diff = TRUE, rela = TRUE)
+booteval.relimp(boot.oan.200prime) # print result
+plot(booteval.relimp(boot.oan.200prime,sort=TRUE))
 
 ##oan 1200RT priming
+##word characteristics
 oan.1200priming.1 = lm(NT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + PSubFreq + PPOS + TPOS + TSubFreq,
                        data = oan.nomiss) 
-summary(oan.1200priming.1, correlation = T)
+stepAIC(oan.1200priming.1, direction = "both")$anova
+#TLength + TOrthoN
 
-##add associations
-oan.1200priming.2 = lm(NT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                         PSubFreq + PPOS + TPOS + TSubFreq +
+#associations
+oan.1200priming.2 = lm(NT.1200ms.RT.Priming ~ 
                          BAS + FAS + CueFanOut + 
                          TargetFanIn,
                        data = oan.nomiss) 
-summary(oan.1200priming.2, correlation = T)
+stepAIC(oan.1200priming.2, direction = "both")$anova
+##TargetFanIn
 
-##add semantics
-oan.1200priming.3 = lm(NT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                         PSubFreq + PPOS + TPOS + TSubFreq +
-                         BAS + FAS + CueFanOut + 
-                         TargetFanIn + PCosine_Set + 
+#semantics
+oan.1200priming.3 = lm(NT.1200ms.RT.Priming ~ PCosine_Set + 
                          TCosine_Set + 
                          Proot_feat_set + 
                          Troot_feat_set +
                          jcn.y + root + 
                          affix + distance,
                        data = oan.nomiss)
-summary(oan.1200priming.3, correlation = T)
+stepAIC(oan.1200priming.3, direction = "both")$anova
+##nothing
 
-##add thematics
-oan.1200priming.4 = lm(NT.1200ms.RT.Priming ~ PLength + TLength + POrthoN + TOrthoN + 
-                         PSubFreq + PPOS + TPOS + TSubFreq +
-                         BAS + FAS + CueFanOut + 
-                         TargetFanIn + PCosine_Set + 
-                         TCosine_Set + 
-                         Proot_feat_set + 
-                         Troot_feat_set +
-                         jcn.y + root + 
-                         affix + distance +
+#thematics
+oan.1200priming.4 = lm(NT.1200ms.RT.Priming ~ 
                          LSA, 
                        data = oan.nomiss)
-summary(oan.1200priming.4, correlation = T)
+stepAIC(oan.1200priming.4, direction = "both")$anova
+##nothing
 
+oan.1200priming.overall = lm(NT.1200ms.RT.Priming ~  
+                               TLength + TOrthoN +
+                               TargetFanIn,
+                             data = oan.nomiss)
+summary(oan.1200priming.overall, correlation = T)
+
+#relative importance 
+calc.relimp(oan.1200priming.overall, 
+            type = c("lmg", "last", "first", "betasq"), 
+            rela = TRUE)
+
+boot.oan.1200prime = boot.relimp(oan.1200priming.overall, 
+                                 b = 1000, 
+                                 type = c("lmg", "last", "first", "betasq"),
+                                 rank = TRUE, diff = TRUE, rela = TRUE)
+booteval.relimp(boot.oan.1200prime) # print result
+plot(booteval.relimp(boot.oan.1200prime,sort=TRUE))

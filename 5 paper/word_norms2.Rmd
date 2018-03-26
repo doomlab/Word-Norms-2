@@ -377,6 +377,39 @@ apa_table.latex(as.data.frame(affix.table),
                          "Percent"))
 ```
 
+```{r}
+####fsg and bsg by cue-feature####
+##getting data
+tap1 = tapply(sub1$FSG,
+       sub1$pos_feature, mean, na.rm = TRUE)
+tap2 = tapply(sub1$FSG,
+              sub1$pos_feature, sd, na.rm = TRUE)
+tap1;tap2
+
+tap3 = tapply(sub1$BSG,
+       sub1$pos_feature, mean, na.rm = TRUE)
+tap4 = tapply(sub1$BSG,
+              sub1$pos_feature, sd, na.rm = TRUE)
+tap3;tap3
+
+
+tap5 = tapply(sub1$FSG,
+       sub1$pos_translated, mean, na.rm = TRUE)
+tap6 = tapply(sub1$FSG,
+              sub1$pos_translated, sd, na.rm = TRUE)
+tap5;tap6
+
+tap7 = tapply(sub1$BSG,
+       sub1$pos_translated, mean, na.rm = TRUE)
+tap8 = tapply(sub1$BSG,
+              sub1$pos_translated, sd, na.rm = TRUE)
+tap7;tap8
+
+```
+```{r}
+####fsg/bsg table will go here####
+```
+
 
 # Discussion
 
