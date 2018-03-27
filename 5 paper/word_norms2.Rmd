@@ -446,9 +446,9 @@ sd(sub1$BSG, na.rm = TRUE)
 ```{r, eval=FALSE, include=FALSE}
 ####Correlation table goes here####
 
-#dat.cor = read.csv("acc.csv")
+#dat.cor = read.csv("acc.csv") ##for some reason it won't load the file even though i'm on the right directory
 
-dat.cor = averaged_cosine ##imported via file viewer because the above code was being weird
+dat.cor = averaged_cosine ##imported via file viewer, acc.csv
 
 dat.cor$jcn = as.numeric(dat.cor$jcn)
 dat.cor$fsg = as.numeric(dat.cor$fsg)
