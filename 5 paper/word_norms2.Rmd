@@ -377,7 +377,7 @@ apa_table.latex(as.data.frame(affix.table),
                          "Percent"))
 ```
 
-```{r}
+```{r, eval=FALSE, include=FALSE}
 ####fsg and bsg by cue-feature####
 ##getting data
 tap1 = tapply(sub1$FSG,
@@ -406,9 +406,83 @@ tap8 = tapply(sub1$BSG,
 tap7;tap8
 
 ```
-```{r}
+```{r, eval=FALSE, include=FALSE}
 ####fsg/bsg table will go here####
+##can use sub1 dataset from other tables
+##Percent goes below
+
+percentNOTmiss = function(x){ sum(is.na(x) == FALSE)/length(x) *100 }
+
+tapply(sub1$FSG,
+       sub1$pos_feature, percentNOTmiss)
+tapply(sub1$BSG,
+       sub1$pos_feature, percentNOTmiss)
+
+tapply(sub1$FSG,
+       sub1$pos_translated, percentNOTmiss)
+tapply(sub1$BSG,
+       sub1$pos_translated, percentNOTmiss)
+
+##means and sds
+tapply(sub1$FSG,
+       sub1$pos_feature, mean, na.rm = TRUE)
+tapply(sub1$FSG,
+       sub1$pos_translated, mean, na.rm = TRUE)
+
+tapply(sub1$FSG,
+       sub1$pos_feature, sd, na.rm = TRUE)
+tapply(sub1$FSG,
+       sub1$pos_translated, sd, na.rm = TRUE)
+
+mean(sub1$FSG, na.rm = TRUE)
+mean(sub1$BSG, na.rm = TRUE)
+
+sd(sub1$FSG, na.rm = TRUE)
+sd(sub1$BSG, na.rm = TRUE)
+
+##Still need total for feature and root
 ```
+
+```{r, eval=FALSE, include=FALSE}
+####Correlation table goes here####
+
+#dat.cor = read.csv("acc.csv")
+
+dat.cor = averaged_cosine ##imported via file viewer because the above code was being weird
+
+dat.cor$jcn = as.numeric(dat.cor$jcn)
+dat.cor$fsg = as.numeric(dat.cor$fsg)
+dat.cor$oldcos = as.numeric(dat.cor$oldcos)
+dat.cor$lsa = as.numeric(dat.cor$lsa)
+dat.cor$bsg = as.numeric(dat.cor$bsg)
+
+cor(dat.cor[ , -c(1:2)], use = "pairwise.complete.obs")
+
+```
+
+```{r, echo=FALSE, results='asis'}
+cor.table = matrix(NA, nrow = 8, ncol = 9)
+
+colnames(cor.table) = c(" ", "Root", "Raw", "Affix", "Previous COS", "JCN", "LSA", "FSG", "BSG")
+
+cor.table[1, ] = c("Root", 1, " " , " " , " " , " " , " ", " ", " ")
+cor.table[2, ] = c("Raw", 0.93, 1, " ", " ", " ", " ", " ", " ")
+cor.table[3, ] = c("Affix", 0.50, 0.53, 1, " ", " ", " ", " ", " ")
+cor.table[4, ] = c("Previous COS", 0.94, 0.91, 0.49, 1, " ", " ", " ", " ")
+cor.table[5, ] = c("JCN", -0.18, -0.22, -0.17, -0.22, 1, " ", " ", " ")
+cor.table[6, ] = c("LSA", 0.18, 0.15, 0.10, 0.21, -0.06, 1, " ", " ")
+cor.table[7, ] = c("FSG", 0.06, 0.04, 0.08, 0.10, -0.15, 0.24, 1.00, " ")
+cor.table[8, ] = c("BSG", 0.14, 0.15, 0.17, 0.18, -0.18, 0.26, 0.31, 1)
+
+apa_table.latex(as.data.frame(cor.table),
+                align = c(rep("l", 1), rep("c", 8)), 
+                caption = "",
+                note = "",
+                escape = FALSE,
+               col.names =  c(" ", "Root", "Raw", "Affix", "Previous COS", "JCN", "LSA", "FSG", "BSG"))
+
+```
+
 
 
 # Discussion

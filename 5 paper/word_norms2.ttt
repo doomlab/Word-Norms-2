@@ -126,3 +126,32 @@ Time & fore, pre, post, re & 0.51\\
 \end{table*}
 \efloatseparator
  
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-11}}
+\begin{tabular}{lcccccccc}
+\toprule
+  & Root & Raw & Affix & Previous COS & JCN & LSA & FSG & BSG\\
+\midrule
+Root & 1 &  &  &  &  &  &  & \\
+Raw & 0.93 & 1 &  &  &  &  &  & \\
+Affix & 0.5 & 0.53 & 1 &  &  &  &  & \\
+Previous COS & 0.94 & 0.91 & 0.49 & 1 &  &  &  & \\
+JCN & -0.18 & -0.22 & -0.17 & -0.22 & 1 &  &  & \\
+LSA & 0.18 & 0.15 & 0.1 & 0.21 & -0.06 & 1 &  & \\
+FSG & 0.06 & 0.04 & 0.08 & 0.1 & -0.15 & 0.24 & 1 & \\
+BSG & 0.14 & 0.15 & 0.17 & 0.18 & -0.18 & 0.26 & 0.31 & 1\\
+\bottomrule
+\addlinespace
+\end{tabular}
+\begin{tablenotes}[para]
+\textit{Note.}
+\end{tablenotes}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
