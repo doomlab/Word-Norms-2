@@ -1,7 +1,6 @@
 # Created by https://www.gitignore.io/api/r,macos,windows
 
-ArticlesInfo/
-Bayes Info/
+articles/
 
 ### macOS ###
 *.DS_Store
