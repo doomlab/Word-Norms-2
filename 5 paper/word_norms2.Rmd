@@ -1,34 +1,33 @@
 ---
-title             : "Word Norms 2 This Paper Will Get Finished"
-shorttitle        : "Title"
+title             : "English Semantic Feature Production Norms: An Extended Database of 4,722 Concepts"
+shorttitle        : "Semantic Norms"
 
 author: 
-  - name          : "First Author"
+  - name          : "Erin M. Buchanan"
     affiliation   : "1"
     corresponding : yes    # Define only one corresponding author
-    address       : "Postal address"
-    email         : "my@email.com"
-  - name          : "Ernst-August Doelle"
-    affiliation   : "1,2"
+    address       : "901 S. National Ave, Springfield, MO 65897"
+    email         : "erinbuchanan@missouristate.edu"
+  - name          : "K. D. Valentine"
+    affiliation   : "2"
+  - name          : "Nicholas P. Maxwell"
+    affiliation   : "1"
 
 affiliation:
   - id            : "1"
-    institution   : "Wilhelm-Wundt-University"
+    institution   : "Missouri State University"
   - id            : "2"
-    institution   : "Konstanz Business School"
+    institution   : "University of Missouri"
 
 author_note: |
-  Add complete departmental affiliations for each author here. Each new line herein must be indented, like this line.
-
-  Enter author note here.
+  Erin M. Buchanan is an Associate Professor of Quantitative Psychology at Missouri State University. K. D. Valentine is a Ph.D. candidate at the University of Missouri. Nicholas P. Maxwell is a Masters' candidate at Missouri State University.
 
 abstract: |
-  Enter abstract here. Each new line herein must be indented, like this line.
+  The largest limiting factor in understanding memory and language networks is often the availability of normed stimuli to use and explore in experimental studies. In this study, we expand on three previous semantic feature overlap norms to over 4,000 cue stimuli ranging from nouns, verbs, adjectives, and other parts of speech. Participants in the norming study were asked to provide feature components of each cue stimuli, which were combined with the previous research using semantic feature production procedures. In addition to expanding previous research, this project explores different semantic overlap measurements by coding each word feature listed by root and affixes to determine different strengths of feature overlap. All information is provided in a searchable database for easy access and utilization for future researchers when designing experiments. The final database of cue-target pairs was paired with the Semantic Priming Project to examine the predictive ability of semanticity on semantic priming in tandem with other psycholinguistic variables, such as association, thematics, and frequency. Target concept frequency was the largest predictor of semantic priming, follow by thematics and association. Root word cosine was predictive of semantic priming, even after adjusting for the previously mentioned psycholinguistic variables.
   
-keywords          : "keywords"
-wordcount         : "X"
+keywords          : "semantics, norming, database, psycholinguistics"
 
-bibliography      : ["r-references.bib"]
+bibliography      : ["r-references.bib", "wn2.bib"]
 
 figsintext        : no
 figurelist        : no
@@ -39,25 +38,18 @@ lineno            : yes
 lang              : "english"
 class             : "man"
 output            : papaja::apa6_pdf
+replace_ampersands: yes
+csl               : apa6.csl
 ---
 
 ```{r load_packages, include = FALSE}
 library("papaja")
 ```
 
-```{r analysis_preferences}
-# Seed for random number generation
-set.seed(42)
-```
-
-
-
-# Methods
-We report how we determined our sample size, all data exclusions (if any), all manipulations, and all measures in the study. <!-- 21-word solution (Simmons, Nelson & Simonsohn, 2012; retrieved from http://ssrn.com/abstract=2160588) -->
+# Method
 
 ## Participants
 ```{r, echo=FALSE, results='asis'}
-library(papaja)
 
 ####partcipant table####
 participant.table2 = matrix(NA, nrow = 5, ncol = 4)
@@ -80,7 +72,7 @@ apa_table.latex(as.data.frame(participant.table2),
                          "Concepts", "Mean $N$"))
 ```
 
-## Material
+## Materials
 ```{r, include=FALSE}
 dat1 = read.csv("final words 2017.csv")
 sub1 = subset(dat1,
@@ -127,12 +119,9 @@ apa_table.latex(as.data.frame(stim.table),
                          "Noun", "Verb", "Other", "Total"))
 ```
 
-
 ## Procedure
 
 ## Data analysis
-We used `r cite_r("r-references.bib")` for all our analyses.
-
 
 # Results
 ```{r, include=FALSE}
@@ -309,6 +298,7 @@ apa_table.latex(as.data.frame(response.table),
                col.names =  c("Cue Type", "Feature Type",
                          "Raw", "Root", "$M$ Freq. Raw", "$M$ Freq. Root"))
 ```
+
 ```{r, include=FALSE}
 ####tag examples####
 ##code below is from what we did last time
@@ -406,6 +396,7 @@ tap8 = tapply(sub1$BSG,
 tap7;tap8
 
 ```
+
 ```{r, eval=FALSE, include=FALSE}
 ####fsg/bsg table will go here####
 ##can use sub1 dataset from other tables
@@ -483,10 +474,7 @@ apa_table.latex(as.data.frame(cor.table),
 
 ```
 
-
-
 # Discussion
-
 
 \newpage
 
