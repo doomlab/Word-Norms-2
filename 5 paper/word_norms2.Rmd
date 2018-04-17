@@ -1,5 +1,5 @@
 ---
-title             : "English Semantic Feature Production Norms: An Extended Database of 4,722 Concepts"
+title             : "English Semantic Feature Production Norms: An Extended Database of 4,437 Concepts"
 shorttitle        : "Semantic Norms"
 
 author: 
@@ -21,11 +21,13 @@ affiliation:
 
 author_note: |
   Erin M. Buchanan is an Associate Professor of Quantitative Psychology at Missouri State University. K. D. Valentine is a Ph.D. candidate at the University of Missouri. Nicholas P. Maxwell is a Masters' candidate at Missouri State University.
+  
+  We would like to thank Keith Hutchison and David Balota for their contributions to this project, including the funds to secure Mechanical Turk participants. 
 
 abstract: |
   The largest limiting factor in understanding memory and language networks is often the availability of normed stimuli to use and explore in experimental studies. In this study, we expand on three previous semantic feature overlap norms to over 4,000 cue stimuli ranging from nouns, verbs, adjectives, and other parts of speech. Participants in the norming study were asked to provide feature components of each cue stimuli, which were combined with the previous research using semantic feature production procedures. In addition to expanding previous research, this project explores different semantic overlap measurements by coding each word feature listed by root and affixes to determine different strengths of feature overlap. All information is provided in a searchable database for easy access and utilization for future researchers when designing experiments. The final database of cue-target pairs was paired with the Semantic Priming Project to examine the predictive ability of semanticity on semantic priming in tandem with other psycholinguistic variables, such as association, thematics, and frequency. Target concept frequency was the largest predictor of semantic priming, follow by thematics and association. Root word cosine was predictive of semantic priming, even after adjusting for the previously mentioned psycholinguistic variables.
   
-keywords          : "semantics, norming, database, psycholinguistics"
+keywords          : "semantics, word norms, database, psycholinguistics"
 
 bibliography      : ["r-references.bib", "wn2.bib"]
 
@@ -44,13 +46,18 @@ csl               : apa6.csl
 
 ```{r load_packages, include = FALSE}
 library("papaja")
+library(MOTE)
 ```
+
+Semantic representations are the focus of a large area 
 
 # Method
 
 ## Participants
-```{r, echo=FALSE, results='asis'}
 
+Participants in the newly collected stimuli were gathered from Amazon's Mechanical Turk, which is a large, diverse participant pool wherein users can complete surveys for small sums of money [@Buhrmester2011]. Answers can be screened for errors, and incorrect or incomplete surveys can be rejected or discarded without payment. Each participant was paid five cents for a survey, and they could complete multiple Human Intelligence Tasks or HITS. Each HIT included five concepts, and HITS would remain active until *n* = 30 valid survey answers were collected. HITS were usually rejected if they included copied definitions from Wikipedia, "I don't know", or writing a paragraph about the concept. These answers were discarded, as described below. Table \@ref(tab:part-table) includes the sample sizes from the new study (Mechanical Turk 2), as well as the sample sizes from the previous study, as described in @Buchanan2013. 
+
+```{r part-table, echo=FALSE, results='asis'}
 ####partcipant table####
 participant.table2 = matrix(NA, nrow = 5, ncol = 4)
 
@@ -73,7 +80,11 @@ apa_table.latex(as.data.frame(participant.table2),
 ```
 
 ## Materials
-```{r, include=FALSE}
+
+The purpose of this second norming set was to expand the @Buchanan2013 norms to include all concepts from the Semantic Priming Project [@Hutchison2010]. Therefore, these concepts were the target of the project. The original concept set was selected primarily from the @Nelson2004 database, with small overlaps in the @McRae2005 and @Vinson2008 database sets for convergent validity. In the Semantic Priming Project, cue-target pairs were shown to participants to examine naming and lexical decision time priming across related and unrelated pairs. The related pairs included first associate (most common response to a cue) and other associates (second or greater common responses to cues) as their target words. The original publication of concepts included the cue words from the Semantic Priming Project, while this project expanded to include missed cue words and all target words. The addition of these concepts allowed for complete overlap between the Semantic Priming Project and the feature production norms. 
+
+```{r calculate-frequency, include=FALSE}
+
 dat1 = read.csv("final words 2017.csv")
 sub1 = subset(dat1,
               dat1$where == "b")
@@ -92,23 +103,31 @@ with(sub1, tapply(frequency_feature, list(school_code), sd))
 mean(sub1$frequency_feature) ##total total
 sd(sub1$frequency_feature)
 
+partofspeech = unique(dat1[ , c("cue", "pos_cue")])
+POS = apa(table(partofspeech$pos_cue)/nrow(partofspeech)*100,1)
 ```
 
-```{r, echo=FALSE, results='asis'}
+Concepts were labeled by part of speech using the English Lexicon Project [@Balota2007], the free association norms, and Google's define search when necessary. When labelling these words, we used the most common part of speech to categorize concepts. This choice was predominately for simplicity of categorization, however, the participants were shown concepts without the suggestion of which sense to use for the word. Therefore, multiple senses are embedded into the feature production norms, while the database is labeled with single parts of speech. The other parts of speech can be found in the English Lexicon Project or multiple other databases. This dataset was combined with @McRae2004 and @Vinson2008 feature production norms, which was a combined total of `r nrow(partofspeech)` concepts. `r POS["noun"]`% of concepts were nouns, `r POS["adjective"]`% adjectives, `r POS["verb"]`% verbs, and `r POS["other"]`% were other forms of speech, such as adverbs and conjunctions.
 
+## Procedure
 
+## Data analysis
+
+# Results
+
+```{r feature-table, echo=FALSE, results='asis'}
 ##table
 stim.table = matrix(NA, nrow = 6, ncol = 6)
 
 colnames(stim.table) = c("Institution", "Adjective",
                          "Noun", "Verb", "Other", "Total")
 
-stim.table[1, ] = c("University of Mississippi", "10.97(12.48)", "10.40(13.08)",  "5.28(6.71)", "10.01(10.16)", "9.45(12.02)")
-stim.table[2, ] = c("Missouri State University", "10.41(11.57)", "10.71(13.48)", "5.87(6.46)", "10.11(11.74)", "9.52(11.94)")
-stim.table[3, ] = c("Montana State University", "10.95(11.58)", "10.66(12.13)", "5.89(7.86)", "11.27(10.64)", "9.67(11.34)")
-stim.table[4, ] = c("Mechanical Turk 1", "9.00(8.92)", "9.73(11.35)", "5.17(6.64)", "11.30(10.41)", "8.65(10.17)")
-stim.table[5, ] = c("Mechanical Turk 2", "5.23(4.85)", "5.71(5.15)", "3.36(3.50)", "5.87(4.84)", "5.02(4.81)")         
-stim.table[6, ] = c("Total", "8.32(9.62)", "8.19(10.07)", "4.55(5.91)", "8.31(8.52)", "7.42(9.30)")
+stim.table[1, ] = c("University of Mississippi", "10.97 (12.48)", "10.40 (13.08)",  "5.28 (6.71)", "10.01 (10.16)", "9.45 (12.02)")
+stim.table[2, ] = c("Missouri State University", "10.41 (11.57)", "10.71 (13.48)", "5.87 (6.46)", "10.11 (11.74)", "9.52 (11.94)")
+stim.table[3, ] = c("Montana State University", "10.95 (11.58)", "10.66 (12.13)", "5.89 (7.86)", "11.27 (10.64)", "9.67 (11.34)")
+stim.table[4, ] = c("Mechanical Turk 1", "9.00 (8.92)", "9.73 (11.35)", "5.17 (6.64)", "11.30 (10.41)", "8.65 (10.17)")
+stim.table[5, ] = c("Mechanical Turk 2", "5.23 (4.85)", "5.71 (5.15)", "3.36 (3.50)", "5.87 (4.84)", "5.02 (4.81)")         
+stim.table[6, ] = c("Total", "8.32 (9.62)", "8.19 (10.07)", "4.55 (5.91)", "8.31 (8.52)", "7.42 (9.30)")
 
 apa_table.latex(as.data.frame(stim.table),
                 align = c(rep("l", 1), rep("c", 5)), 
@@ -119,12 +138,9 @@ apa_table.latex(as.data.frame(stim.table),
                          "Noun", "Verb", "Other", "Total"))
 ```
 
-## Procedure
 
-## Data analysis
-
-# Results
 ```{r, include=FALSE}
+
 ####Set up for response frequency table####
 ##this code came from what we did last time
 
@@ -263,6 +279,7 @@ sd4b
 ```
 
 ```{r, echo=FALSE, results='asis'}
+
 ####response frequency table####
 response.table = matrix(NA, nrow = 20, ncol = 6)
 
