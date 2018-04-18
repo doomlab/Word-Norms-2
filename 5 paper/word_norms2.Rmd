@@ -155,12 +155,12 @@ stim.table = matrix(NA, nrow = 6, ncol = 6)
 colnames(stim.table) = c("Institution", "Adjective",
                          "Noun", "Verb", "Other", "Total")
 
-stim.table[1, ] = c("University of Mississippi", "10.97 (12.48)", "10.40 (13.08)",  "5.28 (6.71)", "10.01 (10.16)", "9.45 (12.02)")
-stim.table[2, ] = c("Missouri State University", "10.41 (11.57)", "10.71 (13.48)", "5.87 (6.46)", "10.11 (11.74)", "9.52 (11.94)")
-stim.table[3, ] = c("Montana State University", "10.95 (11.58)", "10.66 (12.13)", "5.89 (7.86)", "11.27 (10.64)", "9.67 (11.34)")
-stim.table[4, ] = c("Mechanical Turk 1", "9.00 (8.92)", "9.73 (11.35)", "5.17 (6.64)", "11.30 (10.41)", "8.65 (10.17)")
-stim.table[5, ] = c("Mechanical Turk 2", "5.23 (4.85)", "5.71 (5.15)", "3.36 (3.50)", "5.87 (4.84)", "5.02 (4.81)")         
-stim.table[6, ] = c("Total", "8.32 (9.62)", "8.19 (10.07)", "4.55 (5.91)", "8.31 (8.52)", "7.42 (9.30)")
+stim.table[1, ] = c("University of Mississippi", "5.57 (1.53)", "7.35 (4.05)",  "5.33 (.87)", "6.01 (2.11)", "6.71 (3.44)")
+stim.table[2, ] = c("Missouri State University", "5.74 (1.56)", "6.85 (2.82)", "6.67 (2.08)", "7.45 (5.35)", "6.65 (2.92)")
+stim.table[3, ] = c("Montana State University", "5.81 (1.74)", "7.25 (3.35)", "5.59 (1.13)", "5.76 (1.74)", "6.69 (2.93)")
+stim.table[4, ] = c("Mechanical Turk 1", "6.27 (2.28)", "7.74 (4.34)", "5.77 (1.17)", "5.57 (1.40)", "7.14 (3.79)")
+stim.table[5, ] = c("Mechanical Turk 2", "5.76 (1.36)", "6.62 (1.85)", "5.92 (1.38)", "5.78 (1.17)", "6.38 (1.75)")         
+stim.table[6, ] = c("Total", "5.78 (1.61)", "6.94 (2.88)", "5.67 (1.18)", "5.84 (1.71)", "6.57 (2.60)")
 
 apa_table.latex(as.data.frame(stim.table),
                 align = c(rep("l", 1), rep("c", 5)), 
