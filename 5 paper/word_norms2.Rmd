@@ -50,7 +50,13 @@ library(MOTE)
 library(shiny) #to cite shiny
 ```
 
-Semantic representations are the focus of a large area 
+Semantic representations are the focus of a large area of research and are a thing.
+
+What are semantic feature production norms
+
+Why are they important!
+
+Previous work 
 
 # Method
 
@@ -352,34 +358,27 @@ The top cue-feature combinations from @Buchanan2013 and this new data collection
 library(reshape)
 
 ##Creating Affix dataset
-affixdata = sub1[,13:15]
+affixdata = dat1[,c(2,13:15)]
 
 ##Melting dataset
-affixdata$wordno = 1:nrow(affixdata)
 longdata = melt(affixdata,
-                id = "wordno",
+                id = "cue",
                 measured = c("a1", "a2", "a3"))
 
-colnames(longdata) = c("partno", "order", "affix")
+colnames(longdata) = c("cue", "order", "affix")
 
 summary(longdata)
 
 ##Removing zero affixes##
-longaffix = longdata
-longaffix$affix[longaffix$affix == 0] = NA
-summary(longaffix)
-realaffix = na.omit(longaffix)
+realaffix = subset(longdata, affix != 0)
 summary(realaffix)
 
 ##Actual percentages for real
 final = realaffix
 options(scipen = 999)
 affixtable = percent(droplevels(final$affix))
-#affixtable
+affixtable
 
-slangwords = subset(sub1,
-                    sub1$a1 == "slang")
-#slangwords$feature
 ```
 
 ```{r affix-table, echo=FALSE, results='asis'}
@@ -428,9 +427,68 @@ On the word pairs page, all information about word-pair statistics can be found.
 
 # Results
 
+An examination of the results of the cue-feature lists indicated that the new data collection is similar to the previous semantic feature production norms. As shown in Table \@ref(tab:feature-table), the new Mechanical Turk data showed roughly the same number of listed features for each cue concepts, usually between five to seven features. Table \@ref(tab:percent-table) portrayed that adjective cues generally included other adjectives or nouns as features, while noun cues were predominately described by other nouns. Verb cues included a large feature list of nouns, but then was equally split between adjectives, other verbs, and other categories. Lastly, the other cue types generally elicited nouns and verbs. Normalized percent frequencies were generally between seven and twenty percent of the participant sampling listing features when examining the raw words. These words included multiple forms, as the percent increased to around thirty percent when features were translated into their root words. Indeed, nearly half of the `r nrow(sub1)` cue-feature pairs were repeated, as `r nrow(sub1.reduce)` cue-feature pairs were unique when examining translated features. `r nrow(realaffix)` affix values were found, which was for `r length(unique(realaffix$cue))` cue concepts. `r table(realaffix$order)["a1"]` first affixes were found, with `r table(realaffix$order)["a2"]` second place affixes, and `r table(realaffix$order)["a3"]` third place affixes. 
 
+## Convergent Validity
 
+```{r convergent, include = FALSE}
+cosmatch = read.csv("cosine_matches.csv")
+b = subset(cosmatch, where1 == "b") 
+m = subset(cosmatch, where1 == "m")  
 
+meanroot = tapply(cosmatch$V3, list(cosmatch$where1, cosmatch$where2), mean)
+meanraw = tapply(cosmatch$V4, list(cosmatch$where1, cosmatch$where2), mean)
+meanaffix = tapply(cosmatch$V5, list(cosmatch$where1, cosmatch$where2), mean)  
+
+sdroot = tapply(cosmatch$V3, list(cosmatch$where1, cosmatch$where2), sd)
+sdraw = tapply(cosmatch$V4, list(cosmatch$where1, cosmatch$where2), sd)
+sdaffix = tapply(cosmatch$V5, list(cosmatch$where1, cosmatch$where2), sd)  
+```
+
+To examine the validity of cosine values, we calculated the average cosine score between the new processing of the data for each of the three feature production norms used in this project. Overlapping cues in each of three database sets were found (*n* = `r length(unique(cosmatch$cue))`), and the average cosine between their feature sets was examined. @Buchanan2013 and the new dataset are listed the subscript B, while @McRae2005 is M and V for @Vinson2008. For root cosine values, we found high overlap between all three datasets: $M_{BM}$ = `r apa(meanroot[1], 2, F)` (*SD* = `r apa(sdroot[1], 2, F)`), $M_{BV}$ = `r apa(meanroot[3], 2, F)` (*SD* = `r apa(sdroot[3], 2, F)`), and $M_{MV}$ = `r apa(meanroot[4], 2, F)` (*SD* = `r apa(sdroot[4], 2, F)`). The raw cosine values also overlapped well, even though the @McRae2005 and @Vinson2008 datasets were already mostly preprocessed for word stems: $M_{BM}$ = `r apa(meanraw[1], 2, F)` (*SD* = `r apa(sdraw[1], 2, F)`), $M_{BV}$ = `r apa(meanraw[3], 2, F)` (*SD* = `r apa(sdraw[3], 2, F)`), and $M_{MV}$ = `r apa(meanraw[4], 2, F)` (*SD* = `r apa(sdraw[4], 2, F)`). Last, the affix cosines overlapped well between BM datasets, $M_{BM}$ = `r apa(meanaffix[1], 2, F)` (*SD* = `r apa(sdaffix[1], 2, F)`), but did not overlpa with the V datasets: $M_{BV}$ = `r apa(meanaffix[3], 2, F)` (*SD* = `r apa(sdaffix[3], 2, F)`), and $M_{MV}$ = `r apa(meanaffix[4], 2, F)` (*SD* = `r apa(sdaffix[4], 2, F)`). Last, the correlation between root, raw, affix, old cosine, LSA, and JCN were calculated to examine convergent validity. As shown in Table \@ref(tab:correlation-table), the intercorrelations between the cosine measures are high, especially between our previous work and this dataset. JCN is backwards coded, as zero values indicate close semantic neighbors (low dictionary distance) and high values indicate low semantic relation. The small negative correlations replicate previous findings. LSA values showed small positive correlations with cosine values, indicating some overlap with thematic information and semantic feature overlap [@Maki2008]. These correlations are slightly different than our previous publication, likely because we restricted this cosine set to values with at least two features in common. The results are simiilar, where LSA and JCN correlations are lower than LSA-COS and JCN-COS, but these values indicate that themes and dictionary distance are similarly related to feature overlap. 
+
+```{r correlations, eval=FALSE, eval=FALSE, include=FALSE}
+
+####Correlation table goes here####
+
+dat.cor = averaged_cosine ##imported via file viewer, acc.csv
+
+dat.cor$jcn = as.numeric(dat.cor$jcn)
+dat.cor$fsg = as.numeric(dat.cor$fsg)
+dat.cor$oldcos = as.numeric(dat.cor$oldcos)
+dat.cor$lsa = as.numeric(dat.cor$lsa)
+dat.cor$bsg = as.numeric(dat.cor$bsg)
+
+cor(dat.cor[ , -c(1:2)], use = "pairwise.complete.obs")
+
+```
+
+```{r correlation-table, echo=FALSE, results='asis'}
+
+cor.table = matrix(NA, nrow = 8, ncol = 9)
+
+colnames(cor.table) = c(" ", "Root", "Raw", "Affix", "Previous COS", "JCN", "LSA", "FSG", "BSG")
+
+cor.table[1, ] = c("Root", 1, " " , " " , " " , " " , " ", " ", " ")
+cor.table[2, ] = c("Raw", 0.93, 1, " ", " ", " ", " ", " ", " ")
+cor.table[3, ] = c("Affix", 0.50, 0.53, 1, " ", " ", " ", " ", " ")
+cor.table[4, ] = c("Previous COS", 0.94, 0.91, 0.49, 1, " ", " ", " ", " ")
+cor.table[5, ] = c("JCN", -0.18, -0.22, -0.17, -0.22, 1, " ", " ", " ")
+cor.table[6, ] = c("LSA", 0.18, 0.15, 0.10, 0.21, -0.06, 1, " ", " ")
+cor.table[7, ] = c("FSG", 0.06, 0.04, 0.08, 0.10, -0.15, 0.24, 1, " ")
+cor.table[8, ] = c("BSG", 0.14, 0.15, 0.17, 0.18, -0.18, 0.26, 0.31, 1)
+
+apa_table.latex(as.data.frame(cor.table),
+                align = c(rep("l", 1), rep("c", 8)), 
+                caption = "",
+                note = "",
+                escape = FALSE,
+               col.names =  c(" ", "Root", "Raw", "Affix", "Previous COS", "JCN", "LSA", "FSG", "BSG"))
+```
+
+## Divergent Validity
+
+## Semantic Priming Prediction 
 
 ```{r divergent-calculate, eval=FALSE, include=FALSE}
 
@@ -501,47 +559,6 @@ sd(sub1$BSG, na.rm = TRUE)
 ##Still need total for feature and root
 ```
 
-```{r, eval=FALSE, include=FALSE}
-
-####Correlation table goes here####
-
-#dat.cor = read.csv("acc.csv") ##for some reason it won't load the file even though i'm on the right directory
-
-dat.cor = averaged_cosine ##imported via file viewer, acc.csv
-
-dat.cor$jcn = as.numeric(dat.cor$jcn)
-dat.cor$fsg = as.numeric(dat.cor$fsg)
-dat.cor$oldcos = as.numeric(dat.cor$oldcos)
-dat.cor$lsa = as.numeric(dat.cor$lsa)
-dat.cor$bsg = as.numeric(dat.cor$bsg)
-
-cor(dat.cor[ , -c(1:2)], use = "pairwise.complete.obs")
-
-```
-
-```{r, echo=FALSE, results='asis'}
-
-cor.table = matrix(NA, nrow = 8, ncol = 9)
-
-colnames(cor.table) = c(" ", "Root", "Raw", "Affix", "Previous COS", "JCN", "LSA", "FSG", "BSG")
-
-cor.table[1, ] = c("Root", 1, " " , " " , " " , " " , " ", " ", " ")
-cor.table[2, ] = c("Raw", 0.93, 1, " ", " ", " ", " ", " ", " ")
-cor.table[3, ] = c("Affix", 0.50, 0.53, 1, " ", " ", " ", " ", " ")
-cor.table[4, ] = c("Previous COS", 0.94, 0.91, 0.49, 1, " ", " ", " ", " ")
-cor.table[5, ] = c("JCN", -0.18, -0.22, -0.17, -0.22, 1, " ", " ", " ")
-cor.table[6, ] = c("LSA", 0.18, 0.15, 0.10, 0.21, -0.06, 1, " ", " ")
-cor.table[7, ] = c("FSG", 0.06, 0.04, 0.08, 0.10, -0.15, 0.24, 1.00, " ")
-cor.table[8, ] = c("BSG", 0.14, 0.15, 0.17, 0.18, -0.18, 0.26, 0.31, 1)
-
-apa_table.latex(as.data.frame(cor.table),
-                align = c(rep("l", 1), rep("c", 8)), 
-                caption = "",
-                note = "",
-                escape = FALSE,
-               col.names =  c(" ", "Root", "Raw", "Affix", "Previous COS", "JCN", "LSA", "FSG", "BSG"))
-
-```
 
 # Discussion
 
