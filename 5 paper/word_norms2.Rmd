@@ -111,7 +111,12 @@ Concepts were labeled by part of speech using the English Lexicon Project [@Balo
 
 ## Procedure
 
-## Data analysis
+Each HIT was kept to five concepts, and usual survey response times were five to seven minutes. Each HIT was open until thirty participants had successfully completed the HIT and were paid the five cents for the HIT. The survey instructions were copied from @McRae2005's Appendix B, which were also used in the previous publication of these norms. Because the @McRae2005 data was collected on paper, we modified these instructions slightly. The original lines to write in responses were changed to an online textbox response window. The detailed instructions additionally no longer contained information about how a participant should only consider the noun of the target concept, as the words in our study included multiple forms of speech and senses. Participants were encouraged to list the properties or features of each concept in the following areas: physical (looks, sounds, and feels), functional (uses), and categorical (belongings). The same examples used previously (*duck, cucumber, stove*) were included to aid in task understanding and completion. Participants signed up for the HITS through Amazon's Mechanical Turk website and completed the study within the Mechanical Turk framework. Approved HITs were compensated through the Mechanical Turk system. All answers were then combined into a larger dataset. 
+
+## Data Processing
+
+
+
 
 # Results
 
