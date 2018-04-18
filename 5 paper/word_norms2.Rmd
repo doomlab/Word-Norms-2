@@ -93,16 +93,16 @@ sub1 = subset(dat1,
 
 #we want the number of features for each concept
 #reduce down to just the translated data
-sub1 = sub1[ , c("cue", "translated", "pos_cue", "school_code")]
-sub1 = unique(sub1)
-sub1$cue = droplevels(sub1$cue)
+sub1.reduce = sub1[ , c("cue", "translated", "pos_cue", "school_code")]
+sub1.reduce = unique(sub1.reduce)
+sub1.reduce$cue = droplevels(sub1.reduce$cue)
 
 #for each cue calculate the number of features listed
-nofeatures = as.data.frame(table(sub1$cue))
+nofeatures = as.data.frame(table(sub1.reduce$cue))
 colnames(nofeatures)[1] = "cue"
 
 #add in the school code and pos_cue
-finalfreq = unique(merge(nofeatures, sub1[ , c("cue", "pos_cue", "school_code")], by = "cue"))
+finalfreq = unique(merge(nofeatures, sub1.reduce[ , c("cue", "pos_cue", "school_code")], by = "cue"))
 
 #now calculate statistics - means by school
 with(finalfreq, tapply(Freq, list(pos_cue, school_code), mean))
@@ -135,9 +135,11 @@ The entire dataset, at each processing stage described here, can be found at: ht
 
 First, each concept was separated into an individual text file that is included as the "raw" data online. Each of these files was then spell checked and corrected when the participant answer was obviously a typo. As noted early, participants often tried to cut and paste Wikipedia or other online dictionary sources into the their answers to complete surveys quickly with minimal effort. These entries were easily found by the formatting of the webpage that was included in their answer. These answers were then discarded from the concept individual text files. Next, each concept was processed for feature frequency. In this stage, the raw frequency counts of each cue-feature combination were calculated and put together into one large file. Cue-cue combinations were discarded, as participants might write "a zebra is a horse" when asked to define *zebra*. English stop words such as *the, an, of* were then discarded, as well as terms that were often used as part of a definition (*like, means, describes*). 
 
-To create the final root cosine values, we then created a "translated" column for each feature listed. This column indicated the root word for each feature, along with the affixes that were used in the original feature. For example, the original feature *cats* would be translated to *cat* and *s*, wherein *cat* would be the translated feature and the *s* would be the affix code. Multiple affix codes were often needed for features, as *beautifully* would have been translated to *beauty*, *ful*, and *ly*. Often, the noun version of the feature would be used for the translation or the most common part of speech for each feature would be recorded. The sample size for the cue was added to this dataset, as the sample sizes varied across experiment time, as shown in Table \@ref(tab:part-table). Therefore, instead of using raw feature frequency, we normalized each count into a percent of participants that included that feature with each cue. At this stage, the data was reduced to cue-feature combinations that were listed by at least 16% of participants (matching @McRae2005's procedure) or were in the top five features listed for that cue. This calculation was performed on the translated normalized feature percent. For example, *beauty* may have been listed as *beauty, beautiful, beautifully*, and this feature would have been listed three times in the dataset for the original cue. The *frequency_feature* column indicates the frequency of the original, unedited feature, while the *frequency_translated* includes all combinations of *beauty* into one overall feature. Because non-nouns can be more difficult to create a feature list for, we included the top five descriptors in addition to the 16% listed criteria, to ensure that each concept included at least five features. Table \@ref(tab:feature-table) indicates the percent f
+To create the final root cosine values, we then created a "translated" column for each feature listed. This column indicated the root word for each feature, along with the affixes that were used in the original feature. For example, the original feature *cats* would be translated to *cat* and *s*, wherein *cat* would be the translated feature and the *s* would be the affix code. Multiple affix codes were often needed for features, as *beautifully* would have been translated to *beauty*, *ful*, and *ly*. Often, the noun version of the feature would be used for the translation or the most common part of speech for each feature would be recorded. The sample size for the cue was added to this dataset, as the sample sizes varied across experiment time, as shown in Table \@ref(tab:part-table). Therefore, instead of using raw feature frequency, we normalized each count into a percent of participants that included that feature with each cue. 
 
-number of features listed for each collection site/time point by part of speech for the cue word. 
+At this stage, the data was reduced to cue-feature combinations that were listed by at least 16% of participants (matching @McRae2005's procedure) or were in the top five features listed for that cue. This calculation was performed on the translated normalized feature percent. For example, *beauty* may have been listed as *beauty, beautiful, beautifully, beautifulness*, and this feature would have been listed three times in the dataset for the original cue. The *frequency_feature* column indicates the frequency of the original, unedited feature, while the *frequency_translated* includes all combinations of *beauty* into one overall feature. Because non-nouns can be more difficult to create a feature list for, we included the top five descriptors in addition to the 16% listed criteria, to ensure that each concept included at least five features. Table \@ref(tab:feature-table) indicates the average number of cue-feature pairs found for each data collection site/time point and part of speech for the cue word. 
+
+The parts of speech for the cue, original feature, and translated feature were merged with this file as described above. Table \@ref(tab:percent-table) depicts the pattern of feature responses for cue-feature part of speech combinations. This table includes the percent of features listed for each cue-feature part of speech combination (i.e., what is the percent of time that both the cue and feature were both adjectives) for the original feature (raw) and translated feature (root). Next, the normalized frequency percent average was calculated along with their standard deviations. These columns indicate the frequency percent that a cue-feature part of speech combination was listed across participants (i.e., what is the average percent of participants that listed an adjective feature for an adjective cue). These two types of calculation describe the likelihood of seeing part of speech combinations across the concepts, along with the likelihood of those cue-feature part of speech combinations across participants. 
 
 ```{r feature-table, echo=FALSE, results='asis'}
 ##table
@@ -160,19 +162,10 @@ apa_table.latex(as.data.frame(stim.table),
                 escape = FALSE,
                 col.names =  c("Institution", "Adjective",
                          "Noun", "Verb", "Other", "Total"))
+
 ```
 
-
-The final file then included the original dataset, cue, feature, 
-
-
-
-
-# Results
-
-
-
-```{r, include=FALSE}
+```{r calculate-percent, include=FALSE}
 
 ####Set up for response frequency table####
 ##this code came from what we did last time
@@ -311,19 +304,19 @@ sd4b
 
 ```
 
-```{r, echo=FALSE, results='asis'}
+```{r percent-table, echo=FALSE, results='asis'}
 
 ####response frequency table####
 response.table = matrix(NA, nrow = 20, ncol = 6)
 
-colnames(response.table) = c("Cue Type", "Feature Type",
-                         "%Raw", "%Root", "$M$ Freq. Raw", "$M$ Freq. Root")
+#colnames(response.table) = c("Cue Type", "Feature Type",
+                         #"%Raw", "%Root", "$M$ Freq. Raw", "$M$ Freq. Root")
 
 response.table[1, ] = c("Adjective", "Adjective", 38.09, 29.74, "17.84(16.47)", "30.02(18.83)")
 response.table[2, ] = c(" ", "Noun", 40.02, 46.74, "13.14(14.96)", "29.71(19.94)")
 response.table[3, ] = c(" ", "Verb", 17.69, 20.72, "8.51(9.78)", "26.88(17.27)")
 response.table[4, ] = c(" ", "Other", 4.20, 2.80, "15.17(15.64)", "28.04(15.54)")
-response.table[5, ] = c("Noun", "Adjective", 16.56, 12.07, "15.55(15.17", "31.20(18.17)")
+response.table[5, ] = c("Noun", "Adjective", 16.56, 12.07, "15.55(15.17)", "31.20(18.17)")
 response.table[6, ] = c(" ", "Noun", 60.85, 62.67, "17.21(17.01)", "33.26(20.05)")
 response.table[7, ] = c(" ", "Verb", 20.80, 23.68, "8.88(9.73)", "31.01(17.87)" )
 response.table[8, ] = c(" ", "Other", 1.79, 1.58, "17.06(15.29)", "28.87(17.14)")
@@ -346,8 +339,22 @@ apa_table.latex(as.data.frame(response.table),
                 note = "",
                 escape = FALSE,
                col.names =  c("Cue Type", "Feature Type",
-                         "Raw", "Root", "$M$ Freq. Raw", "$M$ Freq. Root"))
+                         "\\% Raw", "\\% Root", "$M$ Freq. Raw", "$M$ Freq. Root"))
 ```
+
+
+
+The top cue-feature combinations from @Buchanan2013 and this new data collection were then combined with the cue-feature combinations from @McRae2005 and @Vinson2008. We did not reduce their cue-feature combinations, but instead included them with the cue-feature listed in their supplemental files with the feature in the raw feature column. If features could be translated into root words with affixes, the same procedure as described above was applied. The final file then included the original dataset, cue, feature, translated feature, frequency of the original feature, frequency of the translated feature, sample size, normalized frequencies for the original and translated feature. This file includes `r nrow(dat1)` cue-feature combinations, with `r nrow(sub1)` from our dataset, `r nrow(sub1.reduce)` of which are unique cue-translated feature combinations. Statisics in Tables 1
+
+ The final data processing step was to code affixes found on the original features. A complete affix list translation file can be found online. 
+
+
+
+
+# Results
+
+
+
 
 ```{r, include=FALSE}
 ####tag examples####
