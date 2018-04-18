@@ -432,7 +432,8 @@ On the word pairs page, all information about word-pair statistics can be found.
 
 
 
-```{r, eval=FALSE, include=FALSE}
+```{r divergent-calculate, eval=FALSE, include=FALSE}
+
 ####fsg and bsg by cue-feature####
 ##getting data
 tap1 = tapply(sub1$FSG,
@@ -463,6 +464,7 @@ tap7;tap8
 ```
 
 ```{r, eval=FALSE, include=FALSE}
+
 ####fsg/bsg table will go here####
 ##can use sub1 dataset from other tables
 ##Percent goes below
@@ -500,6 +502,7 @@ sd(sub1$BSG, na.rm = TRUE)
 ```
 
 ```{r, eval=FALSE, include=FALSE}
+
 ####Correlation table goes here####
 
 #dat.cor = read.csv("acc.csv") ##for some reason it won't load the file even though i'm on the right directory
@@ -517,6 +520,7 @@ cor(dat.cor[ , -c(1:2)], use = "pairwise.complete.obs")
 ```
 
 ```{r, echo=FALSE, results='asis'}
+
 cor.table = matrix(NA, nrow = 8, ncol = 9)
 
 colnames(cor.table) = c(" ", "Root", "Raw", "Affix", "Previous COS", "JCN", "LSA", "FSG", "BSG")
