@@ -90,18 +90,34 @@ sub1 = subset(dat1,
               dat1$where == "b")
 
 ####stimuli table####
-##pulled all this code from what we did last time. Tried updating it with the new columns
-##table set up
-with(sub1, tapply(frequency_feature, list(pos_feature, school_code), mean)) ##mean frequency per school
-with(sub1, tapply(frequency_feature, list(pos_feature), mean)) ##total mean frequency per pos
-with(sub1, tapply(frequency_feature, list(school_code), mean)) ##total mean frequency per school
 
-with(sub1, tapply(frequency_feature, list(pos_feature, school_code), sd))
-with(sub1, tapply(frequency_feature, list(pos_feature), sd))
-with(sub1, tapply(frequency_feature, list(school_code), sd))
+#we want the number of features for each concept
+#reduce down to just the translated data
+sub1 = sub1[ , c("cue", "translated", "pos_cue", "school_code")]
+sub1 = unique(sub1)
+sub1$cue = droplevels(sub1$cue)
 
-mean(sub1$frequency_feature) ##total total
-sd(sub1$frequency_feature)
+#for each cue calculate the number of features listed
+nofeatures = as.data.frame(table(sub1$cue))
+colnames(nofeatures)[1] = "cue"
+
+#add in the school code and pos_cue
+finalfreq = unique(merge(nofeatures, sub1[ , c("cue", "pos_cue", "school_code")], by = "cue"))
+
+#now calculate statistics - means by school
+with(finalfreq, tapply(Freq, list(pos_cue, school_code), mean))
+with(finalfreq, tapply(Freq, list(pos_cue, school_code), sd))
+
+##mean frequency per school
+with(finalfreq, tapply(Freq, list(school_code), mean))
+with(finalfreq, tapply(Freq, list(school_code), sd))
+
+##mean frequency by part of speech
+with(finalfreq, tapply(Freq, list(pos_cue), mean))
+with(finalfreq, tapply(Freq, list(pos_cue), sd))
+
+##total total 
+mean(finalfreq$Freq); sd(finalfreq$Freq)
 
 partofspeech = unique(dat1[ , c("cue", "pos_cue")])
 POS = apa(table(partofspeech$pos_cue)/nrow(partofspeech)*100,1)
@@ -115,10 +131,13 @@ Each HIT was kept to five concepts, and usual survey response times were five to
 
 ## Data Processing
 
+The entire dataset, at each processing stage described here, can be found at: https://osf.io/cjyzw/. On our OSF page, we have included a detailed processing guide on how concepts were (re)examined for this publication. This paper was written with *R* markdown and *papaja* [@R-papaja]. The markdown document allows an interested reader to view the scripts that created the article in line with the written text. However, the processing of the text documents was performed on the raw files, and therefore, we have included the processing guide for transparency of each stage. 
 
+First, each concept was separated into an individual text file that is included as the "raw" data online. Each of these files was then spell checked and corrected when the participant answer was obviously a typo. As noted early, participants often tried to cut and paste Wikipedia or other online dictionary sources into the their answers to complete surveys quickly with minimal effort. These entries were easily found by the formatting of the webpage that was included in their answer. These answers were then discarded from the concept individual text files. Next, each concept was processed for feature frequency. In this stage, the raw frequency counts of each cue-feature combination were calculated and put together into one large file. Cue-cue combinations were discarded, as participants might write "a zebra is a horse" when asked to define *zebra*. English stop words such as *the, an, of* were then discarded, as well as terms that were often used as part of a definition (*like, means, describes*). 
 
+To create the final root cosine values, we then created a "translated" column for each feature listed. This column indicated the root word for each feature, along with the affixes that were used in the original feature. For example, the original feature *cats* would be translated to *cat* and *s*, wherein *cat* would be the translated feature and the *s* would be the affix code. Multiple affix codes were often needed for features, as *beautifully* would have been translated to *beauty*, *ful*, and *ly*. Often, the noun version of the feature would be used for the translation or the most common part of speech for each feature would be recorded. The sample size for the cue was added to this dataset, as the sample sizes varied across experiment time, as shown in Table \@ref(tab:part-table). Therefore, instead of using raw feature frequency, we normalized each count into a percent of participants that included that feature with each cue. At this stage, the data was reduced to cue-feature combinations that were listed by at least 16% of participants (matching @McRae2005's procedure) or were in the top five features listed for that cue. This calculation was performed on the translated normalized feature percent. For example, *beauty* may have been listed as *beauty, beautiful, beautifully*, and this feature would have been listed three times in the dataset for the original cue. The *frequency_feature* column indicates the frequency of the original, unedited feature, while the *frequency_translated* includes all combinations of *beauty* into one overall feature. Because non-nouns can be more difficult to create a feature list for, we included the top five descriptors in addition to the 16% listed criteria, to ensure that each concept included at least five features. Table \@ref(tab:feature-table) indicates the percent f
 
-# Results
+number of features listed for each collection site/time point by part of speech for the cue word. 
 
 ```{r feature-table, echo=FALSE, results='asis'}
 ##table
@@ -142,6 +161,15 @@ apa_table.latex(as.data.frame(stim.table),
                 col.names =  c("Institution", "Adjective",
                          "Noun", "Verb", "Other", "Total"))
 ```
+
+
+The final file then included the original dataset, cue, feature, 
+
+
+
+
+# Results
+
 
 
 ```{r, include=FALSE}
