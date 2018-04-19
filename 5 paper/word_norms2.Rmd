@@ -77,18 +77,16 @@ participant.table2[3, ] = c("Montana State University", 127, 120, 63.5)
 participant.table2[4, ] = c("Mechanical Turk 1", 571, 310, 60)
 participant.table2[5, ] = c("Mechanical Turk 2", 198, 1914, 30)         
 
-apa_table.latex(as.data.frame(participant.table2),
+apa_table(as.data.frame(participant.table2),
                 align = c(rep("l", 1), rep("c", 3)), 
-                caption = "",
-                note = "",
-                escape = FALSE,
+                caption = "Sample Size and Concept Norming Size for Each Data Collection Location/Time Point",
                 col.names = c("Institution", "Total Participants",
                          "Concepts", "Mean $N$"))
 ```
 
 ## Materials
 
-The purpose of this second norming set was to expand the @Buchanan2013 norms to include all concepts from the Semantic Priming Project [@Hutchison2010]. Therefore, these concepts were the target of the project. The original concept set was selected primarily from the @Nelson2004 database, with small overlaps in the @McRae2005 and @Vinson2008 database sets for convergent validity. In the Semantic Priming Project, cue-target pairs were shown to participants to examine naming and lexical decision time priming across related and unrelated pairs. The related pairs included first associate (most common response to a cue) and other associates (second or greater common responses to cues) as their target words. The original publication of concepts included the cue words from the Semantic Priming Project, while this project expanded to include missed cue words and all target words. The addition of these concepts allowed for complete overlap between the Semantic Priming Project and the feature production norms. 
+The purpose of this second norming set was to expand the @Buchanan2013 norms to include all concepts from the Semantic Priming Project [@Hutchison2013]. Therefore, these concepts were the target of the project. The original concept set was selected primarily from the @Nelson2004 database, with small overlaps in the @McRae2005 and @Vinson2008 database sets for convergent validity. In the Semantic Priming Project, cue-target pairs were shown to participants to examine naming and lexical decision time priming across related and unrelated pairs. The related pairs included first associate (most common response to a cue) and other associates (second or greater common responses to cues) as their target words. The original publication of concepts included the cue words from the Semantic Priming Project, while this project expanded to include missed cue words and all target words. The addition of these concepts allowed for complete overlap between the Semantic Priming Project and the feature production norms. 
 
 ```{r calculate-frequency, include=FALSE}
 
@@ -130,7 +128,7 @@ partofspeech = unique(dat1[ , c("cue", "pos_cue")])
 POS = apa(table(partofspeech$pos_cue)/nrow(partofspeech)*100,1)
 ```
 
-Concepts were labeled by part of speech using the English Lexicon Project [@Balota2007], the free association norms, and Google's define search when necessary. When labelling these words, we used the most common part of speech to categorize concepts. This choice was predominately for simplicity of categorization, however, the participants were shown concepts without the suggestion of which sense to use for the word. Therefore, multiple senses are embedded into the feature production norms, while the database is labeled with single parts of speech. The other parts of speech can be found in the English Lexicon Project or multiple other databases. This dataset was combined with @McRae2004 and @Vinson2008 feature production norms, which was a combined total of `r nrow(partofspeech)` concepts. `r POS["noun"]`% of concepts were nouns, `r POS["adjective"]`% adjectives, `r POS["verb"]`% verbs, and `r POS["other"]`% were other forms of speech, such as adverbs and conjunctions.
+Concepts were labeled by part of speech using the English Lexicon Project [@Balota2007], the free association norms, and Google's define search when necessary. When labelling these words, we used the most common part of speech to categorize concepts. This choice was predominately for simplicity of categorization, however, the participants were shown concepts without the suggestion of which sense to use for the word. Therefore, multiple senses are embedded into the feature production norms, while the database is labeled with single parts of speech. The other parts of speech can be found in the English Lexicon Project or multiple other databases. This dataset was combined with @McRae2005 and @Vinson2008 feature production norms, which was a combined total of `r nrow(partofspeech)` concepts. `r POS["noun"]`% of concepts were nouns, `r POS["adjective"]`% adjectives, `r POS["verb"]`% verbs, and `r POS["other"]`% were other forms of speech, such as adverbs and conjunctions.
 
 ## Procedure
 
@@ -162,11 +160,9 @@ stim.table[4, ] = c("Mechanical Turk 1", "6.27 (2.28)", "7.74 (4.34)", "5.77 (1.
 stim.table[5, ] = c("Mechanical Turk 2", "5.76 (1.36)", "6.62 (1.85)", "5.92 (1.38)", "5.78 (1.17)", "6.38 (1.75)")         
 stim.table[6, ] = c("Total", "5.78 (1.61)", "6.94 (2.88)", "5.67 (1.18)", "5.84 (1.71)", "6.57 (2.60)")
 
-apa_table.latex(as.data.frame(stim.table),
+apa_table(as.data.frame(stim.table),
                 align = c(rep("l", 1), rep("c", 5)), 
-                caption = "",
-                note = "",
-                escape = FALSE,
+                caption = "Average (SD) Cue-Feature Pairs by Location/Time Point",
                 col.names =  c("Institution", "Adjective",
                          "Noun", "Verb", "Other", "Total"))
 
@@ -340,10 +336,13 @@ response.table[18, ] = c(" ", "Noun", 55.41, 57.81, "16.55 (16.74)", "32.58 (20.
 response.table[19, ] = c(" ", "Verb", 22.02, 24.95, "9.50 (10.91)", "30.29 (18.24)")
 response.table[20, ] = c(" ", "Other", 2.82, 2.31, "17.76 (15.83)", "28.45 (16.83)")
 
+response.table[ , 3] = apa(as.numeric(response.table[ , 3]), 2)
+response.table[ , 4] = apa(as.numeric(response.table[ , 4]), 2)
+
 apa_table.latex(as.data.frame(response.table),
                 align = c(rep("l", 2), rep("c", 4)), 
-                caption = "",
-                note = "",
+                caption = "Percents and Average Normalized Percent Frequency for Cue-Feature Part of Speech Combinations",
+                note = "Raw words indicate original feature listed, while root words indicated translated feature. ",
                 escape = FALSE,
                col.names =  c("Cue Type", "Feature Type",
                          "\\% Raw", "\\% Root", "$M$ Freq. Raw", "$M$ Freq. Root"))
@@ -405,9 +404,7 @@ affix.table[13, ] = c("Time", "fore, pre, post, re", 0.54)
 
 apa_table.latex(as.data.frame(affix.table),
                 align = c(rep("l", 2), rep("c", 1)), 
-                caption = "",
-                note = "",
-                escape = FALSE,
+                caption = "Example of Affix Coding and Percent of Affixes Found",
                col.names =  c("Affix Tag", "Example",
                          "Percent"))
 ```
@@ -422,9 +419,9 @@ This formula is similar to a dot-product correlation, where $A_i$ and $B_i$ indi
 
 ## Website
 
-In addition to our OSF page, we present a revamped website for this data at http://www.wordnorms.com/. The single words page includes information about each of the cue words including cue set size, concreteness, word frequency from multiple sources, length, full part of speech, orthographic/phonographic neighborhood, and number of phonemes, syllables, and morphemes. These values were taken from @Nelson2004, @Balota2007, and @Brysbaertsubtitle. A definition of each of these variables is provided along with the minimum, maximum, mean, and standard deviation of numeric values. The table is programmed using Shiny apps [@R-shiny]. Shiny is an *R* package that allows the creation of dynamic graphical user interfaces for interactive web applications. The advantage to using Shiny applications is data manipulation and visualization with the additional bonus of up to date statistics for provided data (i.e., as typos are fixed or data is updated, the web app will display the most recent caculations). In addition to the variable table, users can search and save filtered output using our Shiny search app. With this app, you can filter for specific variable ranges and save the output in a csv or Excel file. The complete data is also provided for download.
+In addition to our OSF page, we present a revamped website for this data at http://www.wordnorms.com/. The single words page includes information about each of the cue words including cue set size, concreteness, word frequency from multiple sources, length, full part of speech, orthographic/phonographic neighborhood, and number of phonemes, syllables, and morphemes. These values were taken from @Nelson2004, @Balota2007, and @Brysbaert2009. A definition of each of these variables is provided along with the minimum, maximum, mean, and standard deviation of numeric values. The table is programmed using Shiny apps [@R-shiny]. Shiny is an *R* package that allows the creation of dynamic graphical user interfaces for interactive web applications. The advantage to using Shiny applications is data manipulation and visualization with the additional bonus of up to date statistics for provided data (i.e., as typos are fixed or data is updated, the web app will display the most recent caculations). In addition to the variable table, users can search and save filtered output using our Shiny search app. With this app, you can filter for specific variable ranges and save the output in a csv or Excel file. The complete data is also provided for download.
 
-On the word pairs page, all information about word-pair statistics can be found. A second variable table is provided with semantic and associative statistics. This dataset includes the cue and target words from this project (cue-cue combinations), the root, raw, and affix cosines described above, as well as the original @Buchanan2013 cosines. Additional semantic information includes Latent Semantic Analysis [LSA; @Landeuar] and JCN [@Jiang] values provided in the @Maki2004 norms, along with FSG and BSG from the @Nelson2004 norms for association. The descriptions, minimum, maximum, mean, and standard deviations of these values are provided in the app. Again, the search app includes all of these stimuli for cue-cue combinations with two or more features in common, where you can filter this data for experimental stimuli creation. The separation of single and word-pair data (as well as cosine calculation reduction to cues with two features in common) was practical, as the applications run slowly as a factor of the number of rows and columns. On each page, we link the data, applications, and source code so that others may use and manipulate our work depending on their data creation or visualization goals.
+On the word pairs page, all information about word-pair statistics can be found. A second variable table is provided with semantic and associative statistics. This dataset includes the cue and target words from this project (cue-cue combinations), the root, raw, and affix cosines described above, as well as the original @Buchanan2013 cosines. Additional semantic information includes Latent Semantic Analysis [LSA; @Landauer1997] and JCN [@Jiang1997] values provided in the @Maki2004 norms, along with FSG and BSG from the @Nelson2004 norms for association. The descriptions, minimum, maximum, mean, and standard deviations of these values are provided in the app. Again, the search app includes all of these stimuli for cue-cue combinations with two or more features in common, where you can filter this data for experimental stimuli creation. The separation of single and word-pair data (as well as cosine calculation reduction to cues with two features in common) was practical, as the applications run slowly as a factor of the number of rows and columns. On each page, we link the data, applications, and source code so that others may use and manipulate our work depending on their data creation or visualization goals.
 
 # Results
 
@@ -468,7 +465,7 @@ fsg.table$max = apa(c(maxfsg, max(fsgtest$FSG, na.rm = T)), 2, F)
   
 apa_table.latex(fsg.table,
                 align = c(rep("l", 1), rep("c", 5)), 
-                caption = "Percent and Mean Overlap between cue-feature lists from the free association norms",
+                caption = "Percent and Mean Overlap to the Free Association Norms",
                 escape = FALSE,
                col.names =  c(" ", "\\% Overlap", "$M$ FSG", "$SD$ FSG", "Min", "Max"))
 
@@ -525,11 +522,9 @@ cor.table[6, ] = c("LSA", .18, .15, .10, .21, -.06, 1, " ", " ")
 cor.table[7, ] = c("FSG", .06, .04, .08, .10, -.15, .24, 1, " ")
 cor.table[8, ] = c("BSG", .14, .15, .17, .18, -.18, .26, .31, 1)
 
-apa_table.latex(as.data.frame(cor.table),
+apa_table(as.data.frame(cor.table),
                 align = c(rep("l", 1), rep("c", 8)), 
-                caption = "",
-                note = "",
-                escape = FALSE,
+                caption = "Correlations between Semantic, Associative, and Thematic Variables",
                col.names =  c(" ", "Root", "Raw", "Affix", "Previous COS", "JCN", "LSA", "FSG", "BSG"))
 ```
 
@@ -603,12 +598,13 @@ Tables \@ref(tab:ldt-table) and \@ref(tab:name-table) display the correlations b
 
 # Discussion
 
-This research project focused on expanding the avaliability of English semantic feature overlap norms, in an effort to provide more coverage of concepts that occur in other large database projects like the Semantic Priming and English Lexicon Projects. The number and breadth of linguistic variables and normed databases has increased over the years, however, researchers can still be limited by the concept overlap between them. Projects like the Small World of Words provide newly expanded datasets for association norms, and our work helps fill the voids for corresponding semantic norms. To provide the largest dataset of similiar data, we combined the newly collected data with previous work by using @Buchanan2013, @McRae2004, and @Vinson2008 together. These norms were reprocessed from previous work to explore the impact of coding system for feature overlap. As shown in the correlation between root and raw cosines, the parsing of words to root form creates very similiar results, and each results similiarly correlated with other variables. This result does not imply that these values are the same, as root cosines were larger than their corresponding raw cosine. It does, however, imply that the cue-feature coding can produce similiar results in raw or translated format.
+This research project focused on expanding the avaliability of English semantic feature overlap norms, in an effort to provide more coverage of concepts that occur in other large database projects like the Semantic Priming and English Lexicon Projects. The number and breadth of linguistic variables and normed databases has increased over the years, however, researchers can still be limited by the concept overlap between them. Projects like the Small World of Words provide newly expanded datasets for association norms, and our work helps fill the voids for corresponding semantic norms. To provide the largest dataset of similiar data, we combined the newly collected data with previous work by using @Buchanan2013, @McRae2004, and @Vinson2008 together. These norms were reprocessed from previous work to explore the impact of coding system for feature overlap. As shown in the correlation between root and raw cosines, the parsing of words to root form creates very similiar results, and each results similiarly correlated with other variables. This result does not imply that these values are the same, as root cosines were larger than their corresponding raw cosine. It does, however, imply that the cue-feature coding can produce similiar results in raw or translated format. 
 
-Of particular interest was the information that is often lost when translating raw features back to a root word. One surprising result in this study was the sheer number of affixes present on each cue word. With these values, we believe we have captured some of the nuisance that is often discarded in this type of research. Affix cosines were less related to their feature root and raw counterparts, but also showed small correlations with semantic priming. Potentially, affix overlap can be used to add small, but important predictive value to related semantic phenomena.    
+Of particular interest was the information that is often lost when translating raw features back to a root word. One surprising result in this study was the sheer number of affixes present on each cue word. With these values, we believe we have captured some of the nuisance that is often discarded in this type of research. Affix cosines were less related to their feature root and raw counterparts, but also showed small correlations with semantic priming. Potentially, affix overlap can be used to add small, but important predictive value to related semantic phenomena. Further investigation into the compound prediction of these variables is warrented to fully explore how these, and other lexical variables, may be used to understand semantic priming. An examination of the cosine values from the Semantic Priming Project cue-target set indicates that these values were low, with many zeros. This restriction of range could explain the small correlations with priming, along with the understanding that semantic priming can be exceedingly variable and small across items. 
 
-Further investigation into the compound prediction of these variables is warrented to fully explore how these, and other lexical variables, may be used to understand semantic priming. An examination of the cosine values from the Semantic Priming Project cue-target set indicates that these values were low, with many zeros. This restriction of range could explain the small correlations with priming, along with the understanding that semantic priming can be exceedingly variable and small across items. 
+We encourage readers to use the corresponding website associated with these norms to download the data, explore the Shiny apps, and use the options provided for controlled experimental stimuli creation. We previously documented the limitations of feature production norms that rely on on single word instances as their features (i.e., *four* and *legs*), rather than combined phrase sets. One limitation, potentially, is the inability to create fine distinctions between cues, however, the small feature set sizes imply that the granulation of features is large, since many distinguishing features are often never listed in these tasks. For instance, *dogs* are living creatures, but *has lungs* or *has skin* would usually not be listed during a feature production task, and thus, feature sets should not be considered a complete snapshot of mental represenation [@Rogers2004]. The previous data and other norms were purposely combined in the recoded format, so that researchers could use the entire set of avaliable norms which increases comparability across datasets. Given the strong correlation between databases, we suspect that using single word features does not reduce their reliability and validity. 
 
+One other important limitation of the instructions in this study is that multiple senses of concepts were not distinguished. We did not wish to prime participants for specific senses to capture the features for multiple senses of a concept, however, this procedure could lead to lower cosine values for concepts that might intuitively seem very related. The feature production lists could be used to sort senses and recalculate overlap values, but it is likely that feature information is correspondingly mixed or sorted into small sublists in memory as well. The addition of the coded affix information may help capture some of those sense differences, as well as the some of the spatial and relational features that are not traditionally captured by simple feature production. For example, by understanding the numbers or actors affixes, we may gain more information about semanticity that is often regarded as something to disregard in data processing. 
 
 \newpage
 
