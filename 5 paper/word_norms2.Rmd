@@ -417,6 +417,7 @@ This procedure is a slight departure from our previous work, as we previously ar
 $$
 \frac{\sum_{i=1}^{n} A_i \times B_i} {\sqrt{\sum_{i=1}^{n} A_i^2} \times \sqrt{\sum_{i=1}^{n} B_i^2}}
 $$
+
 This formula is similar to a dot-product correlation, where $A_i$ and $B_i$ indicate the overlapping feature normalized frequency between cue A and cue B. The *i* subscript denotes the current cue, and when features match, the frequencies are multiplied together and summed across all matches ($\Sigma$). For the denominator, the feature normalized frequency is first squared and summed from *i* to *n* features for cue A and B. The square root of these summation values is then multiplied together. In essence, the numerator calculates the overlap of feature frequency for matching features, while the denominator accounts for the entire feature frequency set for each cue. Cosine values range from 0 (no overlapping features) to 1 (complete overlapping features). With nearly five thousand cue words, just under twenty-five million cue-cue cosine combinations can be calculated. In the datasets presented online, we only included cue-cue combinations with a feature overlap of at least two features, in order to reduce the large quantity of zero and very low cosine values. This procedure additionally allowed for online presentation of the data, as millions of lines was not feasible for our server. The complete feature list, along with our code to calculate cosine, can be used to obtain values not presented in our data if necessary.
 
 ## Website
@@ -427,7 +428,9 @@ On the word pairs page, all information about word-pair statistics can be found.
 
 # Results
 
-An examination of the results of the cue-feature lists indicated that the new data collection is similar to the previous semantic feature production norms. As shown in Table \@ref(tab:feature-table), the new Mechanical Turk data showed roughly the same number of listed features for each cue concepts, usually between five to seven features. Table \@ref(tab:percent-table) portrayed that adjective cues generally included other adjectives or nouns as features, while noun cues were predominately described by other nouns. Verb cues included a large feature list of nouns, but then was equally split between adjectives, other verbs, and other categories. Lastly, the other cue types generally elicited nouns and verbs. Normalized percent frequencies were generally between seven and twenty percent of the participant sampling listing features when examining the raw words. These words included multiple forms, as the percent increased to around thirty percent when features were translated into their root words. Indeed, nearly half of the `r nrow(sub1)` cue-feature pairs were repeated, as `r nrow(sub1.reduce)` cue-feature pairs were unique when examining translated features. `r nrow(realaffix)` affix values were found, which was for `r length(unique(realaffix$cue))` cue concepts. `r table(realaffix$order)["a1"]` first affixes were found, with `r table(realaffix$order)["a2"]` second place affixes, and `r table(realaffix$order)["a3"]` third place affixes. 
+An examination of the results of the cue-feature lists indicated that the new data collection is similar to the previous semantic feature production norms. As shown in Table \@ref(tab:feature-table), the new Mechanical Turk data showed roughly the same number of listed features for each cue concepts, usually between five to seven features. Table \@ref(tab:percent-table) portrayed that adjective cues generally included other adjectives or nouns as features, while noun cues were predominately described by other nouns. Verb cues included a large feature list of nouns, but then was equally split between adjectives, other verbs, and other categories. Lastly, the other cue types generally elicited nouns and verbs. Normalized percent frequencies were generally between seven and twenty percent of the participant sampling listing features when examining the raw words. These words included multiple forms, as the percent increased to around thirty percent when features were translated into their root words. Indeed, nearly half of the `r nrow(sub1)` cue-feature pairs were repeated, as `r nrow(sub1.reduce)` cue-feature pairs were unique when examining translated features. 
+
+`r nrow(realaffix)` affix values were found, which was for `r length(unique(realaffix$cue))` cue concepts. `r table(realaffix$order)["a1"]` first affixes were found, with `r table(realaffix$order)["a2"]` second place affixes, and `r table(realaffix$order)["a3"]` third place affixes. Table \@ref(tab:affix-table) shows the distribution of these affix values. Generally, numbers were the largest category of affixes indicating that participants often indicated the quantity of the feature when describing the cue word. The second largest affix category was characteristics which often indicated the switch to or from a noun form of the feature word. Verb tenses (past tense, present participle, and third person) comprised a large set of affixes indicating the type of concept or when a concept might be doing an action for a cue. Persons and objects were also indicated about 7% of the time, while actions and processes of the cue were mentioned about 8% of the time. 
 
 ## Convergent Validity
 
@@ -488,79 +491,58 @@ apa_table.latex(as.data.frame(cor.table),
 
 ## Divergent Validity
 
-## Semantic Priming Prediction 
-
-```{r divergent-calculate, eval=FALSE, include=FALSE}
-
-####fsg and bsg by cue-feature####
-##getting data
-tap1 = tapply(sub1$FSG,
-       sub1$pos_feature, mean, na.rm = TRUE)
-tap2 = tapply(sub1$FSG,
-              sub1$pos_feature, sd, na.rm = TRUE)
-tap1;tap2
-
-tap3 = tapply(sub1$BSG,
-       sub1$pos_feature, mean, na.rm = TRUE)
-tap4 = tapply(sub1$BSG,
-              sub1$pos_feature, sd, na.rm = TRUE)
-tap3;tap3
-
-
-tap5 = tapply(sub1$FSG,
-       sub1$pos_translated, mean, na.rm = TRUE)
-tap6 = tapply(sub1$FSG,
-              sub1$pos_translated, sd, na.rm = TRUE)
-tap5;tap6
-
-tap7 = tapply(sub1$BSG,
-       sub1$pos_translated, mean, na.rm = TRUE)
-tap8 = tapply(sub1$BSG,
-              sub1$pos_translated, sd, na.rm = TRUE)
-tap7;tap8
-
-```
-
-```{r, eval=FALSE, include=FALSE}
+```{r divergent-table, echo=FALSE, results='asis'}
 
 ####fsg/bsg table will go here####
 ##can use sub1 dataset from other tables
 ##Percent goes below
 
+fsg.table = as.data.frame(matrix(NA, nrow = 5, ncol = 6))
+colnames(fsg.table) = c("stim", "overlap", "mean", "sd", "min", "max")
+
 percentNOTmiss = function(x){ sum(is.na(x) == FALSE)/length(x) *100 }
 
-tapply(sub1$FSG,
-       sub1$pos_feature, percentNOTmiss)
-tapply(sub1$BSG,
-       sub1$pos_feature, percentNOTmiss)
+#cue translated FSG but remove the duplicates due to the translation
+fsgtest = unique(dat1[ , c("FSG", "pos_cue", "cue", "translated")])
+fsgtest$pos_cue = factor(fsgtest$pos_cue,
+                         levels = c("adjective", "noun", "verb", "other"),
+                         labels = c("Adjective", "Noun", "Verb", "Other"))
 
-tapply(sub1$FSG,
-       sub1$pos_translated, percentNOTmiss)
-tapply(sub1$BSG,
-       sub1$pos_translated, percentNOTmiss)
+overlap = tapply(fsgtest$FSG, fsgtest$pos_cue, percentNOTmiss)
+meanfsg = tapply(fsgtest$FSG, fsgtest$pos_cue, mean, na.rm = T)
+sdfsg = tapply(fsgtest$FSG, fsgtest$pos_cue, sd, na.rm = T)
+minfsg = tapply(fsgtest$FSG, fsgtest$pos_cue, min, na.rm = T)
+maxfsg = tapply(fsgtest$FSG, fsgtest$pos_cue, max, na.rm = T)
 
-##means and sds
-tapply(sub1$FSG,
-       sub1$pos_feature, mean, na.rm = TRUE)
-tapply(sub1$FSG,
-       sub1$pos_translated, mean, na.rm = TRUE)
+overlap;meanfsg;sdfsg;minfsg;maxfsg
 
-tapply(sub1$FSG,
-       sub1$pos_feature, sd, na.rm = TRUE)
-tapply(sub1$FSG,
-       sub1$pos_translated, sd, na.rm = TRUE)
+fsg.table$stim = c(levels(fsgtest$pos_cue), "Total")
+fsg.table$overlap = apa(c(overlap, percentNOTmiss(fsgtest$FSG)),2)
+fsg.table$mean = apa(c(meanfsg, mean(fsgtest$FSG, na.rm = T)), 2, F)
+fsg.table$sd = apa(c(sdfsg, sd(fsgtest$FSG, na.rm = T)), 2, F)
+fsg.table$min = apa(c(minfsg, min(fsgtest$FSG, na.rm = T)), 2, F)
+fsg.table$max = apa(c(maxfsg, max(fsgtest$FSG, na.rm = T)), 2, F)
+  
+apa_table.latex(fsg.table,
+                align = c(rep("l", 1), rep("c", 5)), 
+                caption = "Percent and Mean Overlap between cue-feature lists from the free association norms",
+                escape = FALSE,
+               col.names =  c(" ", "\\% Overlap", "$M$ FSG", "$SD$ FSG", "Min", "Max"))
 
-mean(sub1$FSG, na.rm = TRUE)
-mean(sub1$BSG, na.rm = TRUE)
-
-sd(sub1$FSG, na.rm = TRUE)
-sd(sub1$BSG, na.rm = TRUE)
-
-##Still need total for feature and root
 ```
+
+When collecting semantic feature production norms, there can be a concern that the information produced will simply mimic the free association norms, and thus, be a representation of association (context) rather than semanticity (meaning). Table \@ref(tab:divergent-table) portrays the overlap with the @Nelson2004 norms. The percent of time a cue-feature combination was present in the free association norms was calculated, along with the average FSG for those overlapping pairs. These values were calculated on the complete dataset with the @McRae2005 and @Vinson2008 norms, as we are presenting them as a combined dataset, on the translated cue-feature set only. The overall overlap between the database cue-feature sets and the free association cue-target sets was approximately 37%, ranging from 32% for verbs and nearly 52% for adjectives. Similiar to our previous results, the range of the FSG was large (.01 - .94), however, the average FSG was low for these overlapping pairs, *M* = .11 (*SD* = .14). These results indicated that while it will always be difficult to separate association and meaning, the dataset presented here represents a low association when examining overlapping values, and more than 60% of the data is completely separate from the free association norms. The limitation to this finding is the removal of idiosyncratic responses from the @Nelson2004 norms, but even if these were to be included in some form, the average FSG would still be quite low when comparing cue-feature lists to cue-target lists. 
+
+## Semantic Priming Prediction 
+
+A secondary goal of this 
+
 
 
 # Discussion
+
+With these values, we believe we have captured some of the nuisance that is often discarded in this type of research. (affixes)   
+
 
 \newpage
 
