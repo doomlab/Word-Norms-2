@@ -3,7 +3,7 @@
 [tbp]
 \begin{center}
 \begin{threeparttable}
-\caption{\label{tab:part-table}}
+\caption{\label{tab:part-table}Sample Size and Concept Norming Size for Each Data Collection Location/Time Point}
 \begin{tabular}{lccc}
 \toprule
 Institution & Total Participants & Concepts & Mean $N$\\
@@ -14,11 +14,7 @@ Montana State University & 127 & 120 & 63.5\\
 Mechanical Turk 1 & 571 & 310 & 60\\
 Mechanical Turk 2 & 198 & 1914 & 30\\
 \bottomrule
-\addlinespace
 \end{tabular}
-\begin{tablenotes}[para]
-\textit{Note.}
-\end{tablenotes}
 \end{threeparttable}
 \end{center}
 \end{table*}
@@ -29,7 +25,7 @@ Mechanical Turk 2 & 198 & 1914 & 30\\
 [tbp]
 \begin{center}
 \begin{threeparttable}
-\caption{\label{tab:feature-table}}
+\caption{\label{tab:feature-table}Average (SD) Cue-Feature Pairs by Location/Time Point}
 \begin{tabular}{lccccc}
 \toprule
 Institution & Adjective & Noun & Verb & Other & Total\\
@@ -41,11 +37,7 @@ Mechanical Turk 1 & 6.27 (2.28) & 7.74 (4.34) & 5.77 (1.17) & 5.57 (1.40) & 7.14
 Mechanical Turk 2 & 5.76 (1.36) & 6.62 (1.85) & 5.92 (1.38) & 5.78 (1.17) & 6.38 (1.75)\\
 Total & 5.78 (1.61) & 6.94 (2.88) & 5.67 (1.18) & 5.84 (1.71) & 6.57 (2.60)\\
 \bottomrule
-\addlinespace
 \end{tabular}
-\begin{tablenotes}[para]
-\textit{Note.}
-\end{tablenotes}
 \end{threeparttable}
 \end{center}
 \end{table*}
@@ -56,7 +48,7 @@ Total & 5.78 (1.61) & 6.94 (2.88) & 5.67 (1.18) & 5.84 (1.71) & 6.57 (2.60)\\
 [tbp]
 \begin{center}
 \begin{threeparttable}
-\caption{\label{tab:percent-table}}
+\caption{\label{tab:percent-table}Percents and Average Normalized Percent Frequency for Cue-Feature Part of Speech Combinations}
 \begin{tabular}{llcccc}
 \toprule
 Cue Type & Feature Type & \% Raw & \% Root & $M$ Freq. Raw & $M$ Freq. Root\\
@@ -64,16 +56,16 @@ Cue Type & Feature Type & \% Raw & \% Root & $M$ Freq. Raw & $M$ Freq. Root\\
 Adjective & Adjective & 38.09 & 29.74 & 17.84 (16.47) & 30.02 (18.83)\\
  & Noun & 40.02 & 46.74 & 13.14 (14.96) & 29.71 (19.94)\\
  & Verb & 17.69 & 20.72 & 8.51 (9.78) & 26.88 (17.27)\\
- & Other & 4.2 & 2.8 & 15.17 (15.64) & 28.04 (15.54)\\
+ & Other & 4.20 & 2.80 & 15.17 (15.64) & 28.04 (15.54)\\
 Noun & Adjective & 16.56 & 12.07 & 15.55 (15.17) & 31.20 (18.17)\\
  & Noun & 60.85 & 62.67 & 17.21 (17.01) & 33.26 (20.05)\\
- & Verb & 20.8 & 23.68 & 8.88 (9.73) & 31.01 (17.87)\\
+ & Verb & 20.80 & 23.68 & 8.88 (9.73) & 31.01 (17.87)\\
  & Other & 1.79 & 1.58 & 17.06 (15.29) & 28.87 (17.14)\\
 Verb & Adjective & 15.16 & 12.27 & 13.95 (13.98) & 30.03 (18.28)\\
  & Noun & 42.92 & 44.35 & 14.59 (14.92) & 29.59 (18.90)\\
  & Verb & 36.92 & 39.72 & 12.75 (14.85) & 30.43 (19.54)\\
- & Other & 5 & 3.66 & 19.16 (15.95) & 25.59 (19.54)\\
-Other & Adjective & 20.8 & 20.32 & 16.61 (17.37) & 31.66 (19.51)\\
+ & Other & 5.00 & 3.66 & 19.16 (15.95) & 25.59 (19.54)\\
+Other & Adjective & 20.80 & 20.32 & 16.61 (17.37) & 31.66 (19.51)\\
  & Noun & 42.74 & 39.03 & 16.77 (19.41) & 37.28 (25.94)\\
  & Verb & 19.66 & 23.93 & 7.18 (7.57) & 26.14 (19.38)\\
  & Other & 16.81 & 16.71 & 22.72 (16.69) & 30.70 (18.48)\\
@@ -85,7 +77,7 @@ Total & Adjective & 19.74 & 14.93 & 16.12 (15.57) & 30.75 (18.37)\\
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\textit{Note.}
+\textit{Note.} Raw words indicate original feature listed, while root words indicated translated feature.
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
@@ -97,7 +89,7 @@ Total & Adjective & 19.74 & 14.93 & 16.12 (15.57) & 30.75 (18.37)\\
 [tbp]
 \begin{center}
 \begin{threeparttable}
-\caption{\label{tab:affix-table}}
+\caption{\label{tab:affix-table}Example of Affix Coding and Percent of Affixes Found}
 \begin{tabular}{llc}
 \toprule
 Affix Tag & Example & Percent\\
@@ -116,11 +108,7 @@ Slang & bros, bike, bbq, diff, h2o & 0.12\\
 Third Person & s & 6.16\\
 Time & fore, pre, post, re & 0.54\\
 \bottomrule
-\addlinespace
 \end{tabular}
-\begin{tablenotes}[para]
-\textit{Note.}
-\end{tablenotes}
 \end{threeparttable}
 \end{center}
 \end{table*}
@@ -131,36 +119,7 @@ Time & fore, pre, post, re & 0.54\\
 [tbp]
 \begin{center}
 \begin{threeparttable}
-\caption{\label{tab:correlation-table}}
-\begin{tabular}{lcccccccc}
-\toprule
-  & Root & Raw & Affix & Previous COS & JCN & LSA & FSG & BSG\\
-\midrule
-Root & 1 &  &  &  &  &  &  & \\
-Raw & 0.93 & 1 &  &  &  &  &  & \\
-Affix & 0.5 & 0.53 & 1 &  &  &  &  & \\
-Previous COS & 0.94 & 0.91 & 0.49 & 1 &  &  &  & \\
-JCN & -0.18 & -0.22 & -0.17 & -0.22 & 1 &  &  & \\
-LSA & 0.18 & 0.15 & 0.1 & 0.21 & -0.06 & 1 &  & \\
-FSG & 0.06 & 0.04 & 0.08 & 0.1 & -0.15 & 0.24 & 1 & \\
-BSG & 0.14 & 0.15 & 0.17 & 0.18 & -0.18 & 0.26 & 0.31 & 1\\
-\bottomrule
-\addlinespace
-\end{tabular}
-\begin{tablenotes}[para]
-\textit{Note.}
-\end{tablenotes}
-\end{threeparttable}
-\end{center}
-\end{table*}
-\efloatseparator
- 
-\begin{table*}[hbt]
-\ifnextchar[{\eatarg}{}
-[tbp]
-\begin{center}
-\begin{threeparttable}
-\caption{\label{tab:divergent-table}Percent and Mean Overlap between cue-feature lists from the free association norms}
+\caption{\label{tab:divergent-table}Percent and Mean Overlap to the Free Association Norms}
 \begin{tabular}{lccccc}
 \toprule
   & \% Overlap & $M$ FSG & $SD$ FSG & Min & Max\\
@@ -172,6 +131,99 @@ Other & 44.44 & .13 & .18 & .01 & .88\\
 Total & 37.47 & .11 & .14 & .01 & .94\\
 \bottomrule
 \end{tabular}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:correlation-table}Correlations between Semantic, Associative, and Thematic Variables}
+\begin{tabular}{lcccccccc}
+\toprule
+  & Root & Raw & Affix & Previous COS & JCN & LSA & FSG & BSG\\
+\midrule
+Root & 1 &  &  &  &  &  &  & \\
+Raw & .93 & 1 &  &  &  &  &  & \\
+Affix & .50 & .53 & 1 &  &  &  &  & \\
+Previous COS & .94 & .91 & .49 & 1 &  &  &  & \\
+JCN & -.18 & -.22 & -.17 & -.22 & 1 &  &  & \\
+LSA & .18 & .15 & .10 & .21 & -.06 & 1 &  & \\
+FSG & .06 & .04 & .08 & .10 & -.15 & .24 & 1 & \\
+BSG & .14 & .15 & .17 & .18 & -.18 & .26 & .31 & 1\\
+\bottomrule
+\end{tabular}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:ldt-table}LDT Response Latencies Correlation with Semantic and Associative Variables}
+\begin{tabular}{lcccc}
+\toprule
+Variable & \multicolumn{1}{c}{FA-LDT 200} & \multicolumn{1}{c}{FA-LDT 1200} & \multicolumn{1}{c}{OA-LDT 200} & \multicolumn{1}{c}{OA-LDT 1200}\\
+\midrule
+Root COS & .12 & .07 & .09 & .08\\
+Raw COS & .12 & .06 & .09 & .06\\
+Affix COS & .09 & .07 & .06 & .04\\
+Target Root FSS & .00 & -.01 & -.02 & -.02\\
+Target Raw FSS & -.00 & -.02 & -.02 & -.02\\
+Target CSS & .01 & .01 & -.03 & .02\\
+Cue Root FSS & .04 & -.01 & .04 & .02\\
+Cue Raw FSS & .06 & -.01 & .03 & .02\\
+Cue CSS & .05 & .02 & .07 & .02\\
+FSG & .01 & .10 & .05 & .06\\
+BSG & .14 & .09 & .09 & .06\\
+LSA & .08 & .08 & .13 & .08\\
+JCN & -.01 & .01 & -.06 & .01\\
+\bottomrule
+\addlinespace
+\end{tabular}
+\begin{tablenotes}[para]
+\textit{Note.} Missing values excluded pairwise for JCN. CSS: cue set size and FSS: feature set size.
+\end{tablenotes}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:name-table}Naming Response Latencies Correlation with Semantic and Associative Variables}
+\begin{tabular}{lcccc}
+\toprule
+Variable & \multicolumn{1}{c}{FA-Name 200} & \multicolumn{1}{c}{FA-Name 1200} & \multicolumn{1}{c}{OA-Name 200} & \multicolumn{1}{c}{OA-Name 1200}\\
+\midrule
+Root COS & -.01 & .09 & .00 & .05\\
+Raw COS & -.01 & .10 & .00 & .04\\
+Affix COS & -.01 & .06 & .02 & .01\\
+Target Root FSS & -.03 & -.05 & .01 & .03\\
+Target Raw FSS & -.03 & -.03 & -.00 & .03\\
+Target CSS & -.04 & -.04 & .01 & .00\\
+Cue Root FSS & -.02 & -.00 & .02 & -.00\\
+Cue Raw FSS & .00 & -.01 & .02 & .00\\
+Cue CSS & .00 & -.02 & .00 & .02\\
+FSG & -.03 & .06 & .04 & .03\\
+BSG & .11 & .10 & .11 & .04\\
+LSA & .07 & .04 & .06 & .05\\
+JCN & -.04 & .00 & -.08 & -.01\\
+\bottomrule
+\addlinespace
+\end{tabular}
+\begin{tablenotes}[para]
+\textit{Note.} Missing values excluded pairwise for JCN. CSS: cue set size and FSS: feature set size.
+\end{tablenotes}
 \end{threeparttable}
 \end{center}
 \end{table*}
