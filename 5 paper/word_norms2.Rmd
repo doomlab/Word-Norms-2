@@ -51,53 +51,15 @@ library(shiny) #to cite shiny
 ```
 
 Semantic representations are the focus of a large area of research which tries to delineate the 
-essential features of a concept. These features are key to many models of semantic memory [@CollinsQuillian; @CollinsLoftus], and they have been used to create both feature based [@Smith1974; @Cree2003; @Vigliocco2004] and distributional based models [@Jones2007; @Griffiths2007; @Riordan2011]. Previous work on semantic feature production norms in English includes @Buchanan2013, @McRae2005, and @Vinson2008. Category set creation is a similar task with corresponding norms that have been prevelant in the literature [@Toglia1978; @Toglia2009; @Rosch1975; @Ashcraft1978]. Feature production norms are created by soliciting participants to list properties or features of a target concept. These features are then compiled into feature sets that are thought to represent, at least somewhat, the memory representation of a particular concept. For example, when queried on what defines a *cat*, participants may list *tail*, *animal*, and *pet*. These features capture the most common types of descriptons: "is a" and "has a". Additionally feature descriptions may include uses, locations, behavior, and gender (i.e., *actor* denotes both a person and gender). The goal of these norms is often to create a set of high-probability features, as there can and will be many idiosyncratic features listed in this task, corresponding to the theory of fuzzy logic for category representation [@Medin1989]. These norms have now been published in Italian [@Montefinese2013; @Reverberi2004], German [and Italian, @Kremer2011], Portuguese [@Stein2009] for the blind [@Lenci2013], Spanish [@Vivas2017] and Dutch [@Ruts2004].
+essential features of a concept. These features are key to many models of semantic memory [@CollinsQuillian; @CollinsLoftus], and they have been used to create both feature based [@Smith1974; @Cree2003; @Vigliocco2004] and distributional based models [@Jones2007; @Griffiths2007; @Riordan2011]. Previous work on semantic feature production norms in English includes @Buchanan2013, @McRae2005, and @Vinson2008. Category set creation is a similar task with corresponding norms that have been prevelant in the literature [@Toglia1978; @Toglia2009; @Rosch1975; @Ashcraft1978]. Feature production norms are created by soliciting participants to list properties or features of a target concept. These features are then compiled into feature sets that are thought to represent, at least somewhat, the memory representation of a particular concept. 
 
-The data from these studies has been used to explain many semantic based phenomena in several ways. First, the feature production norms can be used as the underlying data to create models of semantic priming and cognition [@Cree1999; @Rogers2004; @Vigliocco2004]. 
+For example, when queried on what defines a *cat*, participants may list *tail*, *animal*, and *pet*. These features capture the most common types of descriptons: "is a" and "has a". Additionally feature descriptions may include uses, locations, behavior, and gender (i.e., *actor* denotes both a person and gender). The goal of these norms is often to create a set of high-probability features, as there can and will be many idiosyncratic features listed in this task, corresponding to the theory of fuzzy logic for category representation [@Medin1989]. These norms have now been published in Italian [@Montefinese2013; @Reverberi2004], German [and Italian, @Kremer2011], Portuguese [@Stein2009] for the blind [@Lenci2013], Spanish [@Vivas2017] and Dutch [@Ruts2004].
 
-
-<---this is still underway 
-deficits in categories @Moss2002
-
-
- and in studies on the probabilistic
-nature of language (Cree & McRae, 2003; McRae, de Sa, &
-Seidenberg, 1997; Pexman, Holyk, & Monfils, 2003).
-
-Furthermore, Vinson and Vigliocco used
-their own norm collection to investigate topics related to
-semantic aphasias (Vinson & Vigliocco, 2002; Vinson,
-Vigliocco, Cappa, & Siri, 2003), to build representation models
-(Vigliocco, Vinson, Lewis, & Garrett, 2004), and to understand
-semantic–syntactic differences (Vigliocco, Vinson,
-Damian, & Levelt, 2002; Vigliocco, Vinson, & Siri, 2005)
-before finally publishing their collected set in 2008.
-
-
-Semantic feature production norms have also been used to
-construct experimental stimuli. The norms provide a large
-number of variables that can be used to select stimuli. For
-example, researchers may need to select features with certain
-properties, such as high distinctiveness or relevance, to study
-their influence in certain phenomena, such as semantic interference
-(e.g., Vieth, McMahon, & de Zubicaray, 2014). They
-could also need to select concepts with specific characteristics,
-such as an elevated number of defining features (semantic
-richness), to analyze their effect on certain cognitive processes
-(e.g., Grondin, Lupker,&McRae, 2009; Pexman, Hargreaves,
-Siakaluk, Bodner, & Pope, 2008; Yap, Lim, & Pexman,
-2015). Moreover, the norms are useful to measure semantic
-similarity between concepts in order to study semantic effects
-(Montefinese, Zannino, & Ambrosini, 2015; Vigliocco,
-Vinson, Damian, & Levelt, 2002; Vigliocco et al., 2004).
-For these and many other purposes, semantic feature production
-norms are the best database to obtain relevant
-information.
----->
+The data from these studies has been used to explain many semantic based phenomena in several ways. First, the feature production norms can be used as the underlying data to create models of semantic priming and cognition [@Cree1999; @Rogers2004; @Vigliocco2004]. @Moss2002 explored how deficits in cateories may arise with production norms, and since these studies focus on the likelihood of cue-feature combinations, features can be used to examine the probablistic nature of language [@Cree2003; @McRae1997; @Pexman2003]. When using database norms to select for stimuli, others have studied semantic word-picture interference [@Veith2014], recognition memory [@Montefinese2015], and semantic richness, which is a measure of shared defining features [@Grondin2009; @Kounios2009; @Yap2015; @Yap2016]. The Vinson and Vigliocco labs have shown the power of turning in-house data projects into a larger norming set [@Vinson2008], as they published papers on aphasia [@Vinson2002; @Vinson2003], meaning-syntactic differences [@Vigliocco2002; @Vigliocco2005], and representational models [@Vigliocco2004].
 
 However, it would be unwise to consider these norms an exact representation of a concept in memory [@McRae2005]. These norms represent salient features that participants can recall, likely because saliency is considered special to our understanding of concepts [@Cree2003]. Additionally, @Barsalou2003 suggested that participants are likely creating a mental model of the concept based on experience and using that model to create a feature property list. This model may represent a specific instance of a category (i.e., their pet dog), and feature lists will represent that particular memory.
 
-The advantage of big data in psycholinguistics cannot be understated. Computational modeling of memory requires sufficiently large datasets to accurately portray semantic memory. There are many large corpora that could be used for SOMETHING (see the SUBTLEX projects CITE CITE CITE). Additionally, there are large lexicon projects that explore how the basic features of words, such as orthographic neighborhood, length, and part of speech, affect semantic priming [CITE CITE CITE]. Large databases of AOA, concreteness, and valence provide further avenues for understanding the impact these rated properties have on semantic memory. For example, AOA and concreteness ratings have been shown to predict performance on recall tasks [CITE DEWHURST, CITE BRYSBAERT], while valence ratings are useful for gauging the effects of emotion on meaning [CITE WARRINER]. However, even as we detail a small subset of the larger normed stimuli avaliable [CITE US TOD], research can be limited by the overlap between these datasets. If a researcher wishes to control for lexical and relational variables, the inclusion of each new variable to the study will further restrict the item pool for study. Large, overlapping datasets are crucial for exploring the entire range of an effect, and to ensure that the stimuli set is not the only contributing factor to the results of a study. 
+The advantage of big data in psycholinguistics cannot be understated. Computational modeling of memory requires sufficiently large datasets to accurately portray semantic memory. There are many large corpora that could be used for exploring langauge through frequency [see the SUBTLEX projects @Brysbaert2009; @New2007]. Additionally, there are large lexicon projects that explore how the basic features of words, such as orthographic neighborhood, length, and part of speech, affect semantic priming [@Balota2007; @Keuleers2012]. Large databases of age of acquisition [@Kuperman2012], concreteness [@Brysbaert2013], and valence [@Warriner2013] provide further avenues for understanding the impact these rated properties have on semantic memory. For example, age of acquisition and concreteness ratings have been shown to predict performance on recall tasks [@Dewhurst1998; @Brysbaert2013], while valence ratings are useful for gauging the effects of emotion on meaning [@Warriner2013]. However, even as we detail here a small subset of the larger normed stimuli avaliable [@Buchanan2018], research can be limited by the overlap between these datasets. If a researcher wishes to control for lexical and relational variables, the inclusion of each new variable to the study will further restrict the item pool for study. Large, overlapping datasets are crucial for exploring the entire range of an effect, and to ensure that the stimuli set is not the only contributing factor to the results of a study. 
 
 Therefore, the purpose of this study is to further expand the stimuli and variable options avaliable to the field, as well as promote the use of these norms for stimuli creation. To accomplish these goals, we have expanded our original semantic feature production norms to include all cues and targets from The Semantic Priming Project [@Hutchison2013]. The existing norms were reprocessed along with these new norms to explore the impact of feature coding and affixes on variable creation and prediction. The entire dataset is avaliable on our website (http://www.wordnorms.com) which has been revamped with a new interface and web applications to easily find and create stimuli for future experiments. The data collection, (re)processing, website, and finalized dataset are detailed below. 
 
