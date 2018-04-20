@@ -188,7 +188,7 @@ JCN & -.01 & .01 & -.06 & .01\\
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\textit{Note.} Missing values excluded pairwise for JCN. CSS: cue set size and FSS: feature set size.
+\textit{Note.} Missing values excluded pairwise for JCN. FA: first associate, OA: other associate, CSS: cue set size, and FSS: feature set size.
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
@@ -222,7 +222,7 @@ JCN & -.04 & .00 & -.08 & -.01\\
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\textit{Note.} Missing values excluded pairwise for JCN. CSS: cue set size and FSS: feature set size.
+\textit{Note.} Missing values excluded pairwise for JCN. FA: first associate, OA: other associate, CSS: cue set size, and FSS: feature set size.
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
