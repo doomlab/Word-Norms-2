@@ -1,5 +1,5 @@
-\documentclass[english,man]{apa6}
-
+\documentclass[english,,man]{apa6}
+\usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
@@ -9,242 +9,246 @@
 \else % if luatex or xelatex
   \ifxetex
     \usepackage{mathspec}
-    \usepackage{xltxtra,xunicode}
   \else
     \usepackage{fontspec}
   \fi
-  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \newcommand{\euro}{€}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
 \fi
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 % use microtype if available
-\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={English Semantic Feature Production Norms: An Extended Database of 4,436 Concepts},
+            pdfauthor={Erin M. Buchanan, K. D. Valentine, \& Nicholas P. Maxwell},
+            pdfkeywords={semantics, word norms, database, psycholinguistics},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[shorthands=off,main=english]{babel}
+\else
+  \usepackage{polyglossia}
+  \setmainlanguage[]{english}
+\fi
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
 
-% Table formatting
-\usepackage{longtable, booktabs}
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+
+  \title{English Semantic Feature Production Norms: An Extended Database of 4,436
+Concepts}
+    \author{Erin M. Buchanan\textsuperscript{1}, K. D. Valentine\textsuperscript{2},
+\& Nicholas P. Maxwell\textsuperscript{1}}
+    \date{}
+  
+\shorttitle{Semantic Norms}
+\affiliation{
+\vspace{0.5cm}
+\textsuperscript{1} Missouri State University\\\textsuperscript{2} University of Missouri}
+\keywords{semantics, word norms, database, psycholinguistics}
+\usepackage{csquotes}
+\usepackage{upgreek}
+\captionsetup{font=singlespacing,justification=justified}
+
+\usepackage{longtable}
 \usepackage{lscape}
-% \usepackage[counterclockwise]{rotating}   % Landscape page setup for large tables
-\usepackage{multirow}		% Table styling
-\usepackage{tabularx}		% Control Column width
-\usepackage[flushleft]{threeparttable}	% Allows for three part tables with a specified notes section
-\usepackage{threeparttablex}            % Lets threeparttable work with longtable
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage[flushleft]{threeparttable}
+\usepackage{threeparttablex}
 
-% Create new environments so endfloat can handle them
-% \newenvironment{ltable}
-%   {\begin{landscape}\begin{center}\begin{threeparttable}}
-%   {\end{threeparttable}\end{center}\end{landscape}}
+\newenvironment{lltable}{\begin{landscape}\begin{center}\begin{ThreePartTable}}{\end{ThreePartTable}\end{center}\end{landscape}}
 
-\newenvironment{lltable}
-  {\begin{landscape}\begin{center}\begin{ThreePartTable}}
-  {\end{ThreePartTable}\end{center}\end{landscape}}
-
-  \usepackage{ifthen} % Only add declarations when endfloat package is loaded
-  \ifthenelse{\equal{\string man}{\string man}}{%
-   \DeclareDelayedFloatFlavor{ThreePartTable}{table} % Make endfloat play with longtable
-   % \DeclareDelayedFloatFlavor{ltable}{table} % Make endfloat play with lscape
-   \DeclareDelayedFloatFlavor{lltable}{table} % Make endfloat play with lscape & longtable
-  }{}%
-
-
-
-% The following enables adjusting longtable caption width to table width
-% Solution found at http://golatex.de/longtable-mit-caption-so-breit-wie-die-tabelle-t15767.html
 \makeatletter
 \newcommand\LastLTentrywidth{1em}
 \newlength\longtablewidth
 \setlength{\longtablewidth}{1in}
-\newcommand\getlongtablewidth{%
- \begingroup
-  \ifcsname LT@\roman{LT@tables}\endcsname
-  \global\longtablewidth=0pt
-  \renewcommand\LT@entry[2]{\global\advance\longtablewidth by ##2\relax\gdef\LastLTentrywidth{##2}}%
-  \@nameuse{LT@\roman{LT@tables}}%
-  \fi
-\endgroup}
+\newcommand{\getlongtablewidth}{\begingroup \ifcsname LT@\roman{LT@tables}\endcsname \global\longtablewidth=0pt \renewcommand{\LT@entry}[2]{\global\advance\longtablewidth by ##2\relax\gdef\LastLTentrywidth{##2}}\@nameuse{LT@\roman{LT@tables}} \fi \endgroup}
 
 
-\ifxetex
-  \usepackage[setpagesize=false, % page size defined by xetex
-              unicode=false, % unicode breaks when used with xetex
-              xetex]{hyperref}
-\else
-  \usepackage[unicode=true]{hyperref}
-\fi
-\hypersetup{breaklinks=true,
-            pdfauthor={},
-            pdftitle={English Semantic Feature Production Norms: An Extended Database of 4,436 Concepts},
-            colorlinks=true,
-            citecolor=blue,
-            urlcolor=blue,
-            linkcolor=black,
-            pdfborder={0 0 0}}
-\urlstyle{same}  % don't use monospace font for urls
+\DeclareDelayedFloatFlavor{ThreePartTable}{table}
+\DeclareDelayedFloatFlavor{lltable}{table}
+\DeclareDelayedFloatFlavor*{longtable}{table}
+\makeatletter
+\renewcommand{\efloat@iwrite}[1]{\immediate\expandafter\protected@write\csname efloat@post#1\endcsname{}}
+\makeatother
+\usepackage{lineno}
 
-\setlength{\parindent}{0pt}
-%\setlength{\parskip}{0pt plus 0pt minus 0pt}
+\linenumbers
 
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\authornote{Erin M. Buchanan is an Associate Professor of
+Quantitative Psychology at Missouri State University. K. D. Valentine is
+a Ph.D.~candidate at the University of Missouri. Nicholas P. Maxwell is
+a Masters' candidate at Missouri State University.
 
-\ifxetex
-  \usepackage{polyglossia}
-  \setmainlanguage{}
-\else
-  \usepackage[english]{babel}
-\fi
+We would like to thank Keith Hutchison and David Balota for their
+contributions to this project, including the funds to secure Mechanical
+Turk participants. Additionally, we thank Simon de Deyne and an
+anonymous reviewer for their comments on this manuscript.
 
-% Manuscript styling
-\captionsetup{font=singlespacing,justification=justified}
-\usepackage{csquotes}
-\usepackage{upgreek}
+Correspondence concerning this article should be addressed to Erin M.
+Buchanan, 901 S. National Ave, Springfield, MO 65897. E-mail:
+\href{mailto:erinbuchanan@missouristate.edu}{\nolinkurl{erinbuchanan@missouristate.edu}}}
 
- % Line numbering
-  \usepackage{lineno}
-  \linenumbers
-
-
-\usepackage{tikz} % Variable definition to generate author note
-
-% fix for \tightlist problem in pandoc 1.14
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-
-% Essential manuscript parts
-  \title{English Semantic Feature Production Norms: An Extended Database of 4,436
-Concepts}
-
-  \shorttitle{Semantic Norms}
+\abstract{
+A limiting factor in understanding memory and language is often the
+availability of large numbers of stimuli to use and explore in
+experimental studies. In this study, we expand on three previous
+databases of concepts to over 4,000 words including nouns, verbs,
+adjectives, and other parts of speech. Participants in the study were
+asked to provide lists of features for each concept presented (a
+semantic feature production task), which were combined with the previous
+research in this area. These feature lists for each concept were then
+coded into their root word form and affixes (i.e., \emph{cat} and
+\emph{s} for \emph{cats}) to explore the impact of word form on semantic
+similarity measures, which are often calculated by comparing concept
+feature lists (feature overlap). All concept features, coding, and
+calculated similarity information is provided in a searchable database
+for easy access and utilization for future researchers when designing
+experiments that use word stimuli. The final database of word pairs was
+combined with the Semantic Priming Project to examine the relation of
+semantic similarity statistics on semantic priming in tandem with other
+psycholinguistic variables.
 
 
-  \author{Erin M. Buchanan\textsuperscript{1}, K. D. Valentine\textsuperscript{2}, \& Nicholas P. Maxwell\textsuperscript{1}}
-
-  % \def\affdep{{"", "", ""}}%
-  % \def\affcity{{"", "", ""}}%
-
-  \affiliation{
-    \vspace{0.5cm}
-          \textsuperscript{1} Missouri State University\\
-          \textsuperscript{2} University of Missouri  }
-
-  \authornote{
-    Erin M. Buchanan is an Associate Professor of Quantitative Psychology at
-    Missouri State University. K. D. Valentine is a Ph.D.~candidate at the
-    University of Missouri. Nicholas P. Maxwell is a Masters' candidate at
-    Missouri State University.
-    
-    We would like to thank Keith Hutchison and David Balota for their
-    contributions to this project, including the funds to secure Mechanical
-    Turk participants.
-    
-    Correspondence concerning this article should be addressed to Erin M.
-    Buchanan, 901 S. National Ave, Springfield, MO 65897. E-mail:
-    \href{mailto:erinbuchanan@missouristate.edu}{\nolinkurl{erinbuchanan@missouristate.edu}}
-  }
-
-
-  \abstract{The largest limiting factor in understanding memory and language
-networks is often the availability of normed stimuli to use and explore
-in experimental studies. In this study, we expand on three previous
-semantic feature overlap norms to over 4,000 cue stimuli ranging from
-nouns, verbs, adjectives, and other parts of speech. Participants in the
-norming study were asked to provide feature components of each cue
-stimuli, which were combined with the previous research using semantic
-feature production procedures. In addition to expanding previous
-research, this project explores different semantic overlap measurements
-by coding each word feature listed by root and affixes to determine
-different strengths of feature overlap. All information is provided in a
-searchable database for easy access and utilization for future
-researchers when designing experiments. The final database of cue-target
-pairs was paired with the Semantic Priming Project to examine the
-relation of feature overlap statistics on semantic priming in tandem
-with other psycholinguistic variables, such as association and
-thematics.}
-  \keywords{semantics, word norms, database, psycholinguistics \\
-
-    
-  }
-
-
-
-
+}
 
 \usepackage{amsthm}
-\newtheorem{theorem}{Theorem}
-\newtheorem{lemma}{Lemma}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}{Lemma}[section]
 \theoremstyle{definition}
-\newtheorem{definition}{Definition}
-\newtheorem{corollary}{Corollary}
-\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}[section]
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{proposition}{Proposition}[section]
 \theoremstyle{definition}
-\newtheorem{example}{Example}
+\newtheorem{example}{Example}[section]
 \theoremstyle{definition}
-\newtheorem{exercise}{Exercise}
+\newtheorem{exercise}{Exercise}[section]
 \theoremstyle{remark}
 \newtheorem*{remark}{Remark}
 \newtheorem*{solution}{Solution}
 \begin{document}
-
 \maketitle
-
-\setcounter{secnumdepth}{0}
-
-
 
 Semantic representations are the focus of a large area of research which
 tries to delineate the essential features of a concept. These features
-are key to many models of semantic memory (Collins \& Loftus, 1975;
-Collins \& Quillian, 1969), and they have been used to create both
-feature based (Cree \& McRae, 2003; Smith, Shoben, \& Rips, 1974;
-Vigliocco, Vinson, Lewis, \& Garrett, 2004) and distributional based
-models (Griffiths, Steyvers, \& Tenenbaum, 2007; Jones \& Mewhort, 2007;
-Riordan \& Jones, 2011). Category set creation was a seminal task with
-corresponding norms that have been prevalent in the literature
-(Ashcraft, 1978; Rosch \& Mervis, 1975; Toglia, 2009; Toglia \& Battig,
-1978). Feature production norms are created by soliciting participants
-to list properties or features of a target concept. These features are
-then compiled into feature sets that are thought to represent, at least
-somewhat, the memory representation of a particular concept. Previous
-work on semantic feature production norms in English includes databases
-by Buchanan, Holmes, Teasley, and Hutchison (2013), McRae, Cree,
-Seidenberg, and McNorgan (2005), and Vinson and Vigliocco (2008).
+are key to models of semantic memory (i.e., memory for facts; Collins \&
+Quillian, 1969; Collins \& Loftus, 1975), and they have been used to
+create both feature based (Cree \& McRae, 2003; Smith, Shoben, \& Rips,
+1974; Vigliocco, Vinson, Lewis, \& Garrett, 2004) and distributional
+based models (Griffiths, Steyvers, \& Tenenbaum, 2007; Jones \& Mewhort,
+2007; Riordan \& Jones, 2011). Feature based models indicate that the
+degree of similarity between concepts is defined by their overlapping
+feature lists, while distributional based models posit that similarity
+is defined by the overlap between linguistic network or context. To
+create feature based similarity, participants were often asked to create
+lists of properties for categories of words. This property listing was a
+seminal task with corresponding norms that have been prevalent in the
+literature (Ashcraft, 1978; Rosch \& Mervis, 1975; Toglia, 2009; Toglia
+\& Battig, 1978). Feature production norms are created by soliciting
+participants to list properties or features of a target concept without
+focusing on category. These features are then compiled into feature sets
+that are thought to represent, at least somewhat, the memory
+representation of a particular concept. Previous work on semantic
+feature production norms in English includes databases by Buchanan,
+Holmes, Teasley, and Hutchison (2013), McRae, Cree, Seidenberg, and
+McNorgan (2005), and Vinson and Vigliocco (2008).
 
-For example, when queried on what defines a \emph{cat}, participants may
-list \emph{tail}, \emph{animal}, and \emph{pet}. These features capture
-the most common types of descriptions: \enquote{is a} and \enquote{has
-a}. Additionally, feature descriptions may include uses, locations,
-behavior, and gender (i.e., \emph{actor} denotes both a person and
-gender). The goal of these norms is often to create a set of
+For example, when queried on what features define a \emph{cat},
+participants may list \emph{tail}, \emph{animal}, and \emph{pet}. These
+features capture the most common types of descriptions: \enquote{is a}
+and \enquote{has a}. Additionally, feature descriptions may include
+uses, locations, behavior, and gender (i.e., \emph{actor} denotes both a
+person and gender). The goal of these norms is often to create a set of
 high-probability features, as there can and will be many idiosyncratic
-features listed in this task, corresponding to the theory of fuzzy logic
-for category representation (Medin, 1989). These norms have now been
-published in Italian (Montefinese, Ambrosini, Fairfield, \& Mammarella,
-2013; Reverberi, Capitani, \& Laiacona, 2004), German (and Italian,
-Kremer \& Baroni, 2011), Portuguese (Stein \& de Azevedo Gomes, 2009),
-Spanish (Vivas, Vivas, Comesaña, Coni, \& Vorano, 2017), and Dutch (Ruts
-et al., 2004), as well as for the blind (Lenci, Baroni, Cazzolli, \&
-Marotta, 2013).
+features listed in this task, to explore the nature of concept
+structure. In the classic view of category structure, concepts have
+defining features or properties, while the probabilistic view suggests
+that categories are fuzzy with concepts that are typical of a concept
+(Medin, 1989). These norms have now been published in Italian
+(Montefinese, Ambrosini, Fairfield, \& Mammarella, 2013; Reverberi,
+Capitani, \& Laiacona, 2004), German (and Italian, Kremer \& Baroni,
+2011), Portuguese (Stein \& de Azevedo Gomes, 2009), Spanish (Vivas,
+Vivas, Comesaña, Coni, \& Vorano, 2017), and Dutch (Ruts et al., 2004),
+as well as for the blind (Lenci, Baroni, Cazzolli, \& Marotta, 2013).
 
-The data from these studies has been used to explain many semantic based
-phenomena in several ways. First, the feature production norms can be
-used as the underlying data to create models of semantic priming and
-cognition (Cree, McRae, \& McNorgan, 1999; Rogers \& McClelland, 2004;
-Vigliocco et al., 2004). Moss, Tyler, and Devlin (2002) explored how
-deficits in categories may arise with production norms, and since these
-studies focused on the likelihood of cue-feature combinations, features
-can be used to examine the probabilistic nature of language (Cree \&
-McRae, 2003; McRae, \{de Sa\}, \& Seidenberg, 1997; Pexman, Holyk, \&
-Monfils, 2003). When using database norms to select for stimuli, others
-have studied semantic word-picture interference (Vieth, McMahon, \&
-Zubicaray, 2014), recognition memory (Montefinese, Zannino, \&
-Ambrosini, 2015), and semantic richness, which is a measure of shared
+Creation of these norms is vital to provide investigators with concepts
+that can be used in future research. The concepts presented in the
+feature production norming task are usually called \emph{cues}, and the
+responses to the cue are called \emph{features}. In a semantic priming
+task, the concept paired with a cue (first word) is denoted as a
+\emph{target} (second word). In a lexical decision task, participants
+are shown cue words before a related or unrelated target word. Their
+task is to decide if the target word is a word or nonword as quickly as
+possible. A similar task, naming, involves reading the second target
+word aloud after viewing a related or unrelated cue word. Semantic
+priming occurs when the target word is recognized (responded to or read
+aloud) faster after the related cue word in comparison to the unrelated
+cue word (Moss et al., 1995). The feature list data created from the
+production task can be used to determine the strength of the relation
+between cue and target word, often by calculating the feature overlap,
+or number of shared features between concepts (McRae et al., 2005). Both
+the cue-feature lists and the cue-cue combinations (i.e., the relation
+between two cues in a feature production dataset, which becomes a
+cue-target combination in the priming task) are useful and important
+data for researchers in exploring various semantic based phenomena.
+
+The feature category lists can provide insight into the probabilistic
+nature of language and conceptual structure (Cree \& McRae, 2003; McRae,
+Sa, \& Seidenberg, 1997; Moss, Tyler, \& Devlin, 2002; Pexman, Holyk, \&
+Monfils, 2003). Additionally, the feature production norms can be used
+as the underlying data to create models of semantic priming and
+cognition focusing on cue-target relation (Cree, McRae, \& McNorgan,
+1999; Rogers \& McClelland, 2004; Vigliocco et al., 2004). When using
+database norms to select for stimuli, others have studied semantic
+word-picture interference (i.e., slower naming times when distractor
+words are related category concepts in a picture naming task; Vieth,
+Mcmahon, \& Zubicaray, 2014), recognition memory (Montefinese, Zannino,
+\& Ambrosini, 2015), and semantic richness, which is a measure of shared
 defining features (Grondin, Lupker, \& McRae, 2009; Kounios et al.,
-2009; Yap \& Pexman, 2016; Yap, Lim, \& Pexman, 2015). The Vinson and
+2009; Yap, Lim, \& Pexman, 2015; Yap \& Pexman, 2016). The Vinson and
 Vigliocco labs have shown the power of turning in-house data projects
 into a larger norming set (Vinson \& Vigliocco, 2008), as they published
-papers on aphasia (Vinson \& Vigliocco, 2002; Vinson, Vigliocco, Cappa,
-\& Siri, 2003), meaning-syntactic differences (Vigliocco, Vinson, \&
-Siri, 2005; Vigliocco, Vinson, Damian, \& Levelt, 2002), and
-representational models (Vigliocco et al., 2004).
+papers on aphasia (i.e., the loss of understanding speech; Vinson \&
+Vigliocco, 2002; Vinson, Vigliocco, Cappa, \& Siri, 2003),
+meaning-syntactic differences (i.e., differences in naming times based
+on semantic or syntactic similarity; Vigliocco, Vinson, Damian, \&
+Levelt, 2002; Vigliocco, Vinson, \& Siri, 2005), and representational
+models (Vigliocco et al., 2004).
 
 However, it would be unwise to consider these norms as an exact
 representation of a concept in memory (McRae et al., 2005). These norms
@@ -259,29 +263,33 @@ feature lists will represent that particular memory.
 Computational modeling of memory requires sufficiently large datasets to
 accurately portray semantic memory, therefore, the advantage of big data
 in psycholinguistics cannot be understated. There are many large corpora
-that could be used for exploring language through frequency (see the
-SUBTLEX projects Brysbaert \& New, 2009; New, Brysbaert, Veronis, \&
-Pallier, 2007). Additionally, there are large lexicon projects that
-explore how the basic features of words, such as orthographic
-neighborhood, length, and part of speech, affect semantic priming
-(Balota et al., 2007; Keuleers, Lacey, Rastle, \& Brysbaert, 2012).
-Large databases of age of acquisition (Kuperman, Stadthagen-Gonzalez, \&
-Brysbaert, 2012), concreteness (Brysbaert, Warriner, \& Kuperman, 2014),
-and valence (Warriner, Kuperman, \& Brysbaert, 2013) provide further
-avenues for understanding the impact these rated properties have on
-semantic memory. For example, age of acquisition and concreteness
-ratings have been shown to predict performance on recall tasks
-(Brysbaert et al., 2014; Dewhurst, Hitch, \& Barry, 1998), while valence
-ratings are useful for gauging the effects of emotion on meaning
-(Warriner et al., 2013). These projects represent a small subset of the
-larger normed stimuli available (Buchanan, Valentine, \& Maxwell, 2018),
-however, research is still limited by the overlap between these
-datasets. If a researcher wishes to control for lexical and relational
-variables, the inclusion of each new variable to the study will further
-restrict the item pool for study. Large, overlapping datasets are
-crucial for exploring the entire range of an effect, and to ensure that
-the stimuli set is not the only contributing factor to the results of a
-study.
+that could be used for exploring the structure of language and memory
+through frequency (see the SUBTLEX projects Brysbaert \& New, 2009; New,
+Brysbaert, Veronis, \& Pallier, 2007). Additionally, there are large
+lexicon projects that explore how the basic features of words affect
+semantic priming, such as orthographic neighborhood (words that are one
+letter different from the concept), length, and part of speech (Balota
+et al., 2007; Keuleers, Lacey, Rastle, \& Brysbaert, 2012). In contrast
+to these basic linguistic features of words, other norming efforts have
+involved subjective ratings of concepts. Large databases of age of
+acquisition (i.e., rated age of learning the concept; Kuperman,
+Stadthagen-Gonzalez, \& Brysbaert, 2012), concreteness (i.e., rating of
+how perceptible a concept is; Brysbaert, Warriner, \& Kuperman, 2014),
+and valence (i.e., rating of emotion in a concept; Warriner, Kuperman,
+\& Brysbaert, 2013) provide further avenues for understanding the impact
+these rated properties have on semantic memory. For example, age of
+acquisition and concreteness ratings have been shown to predict
+performance on recall tasks (Brysbaert et al., 2014; Dewhurst, Hitch, \&
+Barry, 1998), while valence ratings are useful for gauging the effects
+of emotion on meaning (Warriner et al., 2013). These projects represent
+a small subset of the larger normed stimuli available (Buchanan,
+Valentine, \& Maxwell, 2018), however, research is still limited by the
+overlap between these datasets. If a researcher wishes to control for
+lexical characteristics and subjective rating variables, the inclusion
+of each new variable to the study will further restrict the item pool
+for study. Large, overlapping datasets are crucial for exploring the
+entire range of an effect, and to ensure that the stimuli set is not the
+only contributing factor to the results of a study.
 
 Therefore, the purpose of this study is to further expand the stimuli
 and variable options available to the field, as well as promote the use
@@ -289,16 +297,19 @@ of these norms for stimuli creation. To accomplish these goals, we have
 expanded our original semantic feature production norms (Buchanan et
 al., 2013) to include all cues and targets from The Semantic Priming
 Project (Hutchison et al., 2013). The existing norms were reprocessed
-along with these new norms to explore the impact of feature coding and
-affixes on variable creation and prediction. The entire dataset is
-available on our website (\url{http://www.wordnorms.com}) which has been
-revamped with a new interface and web applications to easily find and
-select stimuli for future experiments. The data collection,
-(re)processing, website, and finalized dataset are detailed below.
+along with these new norms to provide new feature coding and affixes
+(i.e., word addition that modifies meaning, such as \emph{pre} or
+\emph{ing}). The entire dataset is available on our website
+(\url{http://wordnorms.com/}) which has been revamped with a new
+interface and web applications to easily find and select stimuli for
+future experiments. The data collection, (re)processing, website, and
+finalized dataset are detailed below.
 
-\section{Method}\label{method}
+\hypertarget{method}{%
+\section{Method}\label{method}}
 
-\subsection{Participants}\label{participants}
+\hypertarget{participants}{%
+\subsection{Participants}\label{participants}}
 
 Participants in the newly collected stimuli set were gathered from
 Amazon's Mechanical Turk, which is a large, diverse participant pool
@@ -334,7 +345,8 @@ Mechanical Turk 2 & 198 & 1914 & 30\\
 \end{center}
 \end{table}
 
-\subsection{Materials}\label{materials}
+\hypertarget{materials}{%
+\subsection{Materials}\label{materials}}
 
 The purpose of this second norming set was to expand the Buchanan et al.
 (2013) norms to include all concepts from the Semantic Priming Project
@@ -343,15 +355,18 @@ primarily from the Nelson, McEvoy, and Schreiber (2004) database, with
 small overlaps in the McRae et al. (2005) and Vinson and Vigliocco
 (2008) database sets for convergent validity. In the Semantic Priming
 Project, cue-target pairs were shown to participants to examine naming
-and lexical decision time priming across related and unrelated pairs.
-The related pairs included first associate (most common response to a
-cue) and other associates (second or greater common responses to cues)
-as their target words. The Buchanan et al. (2013) publication of
-concepts included the cue words from the Semantic Priming Project, while
-this project expanded to include unnormed cue words and all target words
-for all first and other associate pairs. The addition of these concepts
-allowed for complete overlap between the Semantic Priming Project and
-feature production norms.
+(i.e., reading a concept aloud) and lexical decision (i.e., responding
+if a presented string is a word or nonword) response latency priming
+across related and unrelated pairs. The related pairs included first
+associate (most common response to a cue, \emph{sum}-\emph{add}) and
+other associates (second or greater common responses to cues,
+\emph{safe}-\emph{protect}) as their target words. The Buchanan et al.
+(2013) publication of concepts included many of the cue words from the
+Semantic Priming Project, while this project expanded to include
+unnormed cue words and all target words for all first and other
+associate pairs. The addition of these concepts allowed for complete
+overlap between the Semantic Priming Project and feature production
+norms.
 
 Concepts were labeled by part of speech using the English Lexicon
 Project (Balota et al., 2007), the free association norms, and Google's
@@ -365,11 +380,12 @@ the database is labeled with single parts of speech. The other parts of
 speech can be found in the English Lexicon Project or multiple other
 databases. This dataset was combined with McRae et al. (2005) and Vinson
 and Vigliocco (2008) feature production norms, which resulted in a
-combined total of 4437 concepts. 70.4\% of concepts were nouns, 14.9\%
-adjectives, 12.4\% verbs, and 2.3\% were other forms of speech, such as
+combined total of 4437 concepts. NA\% of concepts were nouns, NA\%
+adjectives, NA\% verbs, and NA\% were other forms of speech, such as
 adverbs and conjunctions.
 
-\subsection{Procedure}\label{procedure}
+\hypertarget{procedure}{%
+\subsection{Procedure}\label{procedure}}
 
 Each HIT was kept to five concepts, and usual survey response times were
 between five to seven minutes. Each HIT was open until thirty
@@ -393,7 +409,8 @@ the Mechanical Turk framework. Approved HITs were compensated through
 the Mechanical Turk system. All answers were then combined into a larger
 dataset.
 
-\subsection{Data Processing}\label{data-processing}
+\hypertarget{data-processing}{%
+\subsection{Data Processing}\label{data-processing}}
 
 The entire dataset, at each processing stage described here, can be
 found at: \url{https://osf.io/cjyzw/}. On our OSF page, we have included
@@ -421,19 +438,18 @@ zebra is a horse} when asked to define \emph{zebra}. English stop words
 such as \emph{the, an, of} were then discarded, as well as terms that
 were often used as part of a definition (\emph{like, means, describes}).
 
-To create the final root cosine values, we then created a
-\enquote{translated} column for each feature listed. This column
-indicated the root word for each feature, and additional columns were
-added with the affixes that were used in the original feature. For
-example, the original feature \emph{cats} would be translated to
-\emph{cat} and \emph{s}, wherein \emph{cat} would be the translated
-feature and the \emph{s} would be the affix code. Multiple affix codes
-were often needed for features, as \emph{beautifully} would have been
-translated to \emph{beauty}, \emph{ful}, and \emph{ly}. Often, the noun
-version of the feature would be used for the translation or the most
-common part of speech for each feature would be recorded. The sample
-size for the cue was added to this dataset, as the sample sizes varied
-across experiment time, as shown in Table \ref{tab:part-table}.
+We then created a \enquote{translated} column for each feature listed.
+This column indicated the root word for each feature, and additional
+columns were added with the affixes that were used in the original
+feature. For example, the original feature \emph{cats} would be
+translated to \emph{cat} and \emph{s}, wherein \emph{cat} would be the
+translated feature and the \emph{s} would be the affix code. Multiple
+affix codes were often needed for features, as \emph{beautifully} would
+have been translated to \emph{beauty}, \emph{ful}, and \emph{ly}. Often,
+the noun version of the feature would be used for the translation or the
+most common part of speech for each feature would be recorded. The
+sample size for the cue was added to this dataset, as the sample sizes
+varied across experiment time, as shown in Table \ref{tab:part-table}.
 Therefore, instead of using raw feature frequency, we normalized each
 count into the percent of participants that included that feature with
 each cue.
@@ -441,11 +457,12 @@ each cue.
 At this stage, the data was reduced to cue-feature combinations that
 were listed by at least 16\% of participants (matching McRae et al.
 (2005)'s procedure) or were in the top five features listed for that
-cue. This calculation was performed on the translated normalized feature
-percent. For example, \emph{beauty} may have been listed as
-\emph{beauty, beautiful, beautifully, beautifulness}, and this feature
-would have been listed four times in the dataset for the original cue.
-The \emph{frequency\_feature} column indicates the frequency of the
+cue. This calculation was performed on the feature percent for the root
+word (the \emph{translated} column). For example, \emph{beauty} may have
+been listed as \emph{beauty, beautiful, beautifully, beautifulness}, and
+this feature would have been listed four times in the dataset for the
+original cue (original feature in the \emph{feature} column). The
+\emph{frequency\_feature} column indicates the frequency of the
 original, unedited feature, while the \emph{frequency\_translated}
 includes all combinations of \emph{beauty} into one overall feature.
 Because non-nouns can be more difficult to create a feature list for, we
@@ -462,14 +479,14 @@ cue-feature part of speech combinations. This table includes the percent
 of features listed for each cue-feature part of speech combination
 (i.e., what is the percent of time that both the cue and feature were
 both adjectives) for the original feature (raw) and translated feature
-(root). Next, the normalized frequency percent average was calculated
-along with their standard deviations. These columns indicate the
-frequency percent that a cue-feature part of speech combination was
-listed across participants (i.e., what is the average percent of
-participants that listed an adjective feature for an adjective cue).
-These two types of calculation describe the likelihood of seeing part of
-speech combinations across the concepts, along with the likelihood of
-those cue-feature part of speech combinations across participants.
+(root). Next, the average frequency percent was calculated along with
+their standard deviations. These columns indicate the percent that a
+cue-feature part of speech combination was listed across participants
+(i.e., what is the average percent of participants that listed an
+adjective feature for an adjective cue). These two types of calculation
+describe the likelihood of seeing part of speech combinations across the
+concepts, along with the likelihood of those cue-feature part of speech
+combinations across participants.
 
 \begin{table}[tbp]
 \begin{center}
@@ -494,7 +511,7 @@ Total & 5.78 (1.61) & 6.94 (2.88) & 5.67 (1.18) & 5.84 (1.71) & 6.57 (2.60)\\
 \begin{table}[tbp]
 \begin{center}
 \begin{threeparttable}
-\caption{\label{tab:percent-table}Percents and Average Normalized Percent Frequency for Cue-Feature Part of Speech Combinations}
+\caption{\label{tab:percent-table}Percent and Average Percent of Frequency for Cue-Feature Part of Speech Combinations}
 \begin{tabular}{llcccc}
 \toprule
 Cue Type & Feature Type & \% Raw & \% Root & $M$ Freq. Raw & $M$ Freq. Root\\
@@ -523,42 +540,52 @@ Total & Adjective & 19.74 & 14.93 & 16.12 (15.57) & 30.75 (18.37)\\
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\textit{Note.} Raw words indicate original feature listed, while root words indicated translated feature. 
+\normalsize{\textit{Note.} Raw words indicate original feature listed, while root words indicated translated feature. These data are only from the current project.}
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
 \end{table}
 
-The top cue-feature combinations the reprocessed and new data collection
-were then combined with the cue-feature combinations from McRae et al.
-(2005) and Vinson and Vigliocco (2008). We included all of their
-cue-feature combinations with the cue-feature listed in their
-supplemental files with the feature in the raw feature column. If
-features could be translated into root words with affixes, the same
-procedure as described above was applied. The final file then included
-the original dataset, cue, feature, translated feature, frequency of the
-original feature, frequency of the translated feature, sample size, and
-normalized frequencies for the original and translated feature. This
-file includes 69284 cue-original feature combinations, with 48925 from
+The top cue-feature combinations for the reprocessed and new data
+collection were then combined with the cue-feature combinations from
+McRae et al. (2005) and Vinson and Vigliocco (2008). We included all the
+cue-feature combinations listed in their supplemental files with the
+feature in the raw feature column. If features could be translated into
+root words with affixes, the same procedure as described above was
+applied. The final file then included columns for the original dataset,
+cue, feature, translated feature, frequency of the original feature,
+frequency of the translated feature, sample size, and frequency
+percentages for the original and translated feature. The cue-feature
+file includes 69284 cue-raw feature combinations, where 48925 are from
 our dataset, and 24449 of which are cue-translated feature combinations.
 Statistics in Tables \ref{tab:feature-table} and \ref{tab:percent-table}
 only include information from the reprocessed Buchanan et al. (2013)
 norms and the new cues collected for this project.
 
 The final data processing step was to code affixes found on the original
-features. A complete affix list translation file can be found online in
-our OSF files. Table \ref{tab:affix-table} displays the list of affix
-tags, common examples for each type of affix, and the percent of affixes
-that fell into each category. The percent values are calculated on the
-overall affix list, as feature words could have up to three different
-affixes. Generally, affixes were tagged in a one-to-one match, however,
-special care was taken with numbers and verb tenses. Features like
-cat\emph{s} would be coded as a number affix, while features like
-walk\emph{s} would be coded as a third person verb. In the final words
-file found online, we additionally added forward strength (FSG) and
-backward strength (BSG) for investigation into association overlap
-(Nelson et al., 2004). The last few columns indicate the word list a
-concept was originally normed in to allow for matching to the original
+features. The research team searched lists of affixes online and
+collectively discussed how to code each affix, and the complete coding
+system can be found online in our OSF files. If an affix coding was
+unclear, the root and affix word were discussed in a lab meeting. Table
+\ref{tab:affix-table} displays the list of affix types, common examples
+for each type of affix, and the percent of affixes that fell into each
+category. The percent values are calculated on the overall affix list,
+as feature words could have up to three different affixes. Generally,
+affixes were tagged in a one-to-one match, however, special care was
+taken with numbers and verb tenses. Features like cat\emph{s} would be
+coded as a number affix, while features like walk\emph{s} would be coded
+as a third person verb. In the final words file found online, we
+additionally added forward strength (FSG) and backward strength (BSG)
+for investigation into association overlap (Nelson et al., 2004).
+Forward strength indicates the number of times a target word was listed
+in response to a cue word in a free association task, which simply asks
+participants to name the first word that comes to mind when presented
+with a cue word. Backward strength is the number of times a cue word was
+listed with a target word, as free association is directional (i.e., the
+number of times \emph{cheese} is listed in response to \emph{cheddar} is
+not the same as the number of times that \emph{cheddar} is listed in
+response to \emph{cheese}). The last few columns indicate the word list
+a concept was originally normed in to allow for matching to the original
 raw files on the OSF page, along with the code for each school and time
 point of collection.
 
@@ -568,7 +595,7 @@ point of collection.
 \caption{\label{tab:affix-table}Example of Affix Coding and Percent of Affixes Found}
 \begin{tabular}{llc}
 \toprule
-Affix Tag & Example & Percent\\
+Affix Type & Example & Percent\\
 \midrule
 Actions/Processes & ion, ment, ble, ate, ize & 8.21\\
 Characteristic & y, ous, nt, ful, ive, wise & 22.72\\
@@ -597,7 +624,7 @@ explained a separate component of the cue word (i.e., noun and gender).
 The original processing in Buchanan et al. (2013) combined features that
 overlapped in cue sets by 80\%. In this reprocessing and update, we
 translated all words to a root form, and coded these translations, thus,
-allowing for the exploration of the affect of affixes on semantic
+allowing for the exploration of the impact of affixes on semantic
 feature overlap. Both forms of the feature are provided for flexibility
 in calculating overlap by using the original feature (raw), the
 translated feature (root), and the affix overlap by code (affix). Cosine
@@ -609,16 +636,16 @@ following formula:
 \]
 
 This formula is similar to a dot-product correlation, where \(A_i\) and
-\(B_i\) indicate the overlapping feature normalized frequency between
-cue A and cue B. The \emph{i} subscript denotes the current cue, and
-when features match, the frequencies are multiplied together and summed
-across all matches (\(\Sigma\)). For the denominator, the feature
-normalized frequency is first squared and summed from \emph{i} to
-\emph{n} features for cue A and B. The square root of these summation
-values is then multiplied together. In essence, the numerator calculates
-the overlap of feature frequency for matching features, while the
-denominator accounts for the entire feature frequency set for each cue.
-Cosine values range from 0 (no overlapping features) to 1 (complete
+\(B_i\) indicate the overlapping feature frequency (normalized,
+therefore, the percent) between cue A and cue B. The \emph{i} subscript
+denotes the current cue, and when features match, the frequencies are
+multiplied together and summed across all matches (\(\Sigma\)). For the
+denominator, the feature frequency is first squared and summed from
+\emph{i} to \emph{n} features for cue A and B. The square root of these
+summation values is then multiplied together. In essence, the numerator
+calculates the overlap of feature frequency for matching features, while
+the denominator accounts for the entire feature frequency set for each
+cue. Cosine values range from 0 (no overlapping features) to 1 (complete
 overlapping features). With nearly five thousand cue words, just under
 twenty-five million cue-cue cosine combinations can be calculated. In
 the datasets presented online, we only included cue-cue combinations
@@ -629,7 +656,8 @@ cosines were not feasible for our server. The complete feature list,
 along with our code to calculate cosine, can be used to obtain values
 not presented in our data if desired.
 
-\subsection{Website}\label{website}
+\hypertarget{website}{%
+\subsection{Website}\label{website}}
 
 In addition to our OSF page, we present a revamped website for this data
 at \url{http://www.wordnorms.com/}. The single words page includes
@@ -657,10 +685,11 @@ associative statistics. This dataset includes the cue and target words
 from this project (cue-cue combinations), the root, raw, and affix
 cosines described above, as well as the original Buchanan et al. (2013)
 cosines. Additional semantic information includes Latent Semantic
-Analysis (LSA; Landauer \& Dumais, 1997) and JCN (Jiang \& Conrath,
-1997) values provided in the Maki, McKinley, and Thompson (2004) norms,
-along with FSG and BSG from the Nelson et al. (2004) norms for
-association. The descriptions, minimum, maximum, mean, and standard
+Analysis (LSA; Landauer \& Dumais, 1997) and JCN (JCN stands for
+Jiang-Conrath; Jiang \& Conrath, 1997) values provided in the Maki,
+McKinley, and Thompson (2004) norms, along with forward strength and
+backward strength (FSG; BSG) from the Nelson et al. (2004) norms for
+association. The definitions, minimum, maximum, mean, and standard
 deviations of these values are provided in the app. Again, the search
 app includes all of these stimuli for cue-cue combinations with two or
 more features in common, where you can filter this data for experimental
@@ -671,7 +700,8 @@ rows and columns of data. On each page, we link the data, applications,
 and source code so that others may use and manipulate our work depending
 on their data creation or visualization goals.
 
-\section{Results}\label{results}
+\hypertarget{results}{%
+\section{Results}\label{results}}
 
 An examination of the results of the cue-feature lists indicated that
 the new data collected was similar to the previous semantic feature
@@ -681,14 +711,14 @@ for each cue concept, usually between five to seven features. Table
 \ref{tab:percent-table} portrayed that adjective cues generally included
 other adjectives or nouns as features, while noun cues were
 predominately described by other nouns. Verb cues included a large
-feature list of nouns, but then was equally split between adjectives,
-other verbs, and other categories. Lastly, the other cue types generally
-elicited nouns and verbs. Normalized percent frequencies were generally
-between seven and twenty percent when examining the raw words. These
-words included multiple forms, as the percent increased to around thirty
-percent when features were translated into their root words. Indeed,
-nearly half of the 48925 cue-feature pairs were repeated, as 24449
-cue-feature pairs were unique when examining translated features.
+feature list of nouns and other verbs, followed by adjectives and other
+word forms. Lastly, the other cue types generally elicited nouns and
+verbs. Frequency percentages were generally between seven and twenty
+percent when examining the raw words. These words included multiple
+forms, as the percent increased to around thirty percent when features
+were translated into their root words. Indeed, nearly half of the 48925
+cue-feature pairs were repeated, as 24449 cue-feature pairs were unique
+when examining translated features.
 
 36030 affix values were found, which arose from 4407 of the 4437 cue
 concepts. 33052 first affixes were found, with 2832 second place
@@ -705,7 +735,8 @@ action for a cue. Persons and objects were also indicated about 7\% of
 the time, while actions and processes of the cue were mentioned about
 8\% of the time.
 
-\subsection{Divergent Validity}\label{divergent-validity}
+\hypertarget{divergent-validity}{%
+\subsection{Divergent Validity}\label{divergent-validity}}
 
 \begin{table}[tbp]
 \begin{center}
@@ -721,7 +752,11 @@ Verb & 32.15 & .11 & .13 & .01 & .94\\
 Other & 44.44 & .13 & .18 & .01 & .88\\
 Total & 37.47 & .11 & .14 & .01 & .94\\
 \bottomrule
+\addlinespace
 \end{tabular}
+\begin{tablenotes}[para]
+\normalsize{\textit{Note.} Overlap was defined as the percent of cue-feature combinations from our feature list included in the Nelson et al. (2004) norms. FSG: Forward strength indicating the number of times a target was elicited after seeing a cue word.}
+\end{tablenotes}
 \end{threeparttable}
 \end{center}
 \end{table}
@@ -751,31 +786,33 @@ norms, but even if these were to be included in some form, the average
 FSG would still be quite low when comparing cue-feature lists to
 cue-target lists.
 
-\subsection{Convergent Validity}\label{convergent-validity}
+\hypertarget{convergent-validity}{%
+\subsection{Convergent Validity}\label{convergent-validity}}
 
 To examine the validity of cosine values, we calculated the average
 cosine score between the new processing of the data for each of the
 three feature production norms used in this project. Overlapping cues in
 each of three database sets were found (\emph{n} = 188), and the average
 cosine between their feature sets was examined. Buchanan et al. (2013)
-and the new dataset are listed the subscript B, while McRae et al.
-(2005) is M and V for Vinson and Vigliocco (2008). For root cosine
-values, we found high overlap between all three datasets: \(M_{BM}\) =
-.67 (\emph{SD} = .14), \(M_{BV}\) = .66 (\emph{SD} = .18), and
-\(M_{MV}\) = .72 (\emph{SD} = .11). The raw cosine values also
+and the new dataset are listed with the subscript B, while McRae et al.
+(2005) is referred to with M and V for Vinson and Vigliocco (2008). For
+root cosine values, we found high overlap between all three datasets:
+\(M_{BM}\) = .67 (\emph{SD} = .14), \(M_{BV}\) = .66 (\emph{SD} = .18),
+and \(M_{MV}\) = .72 (\emph{SD} = .11). The raw cosine values also
 overlapped well, even though the McRae et al. (2005) and Vinson and
 Vigliocco (2008) datasets were already mostly preprocessed for word
 stems: \(M_{BM}\) = .55 (\emph{SD} = .15), \(M_{BV}\) = .54 (\emph{SD} =
 .20), and \(M_{MV}\) = .45 (\emph{SD} = .19). Last, the affix cosines
-overlapped similarly between BM datasets, \(M_{BM}\) = .43 (\emph{SD} =
-.29), but did not overlap with the V datasets: \(M_{BV}\) = .04
+overlapped similarly between Buchanan et al. (2013) and McRae et al.
+(2005) datasets, \(M_{BM}\) = .43 (\emph{SD} = .29), but did not overlap
+with the Vinson and Vigliocco (2008) datasets: \(M_{BV}\) = .04
 (\emph{SD} = .14), and \(M_{MV}\) = .09 (\emph{SD} = .19), likely due to
-V dataset preprocessing.
+Vinson and Vigliocco (2008) dataset preprocessing.
 
-The correlation between root, raw, affix, old cosine, LSA, and JCN were
-calculated to examine convergent validity. As shown in Table
-\ref{tab:correlation-table}, the intercorrelations between the cosine
-measures are high, especially between our previous work and this
+The correlation between root, raw, affix, previously found cosine, LSA,
+and JCN were calculated to examine convergent validity. As shown in
+Table \ref{tab:correlation-table}, the intercorrelations between the
+cosine measures are high, especially between our previous work and this
 dataset. JCN is backwards coded, as zero values indicate close semantic
 neighbors (low dictionary distance) and high values indicate low
 semantic relation. The small negative correlations replicated previous
@@ -783,10 +820,10 @@ findings (Buchanan et al., 2013). LSA values showed small positive
 correlations with cosine values, indicating some overlap with thematic
 information and semantic feature overlap (Maki \& Buchanan, 2008). These
 correlations were slightly different than our previous publication,
-likely because we restricted this cosine set to values with at least two
-features in common. LSA and JCN correlations were lower than LSA-COS and
-JCN-COS, but these values indicated that themes and dictionary distance
-were similarly related to feature overlap.
+likely because here we restricted this cosine set to values with at
+least two features in common. LSA and JCN correlations were lower than
+LSA-COS and JCN-COS, but these values indicated that themes and
+dictionary distance were similarly related to feature overlap.
 
 \begin{table}[tbp]
 \begin{center}
@@ -805,40 +842,45 @@ LSA & .18 & .15 & .10 & .21 & -.06 & 1 &  & \\
 FSG & .06 & .04 & .08 & .10 & -.15 & .24 & 1 & \\
 BSG & .14 & .15 & .17 & .18 & -.18 & .26 & .31 & 1\\
 \bottomrule
+\addlinespace
 \end{tabular}
+\begin{tablenotes}[para]
+\normalsize{\textit{Note.} Root, raw, and affix cosine values are from the current reprocessed dataset. Previous COS indicates the cosine values in the original Buchanan et al. (2013) dataset. JCN: Jiang-Conrath semantic distance, LSA: Latent Semantic Analysis score, FSG: Forward Strength, BSG: Backward Strength}
+\end{tablenotes}
 \end{threeparttable}
 \end{center}
 \end{table}
 
+\hypertarget{relation-to-semantic-priming}{%
 \subsection{Relation to Semantic
-Priming}\label{relation-to-semantic-priming}
+Priming}\label{relation-to-semantic-priming}}
 
 \begin{table}[tbp]
 \begin{center}
 \begin{threeparttable}
-\caption{\label{tab:ldt-table}LDT Response Latencies Correlation with Semantic and Associative Variables}
+\caption{\label{tab:ldt-table}Lexical Decision Response Latencies' Correlation with Semantic and Associative Variables}
 \begin{tabular}{lcccc}
 \toprule
-Variable & \multicolumn{1}{c}{FA-LDT 200} & \multicolumn{1}{c}{FA-LDT 1200} & \multicolumn{1}{c}{OA-LDT 200} & \multicolumn{1}{c}{OA-LDT 1200}\\
+Variable & \multicolumn{1}{c}{First 200} & \multicolumn{1}{c}{First 1200} & \multicolumn{1}{c}{Other 200} & \multicolumn{1}{c}{Other 1200}\\
 \midrule
-Root COS & .12 & .07 & .09 & .08\\
-Raw COS & .12 & .06 & .09 & .06\\
-Affix COS & .09 & .07 & .06 & .04\\
-Target Root FSS & .00 & -.01 & -.02 & -.02\\
-Target Raw FSS & -.00 & -.02 & -.02 & -.02\\
-Target CSS & .01 & .01 & -.03 & .02\\
-Cue Root FSS & .04 & -.01 & .04 & .02\\
-Cue Raw FSS & .06 & -.01 & .03 & .02\\
-Cue CSS & .05 & .02 & .07 & .02\\
-FSG & .01 & .10 & .05 & .06\\
-BSG & .14 & .09 & .09 & .06\\
-LSA & .08 & .08 & .13 & .08\\
-JCN & -.01 & .01 & -.06 & .01\\
+Root Cosine & .12 & .07 & .09 & .08\\
+Raw Cosine & .12 & .06 & .09 & .06\\
+Affix Cosine & .09 & .07 & .06 & .04\\
+Target Root Feature Set Size & .00 & -.01 & -.02 & -.02\\
+Target Raw Feature Set Size & -.00 & -.02 & -.02 & -.02\\
+Target Cue Set Size & .01 & .01 & -.03 & .02\\
+Cue Root Feature Set Size & .04 & -.01 & .04 & .02\\
+Cue Raw Feature Set Size & .06 & -.01 & .03 & .02\\
+Cue Cosine Set Size & .05 & .02 & .07 & .02\\
+Forward Strength & .01 & .10 & .05 & .06\\
+Backward Strength & .14 & .09 & .09 & .06\\
+Latent Semantic Analysi & .08 & .08 & .13 & .08\\
+Jiang-Conrath Semantic Distance & -.01 & .01 & -.06 & .01\\
 \bottomrule
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\textit{Note.} Missing values excluded pairwise for JCN. FA: first associate, OA: other associate, CSS: cue set size, and FSS: feature set size.
+\normalsize{\textit{Note.} FA: first associate, OA: other associate, 200 and 1200 ms represent the SOA, which is the time from the presentation of the cue to the target. COS: cosine, FSS: feature set size, CSS: cue set size, FSG: Forward Strength, BSG: Backward Strength, LSA: Latent Semantic Analysis score, and JCN: Jiang-Conrath semantic distance. Missing values excluded pairwise for JCN.}
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
@@ -847,10 +889,10 @@ JCN & -.01 & .01 & -.06 & .01\\
 \begin{table}[tbp]
 \begin{center}
 \begin{threeparttable}
-\caption{\label{tab:name-table}Naming Response Latencies Correlation with Semantic and Associative Variables}
+\caption{\label{tab:name-table}Naming Response Latencies' Correlation with Semantic and Associative Variables}
 \begin{tabular}{lcccc}
 \toprule
-Variable & \multicolumn{1}{c}{FA-Name 200} & \multicolumn{1}{c}{FA-Name 1200} & \multicolumn{1}{c}{OA-Name 200} & \multicolumn{1}{c}{OA-Name 1200}\\
+Variable & \multicolumn{1}{c}{FA 200} & \multicolumn{1}{c}{FA 1200} & \multicolumn{1}{c}{OA 200} & \multicolumn{1}{c}{OA 1200}\\
 \midrule
 Root COS & -.01 & .09 & .00 & .05\\
 Raw COS & -.01 & .10 & .00 & .04\\
@@ -869,37 +911,41 @@ JCN & -.04 & .00 & -.08 & -.01\\
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\textit{Note.} Missing values excluded pairwise for JCN. FA: first associate, OA: other associate, CSS: cue set size, and FSS: feature set size.
+\normalsize{\textit{Note.} FA: first associate, OA: other associate, 200 and 1200 ms represent the SOA, which is the time from the presentation of the cue to the target. COS: cosine, FSS: feature set size, CSS: cue set size, FSG: Forward Strength, BSG: Backward Strength, LSA: Latent Semantic Analysis score, and JCN: Jiang-Conrath semantic distance. Missing values excluded pairwise for JCN.}
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
 \end{table}
 
 As a second examination of convergent validity, the correlation between
-values calculated from these norms and the \emph{Z} priming values from
+values calculated from these norms and the \emph{Z}-priming values from
 the Semantic Priming Project were examined. The Semantic Priming Project
 includes lexical decision and naming response latencies for priming at
 200 and 1200 ms stimulus onset asynchronies (SOA). In these experiments,
 participants were shown cue-target words that were either the first
 associate of a concept or an other associate (second response or higher
-in the Nelson et al. (2004) norms). The response latency of the target
-word was subtracted from the non-primed lexical decision or naming time
-using the English Lexicon Project as the baseline expected response
-latencies for concepts. Therefore, each target item received four (two
-SOAs by two tasks lexical decision or naming) priming times, and we
-selected the \emph{Z}-scored priming from the dataset to correlate with
-our data. In addition to root, raw, and affix cosine, we additionally
-calculated feature set size for the cue and target of the primed pairs.
-Feature set size is the number of features listed by participants when
-creating the norms for that concept. Because of the nature of our norms,
-we calculated both feature set size for the raw, untranslated features,
-as well as the translated features. The average feature set sizes for
-our dataset can be found in Table \ref{tab:feature-table}. The last
-variable included was cosine set size which was defined as the number of
-other concepts each cue or target was nonzero paired with in the cosine
-values. Feature set size indicates the number of features listed for
-each cue or target, while cosine set size indicates the number of other
-semantically related concepts for each cue or target.
+in the Nelson et al. (2004) norms) with the delay between the cue and
+target matching either 200 or 1200 ms (SOA). The response latency of the
+target word in the related condition (either first or other associate)
+was subtracted from the response latency in the unrelated condition to
+create a priming reponse latency. Therefore, each target item received
+four (two SOAs by two tasks: lexical decision or naming) priming times.
+We selected the \emph{Z}-scored priming from the dataset to correlate
+with our data, as Hutchison et al. (2013) that the \emph{Z}-scored data
+more accurately captures priming controlled for individual differences
+in reaction times. In addition to root, raw, and affix cosine, we
+additionally calculated feature set size for the cue and target of the
+primed pairs. Feature set size is the number of features listed by
+participants when creating the norms for that concept. Because of the
+nature of our norms, we calculated both feature set size for the raw,
+untranslated features, as well as the translated features. The average
+feature set sizes for our dataset can be found in Table
+\ref{tab:feature-table}. The last variable included was cosine set size
+which was defined as the number of other concepts each cue or target was
+nonzero paired with in the cosine values. Feature set size indicates the
+number of features listed for each cue or target, while cosine set size
+indicates the number of other semantically related concepts for each cue
+or target.
 
 Tables \ref{tab:ldt-table} and \ref{tab:name-table} display the
 correlations between the new semantic variables described above, as well
@@ -917,15 +963,16 @@ most instances. Cue set size for the cue word was somewhat related to
 are small, but they are comparable or greater than the correlations for
 association and other measures of semantic or thematic relatedness. For
 naming, the results are less consistent. Cosine values are related to
-1200 ms naming in first and other associates, and none of the feature or
-cue set sizes showed any relationship with priming. Again, we see that
-many of the other associative and semantic variables correspondingly do
-not correlate with priming. In both naming and lexical decision priming,
-BSG has a small but consistent relationship with priming, which may
-indicate the processing of the target back to the cue. LSA was also a
-small predictor of priming across conditions.
+1200 ms naming in first associates, and none of the feature or cue set
+sizes showed any relationship with priming. Again, we see that many of
+the other associative and semantic variables correspondingly do not
+correlate with priming. In both naming and lexical decision priming, BSG
+has a small but consistent relationship with priming, which may indicate
+the processing of the target back to the cue. LSA was also a small
+predictor of priming across conditions.
 
-\section{Discussion}\label{discussion}
+\hypertarget{discussion}{%
+\section{Discussion}\label{discussion}}
 
 This research project focused on expanding the availability of English
 semantic feature overlap norms, in an effort to provide more coverage of
@@ -1000,366 +1047,372 @@ regarded as something to disregard in data processing.
 
 \newpage
 
-\section{References}\label{references}
+\hypertarget{references}{%
+\section{References}\label{references}}
 
-\setlength{\parindent}{-0.5in} \setlength{\leftskip}{0.5in}
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
 
 \hypertarget{refs}{}
-\hypertarget{ref-Ashcraft1978a}{}
+\leavevmode\hypertarget{ref-Ashcraft1978a}{}%
 Ashcraft, M. H. (1978). Property norms for typical and atypical items
 from 17 categories: A description and discussion. \emph{Memory \&
 Cognition}, \emph{6}(3), 227--232.
 doi:\href{https://doi.org/10.3758/BF03197450}{10.3758/BF03197450}
 
-\hypertarget{ref-R-papaja}{}
+\leavevmode\hypertarget{ref-R-papaja}{}%
 Aust, F., \& Barth, M. (2018). \emph{papaja: Create APA manuscripts with
 R Markdown}. Retrieved from \url{https://github.com/crsh/papaja}
 
-\hypertarget{ref-Balota2007}{}
+\leavevmode\hypertarget{ref-Balota2007}{}%
 Balota, D. A., Yap, M. J., Hutchison, K. A., Cortese, M. J., Kessler,
 B., Loftis, B., \ldots{} Treiman, R. (2007). The English lexicon
 project. \emph{Behavior Research Methods}, \emph{39}(3), 445--459.
 doi:\href{https://doi.org/10.3758/BF03193014}{10.3758/BF03193014}
 
-\hypertarget{ref-Barsalou2003}{}
+\leavevmode\hypertarget{ref-Barsalou2003}{}%
 Barsalou, L. W. (2003). Abstraction in perceptual symbol systems.
 \emph{Philosophical Transactions of the Royal Society B: Biological
 Sciences}, \emph{358}(1435), 1177--1187.
 doi:\href{https://doi.org/10.1098/rstb.2003.1319}{10.1098/rstb.2003.1319}
 
-\hypertarget{ref-Brysbaert2009}{}
+\leavevmode\hypertarget{ref-Brysbaert2009}{}%
 Brysbaert, M., \& New, B. (2009). Moving beyond Kučera and Francis: A
 critical evaluation of current word frequency norms and the introduction
 of a new and improved word frequency measure for American English.
 \emph{Behavior Research Methods}, \emph{41}(4), 977--990.
 doi:\href{https://doi.org/10.3758/BRM.41.4.977}{10.3758/BRM.41.4.977}
 
-\hypertarget{ref-Brysbaert2013}{}
+\leavevmode\hypertarget{ref-Brysbaert2013}{}%
 Brysbaert, M., Warriner, A. B., \& Kuperman, V. (2014). Concreteness
 ratings for 40 thousand generally known English word lemmas.
 \emph{Behavior Research Methods}, \emph{46}(3), 904--911.
 doi:\href{https://doi.org/10.3758/s13428-013-0403-5}{10.3758/s13428-013-0403-5}
 
-\hypertarget{ref-Buchanan2013}{}
+\leavevmode\hypertarget{ref-Buchanan2013}{}%
 Buchanan, E. M., Holmes, J. L., Teasley, M. L., \& Hutchison, K. A.
 (2013). English semantic word-pair norms and a searchable Web portal for
 experimental stimulus creation. \emph{Behavior Research Methods},
 \emph{45}(3), 746--757.
 doi:\href{https://doi.org/10.3758/s13428-012-0284-z}{10.3758/s13428-012-0284-z}
 
-\hypertarget{ref-Buchanan2018}{}
+\leavevmode\hypertarget{ref-Buchanan2018}{}%
 Buchanan, E. M., Valentine, K. D., \& Maxwell, N. P. (2018). LAB:
 Linguistic Annotated Bibliograpy - A searchable portal for normed
 database information. Retrieved from \url{https://osf.io/r6y3n}
 
-\hypertarget{ref-Buhrmester2011}{}
+\leavevmode\hypertarget{ref-Buhrmester2011}{}%
 Buhrmester, M., Kwang, T., \& Gosling, S. D. (2011). Amazon's Mechanical
 Turk. \emph{Perspectives on Psychological Science}, \emph{6}(1), 3--5.
 doi:\href{https://doi.org/10.1177/1745691610393980}{10.1177/1745691610393980}
 
-\hypertarget{ref-R-shiny}{}
+\leavevmode\hypertarget{ref-R-shiny}{}%
 Chang, W., Cheng, J., Allaire, J., Xie, Y., \& McPherson, J. (2017).
 \emph{Shiny: Web application framework for r}. Retrieved from
 \url{https://CRAN.R-project.org/package=shiny}
 
-\hypertarget{ref-Collins1975}{}
+\leavevmode\hypertarget{ref-Collins1975}{}%
 Collins, A. M., \& Loftus, E. F. (1975). A spreading-activation theory
 of semantic processing. \emph{Psychological Review}, \emph{82}(6),
 407--428.
 doi:\href{https://doi.org/10.1037/0033-295X.82.6.407}{10.1037/0033-295X.82.6.407}
 
-\hypertarget{ref-Collins1969}{}
+\leavevmode\hypertarget{ref-Collins1969}{}%
 Collins, A. M., \& Quillian, M. R. (1969). Retrieval time from semantic
 memory. \emph{Journal of Verbal Learning and Verbal Behavior},
 \emph{8}(2), 240--247.
 doi:\href{https://doi.org/10.1016/S0022-5371(69)80069-1}{10.1016/S0022-5371(69)80069-1}
 
-\hypertarget{ref-Cree2003}{}
+\leavevmode\hypertarget{ref-Cree2003}{}%
 Cree, G. S., \& McRae, K. (2003). Analyzing the factors underlying the
 structure and computation of the meaning of chipmunk, cherry, chisel,
 cheese, and cello (and many other such concrete nouns). \emph{Journal of
 Experimental Psychology: General}, \emph{132}(2), 163--201.
 doi:\href{https://doi.org/10.1037/0096-3445.132.2.163}{10.1037/0096-3445.132.2.163}
 
-\hypertarget{ref-Cree1999}{}
+\leavevmode\hypertarget{ref-Cree1999}{}%
 Cree, G. S., McRae, K., \& McNorgan, C. (1999). An attractor model of
 lexical conceptual processing: Simulating semantic priming.
 \emph{Cognitive Science}, \emph{23}, 371--414.
 doi:\href{https://doi.org/10.1016/S0364-0213(99)00005-1}{10.1016/S0364-0213(99)00005-1}
 
-\hypertarget{ref-Dewhurst1998}{}
+\leavevmode\hypertarget{ref-Dewhurst1998}{}%
 Dewhurst, S. A., Hitch, G. J., \& Barry, C. (1998). Separate effects of
 word frequency and age of acquisition in recognition and recall.
 \emph{Journal of Experimental Psychology: Learning, Memory, and
 Cognition}, \emph{24}(2), 284--298.
 doi:\href{https://doi.org/10.1037/0278-7393.24.2.284}{10.1037/0278-7393.24.2.284}
 
-\hypertarget{ref-Griffiths2007}{}
+\leavevmode\hypertarget{ref-Griffiths2007}{}%
 Griffiths, T. L., Steyvers, M., \& Tenenbaum, J. B. (2007). Topics in
 semantic representation. \emph{Psychological Review}, \emph{114}(2),
 211--244.
 doi:\href{https://doi.org/10.1037/0033-295X.114.2.211}{10.1037/0033-295X.114.2.211}
 
-\hypertarget{ref-Grondin2009}{}
+\leavevmode\hypertarget{ref-Grondin2009}{}%
 Grondin, R., Lupker, S. J., \& McRae, K. (2009). Shared features
 dominate semantic richness effects for concrete concepts. \emph{Journal
 of Memory and Language}, \emph{60}(1), 1--19.
 doi:\href{https://doi.org/10.1016/j.jml.2008.09.001}{10.1016/j.jml.2008.09.001}
 
-\hypertarget{ref-Hutchison2013}{}
+\leavevmode\hypertarget{ref-Hutchison2013}{}%
 Hutchison, K. A., Balota, D. A., Neely, J. H., Cortese, M. J.,
 Cohen-Shikora, E. R., Tse, C.-S., \ldots{} Buchanan, E. M. (2013). The
 semantic priming project. \emph{Behavior Research Methods},
 \emph{45}(4), 1099--1114.
 doi:\href{https://doi.org/10.3758/s13428-012-0304-z}{10.3758/s13428-012-0304-z}
 
-\hypertarget{ref-Jiang1997}{}
+\leavevmode\hypertarget{ref-Jiang1997}{}%
 Jiang, J. J., \& Conrath, D. W. (1997). Semantic similarity based on
 corpus statistics and lexical taxonomy. \emph{Proceedings of
 International Conference Research on Computational Linguistics (ROCLING
 X)}. Retrieved from \url{http://arxiv.org/abs/cmp-lg/9709008}
 
-\hypertarget{ref-Jones2007}{}
+\leavevmode\hypertarget{ref-Jones2007}{}%
 Jones, M. N., \& Mewhort, D. J. K. (2007). Representing word meaning and
 order information in a composite holographic lexicon.
 \emph{Psychological Review}, \emph{114}(1), 1--37.
 doi:\href{https://doi.org/10.1037/0033-295X.114.1.1}{10.1037/0033-295X.114.1.1}
 
-\hypertarget{ref-Keuleers2012}{}
+\leavevmode\hypertarget{ref-Keuleers2012}{}%
 Keuleers, E., Lacey, P., Rastle, K., \& Brysbaert, M. (2012). The
 British Lexicon Project: Lexical decision data for 28,730 monosyllabic
 and disyllabic English words. \emph{Behavior Research Methods},
 \emph{44}(1), 287--304.
 doi:\href{https://doi.org/10.3758/s13428-011-0118-4}{10.3758/s13428-011-0118-4}
 
-\hypertarget{ref-Kounios2009}{}
+\leavevmode\hypertarget{ref-Kounios2009}{}%
 Kounios, J., Green, D. L., Payne, L., Fleck, J. I., Grondin, R., \&
 McRae, K. (2009). Semantic richness and the activation of concepts in
 semantic memory: Evidence from event-related potentials. \emph{Brain
 Research}, \emph{1282}, 95--102.
 doi:\href{https://doi.org/10.1016/j.brainres.2009.05.092}{10.1016/j.brainres.2009.05.092}
 
-\hypertarget{ref-Kremer2011a}{}
+\leavevmode\hypertarget{ref-Kremer2011a}{}%
 Kremer, G., \& Baroni, M. (2011). A set of semantic norms for German and
 Italian. \emph{Behavior Research Methods}, \emph{43}(1), 97--109.
 doi:\href{https://doi.org/10.3758/s13428-010-0028-x}{10.3758/s13428-010-0028-x}
 
-\hypertarget{ref-Kuperman2012}{}
+\leavevmode\hypertarget{ref-Kuperman2012}{}%
 Kuperman, V., Stadthagen-Gonzalez, H., \& Brysbaert, M. (2012).
 Age-of-acquisition ratings for 30,000 English words. \emph{Behavior
 Research Methods}, \emph{44}(4), 978--990.
 doi:\href{https://doi.org/10.3758/s13428-012-0210-4}{10.3758/s13428-012-0210-4}
 
-\hypertarget{ref-Landauer1997}{}
+\leavevmode\hypertarget{ref-Landauer1997}{}%
 Landauer, T. K., \& Dumais, S. T. (1997). A solution to Plato's problem:
 The latent semantic analysis theory of acquisition, induction, and
 representation of knowledge. \emph{Psychological Review}, \emph{104}(2),
 211--240.
 doi:\href{https://doi.org/10.1037//0033-295X.104.2.211}{10.1037//0033-295X.104.2.211}
 
-\hypertarget{ref-Lenci2013}{}
+\leavevmode\hypertarget{ref-Lenci2013}{}%
 Lenci, A., Baroni, M., Cazzolli, G., \& Marotta, G. (2013). BLIND: A set
 of semantic feature norms from the congenitally blind. \emph{Behavior
 Research Methods}, \emph{45}(4), 1218--1233.
 doi:\href{https://doi.org/10.3758/s13428-013-0323-4}{10.3758/s13428-013-0323-4}
 
-\hypertarget{ref-Maki2008}{}
+\leavevmode\hypertarget{ref-Maki2008}{}%
 Maki, W. S., \& Buchanan, E. M. (2008). Latent structure in measures of
 associative, semantic, and thematic knowledge. \emph{Psychonomic
 Bulletin \& Review}, \emph{15}(3), 598--603.
 doi:\href{https://doi.org/10.3758/PBR.15.3.598}{10.3758/PBR.15.3.598}
 
-\hypertarget{ref-Maki2004}{}
+\leavevmode\hypertarget{ref-Maki2004}{}%
 Maki, W. S., McKinley, L. N., \& Thompson, A. G. (2004). Semantic
 distance norms computed from an electronic dictionary (WordNet).
 \emph{Behavior Research Methods, Instruments, \& Computers},
 \emph{36}(3), 421--431.
 doi:\href{https://doi.org/10.3758/BF03195590}{10.3758/BF03195590}
 
-\hypertarget{ref-McRae2005}{}
+\leavevmode\hypertarget{ref-McRae2005}{}%
 McRae, K., Cree, G. S., Seidenberg, M. S., \& McNorgan, C. (2005).
 Semantic feature production norms for a large set of living and
 nonliving things. \emph{Behavior Research Methods}, \emph{37}(4),
 547--559.
 doi:\href{https://doi.org/10.3758/BF03192726}{10.3758/BF03192726}
 
-\hypertarget{ref-McRae1997}{}
-McRae, K., \{de Sa\}, V. R., \& Seidenberg, M. S. (1997). On the nature
-and scope of featural representations of word meaning. \emph{Journal of
+\leavevmode\hypertarget{ref-McRae1997}{}%
+McRae, K., Sa, V. R. de, \& Seidenberg, M. S. (1997). On the nature and
+scope of featural representations of word meaning. \emph{Journal of
 Experimental Psychology: General}, \emph{126}(2), 99--130.
 doi:\href{https://doi.org/10.1037/0096-3445.126.2.99}{10.1037/0096-3445.126.2.99}
 
-\hypertarget{ref-Medin1989}{}
+\leavevmode\hypertarget{ref-Medin1989}{}%
 Medin, D. L. (1989). Concepts and conceptual structure. \emph{American
 Psychologist}, \emph{44}(12), 1469--1481.
 doi:\href{https://doi.org/10.1037/0003-066X.44.12.1469}{10.1037/0003-066X.44.12.1469}
 
-\hypertarget{ref-Montefinese2013}{}
+\leavevmode\hypertarget{ref-Montefinese2013}{}%
 Montefinese, M., Ambrosini, E., Fairfield, B., \& Mammarella, N. (2013).
 Semantic memory: A feature-based analysis and new norms for Italian.
 \emph{Behavior Research Methods}, \emph{45}(2), 440--461.
 doi:\href{https://doi.org/10.3758/s13428-012-0263-4}{10.3758/s13428-012-0263-4}
 
-\hypertarget{ref-Montefinese2015}{}
+\leavevmode\hypertarget{ref-Montefinese2015}{}%
 Montefinese, M., Zannino, G. D., \& Ambrosini, E. (2015). Semantic
 similarity between old and new items produces false alarms in
 recognition memory. \emph{Psychological Research}, \emph{79}(5),
 785--794.
 doi:\href{https://doi.org/10.1007/s00426-014-0615-z}{10.1007/s00426-014-0615-z}
 
-\hypertarget{ref-Moss2002}{}
+\leavevmode\hypertarget{ref-Moss1995}{}%
+Moss, H. E. H., Ostrin, R. K. R., Tyler, I., Marlsen-Wilson, W., Tyler,
+L. K., \& Marslen-Wilson, W. D. (1995). Accessing different types of
+lexical semantic information: Evidence from priming. \emph{Journal of
+Experimental Psychology: Learning, Memory, and Cognition}, \emph{21}(4),
+863--883.
+doi:\href{https://doi.org/10.1037/\%200278-7393.21.4.863}{10.1037/ 0278-7393.21.4.863}
+
+\leavevmode\hypertarget{ref-Moss2002}{}%
 Moss, H. E., Tyler, L. K., \& Devlin, J. T. (2002). The emergence of
 category-specific deficits in a distribuited semantic system. In E.
 Forde \& G. Humphreys (Eds.), \emph{Category-specificity in mind and
 brain} (pp. 115--145). CRC Press.
 
-\hypertarget{ref-Nelson2004}{}
+\leavevmode\hypertarget{ref-Nelson2004}{}%
 Nelson, D. L., McEvoy, C. L., \& Schreiber, T. A. (2004). The University
 of South Florida free association, rhyme, and word fragment norms.
 \emph{Behavior Research Methods, Instruments, \& Computers},
 \emph{36}(3), 402--407.
 doi:\href{https://doi.org/10.3758/BF03195588}{10.3758/BF03195588}
 
-\hypertarget{ref-New2007}{}
+\leavevmode\hypertarget{ref-New2007}{}%
 New, B., Brysbaert, M., Veronis, J., \& Pallier, C. (2007). The use of
 film subtitles to estimate word frequencies. \emph{Applied
 Psycholinguistics}, \emph{28}(4), 661--677.
 doi:\href{https://doi.org/10.1017/S014271640707035X}{10.1017/S014271640707035X}
 
-\hypertarget{ref-Pexman2003}{}
+\leavevmode\hypertarget{ref-Pexman2003}{}%
 Pexman, P. M., Holyk, G. G., \& Monfils, M.-H. (2003).
 Number-of-features effects and semantic processing. \emph{Memory \&
 Cognition}, \emph{31}(6), 842--855.
 doi:\href{https://doi.org/10.3758/BF03196439}{10.3758/BF03196439}
 
-\hypertarget{ref-R-base}{}
+\leavevmode\hypertarget{ref-R-base}{}%
 R Core Team. (2017). \emph{R: A language and environment for statistical
 computing}. Vienna, Austria: R Foundation for Statistical Computing.
 Retrieved from \url{https://www.R-project.org/}
 
-\hypertarget{ref-Reverberi2004}{}
+\leavevmode\hypertarget{ref-Reverberi2004}{}%
 Reverberi, C., Capitani, E., \& Laiacona, E. (2004). Variabili semantico
 lessicali relative a tutti gli elementi di una categoria semantica:
 Indagine su soggetti normali italiani per la categoria ``frutta".
 \emph{Giornale Italiano Di Psicologia}, \emph{31}, 497--522.
 
-\hypertarget{ref-Riordan2011}{}
+\leavevmode\hypertarget{ref-Riordan2011}{}%
 Riordan, B., \& Jones, M. N. (2011). Redundancy in perceptual and
 linguistic experience: Comparing feature-based and distributional models
 of semantic representation. \emph{Topics in Cognitive Science},
 \emph{3}(2), 303--345.
 doi:\href{https://doi.org/10.1111/j.1756-8765.2010.01111.x}{10.1111/j.1756-8765.2010.01111.x}
 
-\hypertarget{ref-Rogers2004}{}
+\leavevmode\hypertarget{ref-Rogers2004}{}%
 Rogers, T. T., \& McClelland, J. L. (2004). \emph{Semantic cognition: A
 parallel distributed processing approach}. MIT Press.
 
-\hypertarget{ref-Rosch1975}{}
+\leavevmode\hypertarget{ref-Rosch1975}{}%
 Rosch, E., \& Mervis, C. B. (1975). Family resemblances: Studies in the
 internal structure of categories. \emph{Cognitive Psychology},
 \emph{7}(4), 573--605.
 doi:\href{https://doi.org/10.1016/0010-0285(75)90024-9}{10.1016/0010-0285(75)90024-9}
 
-\hypertarget{ref-Ruts2004}{}
+\leavevmode\hypertarget{ref-Ruts2004}{}%
 Ruts, W., De Deyne, S., Ameel, E., Vanpaemel, W., Verbeemen, T., \&
 Storms, G. (2004). Dutch norm data for 13 semantic categories and 338
 exemplars. \emph{Behavior Research Methods, Instruments, \& Computers},
 \emph{36}(3), 506--515.
 doi:\href{https://doi.org/10.3758/BF03195597}{10.3758/BF03195597}
 
-\hypertarget{ref-Smith1974}{}
+\leavevmode\hypertarget{ref-Smith1974}{}%
 Smith, E. E., Shoben, E. J., \& Rips, L. J. (1974). Structure and
 process in semantic memory: A featural model for semantic decisions.
 \emph{Psychological Review}, \emph{81}(3), 214--241.
 doi:\href{https://doi.org/10.1037/h0036351}{10.1037/h0036351}
 
-\hypertarget{ref-Stein2009}{}
+\leavevmode\hypertarget{ref-Stein2009}{}%
 Stein, L., \& de Azevedo Gomes, C. (2009). Normas Brasileiras para
 listas de palavras associadas: Associação semântica, concretude,
 frequência e emocionalidade. \emph{Psicologia: Teoria E Pesquisa},
 \emph{25}, 537--546.
 doi:\href{https://doi.org/10.1590/S0102-37722009000400009}{10.1590/S0102-37722009000400009}
 
-\hypertarget{ref-Toglia2009}{}
+\leavevmode\hypertarget{ref-Toglia2009}{}%
 Toglia, M. P. (2009). Withstanding the test of time: The 1978 semantic
 word norms. \emph{Behavior Research Methods}, \emph{41}(2), 531--533.
 doi:\href{https://doi.org/10.3758/BRM.41.2.531}{10.3758/BRM.41.2.531}
 
-\hypertarget{ref-Toglia1978}{}
+\leavevmode\hypertarget{ref-Toglia1978}{}%
 Toglia, M. P., \& Battig, W. F. (1978). \emph{Handbook of semantic word
 norms}. Hillside, NJ: Earlbaum.
 
-\hypertarget{ref-Vieth2014}{}
-Vieth, H. E., McMahon, K. L., \& Zubicaray, G. I. de. (2014). The roles
-of shared vs. distinctive conceptual features in lexical access.
-\emph{Frontiers in Psychology}, \emph{5}(September), 1--12.
+\leavevmode\hypertarget{ref-Vieth2014}{}%
+Vieth, H. E., Mcmahon, K. L., \& Zubicaray, G. I. D. (2014). The roles
+of shared vs . distinctive conceptual features in lexical access,
+\emph{5}(September), 1--12.
 doi:\href{https://doi.org/10.3389/fpsyg.2014.01014}{10.3389/fpsyg.2014.01014}
 
-\hypertarget{ref-Vigliocco2005}{}
-Vigliocco, G., Vinson, D. P., \& Siri, S. (2005). Semantic and
-grammatical class effects in naming actions. \emph{Cognition},
-\emph{94}, 91--100.
-doi:\href{https://doi.org/10.1016/j.cognition.2004.06.004}{10.1016/j.cognition.2004.06.004}
-
-\hypertarget{ref-Vigliocco2002}{}
+\leavevmode\hypertarget{ref-Vigliocco2002}{}%
 Vigliocco, G., Vinson, D. P., Damian, M. M. F., \& Levelt, W. (2002).
 Semantic distance effects on object and action naming. \emph{Cognition},
 \emph{85}, 61--69.
 doi:\href{https://doi.org/10.1016/S0010-0277(02)00107-5}{10.1016/S0010-0277(02)00107-5}
 
-\hypertarget{ref-Vigliocco2004}{}
+\leavevmode\hypertarget{ref-Vigliocco2004}{}%
 Vigliocco, G., Vinson, D. P., Lewis, W., \& Garrett, M. F. (2004).
 Representing the meanings of object and action words: The featural and
 unitary semantic space hypothesis. \emph{Cognitive Psychology},
 \emph{48}(4), 422--488.
 doi:\href{https://doi.org/10.1016/j.cogpsych.2003.09.001}{10.1016/j.cogpsych.2003.09.001}
 
-\hypertarget{ref-Vinson2002}{}
+\leavevmode\hypertarget{ref-Vigliocco2005}{}%
+Vigliocco, G., Vinson, D. P., \& Siri, S. (2005). Semantic and
+grammatical class effects in naming actions. \emph{Cognition},
+\emph{94}, 91--100.
+doi:\href{https://doi.org/10.1016/j.cognition.2004.06.004}{10.1016/j.cognition.2004.06.004}
+
+\leavevmode\hypertarget{ref-Vinson2002}{}%
 Vinson, D. P., \& Vigliocco, G. (2002). A semantic analysis of noun-verb
 dissociations in aphasia. \emph{Journal of Neurolinguistics}, \emph{15},
 317--351.
 doi:\href{https://doi.org/10.1016/S0911-6044(01)00037-9}{10.1016/S0911-6044(01)00037-9}
 
-\hypertarget{ref-Vinson2008}{}
+\leavevmode\hypertarget{ref-Vinson2008}{}%
 Vinson, D. P., \& Vigliocco, G. (2008). Semantic feature production
 norms for a large set of objects and events. \emph{Behavior Research
 Methods}, \emph{40}(1), 183--190.
 doi:\href{https://doi.org/10.3758/BRM.40.1.183}{10.3758/BRM.40.1.183}
 
-\hypertarget{ref-Vinson2003}{}
+\leavevmode\hypertarget{ref-Vinson2003}{}%
 Vinson, D. P., Vigliocco, G., Cappa, S., \& Siri, S. (2003). The
 breakdown of semantic knowledge: Insights from a statistical model of
 meaning representation. \emph{Brain and Language}, \emph{86}(3),
 347--365.
 doi:\href{https://doi.org/10.1016/S0093-934X(03)00144-5}{10.1016/S0093-934X(03)00144-5}
 
-\hypertarget{ref-Vivas2017}{}
+\leavevmode\hypertarget{ref-Vivas2017}{}%
 Vivas, J., Vivas, L., Comesaña, A., Coni, A. G., \& Vorano, A. (2017).
 Spanish semantic feature production norms for 400 concrete concepts.
 \emph{Behavior Research Methods}, \emph{49}(3), 1095--1106.
 doi:\href{https://doi.org/10.3758/s13428-016-0777-2}{10.3758/s13428-016-0777-2}
 
-\hypertarget{ref-Warriner2013}{}
+\leavevmode\hypertarget{ref-Warriner2013}{}%
 Warriner, A. B., Kuperman, V., \& Brysbaert, M. (2013). Norms of
 valence, arousal, and dominance for 13,915 English lemmas.
 \emph{Behavior Research Methods}, \emph{45}(4), 1191--1207.
 doi:\href{https://doi.org/10.3758/s13428-012-0314-x}{10.3758/s13428-012-0314-x}
 
-\hypertarget{ref-Yap2016}{}
-Yap, M. J., \& Pexman, P. M. (2016). Semantic richness effects in
-syntactic classification: The role of feedback. \emph{Frontiers in
-Psychology}, \emph{7}(July), 1394.
-doi:\href{https://doi.org/10.3389/fpsyg.2016.01394}{10.3389/fpsyg.2016.01394}
-
-\hypertarget{ref-Yap2015}{}
+\leavevmode\hypertarget{ref-Yap2015}{}%
 Yap, M. J., Lim, G. Y., \& Pexman, P. M. (2015). Semantic richness
 effects in lexical decision: The role of feedback. \emph{Memory \&
 Cognition}, \emph{43}(8), 1148--1167.
 doi:\href{https://doi.org/10.3758/s13421-015-0536-0}{10.3758/s13421-015-0536-0}
 
-
-
-
+\leavevmode\hypertarget{ref-Yap2016}{}%
+Yap, M. J., \& Pexman, P. M. (2016). Semantic richness effects in
+syntactic classification: The role of feedback. \emph{Frontiers in
+Psychology}, \emph{7}(July), 1394.
+doi:\href{https://doi.org/10.3389/fpsyg.2016.01394}{10.3389/fpsyg.2016.01394}
 
 
 \end{document}

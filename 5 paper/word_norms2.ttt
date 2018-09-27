@@ -48,7 +48,7 @@ Total & 5.78 (1.61) & 6.94 (2.88) & 5.67 (1.18) & 5.84 (1.71) & 6.57 (2.60)\\
 [tbp]
 \begin{center}
 \begin{threeparttable}
-\caption{\label{tab:percent-table}Percents and Average Normalized Percent Frequency for Cue-Feature Part of Speech Combinations}
+\caption{\label{tab:percent-table}Percent and Average Percent of Frequency for Cue-Feature Part of Speech Combinations}
 \begin{tabular}{llcccc}
 \toprule
 Cue Type & Feature Type & \% Raw & \% Root & $M$ Freq. Raw & $M$ Freq. Root\\
@@ -77,7 +77,7 @@ Total & Adjective & 19.74 & 14.93 & 16.12 (15.57) & 30.75 (18.37)\\
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\textit{Note.} Raw words indicate original feature listed, while root words indicated translated feature.
+\normalsize{\textit{Note.} Raw words indicate original feature listed, while root words indicated translated feature. These data are only from the current project.}
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
@@ -92,7 +92,7 @@ Total & Adjective & 19.74 & 14.93 & 16.12 (15.57) & 30.75 (18.37)\\
 \caption{\label{tab:affix-table}Example of Affix Coding and Percent of Affixes Found}
 \begin{tabular}{llc}
 \toprule
-Affix Tag & Example & Percent\\
+Affix Type & Example & Percent\\
 \midrule
 Actions/Processes & ion, ment, ble, ate, ize & 8.21\\
 Characteristic & y, ous, nt, ful, ive, wise & 22.72\\
@@ -130,7 +130,11 @@ Verb & 32.15 & .11 & .13 & .01 & .94\\
 Other & 44.44 & .13 & .18 & .01 & .88\\
 Total & 37.47 & .11 & .14 & .01 & .94\\
 \bottomrule
+\addlinespace
 \end{tabular}
+\begin{tablenotes}[para]
+\normalsize{\textit{Note.} Overlap was defined as the percent of cue-feature combinations from our feature list included in the Nelson et al. (2004) norms. FSG: Forward strength indicating the number of times a target was elicited after seeing a cue word.}
+\end{tablenotes}
 \end{threeparttable}
 \end{center}
 \end{table*}
@@ -155,40 +159,10 @@ LSA & .18 & .15 & .10 & .21 & -.06 & 1 &  & \\
 FSG & .06 & .04 & .08 & .10 & -.15 & .24 & 1 & \\
 BSG & .14 & .15 & .17 & .18 & -.18 & .26 & .31 & 1\\
 \bottomrule
-\end{tabular}
-\end{threeparttable}
-\end{center}
-\end{table*}
-\efloatseparator
- 
-\begin{table*}[hbt]
-\ifnextchar[{\eatarg}{}
-[tbp]
-\begin{center}
-\begin{threeparttable}
-\caption{\label{tab:ldt-table}LDT Response Latencies Correlation with Semantic and Associative Variables}
-\begin{tabular}{lcccc}
-\toprule
-Variable & \multicolumn{1}{c}{FA-LDT 200} & \multicolumn{1}{c}{FA-LDT 1200} & \multicolumn{1}{c}{OA-LDT 200} & \multicolumn{1}{c}{OA-LDT 1200}\\
-\midrule
-Root COS & .12 & .07 & .09 & .08\\
-Raw COS & .12 & .06 & .09 & .06\\
-Affix COS & .09 & .07 & .06 & .04\\
-Target Root FSS & .00 & -.01 & -.02 & -.02\\
-Target Raw FSS & -.00 & -.02 & -.02 & -.02\\
-Target CSS & .01 & .01 & -.03 & .02\\
-Cue Root FSS & .04 & -.01 & .04 & .02\\
-Cue Raw FSS & .06 & -.01 & .03 & .02\\
-Cue CSS & .05 & .02 & .07 & .02\\
-FSG & .01 & .10 & .05 & .06\\
-BSG & .14 & .09 & .09 & .06\\
-LSA & .08 & .08 & .13 & .08\\
-JCN & -.01 & .01 & -.06 & .01\\
-\bottomrule
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\textit{Note.} Missing values excluded pairwise for JCN. FA: first associate, OA: other associate, CSS: cue set size, and FSS: feature set size.
+\normalsize{\textit{Note.} Root, raw, and affix cosine values are from the current reprocessed dataset. Previous COS indicates the cosine values in the original Buchanan et al. (2013) dataset. JCN: Jiang-Conrath semantic distance, LSA: Latent Semantic Analysis score, FSG: Forward Strength, BSG: Backward Strength}
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
@@ -200,10 +174,44 @@ JCN & -.01 & .01 & -.06 & .01\\
 [tbp]
 \begin{center}
 \begin{threeparttable}
-\caption{\label{tab:name-table}Naming Response Latencies Correlation with Semantic and Associative Variables}
+\caption{\label{tab:ldt-table}Lexical Decision Response Latencies' Correlation with Semantic and Associative Variables}
 \begin{tabular}{lcccc}
 \toprule
-Variable & \multicolumn{1}{c}{FA-Name 200} & \multicolumn{1}{c}{FA-Name 1200} & \multicolumn{1}{c}{OA-Name 200} & \multicolumn{1}{c}{OA-Name 1200}\\
+Variable & \multicolumn{1}{c}{First 200} & \multicolumn{1}{c}{First 1200} & \multicolumn{1}{c}{Other 200} & \multicolumn{1}{c}{Other 1200}\\
+\midrule
+Root Cosine & .12 & .07 & .09 & .08\\
+Raw Cosine & .12 & .06 & .09 & .06\\
+Affix Cosine & .09 & .07 & .06 & .04\\
+Target Root Feature Set Size & .00 & -.01 & -.02 & -.02\\
+Target Raw Feature Set Size & -.00 & -.02 & -.02 & -.02\\
+Target Cue Set Size & .01 & .01 & -.03 & .02\\
+Cue Root Feature Set Size & .04 & -.01 & .04 & .02\\
+Cue Raw Feature Set Size & .06 & -.01 & .03 & .02\\
+Cue Cosine Set Size & .05 & .02 & .07 & .02\\
+Forward Strength & .01 & .10 & .05 & .06\\
+Backward Strength & .14 & .09 & .09 & .06\\
+Latent Semantic Analysi & .08 & .08 & .13 & .08\\
+Jiang-Conrath Semantic Distance & -.01 & .01 & -.06 & .01\\
+\bottomrule
+\addlinespace
+\end{tabular}
+\begin{tablenotes}[para]
+\normalsize{\textit{Note.} FA: first associate, OA: other associate, 200 and 1200 ms represent the SOA, which is the time from the presentation of the cue to the target. COS: cosine, FSS: feature set size, CSS: cue set size, FSG: Forward Strength, BSG: Backward Strength, LSA: Latent Semantic Analysis score, and JCN: Jiang-Conrath semantic distance. Missing values excluded pairwise for JCN.}
+\end{tablenotes}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:name-table}Naming Response Latencies' Correlation with Semantic and Associative Variables}
+\begin{tabular}{lcccc}
+\toprule
+Variable & \multicolumn{1}{c}{FA 200} & \multicolumn{1}{c}{FA 1200} & \multicolumn{1}{c}{OA 200} & \multicolumn{1}{c}{OA 1200}\\
 \midrule
 Root COS & -.01 & .09 & .00 & .05\\
 Raw COS & -.01 & .10 & .00 & .04\\
@@ -222,7 +230,7 @@ JCN & -.04 & .00 & -.08 & -.01\\
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\textit{Note.} Missing values excluded pairwise for JCN. FA: first associate, OA: other associate, CSS: cue set size, and FSS: feature set size.
+\normalsize{\textit{Note.} FA: first associate, OA: other associate, 200 and 1200 ms represent the SOA, which is the time from the presentation of the cue to the target. COS: cosine, FSS: feature set size, CSS: cue set size, FSG: Forward Strength, BSG: Backward Strength, LSA: Latent Semantic Analysis score, and JCN: Jiang-Conrath semantic distance. Missing values excluded pairwise for JCN.}
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
