@@ -753,8 +753,19 @@ write.table(rbind(mcrae_features, vinson_reshape), "mv_reprocess.txt",
             quote = F, sep = ",", row.names = F)
 
 #pull in new cosine data
+mv.root.values = read.table("all mv root values.txt", quote="\"", comment.char="", 
+                            stringsAsFactors = F)
+mv.root.values$V1 = substr(mv.root.values$V1, 2, nchar(mv.root.values$V1))
+mv.root.values$V2 = substr(mv.root.values$V2, 2, nchar(mv.root.values$V2))
 
 #flatten down
+root.values = aggregate(mv.root.values$V3, 
+                        by = list(mv.root.values$V1, mv.root.values$V2), 
+                        data = mv.root.values, 
+                        FUN = mean)
+
+root.values$x[root.values$Group.1 == root.values$Group.2] = 1
+
 
 #load other data
 all.averaged.cosine <- read.table("~/OneDrive - Missouri State University/RESEARCH/2 projects/Word-Norms-2/5 paper/all averaged cosine.txt", quote="\"", comment.char="")
@@ -762,4 +773,18 @@ colnames(all.averaged.cosine) = c("cue", "target", "root", "raw", "affix",
                                   "oldcos", "jcn", "lsa", "fsg", "bsg")
 #add to all.averaged data 
 library(expss)
-all.averaged.cosine$mvcosine = vlookup(itemdata$prime, singlewords, "length", "word")
+all.averaged.cosine$index = paste(all.averaged.cosine$cue, all.averaged.cosine$target)
+root.values$index = paste(root.values$Group.1, root.values$Group.2)
+all.averaged.cosine$mvcosine = vlookup(all.averaged.cosine$index, 
+                                       root.values,
+                                       "x",
+                                       "index")
+
+##add in zeroes when appropriate
+wordlists = unique(c(mv.root.values$V1, mv.root.values$V2))
+
+all.averaged.cosine$mvcosine[all.averaged.cosine$cue %in% wordlists &
+                               is.na(all.averaged.cosine$mvcosine)] = 0
+ 
+
+write.csv(all.averaged.cosine, "reprocessed.cosine.mv.csv", row.names = F)

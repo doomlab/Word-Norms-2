@@ -22,7 +22,7 @@ affiliation:
 author_note: |
   Erin M. Buchanan is an Associate Professor of Quantitative Psychology at Missouri State University. K. D. Valentine is a Ph.D. candidate at the University of Missouri. Nicholas P. Maxwell is a Masters' candidate at Missouri State University.
   
-  We would like to thank Keith Hutchison and David Balota for their contributions to this project, including the funds to secure Mechanical Turk participants. Additionally, we thank Simon de Deyne and an anonymous reviewer for their comments on this manuscript. 
+  We would like to thank Keith Hutchison and David Balota for their contributions to this project, including the funds to secure Mechanical Turk participants. Additionally, we thank Simon De Deyne and an anonymous reviewer for their comments on this manuscript. 
 
 abstract: |
   A limiting factor in understanding memory and language is often the availability of large numbers of stimuli to use and explore in experimental studies. In this study, we expand on three previous databases of concepts to over 4,000 words including nouns, verbs, adjectives, and other parts of speech. Participants in the study were asked to provide lists of features for each concept presented (a semantic feature production task), which were combined with the previous research in this area. These feature lists for each concept were then coded into their root word form and affixes (i.e., *cat* and *s* for *cats*) to explore the impact of word form on semantic similarity measures, which are often calculated by comparing concept feature lists (feature overlap). All concept features, coding, and calculated similarity information is provided in a searchable database for easy access and utilization for future researchers when designing experiments that use word stimuli. The final database of word pairs was combined with the Semantic Priming Project to examine the relation of semantic similarity statistics on semantic priming in tandem with other psycholinguistic variables. 
@@ -50,6 +50,7 @@ library(MOTE)
 library(shiny) #to cite shiny
 library(MBESS)
 library(plyr)
+library(expss)
 ```
 
 Semantic features are the focus of a large area of research which tries to delineate the semantic representation of a concept. These features are key to models of semantic memory [i.e., memory for facts; @Collins1969; @Collins1975], and they have been used to create both feature based [@Smith1974; @Cree2003; @Vigliocco2004] and distributional based models [@Jones2007; @Griffiths2007; @Riordan2011]. Feature based models indicate that the degree of similarity between concepts is defined by their overlapping feature lists, while distributional based models posit that similarity is defined by the overlap between linguistic network or context. To create feature based similarity, participants were often asked to create lists of properties for categories of words. This property listing was a seminal task with corresponding norms that have been prevalent in the literature [@Toglia1978; @Toglia2009; @Rosch1975; @Ashcraft1978a]. Feature production norms are created by soliciting participants to list properties or features of a target concept without focusing on category. These features are then compiled into feature sets that are thought to represent the memory representation of a particular concept, especially in early feature based models of memory [@Collins1969; @Collins1975; @Jones2015a; @McRae2013]. Previous work on semantic feature production norms in English includes databases by @McRae2005, @Vinson2008, @Buchanan2013, and @Devereux2014. @McRae2005's feature production norms focused on 541 nouns, specifically living and nonliving objects. @Vinson2008 expanded the stimuli set by contributing norms for 456 concepts that included both nouns and verbs. @Buchanan2013 broadened to concepts other than nouns and verbs with 1808 concepts normed. The @Devereux2014 norms included a replication of @McRae2005's concepts with the addition of several hundren more concrete concepts. The current paper represents over two thousand new concepts added to these previous projects and a reanalysis of the original data.   
@@ -150,11 +151,11 @@ Concepts were labeled by part of speech using the English Lexicon Project [@Balo
 
 Each HIT was kept to five concepts, and usual survey response times were between five to seven minutes. Each HIT was open until thirty participants had successfully completed the HIT and were paid the five cents for the HIT. HITS were usually rejected if they included copied definitions from Wikipedia, "I don't know", or the participant wrote a paragraph about the concept. These answers were discarded, as described below. The survey instructions were copied from @McRae2005's Appendix B, which were also used in the previous publication of these norms. Because the @McRae2005 data was collected on paper, we modified these instructions slightly. The original lines to write in responses were changed to an online text box response window. The detailed instructions additionally no longer contained information about how a participant should only consider the noun of the target concept, as the words in our study included multiple forms of speech and senses. Participants were encouraged to list the properties or features of each concept in the following areas: physical (looks, sounds, and feels), functional (uses), and categorical (belongings). The exact instructions were as follows:
 
-"We want to know how people read words for meaning. Please fill in features of the word that you can think of. Examples of different types of features would be: how it looks, sounds, smells, feels, or tastes; what it is made of; what it is used for; and where it comes from. Here is an example:
+*"We want to know how people read words for meaning. Please fill in features of the word that you can think of. Examples of different types of features would be: how it looks, sounds, smells, feels, or tastes; what it is made of; what it is used for; and where it comes from. Here is an example:
 
 duck: is a bird, is an animal, waddles, flies, migrates, lays eggs, quacks, swims, has wings, has a beak, has webbed feet, has feathers, lives in ponds, lives in water, hunted by people, is edible 
 
-Complete this questionnaire reasonably quickly, but try to list at least a few properties for each word. Thank you very much for completing this questionnaire."
+Complete this questionnaire reasonably quickly, but try to list at least a few properties for each word. Thank you very much for completing this questionnaire."*
 
 Participants signed up for the HITS through Amazon's Mechanical Turk website and completed the study within the Mechanical Turk framework. Approved HITs were compensated through the Mechanical Turk system. All answers were then combined into a larger dataset. 
 
@@ -179,7 +180,7 @@ stim.table = matrix(NA, nrow = 6, ncol = 6)
 colnames(stim.table) = c("Institution", "Adjective",
                          "Noun", "Verb", "Other", "Total")
 
-stim.table[1, ] = c("University of Mississippi", "5.57 (1.53)", "7.35 (4.05)",  "5.33 (.87)", "6.01 (2.11)", "6.71 (3.44)")
+stim.table[1, ] = c("University of Mississippi", "5.57 (1.53)", "7.35 (4.05)",  "5.33 (0.87)", "6.01 (2.11)", "6.71 (3.44)")
 stim.table[2, ] = c("Missouri State University", "5.74 (1.56)", "6.85 (2.82)", "6.67 (2.08)", "7.45 (5.35)", "6.65 (2.92)")
 stim.table[3, ] = c("Montana State University", "5.81 (1.74)", "7.25 (3.35)", "5.59 (1.13)", "5.76 (1.74)", "6.69 (2.93)")
 stim.table[4, ] = c("Mechanical Turk 1", "6.27 (2.28)", "7.74 (4.34)", "5.77 (1.17)", "5.57 (1.40)", "7.14 (3.79)")
@@ -406,7 +407,7 @@ summary(realaffix)
 ##Actual percentages for real
 final = realaffix
 options(scipen = 999)
-affixtable = percent(droplevels(final$affix))
+affixtable = percent(final$affix)
 affixtable
 
 ```
@@ -536,8 +537,8 @@ apa_table(fsg.table,
                 caption = "Percent and Mean Overlap to the Free Association Norms",
                 escape = FALSE,
           format = "latex",
-               col.names =  c(" ", "\\% Overlap", "$M$ FSG", "$SD$ FSG", "Min", "Max"),
-               note = "Overlap was defined as the percent of cue-feature combinations from our feature list included in the Nelson et al. (2004) norms. FSG: Forward strength indicating the number of times a target was elicited after seeing a cue word.")
+               col.names =  c(" ", "\\% Overlap", "$M$ FSG", "$SD$ FSG", "Min", "Max", "$r$"),
+               note = "Overlap was defined as the percent of cue-feature combinations from our feature list included in the Nelson et al. (2004) norms. FSG: Forward strength indicating the number of times a target was elicited after seeing a cue word. Correlation represents the relationship between frequency percent and forward strength.")
 
 ```
 
@@ -566,17 +567,16 @@ sdaffix = tapply(cosmatch$V5, list(cosmatch$where1, cosmatch$where2), sd)
 
 To examine the validity of cosine values, we calculated the average cosine score between the new processing of the data for each of the three feature production norms used in this project. Overlapping cues in each of three database sets were found (*n* = `r length(unique(cosmatch$cue))`), and the average cosine between their feature sets was examined. @Buchanan2013 and the new dataset are listed with the subscript B, while @McRae2005 is referred to with M and V for @Vinson2008. For root cosine values, we found high overlap between all three datasets: $M_{BM}$ = `r apa(meanroot[1], 2, F)` (*SD* = `r apa(sdroot[1], 2, F)`), $M_{BV}$ = `r apa(meanroot[3], 2, F)` (*SD* = `r apa(sdroot[3], 2, F)`), and $M_{MV}$ = `r apa(meanroot[4], 2, F)` (*SD* = `r apa(sdroot[4], 2, F)`). The raw cosine values also correlated, even though the @McRae2005 and @Vinson2008 datasets were already mostly preprocessed for word stems: $M_{BM}$ = `r apa(meanraw[1], 2, F)` (*SD* = `r apa(sdraw[1], 2, F)`), $M_{BV}$ = `r apa(meanraw[3], 2, F)` (*SD* = `r apa(sdraw[3], 2, F)`), and $M_{MV}$ = `r apa(meanraw[4], 2, F)` (*SD* = `r apa(sdraw[4], 2, F)`). Last, the affix cosines overlapped similarly between @Buchanan2013 and @McRae2005 datasets, $M_{BM}$ = `r apa(meanaffix[1], 2, F)` (*SD* = `r apa(sdaffix[1], 2, F)`), but did not overlap with the @Vinson2008 datasets: $M_{BV}$ = `r apa(meanaffix[3], 2, F)` (*SD* = `r apa(sdaffix[3], 2, F)`), and $M_{MV}$ = `r apa(meanaffix[4], 2, F)` (*SD* = `r apa(sdaffix[4], 2, F)`), likely due to @Vinson2008 dataset preprocessing.
 
-The correlation between root, raw, affix, previously found cosine, Latent Semantic Analysis score (LSA), and Jiang-Conrath semantic distance (JCN) were calculated to examine convergent validity. LSA is one of the most well-known semantic memory models [@McRae2013; @Landauer1997], wherein a large text corpus (i.e., many texts) is used to create a word by document (i.e., each text) matrix. From this matrix, words are weighted relative to their frequency, and singular value decomposition is then used to select only the largest semantic components. This process creates a word space that can then be used to calculate the relation between two cues by examining the patterns of their occurrence across documents, usually cosine or correlation. JCN is calculated from an online dictionary [WordNet, @Felbaum1998], by measuring the semantic distance between concepts in a hierarchical structure. JCN is backwards coded, as zero values indicate close semantic neighbors (low dictionary distance) and high values indicate low semantic relation. These two measures were selected for convergent validity because they are well-cited measures of semanticity. 
+The correlation between root, raw, affix, previously found cosine, Latent Semantic Analysis score (LSA), and Jiang-Conrath semantic distance (JCN) were calculated to examine convergent validity. LSA is one of the most well-known semantic memory models [@McRae2013; @Landauer1997], wherein a large text corpus (i.e., many texts) is used to create a word by document (i.e., each text) matrix. From this matrix, words are weighted relative to their frequency, and singular value decomposition is then used to select only the largest semantic components. This process creates a word space that can then be used to calculate the relation between two cues by examining the patterns of their occurrence across documents, usually cosine or correlation. JCN is calculated from an online dictionary [WordNet, @Felbaum1998], by measuring the semantic distance between concepts in a hierarchical structure. JCN is backwards coded, as zero values indicate close semantic neighbors (low dictionary distance) and high values indicate low semantic relation. These two measures were selected for convergent validity because they are well-cited measures of semanticity. To examine if the type of processing impacted convergent validity of the dataset, we calculcated the @McRae2005 and @Vinson2008 cosine values based on their original cue-feature matrices provided in their publications. These datasets were coded for more complex features in a propositional style ("is a", "has a"), while our processing took a single word count based approach. Therefore, providing the original processing correlations allows one to examine if the cosine values provided are covergent, as well as similarly correlated across other measures of semanticity.
 
-As shown in Table \@ref(tab:correlation-table), the intercorrelations between the cosine measures (root, raw, affix) are high, especially between our previous work and this dataset. The small negative correlations between JCN and cosine measures replicated previous findings [@Buchanan2013]. LSA values showed small positive correlations with cosine values, indicating some overlap with thematic information and semantic feature overlap [@Maki2008]. These correlations were slightly different than our previous publication, likely because here we restricted this cosine set to values with at least two features in common. LSA and JCN correlations were lower than LSA-cosine and JCN-cosine, but these values indicated that themes and dictionary distance were similarly related to feature overlap. 
+As shown in Table \@ref(tab:correlation-table), the intercorrelations between the cosine measures (root, raw, affix) are high, especially between our previous work and this dataset. We found that the correlation between processing styles was high and matched the intercorrelations between the new cosine measures (indicating convergent validity of coding style). The small negative correlations between JCN and cosine measures replicated previous findings [@Buchanan2013]. LSA values showed small positive correlations with cosine values, indicating some overlap with thematic information and semantic feature overlap [@Maki2008]. These correlations were slightly different than our previous publication, likely because here we restricted this cosine set to values with at least two features in common. LSA and JCN correlations were lower than LSA-cosine and JCN-cosine, but these values indicated that themes and dictionary distance were similarly related to feature overlap. Last, the correlation between propositional processing ("MV COS" column) and JCN was higher than the new root cosine measure (-.39 versus -.18 respectively). JCN is created through a hierarchical dictionary with a structure similar to the complex propositional coding provided in @McRae2005 and @Vinson2008, and correspondingly, the relation between them is stronger.  
 
 ```{r correlations, warn=FALSE, include=FALSE}
 
 ####Correlation table goes here####
 
-dat.cor = read.table("all averaged cosine.txt", quote="\"", comment.char="")
-colnames(dat.cor) = c("cue", "target", "root", "raw", "affix",
-                      "oldcos", "jcn", "lsa", "fsg", "bsg")
+#dat.cor = read.table("all averaged cosine.txt", quote="\"", comment.char="")
+dat.cor = read.csv("reprocessed.cosine.mv.csv", stringsAsFactors = F)
 
 dat.cor$jcn = as.numeric(as.character(dat.cor$jcn))
 dat.cor$fsg = as.numeric(as.character(dat.cor$fsg))
@@ -584,7 +584,7 @@ dat.cor$oldcos = as.numeric(as.character(dat.cor$oldcos))
 dat.cor$lsa = as.numeric(as.character(dat.cor$lsa))
 dat.cor$bsg = as.numeric(as.character(dat.cor$bsg))
 
-cor_table = Hmisc::rcorr(as.matrix(dat.cor[ , -c(1:2)]))
+cor_table = Hmisc::rcorr(as.matrix(dat.cor[ , c(3,4,5,6,12,7,8,9,10)]))
 
 ```
 
@@ -592,12 +592,13 @@ cor_table = Hmisc::rcorr(as.matrix(dat.cor[ , -c(1:2)]))
 
 #create confidence intervals and paste together
 addci = function(x,N){
-  paste(apa(x, 2, F), " [", apa(ci.cc(x, N)$Lower.Limit,2,F), ", ", apa(ci.cc(x, N)$Upper.Limit,2,F), "]", sep = "")
+  paste(apa(x, 2, F), " [", apa(ci.cc(x, N)$Lower.Limit,2,F), ",", apa(ci.cc(x, N)$Upper.Limit,2,F), "]", sep = "")
 }
 
-cor.table = matrix(NA, nrow = 8, ncol = 9)
+cor.table = matrix(NA, nrow = 9, ncol = 10)
 
-colnames(cor.table) = c(" ", "Root", "Raw", "Affix", "PCOS", "JCN", "LSA", "FSG", "BSG")
+colnames(cor.table) = c(" ", "Root", "Raw", "Affix", "PCOS",
+                        "MV COS", "JCN", "LSA", "FSG", "BSG")
 
 cor.table[1, ] = c("Root", 1, 
                    cor_table$n[1,2], 
@@ -606,7 +607,8 @@ cor.table[1, ] = c("Root", 1,
                    cor_table$n[1,5], 
                    cor_table$n[1,6], 
                    cor_table$n[1,7], 
-                   cor_table$n[1,8])
+                   cor_table$n[1,8],
+                   cor_table$n[1,9])
 
 cor.table[2, ] = c("Raw", 
                    addci(cor_table$r[1,2], cor_table$n[1,2]), 1, 
@@ -615,7 +617,8 @@ cor.table[2, ] = c("Raw",
                    cor_table$n[2,5], 
                    cor_table$n[2,6], 
                    cor_table$n[2,7], 
-                   cor_table$n[2,8])
+                   cor_table$n[2,8],
+                   cor_table$n[2,9])
 
 cor.table[3, ] = c("Affix", 
                    addci(cor_table$r[1,3], cor_table$n[1,3]), 
@@ -624,58 +627,74 @@ cor.table[3, ] = c("Affix",
                    cor_table$n[3,5], 
                    cor_table$n[3,6], 
                    cor_table$n[3,7], 
-                   cor_table$n[3,8])
+                   cor_table$n[3,8],
+                   cor_table$n[3,9])
 
-cor.table[4, ] = c("Previous COS", 
+cor.table[4, ] = c("PCOS", 
                    addci(cor_table$r[1,4], cor_table$n[1,4]), 
                    addci(cor_table$r[2,4], cor_table$n[2,4]),
                    addci(cor_table$r[3,4], cor_table$n[3,4]), 1, 
                    cor_table$n[4,5], 
                    cor_table$n[4,6], 
                    cor_table$n[4,7], 
-                   cor_table$n[4,8])
+                   cor_table$n[4,8],
+                   cor_table$n[4,9])
 
-cor.table[5, ] = c("JCN", 
+cor.table[5, ] = c("MV COS", 
                    addci(cor_table$r[1,5], cor_table$n[1,5]), 
                    addci(cor_table$r[2,5], cor_table$n[2,5]), 
                    addci(cor_table$r[3,5], cor_table$n[3,5]), 
                    addci(cor_table$r[4,5], cor_table$n[4,5]), 1, 
                    cor_table$n[5,6], 
                    cor_table$n[5,7], 
-                   cor_table$n[5,8])
+                   cor_table$n[5,8],
+                   cor_table$n[5,9])
 
-cor.table[6, ] = c("LSA", 
+cor.table[6, ] = c("JCN", 
                    addci(cor_table$r[1,6], cor_table$n[1,6]), 
                    addci(cor_table$r[2,6], cor_table$n[2,6]), 
                    addci(cor_table$r[3,6], cor_table$n[3,6]), 
                    addci(cor_table$r[4,6], cor_table$n[4,6]), 
                    addci(cor_table$r[5,6], cor_table$n[5,6]), 1, 
                    cor_table$n[6,7], 
-                   cor_table$n[6,8])
+                   cor_table$n[6,8],
+                   cor_table$n[6,9])
 
-cor.table[7, ] = c("FSG", 
+cor.table[7, ] = c("LSA", 
                    addci(cor_table$r[1,7], cor_table$n[1,7]), 
                    addci(cor_table$r[2,7], cor_table$n[2,7]), 
                    addci(cor_table$r[3,7], cor_table$n[3,7]), 
                    addci(cor_table$r[4,7], cor_table$n[4,7]), 
                    addci(cor_table$r[5,7], cor_table$n[5,7]), 
                    addci(cor_table$r[6,7], cor_table$n[6,7]), 1, 
-                   cor_table$n[7,8])
+                   cor_table$n[7,8],
+                   cor_table$n[7,9])
 
-cor.table[8, ] = c("BSG", 
+cor.table[8, ] = c("FSG", 
                    addci(cor_table$r[1,8], cor_table$n[1,8]), 
                    addci(cor_table$r[2,8], cor_table$n[2,8]), 
                    addci(cor_table$r[3,8], cor_table$n[3,8]), 
                    addci(cor_table$r[4,8], cor_table$n[4,8]), 
                    addci(cor_table$r[5,8], cor_table$n[5,8]), 
                    addci(cor_table$r[6,8], cor_table$n[6,8]), 
-                   addci(cor_table$r[7,8], cor_table$n[7,8]), 1)
+                   addci(cor_table$r[7,8], cor_table$n[7,8]), 1,
+                   cor_table$n[8,9])
+
+cor.table[9, ] = c("BSG", 
+                   addci(cor_table$r[1,9], cor_table$n[1,9]), 
+                   addci(cor_table$r[2,9], cor_table$n[2,9]), 
+                   addci(cor_table$r[3,9], cor_table$n[3,9]), 
+                   addci(cor_table$r[4,9], cor_table$n[4,9]), 
+                   addci(cor_table$r[5,9], cor_table$n[5,9]), 
+                   addci(cor_table$r[6,9], cor_table$n[6,9]), 
+                   addci(cor_table$r[7,9], cor_table$n[7,9]), 
+                   addci(cor_table$r[8,9], cor_table$n[8,9]), 1)
 
 apa_table(as.data.frame(cor.table),
                 align = c(rep("l", 1), rep("c", 8)), 
                 caption = "Correlations and 95% CI between Semantic and Associative Variables",
-               col.names =  c(" ", "Root", "Raw", "Affix", "PCOS", "JCN", "LSA", "FSG", "BSG"),
-          note = "Root, raw, and affix cosine values are from the current reprocessed dataset. PCOS indicates the cosine values in the original Buchanan et al. (2013) dataset. JCN: Jiang-Conrath semantic distance, LSA: Latent Semantic Analysis score, FSG: Forward Strength, BSG: Backward Strength. Sample sizes for each correlation are presented in the top half of the table.",
+               col.names =  c(" ", "Root", "Raw", "Affix", "PCOS", "MV COS", "JCN", "LSA", "FSG", "BSG"),
+          note = "Root, raw, and affix cosine values are from the current reprocessed dataset. PCOS indicates the cosine values in the original Buchanan et al. (2013) dataset. MV COS: Cosine values from only the McRae et al. (2005) and Vinson and Vigliocco (2008) data, JCN: Jiang-Conrath semantic distance, LSA: Latent Semantic Analysis score, FSG: Forward Strength, BSG: Backward Strength. Sample sizes for each correlation are presented in the top half of the table.",
           small = T,
           landscape = T)
 ```
@@ -689,10 +708,17 @@ fan.dat = read.csv("FAN.csv")
 oaldt.dat = read.csv("OALDT.csv")
 oan.dat = read.csv("OAN.csv")
 
+dat.cor$index = paste(dat.cor$cue, dat.cor$target, sep = ".")
+
+faldt.dat$mvcosine = vlookup(faldt.dat$index, 
+                             dat.cor,
+                             "mvcosine", 
+                             "index")
+
 #figure out the correlations of the datasets
 #want columns 18, 19, 21, 29, 32, 49, 50, 51, 52, 86, 87, 88, 90, 91, 92
 
-faldt.cor = cor(faldt.dat[ , c(18, 19, 21, 29, 32, 49, 50, 51, 83, 86, 87, 88, 90, 91, 92)], use = "complete.obs")
+faldt.cor = cor(faldt.dat[ , c(18, 19, 21, 29, 32, 49, 50, 51, 83, 86, 87, 88, 90, 91, 92,93)], use = "complete.obs")
 
 fan.cor = cor(fan.dat[ , c(18, 19, 21, 29, 32, 49, 50, 51, 83, 86, 87, 88, 90, 91, 92)], use = "complete.obs")
 
@@ -877,9 +903,9 @@ This research project focused on expanding the availability of English semantic 
 
 Of particular interest was the information that is often lost when translating raw features back to a root word. One surprising result in this study was the sheer number of affixes present on each cue word. With these values, we believe we have captured some of the nuance that is often discarded in this type of research. Affix cosines were less related to their feature root and raw counterparts, but also showed small correlations with semantic priming. Potentially, affix overlap can be used to add small, but meaningful predictive value to related semantic phenomena. Further investigation into the compound prediction of these variables is warranted to fully explore how these, and other lexical variables, may be used to understand semantic priming. An examination of the cosine values from the Semantic Priming Project cue-target set indicates that these values were low, with many zeros (i.e., no feature overlap between cues and targets). This restriction of range of the cosine relatedness could explain the small correlations with priming because the semantic priming was variable, but the cosine values were not. 
 
-We encourage readers to use the corresponding website associated with these norms to download the data, explore the Shiny apps, and use the options provided for controlled experimental stimuli creation. We previously documented the limitations of feature production norms that rely on on single word instances as their features (i.e., *four* and *legs*), rather than combined phrase sets. One limitation, potentially, is the inability to create fine distinctions between cues; however, the small feature set sizes imply that the granulation of features is large, since many distinguishing features are often never listed in these tasks. For instance, *dogs* are living creatures, but *has lungs* or *has skin* would usually not be listed during a feature production task, and thus, feature sets should not be considered a complete snapshot of mental representation [@Rogers2004]. The previous data and other norms were purposely combined in the recoded format, so that researchers could use the entire set of available norms which increases comparability across datasets. Given the strong correlation between databases, we suspect that using single word features does not reduce their reliability and validity. 
+One important limitation of the instructions in this study is that multiple senses of concepts were not distinguished. We did not wish to prime participants for specific senses to capture the features for multiple senses of a concept, however, this procedure could lead to lower cosine values for concepts that might intuitively seem very related. The feature production lists could be used to sort senses and recalculate overlap values, but it is likely that feature information is correspondingly mixed or sorted into small sublists in memory as well. The addition of the coded affix information may help capture some of those sense differences, as well as the some of the spatial and relational features that are not traditionally captured by simple feature production. For example, by understanding the numbers or actors affixes, we may gain more information about semanticity that is often regarded as something to disregard in data processing. 
 
-One other important limitation of the instructions in this study is that multiple senses of concepts were not distinguished. We did not wish to prime participants for specific senses to capture the features for multiple senses of a concept, however, this procedure could lead to lower cosine values for concepts that might intuitively seem very related. The feature production lists could be used to sort senses and recalculate overlap values, but it is likely that feature information is correspondingly mixed or sorted into small sublists in memory as well. The addition of the coded affix information may help capture some of those sense differences, as well as the some of the spatial and relational features that are not traditionally captured by simple feature production. For example, by understanding the numbers or actors affixes, we may gain more information about semanticity that is often regarded as something to disregard in data processing. 
+We encourage readers to use the corresponding website associated with these norms to download the data, explore the Shiny apps, and use the options provided for controlled experimental stimuli creation. We previously documented the limitations of feature production norms that rely on on single word instances as their features (i.e., *four* and *legs*), rather than combined phrase sets. One limitation, potentially, is the inability to create fine distinctions between cues; however, the small feature set sizes imply that the granulation of features is large, since many distinguishing features are often never listed in these tasks. For instance, *dogs* are living creatures, but *has lungs* or *has skin* would usually not be listed during a feature production task, and thus, feature sets should not be considered a complete snapshot of mental representation [@Rogers2004]. Additionally, the cue-feature lists could be explored for the type of cue-feature representation that is listed for each part of speech (i.e., physical, functional, etc.) and the complexity in coding could be increased or decreased depending on researcher goal. The previous data and other norms were purposely combined in the recoded format, so that researchers could use the entire set of available norms which increases comparability across datasets. Given the strong correlation between databases, we suspect that using single word features does not reduce their reliability and validity. We found high correlations between the different types of feature coding (i.e., complex/propositional versus single word/count), thus suggesting that either dataset could be used for future work where the advantage of the current project is the size of the norms.  
 
 \newpage
 

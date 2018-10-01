@@ -30,7 +30,7 @@ Mechanical Turk 2 & 198 & 1914 & 30\\
 \toprule
 Institution & Adjective & Noun & Verb & Other & Total\\
 \midrule
-University of Mississippi & 5.57 (1.53) & 7.35 (4.05) & 5.33 (.87) & 6.01 (2.11) & 6.71 (3.44)\\
+University of Mississippi & 5.57 (1.53) & 7.35 (4.05) & 5.33 (0.87) & 6.01 (2.11) & 6.71 (3.44)\\
 Missouri State University & 5.74 (1.56) & 6.85 (2.82) & 6.67 (2.08) & 7.45 (5.35) & 6.65 (2.92)\\
 Montana State University & 5.81 (1.74) & 7.25 (3.35) & 5.59 (1.13) & 5.76 (1.74) & 6.69 (2.93)\\
 Mechanical Turk 1 & 6.27 (2.28) & 7.74 (4.34) & 5.77 (1.17) & 5.57 (1.40) & 7.14 (3.79)\\
@@ -120,24 +120,24 @@ Time & fore, pre, post, re & 0.54\\
 \begin{center}
 \begin{threeparttable}
 \caption{\label{tab:divergent-table}Percent and Mean Overlap to the Free Association Norms}
-\begin{tabular}{lccccc}
+\begin{tabular}{lcccccl}
 \toprule
-  & \% Overlap & $M$ FSG & $SD$ FSG & Min & Max\\
+  & \% Overlap & $M$ FSG & $SD$ FSG & Min & Max & $r$\\
 \midrule
-Adjective & 51.86 & .12 & .15 & .01 & .94\\
-Noun & 36.48 & .11 & .14 & .01 & .91\\
-Verb & 32.15 & .11 & .13 & .01 & .94\\
-Other & 44.44 & .13 & .18 & .01 & .88\\
-Total & 37.47 & .11 & .14 & .01 & .94\\
-All Buchanan cues & 52.12 & .11 & .14 & .01 & .94\\
-McRae et al. cues & 23.50 & .10 & .14 & .01 & .91\\
-Vinson \& Vigliocco cues & 15.19 & .09 & .13 & .01 & .88\\
-Overlapping Cues & 27.26 & .09 & .14 & .01 & .88\\
+Adjective & 51.86 & .12 & .15 & .01 & .94 & .36\\
+Noun & 36.48 & .11 & .14 & .01 & .91 & .40\\
+Verb & 32.15 & .11 & .13 & .01 & .94 & .44\\
+Other & 44.44 & .13 & .18 & .01 & .88 & .09\\
+Total & 37.47 & .11 & .14 & .01 & .94 & .39\\
+All Buchanan cues & 52.12 & .11 & .14 & .01 & .94 & .41\\
+McRae et al. cues & 23.50 & .10 & .14 & .01 & .91 & .28\\
+Vinson \& Vigliocco cues & 15.19 & .09 & .13 & .01 & .88 & .38\\
+Overlapping Cues & 27.26 & .09 & .14 & .01 & .88 & .30\\
 \bottomrule
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\normalsize{\textit{Note.} Overlap was defined as the percent of cue-feature combinations from our feature list included in the Nelson et al. (2004) norms. FSG: Forward strength indicating the number of times a target was elicited after seeing a cue word.}
+\normalsize{\textit{Note.} Overlap was defined as the percent of cue-feature combinations from our feature list included in the Nelson et al. (2004) norms. FSG: Forward strength indicating the number of times a target was elicited after seeing a cue word. Correlation represents the relationship between frequency percent and forward strength.}
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
@@ -148,22 +148,23 @@ Overlapping Cues & 27.26 & .09 & .14 & .01 & .88\\
 
 
 \begin{TableNotes}[para]
-\normalsize{\textit{Note.} Root, raw, and affix cosine values are from the current reprocessed dataset. PCOS indicates the cosine values in the original Buchanan et al. (2013) dataset. JCN: Jiang-Conrath semantic distance, LSA: Latent Semantic Analysis score, FSG: Forward Strength, BSG: Backward Strength. Sample sizes for each correlation are presented in the top half of the table.}
+\normalsize{\textit{Note.} Root, raw, and affix cosine values are from the current reprocessed dataset. PCOS indicates the cosine values in the original Buchanan et al. (2013) dataset. MV COS: Cosine values from only the McRae et al. (2005) and Vinson \textbackslash{}\& Vigliocco (2008) data, JCN: Jiang-Conrath semantic distance, LSA: Latent Semantic Analysis score, FSG: Forward Strength, BSG: Backward Strength. Sample sizes for each correlation are presented in the top half of the table.}
 \end{TableNotes}
 \small{
-\begin{longtable}{lcccccccc}\noalign{\getlongtablewidth\global\LTcapwidth=\longtablewidth}
+\begin{longtable}{lccccccccl}\noalign{\getlongtablewidth\global\LTcapwidth=\longtablewidth}
 \caption{\label{tab:correlation-table}Correlations and 95\% CI between Semantic and Associative Variables}\\
 \toprule
-  & Root & Raw & Affix & PCOS & JCN & LSA & FSG & BSG\\
+  & Root & Raw & Affix & PCOS & MV COS & JCN & LSA & FSG & BSG\\
 \midrule
-Root & 1 & 208515 & 208515 & 83762 & 5617 & 5590 & 6753 & 6685\\
-Raw & .93 [.93, .93] & 1 & 208515 & 83762 & 5617 & 5590 & 6753 & 6685\\
-Affix & .50 [.50, .50] & .53 [.53, .54] & 1 & 83762 & 5617 & 5590 & 6753 & 6685\\
-Previous COS & .94 [.94, .94] & .91 [.91, .91] & .49 [.48, .49] & 1 & 2762 & 2759 & 3280 & 3243\\
-JCN & -.18 [-.20, -.15] & -.22 [-.25, -.20] & -.17 [-.20, -.15] & -.22 [-.26, -.19] & 1 & 5590 & 5617 & 5617\\
-LSA & .18 [.16, .21] & .15 [.12, .18] & .10 [.07, .13] & .21 [.18, .25] & -.06 [-.08, -.03] & 1 & 5590 & 5590\\
-FSG & .06 [.04, .08] & .04 [.01, .06] & .08 [.05, .10] & .10 [.06, .13] & -.15 [-.18, -.13] & .24 [.22, .27] & 1 & 6685\\
-BSG & .14 [.12, .16] & .15 [.13, .17] & .17 [.14, .19] & .18 [.15, .22] & -.18 [-.21, -.16] & .26 [.23, .28] & .31 [.29, .33] & 1\\
+Root & 1 & 208515 & 208515 & 83762 & 101446 & 5617 & 5590 & 6753 & 6685\\
+Raw & .93 [.93,.93] & 1 & 208515 & 83762 & 101446 & 5617 & 5590 & 6753 & 6685\\
+Affix & .50 [.50,.50] & .53 [.53,.54] & 1 & 83762 & 101446 & 5617 & 5590 & 6753 & 6685\\
+PCOS & .94 [.94,.94] & .91 [.91,.91] & .49 [.48,.49] & 1 & 52342 & 2762 & 2759 & 3280 & 3243\\
+MV COS & .84 [.84,.84] & .89 [.89,.89] & .46 [.45,.46] & .83 [.82,.83] & 1 & 1179 & 1179 & 1248 & 1232\\
+JCN & -.18 [-.20,-.15] & -.22 [-.25,-.20] & -.17 [-.20,-.15] & -.22 [-.26,-.19] & -.39 [-.44,-.34] & 1 & 5590 & 5617 & 5617\\
+LSA & .18 [.16,.21] & .15 [.12,.18] & .10 [.07,.13] & .21 [.18,.25] & .14 [.08,.19] & -.06 [-.08,-.03] & 1 & 5590 & 5590\\
+FSG & .06 [.04,.08] & .04 [.01,.06] & .08 [.05,.10] & .10 [.06,.13] & .10 [.04,.15] & -.15 [-.18,-.13] & .24 [.22,.27] & 1 & 6685\\
+BSG & .14 [.12,.16] & .15 [.13,.17] & .17 [.14,.19] & .18 [.15,.22] & .26 [.20,.31] & -.18 [-.21,-.16] & .26 [.23,.28] & .31 [.29,.33] & 1\\
 \bottomrule
 \addlinespace
 \insertTableNotes
@@ -183,19 +184,19 @@ BSG & .14 [.12, .16] & .15 [.13, .17] & .17 [.14, .19] & .18 [.15, .22] & -.18 [
 \toprule
 Variable & \multicolumn{1}{c}{First 200} & \multicolumn{1}{c}{First 1200} & \multicolumn{1}{c}{Other 200} & \multicolumn{1}{c}{Other 1200}\\
 \midrule
-Root Cosine & .13 [.07, .18] & .07 [.02, .13] & .09 [.03, .14] & .09 [.03, .14]\\
-Raw Cosine & .12 [.06, .17] & .07 [.01, .12] & .09 [.04, .15] & .07 [.01, .12]\\
-Affix Cosine & .09 [.03, .14] & .08 [.02, .13] & .06 [.00, .11] & .04 [-.01, .10]\\
-Target Root FSS & .01 [-.04, .06] & -.01 [-.07, .04] & -.03 [-.09, .02] & -.03 [-.08, .03]\\
-Target Raw FSS & -.00 [-.06, .05] & -.02 [-.08, .03] & -.03 [-.08, .03] & -.02 [-.08, .03]\\
-Target CSS & .02 [-.04, .07] & .01 [-.04, .07] & -.05 [-.10, .01] & .02 [-.04, .07]\\
-Cue Root FSS & .04 [-.02, .09] & -.02 [-.07, .04] & .03 [-.02, .09] & .03 [-.02, .09]\\
-Cue Raw FSS & .05 [-.01, .10] & -.02 [-.08, .03] & .01 [-.05, .06] & .01 [-.04, .07]\\
-Cue CSS & .05 [.00, .11] & -.00 [-.06, .05] & .06 [.01, .12] & .01 [-.05, .06]\\
-Forward Strength & .04 [-.01, .10] & .11 [.06, .17] & .07 [.01, .12] & .04 [-.01, .10]\\
-Backward Strength & .17 [.12, .23] & .10 [.04, .15] & .08 [.03, .14] & .04 [-.02, .10]\\
-LSA & .11 [.06, .17] & .07 [.02, .13] & .13 [.08, .19] & .09 [.03, .14]\\
-Jiang-Conrath & -.01 [-.07, .04] & .00 [-.05, .06] & -.05 [-.11, .00] & .01 [-.04, .07]\\
+Root Cosine & .06 [.01,.12] & -.05 [-.10,.01] & .09 [.03,.14] & .09 [.03,.14]\\
+Raw Cosine & .07 [.02,.12] & .05 [-.01,.10] & .09 [.04,.15] & .07 [.01,.12]\\
+Affix Cosine & -.01 [-.06,.05] & .00 [-.05,.06] & .06 [.00,.11] & .04 [-.01,.10]\\
+Target Root FSS & -.02 [-.07,.04] & -.31 [-.36,-.26] & -.03 [-.09,.02] & -.03 [-.08,.03]\\
+Target Raw FSS & -.09 [-.15,-.04] & -.27 [-.32,-.22] & -.03 [-.08,.03] & -.02 [-.08,.03]\\
+Target CSS & -.07 [-.12,-.02] & -.11 [-.16,-.06] & -.05 [-.10,.01] & .02 [-.04,.07]\\
+Cue Root FSS & -.02 [-.07,.04] & -.32 [-.37,-.27] & .03 [-.02,.09] & .03 [-.02,.09]\\
+Cue Raw FSS & .01 [-.04,.07] & -.34 [-.38,-.29] & .01 [-.05,.06] & .01 [-.04,.07]\\
+Cue CSS & .16 [.11,.21] & -.23 [-.28,-.18] & .06 [.01,.12] & .01 [-.05,.06]\\
+Forward Strength & -.12 [-.17,-.06] & -.12 [-.18,-.07] & .07 [.01,.12] & .04 [-.01,.10]\\
+Backward Strength & .15 [.10,.20] & .10 [.04,.15] & .08 [.03,.14] & .04 [-.02,.10]\\
+LSA & .05 [-.00,.11] & -.20 [-.26,-.15] & .13 [.08,.19] & .09 [.03,.14]\\
+Jiang-Conrath & -.05 [-.11,.00] & .11 [.06,.17] & -.05 [-.11,.00] & .01 [-.04,.07]\\
 \bottomrule
 \addlinespace
 \end{tabular}
@@ -219,19 +220,19 @@ Jiang-Conrath & -.01 [-.07, .04] & .00 [-.05, .06] & -.05 [-.11, .00] & .01 [-.0
 \toprule
 Variable & \multicolumn{1}{c}{FA 200} & \multicolumn{1}{c}{FA 1200} & \multicolumn{1}{c}{OA 200} & \multicolumn{1}{c}{OA 1200}\\
 \midrule
-Root Cosine & -.02 [-.08, .03] & .10 [.05, .15] & -.00 [-.06, .05] & .06 [.00, .11]\\
-Raw Cosine & -.02 [-.07, .04] & .11 [.06, .17] & -.01 [-.06, .05] & .05 [-.01, .10]\\
-Affix Cosine & -.01 [-.07, .04] & .06 [.01, .11] & .03 [-.03, .08] & .01 [-.05, .06]\\
-Target Root FSS & -.03 [-.09, .02] & -.03 [-.09, .02] & -.01 [-.07, .04] & .03 [-.03, .08]\\
-Target Raw FSS & -.04 [-.09, .02] & -.02 [-.07, .04] & -.02 [-.08, .03] & .03 [-.02, .09]\\
-Target CSS & -.06 [-.11, -.00] & -.04 [-.09, .02] & -.02 [-.08, .03] & .01 [-.04, .07]\\
-Cue Root FSS & -.03 [-.09, .02] & -.00 [-.06, .05] & .02 [-.03, .08] & -.02 [-.07, .04]\\
-Cue Raw FSS & -.01 [-.07, .04] & -.01 [-.07, .04] & .02 [-.04, .07] & -.02 [-.07, .04]\\
-Cue CSS & -.01 [-.06, .05] & -.01 [-.07, .04] & -.01 [-.07, .04] & -.01 [-.06, .05]\\
-Forward Strength & -.02 [-.08, .03] & .02 [-.03, .08] & .04 [-.01, .10] & .04 [-.01, .10]\\
-Backward Strength & .10 [.05, .15] & .08 [.02, .13] & .11 [.06, .17] & .04 [-.02, .09]\\
-LSA & .06 [.01, .12] & .03 [-.02, .09] & .06 [.00, .11] & .03 [-.03, .08]\\
-Jiang-Conrath & -.05 [-.11, .00] & .00 [-.05, .06] & -.09 [-.14, -.03] & -.01 [-.06, .05]\\
+Root Cosine & -.02 [-.08,.03] & .10 [.05,.15] & -.00 [-.06,.05] & .06 [.00,.11]\\
+Raw Cosine & -.02 [-.07,.04] & .11 [.06,.17] & -.01 [-.06,.05] & .05 [-.01,.10]\\
+Affix Cosine & -.01 [-.07,.04] & .06 [.01,.11] & .03 [-.03,.08] & .01 [-.05,.06]\\
+Target Root FSS & -.03 [-.09,.02] & -.03 [-.09,.02] & -.01 [-.07,.04] & .03 [-.03,.08]\\
+Target Raw FSS & -.04 [-.09,.02] & -.02 [-.07,.04] & -.02 [-.08,.03] & .03 [-.02,.09]\\
+Target CSS & -.06 [-.11,-.00] & -.04 [-.09,.02] & -.02 [-.08,.03] & .01 [-.04,.07]\\
+Cue Root FSS & -.03 [-.09,.02] & -.00 [-.06,.05] & .02 [-.03,.08] & -.02 [-.07,.04]\\
+Cue Raw FSS & -.01 [-.07,.04] & -.01 [-.07,.04] & .02 [-.04,.07] & -.02 [-.07,.04]\\
+Cue CSS & -.01 [-.06,.05] & -.01 [-.07,.04] & -.01 [-.07,.04] & -.01 [-.06,.05]\\
+Forward Strength & -.02 [-.08,.03] & .02 [-.03,.08] & .04 [-.01,.10] & .04 [-.01,.10]\\
+Backward Strength & .10 [.05,.15] & .08 [.02,.13] & .11 [.06,.17] & .04 [-.02,.09]\\
+LSA & .06 [.01,.12] & .03 [-.02,.09] & .06 [.00,.11] & .03 [-.03,.08]\\
+Jiang-Conrath & -.05 [-.11,.00] & .00 [-.05,.06] & -.09 [-.14,-.03] & -.01 [-.06,.05]\\
 \bottomrule
 \addlinespace
 \end{tabular}

@@ -9,10 +9,13 @@ next if /#/;
 chomp; tr/ \t/ /s;
 ($cue,$target,$features,$where) = split(",");
 
+$where = substr($where,0,1);
+
 ##create combinations with features
 $rootword{$where.$cue}{$target} = $features;
 
 #print "$where $cue $target $features\n";
+}
 
 #create feature frequencies
 
@@ -32,7 +35,7 @@ $rootword{$where.$cue}{$target} = $features;
 
 	foreach $word1 (sort keys %rootword)
 	{
-		#print $word, " ";
+		print $word1, " \n";
 		foreach $word2 (sort keys %rootword)
 		{
 			#print "$word2\n";
@@ -58,9 +61,6 @@ $rootword{$where.$cue}{$target} = $features;
 			    }##if matches
 			
 			}##foreach word2 target words
-			
-		    
-		}##foreach word2
 	    
 	}##foreach word1
 
