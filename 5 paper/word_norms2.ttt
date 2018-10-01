@@ -129,6 +129,10 @@ Noun & 36.48 & .11 & .14 & .01 & .91\\
 Verb & 32.15 & .11 & .13 & .01 & .94\\
 Other & 44.44 & .13 & .18 & .01 & .88\\
 Total & 37.47 & .11 & .14 & .01 & .94\\
+All Buchanan cues & 52.12 & .11 & .14 & .01 & .94\\
+McRae et al. cues & 23.50 & .10 & .14 & .01 & .91\\
+Vinson \& Vigliocco cues & 15.19 & .09 & .13 & .01 & .88\\
+Overlapping Cues & 27.26 & .09 & .14 & .01 & .88\\
 \bottomrule
 \addlinespace
 \end{tabular}

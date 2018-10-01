@@ -439,9 +439,11 @@ the database is labeled with single parts of speech. The other parts of
 speech can be found in the English Lexicon Project or multiple other
 databases. This dataset was combined with McRae et al. (2005) and Vinson
 and Vigliocco (2008) feature production norms, which resulted in a
-combined total of 4437 concepts. NA\% of concepts were nouns, NA\%
-adjectives, NA\% verbs, and NA\% were other forms of speech, such as
-adverbs and conjunctions.
+combined total of 4437 concepts. 70.4\% of concepts were nouns, 14.9\%
+adjectives, 12.4\% verbs, and 2.3\% were other forms of speech, such as
+adverbs and conjunctions. The new concepts from this norming set only
+constituted: \emph{n} = 1916 concepts, 72.0 nouns, 14.9\% adjectives,
+12.4\% verbs, and 2.3\% other parts of speech.
 
 \hypertarget{procedure}{%
 \subsection{Procedure}\label{procedure}}
@@ -789,9 +791,11 @@ An examination of the results of the cue-feature lists indicated that
 the new data collected was similar to the previous semantic feature
 production norms. As shown in Table \ref{tab:feature-table}, the new
 Mechanical Turk data showed roughly the same number of listed features
-for each cue concept, usually between five to seven features. Table
-\ref{tab:percent-table} portrayed that adjective cues generally included
-other adjectives or nouns as features, while noun cues were
+for each cue concept, usually between five to seven features. These
+numbers represent, for each cue and part of speech, the average number
+of distinct cue-feature pairs provided by participants after processing.
+Table \ref{tab:percent-table} portrayed that adjective cues generally
+included other adjectives or nouns as features, while noun cues were
 predominately described by other nouns. Verb cues included a large
 feature list of nouns and other verbs, followed by adjectives and other
 word forms. Lastly, the other cue types generally elicited nouns and
@@ -800,7 +804,10 @@ percent when examining the raw words. These words included multiple
 forms, as the percent increased to around thirty percent when features
 were translated into their root words. Indeed, nearly half of the 48925
 cue-feature pairs were repeated, as 24449 cue-feature pairs were unique
-when examining translated features.
+when examining translated features. Generally, because of the
+translation process, word forms shifted towards nouns and verbs and away
+from adjectives because adjectives are often formed by adding an affix
+to a noun or verb.
 
 36030 affix values were found, which arose from 4407 of the 4436 cue
 concepts. 33052 first affixes were found, with 2832 second place
@@ -833,6 +840,10 @@ Noun & 36.48 & .11 & .14 & .01 & .91\\
 Verb & 32.15 & .11 & .13 & .01 & .94\\
 Other & 44.44 & .13 & .18 & .01 & .88\\
 Total & 37.47 & .11 & .14 & .01 & .94\\
+All Buchanan cues & 52.12 & .11 & .14 & .01 & .94\\
+McRae et al. cues & 23.50 & .10 & .14 & .01 & .91\\
+Vinson \& Vigliocco cues & 15.19 & .09 & .13 & .01 & .88\\
+Overlapping Cues & 27.26 & .09 & .14 & .01 & .88\\
 \bottomrule
 \addlinespace
 \end{tabular}
@@ -855,24 +866,38 @@ information from the free association norms. Table
 \ref{tab:divergent-table} portrays the overlap with the Nelson et al.
 (2004) norms. The percent of time a cue-feature combination was present
 in the free association norms was calculated, along with the average
-forward strength for those overlapping pairs. These values were
+forward strength for those overlapping pairs. First, these values were
 calculated on the complete dataset with the McRae et al. (2005) and
 Vinson and Vigliocco (2008) norms, as we are presenting them as a
-combined dataset, on the translated cue-feature set only. The overall
-overlap between the database cue-feature sets and the free association
-cue-target sets was approximately 37\%, ranging from 32\% for verbs and
-nearly 52\% for adjectives. Similar to our previous results, the range
-of the forward strength was large (.01 - .94), however, the average
-forward strength was low for overlapping pairs, \emph{M} = .11
-(\emph{SD} = .14). These results indicated that while it will always be
-difficult to separate association and meaning, the dataset presented
-here represents a low association when examining overlapping values, and
-more than 60\% of the data is completely separate from the free
-association norms. The limitation to this finding is the removal of
-idiosyncratic responses from the Nelson et al. (2004) norms, but even if
-these were to be included in some form, the average forward strength
-would still be quite low when comparing cue-feature lists to cue-target
-lists.
+combined dataset, on the translated cue-feature set only. Because we
+used the translated cue-feature set, repeated instances of cue-features
+would occur (i.e., the original \emph{abandon-leave} and
+\emph{abandon-leaving} becomes two lines when only using translated
+\emph{abandon-leave}), and only the unique set was considered. Second,
+we calculated these values on each dataset separately, as well as the 26
+cues that overlapped in all three datasets.
+
+The overall overlap between the database cue-feature sets and the free
+association cue-target sets was approximately 37\%, ranging from 32\%
+for verbs and nearly 52\% for adjectives. Similar to our previous
+results, the range of the forward strength was large (.01 - .94),
+however, the average forward strength was low for overlapping pairs,
+\emph{M} = .11 (\emph{SD} = .14). These results indicated that while it
+will always be difficult to separate association and meaning, the
+dataset presented here represents a low association when examining
+overlapping values, and more than 60\% of the data is completely
+separate from the free association norms. The limitation to this finding
+is the removal of idiosyncratic responses from the Nelson et al. (2004)
+norms, but even if these were to be included in some form, the average
+forward strength would still be quite low when comparing cue-feature
+lists to cue-target lists. In examining these values by dataset, it
+appears that the new norms have the highest overlap with the Nelson et
+al. (2004) data, while the average, standard deviation, minimum, and
+maximum values were roughly similar for each dataset and the overlapping
+cues. This effect is likely driven by the inclusion of adjectives and
+other forms of speech, which show higher overlaps than nouns and verbs,
+which represent the cues present in McRae et al. (2005) and Vinson and
+Vigliocco (2008).
 
 \hypertarget{convergent-validity}{%
 \subsection{Convergent Validity}\label{convergent-validity}}
@@ -1055,36 +1080,42 @@ included was cosine set size which was defined as the number of other
 concepts each cue or target was nonzero paired with in the cosine
 values. Feature set size indicates the number of features listed for
 each cue or target, while cosine set size indicates the number of other
-semantically related concepts for each cue or target.
+semantically related concepts for each cue or target. Feature and cue
+set size are often called semantic richness, representing the
+variability or extent of associated information for a cue
+({\textbf{???}}; {\textbf{???}}; {\textbf{???}}). Several studies have
+showed the positive effects of semantic richness on semantic tasks based
+on task demand ({\textbf{???}}; {\textbf{???}}; {\textbf{???}};
+{\textbf{???}}), and thus, they were included as important variables to
+examine.
 
 Tables \ref{tab:ldt-table} and \ref{tab:name-table} display the
 correlations between the new semantic variables described above, as well
 as forward strength, backward strength, Latent Semantic Analysis score,
 and Jiang-Conrath semantic distance for reference. Only cue-target pairs
 with complete values were included in this analysis to allow for
-comparison between correlations.
-
-EDIT For lexical decision priming, we found small correlations between
-the root and raw cosine values and priming, with the largest for first
-associates in the 200 ms condition. The correlations decreased for the
-1200 ms condition and the other associate SOAs. These two variables are
-highly correlated, therefore, it is not surprising that they have
-similar correlations with priming. Affix cosine also was slightly
-related to priming, especially for first associates in the 200 ms
-condition. Most of the cue and feature set sizes were not related to
-priming, showing correlations close to zero in most instances. Cue set
-size for the cue word was somewhat related to 200 ms priming, along with
-raw cue feature set size. These correlations are small, but they are
-comparable or greater than the correlations for association and other
-measures of semantic or thematic relatedness. For naming, the results
-are less consistent. Cosine values are related to 1200 ms naming in
-first associates, and none of the feature or cue set sizes showed any
-relationship with priming. Again, we see that many of the other
-associative and semantic variables correspondingly do not correlate with
-priming. In both naming and lexical decision priming, backward strength
-has a small but consistent relationship with priming, which may indicate
-the processing of the target back to the cue. Latent Semantic Analysis
-score was also a small predictor of priming across conditions.
+comparison between correlations. For lexical decision priming, we found
+small correlations between the root and raw cosine values and priming,
+with the largest for first associates in the 200 ms condition. The
+correlations decreased for the 1200 ms condition and the other associate
+SOAs. These two variables are highly correlated, therefore, it is not
+surprising that they have similar correlations with priming. Affix
+cosine also was slightly related to priming, especially for first
+associates in the 200 ms condition. Most of the cue and feature set
+sizes were not related to priming, showing correlations close to zero in
+most instances. Cue set size for the cue word was somewhat related to
+200 ms priming, along with raw cue feature set size. These correlations
+are small, but they are comparable or greater than the correlations for
+association and other measures of semantic or thematic relatedness. For
+naming, the results are less consistent. Cosine values are related to
+1200 ms naming in first associates, and none of the feature or cue set
+sizes showed any relationship with priming. Again, we see that many of
+the other associative and semantic variables correspondingly do not
+correlate with priming. In both naming and lexical decision priming,
+backward strength has a small but consistent relationship with priming,
+which may indicate the processing of the target back to the cue. Latent
+Semantic Analysis score was also a small predictor of priming across
+conditions.
 
 \hypertarget{discussion}{%
 \section{Discussion}\label{discussion}}
@@ -1107,7 +1138,10 @@ root form created very similar results across other variables. This
 finding does not imply that these cosine values are the same, as root
 cosines were larger than their corresponding raw cosine. It does,
 however, imply that the cue-feature coding can produce similar results
-in raw or translated format.
+in raw or translated format. Because the correlation between the current
+paper's cosine values and the previous cosine values was nearly 1, we
+would suggest using the new values, simply for the increase in dataset
+size.
 
 Of particular interest was the information that is often lost when
 translating raw features back to a root word. One surprising result in
