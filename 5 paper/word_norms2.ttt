@@ -179,24 +179,24 @@ BSG & .14 & .15 & .17 & .18 & -.18 & .26 & .31 & 1\\
 \toprule
 Variable & \multicolumn{1}{c}{First 200} & \multicolumn{1}{c}{First 1200} & \multicolumn{1}{c}{Other 200} & \multicolumn{1}{c}{Other 1200}\\
 \midrule
-Root Cosine & .12 & .07 & .09 & .08\\
-Raw Cosine & .12 & .06 & .09 & .06\\
-Affix Cosine & .09 & .07 & .06 & .04\\
-Target Root Feature Set Size & .00 & -.01 & -.02 & -.02\\
-Target Raw Feature Set Size & -.00 & -.02 & -.02 & -.02\\
-Target Cue Set Size & .01 & .01 & -.03 & .02\\
-Cue Root Feature Set Size & .04 & -.01 & .04 & .02\\
-Cue Raw Feature Set Size & .06 & -.01 & .03 & .02\\
-Cue Cosine Set Size & .05 & .02 & .07 & .02\\
-Forward Strength & .01 & .10 & .05 & .06\\
-Backward Strength & .14 & .09 & .09 & .06\\
-Latent Semantic Analysi & .08 & .08 & .13 & .08\\
-Jiang-Conrath Semantic Distance & -.01 & .01 & -.06 & .01\\
+Root Cosine & .13 & .07 & .09 & .09\\
+Raw Cosine & .12 & .07 & .09 & .07\\
+Affix Cosine & .09 & .08 & .06 & .04\\
+Target Root Feature Set Size & .01 & -.01 & -.03 & -.03\\
+Target Raw Feature Set Size & -.00 & -.02 & -.03 & -.02\\
+Target Cue Set Size & .02 & .01 & -.05 & .02\\
+Cue Root Feature Set Size & .04 & -.02 & .03 & .03\\
+Cue Raw Feature Set Size & .05 & -.02 & .01 & .01\\
+Cue Cosine Set Size & .05 & -.00 & .06 & .01\\
+Forward Strength & .04 & .11 & .07 & .04\\
+Backward Strength & .17 & .10 & .08 & .04\\
+Latent Semantic Analysis & .11 & .07 & .13 & .09\\
+Jiang-Conrath Semantic Distance & -.01 & .00 & -.05 & .01\\
 \bottomrule
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\normalsize{\textit{Note.} FA: first associate, OA: other associate, 200 and 1200 ms represent the SOA, which is the time from the presentation of the cue to the target. COS: cosine, FSS: feature set size, CSS: cue set size, FSG: Forward Strength, BSG: Backward Strength, LSA: Latent Semantic Analysis score, and JCN: Jiang-Conrath semantic distance. Missing values excluded pairwise for JCN.}
+\normalsize{\textit{Note.} First indicates first associate, other indicates other associate cue-target relation. 200 and 1200 ms represent the SOA, which is the time from the presentation of the cue to the target. Sample size is 1290 cue-target pairs for first associates and 1254 pairs for other associates.}
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
@@ -213,24 +213,24 @@ Jiang-Conrath Semantic Distance & -.01 & .01 & -.06 & .01\\
 \toprule
 Variable & \multicolumn{1}{c}{FA 200} & \multicolumn{1}{c}{FA 1200} & \multicolumn{1}{c}{OA 200} & \multicolumn{1}{c}{OA 1200}\\
 \midrule
-Root COS & -.01 & .09 & .00 & .05\\
-Raw COS & -.01 & .10 & .00 & .04\\
-Affix COS & -.01 & .06 & .02 & .01\\
-Target Root FSS & -.03 & -.05 & .01 & .03\\
-Target Raw FSS & -.03 & -.03 & -.00 & .03\\
-Target CSS & -.04 & -.04 & .01 & .00\\
-Cue Root FSS & -.02 & -.00 & .02 & -.00\\
-Cue Raw FSS & .00 & -.01 & .02 & .00\\
-Cue CSS & .00 & -.02 & .00 & .02\\
-FSG & -.03 & .06 & .04 & .03\\
-BSG & .11 & .10 & .11 & .04\\
-LSA & .07 & .04 & .06 & .05\\
-JCN & -.04 & .00 & -.08 & -.01\\
+Root Cosine & -.02 & .10 & -.00 & .06\\
+Raw Cosine & -.02 & .11 & -.01 & .05\\
+Affix Cosine & -.01 & .06 & .03 & .01\\
+Target Root Feature Set Size & -.03 & -.03 & -.01 & .03\\
+Target Raw Feature Set Size & -.04 & -.02 & -.02 & .03\\
+Target Cue Set Size & -.06 & -.04 & -.02 & .01\\
+Cue Root Feature Set Size & -.03 & -.00 & .02 & -.02\\
+Cue Raw Feature Set Size & -.01 & -.01 & .02 & -.02\\
+Cue Cosine Set Size & -.01 & -.01 & -.01 & -.01\\
+Forward Strength & -.02 & .02 & .04 & .04\\
+Backward Strength & .10 & .08 & .11 & .04\\
+Latent Semantic Analysis & .06 & .03 & .06 & .03\\
+Jiang-Conrath Semantic Distance & -.05 & .00 & -.09 & -.01\\
 \bottomrule
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\normalsize{\textit{Note.} FA: first associate, OA: other associate, 200 and 1200 ms represent the SOA, which is the time from the presentation of the cue to the target. COS: cosine, FSS: feature set size, CSS: cue set size, FSG: Forward Strength, BSG: Backward Strength, LSA: Latent Semantic Analysis score, and JCN: Jiang-Conrath semantic distance. Missing values excluded pairwise for JCN.}
+\normalsize{\textit{Note.} First indicates first associate, other indicates other associate cue-target relation. 200 and 1200 ms represent the SOA, which is the time from the presentation of the cue to the target. Sample size is 1287 cue-target pairs for first associates and 1249 pairs for other associates.}
 \end{tablenotes}
 \end{threeparttable}
 \end{center}

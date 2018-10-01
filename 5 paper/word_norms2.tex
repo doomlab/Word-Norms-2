@@ -164,8 +164,8 @@ psycholinguistic variables.
 \begin{document}
 \maketitle
 
-Semantic representations are the focus of a large area of research which
-tries to delineate the essential features of a concept. These features
+Semantic features are the focus of a large area of research which tries
+to delineate the semantic representation of a concept. These features
 are key to models of semantic memory (i.e., memory for facts; Collins \&
 Quillian, 1969; Collins \& Loftus, 1975), and they have been used to
 create both feature based (Cree \& McRae, 2003; Smith, Shoben, \& Rips,
@@ -182,11 +182,22 @@ literature (Ashcraft, 1978; Rosch \& Mervis, 1975; Toglia, 2009; Toglia
 \& Battig, 1978). Feature production norms are created by soliciting
 participants to list properties or features of a target concept without
 focusing on category. These features are then compiled into feature sets
-that are thought to represent, at least somewhat, the memory
-representation of a particular concept. Previous work on semantic
-feature production norms in English includes databases by Buchanan,
-Holmes, Teasley, and Hutchison (2013), McRae, Cree, Seidenberg, and
-McNorgan (2005), and Vinson and Vigliocco (2008).
+that are thought to represent the memory representation of a particular
+concept, especially in early feature based models of memory
+({\textbf{???}}; {\textbf{???}}; Collins \& Loftus, 1975; Collins \&
+Quillian, 1969). Previous work on semantic feature production norms in
+English includes databases by McRae, Cree, Seidenberg, and McNorgan
+(2005), Vinson and Vigliocco (2008), Buchanan, Holmes, Teasley, and
+Hutchison (2013), and Devereux, Tyler, Geertzen, and Randall (2014).
+McRae et al. (2005)'s feature production norms focused on 541 nouns,
+specifically living and nonliving objects. Vinson and Vigliocco (2008)
+expanded the stimuli set by contributing norms for 456 concepts that
+included both nouns and verbs. Buchanan et al. (2013) broadened to
+concepts other than nouns and verbs with 1808 concepts normed. The
+Devereux et al. (2014) norms included a replication of McRae et al.
+(2005)'s concepts with the addition of several hundren more concrete
+concepts. The current paper represents over two thousand new concepts
+added to these previous projects and a reanalysis of the original data.
 
 For example, when queried on what features define a \emph{cat},
 participants may list \emph{tail}, \emph{animal}, and \emph{pet}. These
@@ -258,7 +269,12 @@ McRae, 2003). Additionally, Barsalou (2003) suggested that participants
 are likely creating a mental model of the concept based on experience
 and using that model to create a feature property list. This model may
 represent a specific instance of a category (i.e., their pet dog), and
-feature lists will represent that particular memory.
+feature lists will represent that particular memory. One potential
+solution to overcome saliency effects would be to solicit applicability
+ratings for features across multiple exemplars (i.e., specific members)
+of a category, as ({\textbf{???}}) have shown that this procedure
+provides reliable ratings across exemplars and provides more connections
+than the sparse representations that can occur when producing features.
 
 Computational modeling of memory requires sufficiently large datasets to
 accurately portray semantic memory, therefore, the advantage of big data
@@ -291,19 +307,60 @@ for study. Large, overlapping datasets are crucial for exploring the
 entire range of an effect, and to ensure that the stimuli set is not the
 only contributing factor to the results of a study.
 
-Therefore, the purpose of this study is to further expand the stimuli
-and variable options available to the field, as well as promote the use
-of these norms for stimuli creation. To accomplish these goals, we have
-expanded our original semantic feature production norms (Buchanan et
-al., 2013) to include all cues and targets from The Semantic Priming
-Project (Hutchison et al., 2013). The existing norms were reprocessed
-along with these new norms to provide new feature coding and affixes
-(i.e., word addition that modifies meaning, such as \emph{pre} or
-\emph{ing}). The entire dataset is available on our website
-(\url{http://wordnorms.com/}) which has been revamped with a new
-interface and web applications to easily find and select stimuli for
-future experiments. The data collection, (re)processing, website, and
-finalized dataset are detailed below.
+Therefore, the purpose of this study was to expand the number of cue and
+feature word stimuli available, which additionally increases the
+possible cue-target pairings for studies using word-pair stimuli (like
+semantic priming tasks). To accomplish these goals, we have expanded our
+original semantic feature production norms (Buchanan et al., 2013) to
+include all cues and targets from The Semantic Priming Project
+(Hutchison et al., 2013). The existing norms were reprocessed along with
+these new norms to provide new feature coding and affixes (i.e., word
+addition that modifies meaning, such as \emph{pre} or \emph{ing}) to
+explore the impact of word form. Previously, Buchanan et al. (2013)
+illustrated convergent validity with McRae et al. (2005) and Vinson and
+Vigliocco (2008) with a difference in approach to processing feature
+production data. In McRae et al. (2005) and Vinson and Vigliocco (2008),
+features were coded with complexity, matching \enquote{is a} and
+\enquote{has a} format that was first found in Collins and Quillian
+(1969) and Collins and Loftus (1975) models. Buchanan et al. (2013) took
+count based approach, wherein each feature is treated as a separate
+concept (i.e. \emph{four legs} would be treated as two features, rather
+than one complex feature). Both approaches allow for the computation of
+similiarity by comparing feature lists for cue words, however, the count
+based approach matches popular computational models, such as Latent
+Semantic Analysis (Landauer \& Dumais, 1997) and Hyperspace Analogue to
+Language ({\textbf{???}}). These models treat each word in a document or
+text as a cue word and similarity is computed by assessing a matrix of
+frequency counts between concepts and texts, which is similar to
+comparing overlapping feature lists.
+
+In the previous study, each feature was converted to common form if they
+denoted the same concept (i.e., most features were translated to their
+root form). This process often occurs to help capture the essential
+features without increasing the sparsity of the matrix (i.e., the matrix
+only contains one representation for \emph{beauty}, rather than several
+for all word forms, thus lessening the number of empty cells in a
+cue-feature matrix). However, we previously included a few exceptions to
+this coding system, such as \emph{act} and \emph{actor} when the
+differences in features denoted a change of action (noun/verb) or gender
+or cue sets did not overlap (i.e., features like \emph{will} and
+\emph{willing} did not have overlapping associated cues). These
+exceptions were designed to capture how changes in morphology might be
+important cues to word meaning, as hybrid models of word identification
+have outlined that morpheme processing can be complex ({\textbf{???}};
+{\textbf{???}}). Hybrid models include both a compositional view (i.e.,
+words are first broken down into their components \emph{cat} and
+\emph{s}; {\textbf{???}}; {\textbf{???}}) and a full-listing view (i.e.,
+each word form is represented completely separately, \emph{cat} and
+\emph{cats}) and processing occurs as a race between each type of
+representation, {\textbf{???}}; {\textbf{???}}). Given these models and
+sparsity considerations, we created a coding system to capture the
+feature word meaning, in addition to morphology, to provide different
+levels of information about each cue-feature combination. The entire
+dataset is available on our website (\url{http://wordnorms.com/}) which
+has been revamped with a new interface and web applications to easily
+find and select stimuli for future experiments. The data collection,
+(re)processing, website, and finalized dataset are detailed below.
 
 \hypertarget{method}{%
 \section{Method}\label{method}}
@@ -311,20 +368,19 @@ finalized dataset are detailed below.
 \hypertarget{participants}{%
 \subsection{Participants}\label{participants}}
 
-Participants in the newly collected stimuli set were gathered from
-Amazon's Mechanical Turk, which is a large, diverse participant pool
-wherein users can complete surveys for small sums of money (Buhrmester,
-Kwang, \& Gosling, 2011). Answers can be screened for errors, and
-incorrect or incomplete surveys can be rejected or discarded without
-payment. Each participant was paid five cents for a survey, and they
-could complete multiple Human Intelligence Tasks or HITS. Each HIT
-included five concepts, and HITS would remain active until \emph{n} = 30
-valid survey answers were collected. HITS were usually rejected if they
-included copied definitions from Wikipedia, \enquote{I don't know}, or
-writing a paragraph about the concept. These answers were discarded, as
-described below. Table \ref{tab:part-table} includes the sample sizes
-from the new study (Mechanical Turk 2), as well as the sample sizes from
-the previous study, as described in Buchanan et al. (2013).
+Participants in the new stimuli set were recruited from Amazon's
+Mechanical Turk, which is a large, diverse participant pool wherein
+users can complete surveys for small sums of money (Buhrmester, Kwang,
+\& Gosling, 2011). Answers can be screened for errors, and incorrect or
+incomplete surveys can be rejected or discarded without payment. Each
+participant was paid five cents for a survey, and they could complete
+multiple Human Intelligence Tasks or HITS. Participants were required to
+be located in the United States with a HIT approval rate of at least
+80\%, and no other special qualifications were required. HITS would
+remain active until \emph{n} = 30 valid survey answers were obtained.
+Table \ref{tab:part-table} includes the sample sizes from the new study
+(Mechanical Turk 2), as well as the sample sizes from the previous
+study, as described in Buchanan et al. (2013).
 
 \begin{table}[tbp]
 \begin{center}
@@ -348,9 +404,9 @@ Mechanical Turk 2 & 198 & 1914 & 30\\
 \hypertarget{materials}{%
 \subsection{Materials}\label{materials}}
 
-The purpose of this second norming set was to expand the Buchanan et al.
-(2013) norms to include all concepts from the Semantic Priming Project
-(Hutchison et al., 2013). The original concept set was selected
+A main purpose of this second norming set was to expand the Buchanan et
+al. (2013) norms to include all concepts from the Semantic Priming
+Project (Hutchison et al., 2013). The original concept set was selected
 primarily from the Nelson, McEvoy, and Schreiber (2004) database, with
 small overlaps in the McRae et al. (2005) and Vinson and Vigliocco
 (2008) database sets for convergent validity. In the Semantic Priming
@@ -366,7 +422,10 @@ Semantic Priming Project, while this project expanded to include
 unnormed cue words and all target words for all first and other
 associate pairs. The addition of these concepts allowed for complete
 overlap between the Semantic Priming Project and feature production
-norms.
+norms. As mentioned earlier, the McRae et al. (2005) norms consist
+primarily of nouns, the Vinson and Vigliocco (2008) dataset includes
+nouns and verbs, while the Buchanan et al. (2013) included all word
+forms.
 
 Concepts were labeled by part of speech using the English Lexicon
 Project (Balota et al., 2007), the free association norms, and Google's
@@ -390,7 +449,10 @@ adverbs and conjunctions.
 Each HIT was kept to five concepts, and usual survey response times were
 between five to seven minutes. Each HIT was open until thirty
 participants had successfully completed the HIT and were paid the five
-cents for the HIT. The survey instructions were copied from McRae et al.
+cents for the HIT. HITS were usually rejected if they included copied
+definitions from Wikipedia, \enquote{I don't know}, or the participant
+wrote a paragraph about the concept. These answers were discarded, as
+described below. The survey instructions were copied from McRae et al.
 (2005)'s Appendix B, which were also used in the previous publication of
 these norms. Because the McRae et al. (2005) data was collected on
 paper, we modified these instructions slightly. The original lines to
@@ -400,14 +462,27 @@ about how a participant should only consider the noun of the target
 concept, as the words in our study included multiple forms of speech and
 senses. Participants were encouraged to list the properties or features
 of each concept in the following areas: physical (looks, sounds, and
-feels), functional (uses), and categorical (belongings). The same
-examples used previously in McRae et al. (2005) and Buchanan et al.
-(2013) (\emph{duck, cucumber, stove}) were included to aid in task
-understanding and completion. Participants signed up for the HITS
-through Amazon's Mechanical Turk website and completed the study within
-the Mechanical Turk framework. Approved HITs were compensated through
-the Mechanical Turk system. All answers were then combined into a larger
-dataset.
+feels), functional (uses), and categorical (belongings). The exact
+instructions were as follows:
+
+"We want to know how people read words for meaning. Please fill in
+features of the word that you can think of. Examples of different types
+of features would be: how it looks, sounds, smells, feels, or tastes;
+what it is made of; what it is used for; and where it comes from. Here
+is an example:
+
+duck: is a bird, is an animal, waddles, flies, migrates, lays eggs,
+quacks, swims, has wings, has a beak, has webbed feet, has feathers,
+lives in ponds, lives in water, hunted by people, is edible
+
+Complete this questionnaire reasonably quickly, but try to list at least
+a few properties for each word. Thank you very much for completing this
+questionnaire."
+
+Participants signed up for the HITS through Amazon's Mechanical Turk
+website and completed the study within the Mechanical Turk framework.
+Approved HITs were compensated through the Mechanical Turk system. All
+answers were then combined into a larger dataset.
 
 \hypertarget{data-processing}{%
 \subsection{Data Processing}\label{data-processing}}
@@ -429,30 +504,36 @@ typo. As noted earlier, participants often tried to cut and paste
 Wikipedia or other online dictionary sources into the their answers to
 complete surveys quickly with minimal effort. These entries were easily
 found because the formatting of the webpage was included in their
-answer. These answers were then discarded from the individual concept's
-text file. Next, each concept was processed for feature frequency. In
-this stage, the raw frequency counts of each cue-feature combination
-were calculated and put together into one large file. Cue-cue
-combinations were discarded, as participants might write \enquote{a
-zebra is a horse} when asked to define \emph{zebra}. English stop words
-such as \emph{the, an, of} were then discarded, as well as terms that
-were often used as part of a definition (\emph{like, means, describes}).
+answer. For example, the Wikipedia entry for \emph{zerba} includes the
+phonetic spelling of the word, a set of paragraphs about zebras, a table
+of contents, and then sectioned paragraphs matching that table of
+contents. To find this data, lab members would open the raw text files
+that were compiled for each cue, look for these large blocks of
+formatted text, and delete that information. Approximately 113 HITS were
+rejected because of poor data, and 4524 HITS were paid. Therefore, we
+estimate approximately 2\% of the HITS included Wikipedia articles or
+other nonsense entries. Next, each concept was processed for feature
+frequency. In this stage, the raw frequency counts of each cue-feature
+combination were calculated and put together into one large file.
+Cue-cue combinations were discarded, as participants might write
+\enquote{a zebra is a horse} when asked to define \emph{zebra}. English
+stop words such as \emph{the, an, of} were then discarded, as well as
+terms that were often used as part of a definition (\emph{like, means,
+describes}).
 
 We then created a \enquote{translated} column for each feature listed.
 This column indicated the root word for each feature, and additional
 columns were added with the affixes that were used in the original
 feature. For example, the original feature \emph{cats} would be
 translated to \emph{cat} and \emph{s}, wherein \emph{cat} would be the
-translated feature and the \emph{s} would be the affix code. Multiple
-affix codes were often needed for features, as \emph{beautifully} would
-have been translated to \emph{beauty}, \emph{ful}, and \emph{ly}. Often,
-the noun version of the feature would be used for the translation or the
-most common part of speech for each feature would be recorded. The
-sample size for the cue was added to this dataset, as the sample sizes
-varied across experiment time, as shown in Table \ref{tab:part-table}.
-Therefore, instead of using raw feature frequency, we normalized each
-count into the percent of participants that included that feature with
-each cue.
+translated feature and the \emph{s} would be the affix code. The
+translation was first started by using a Snowball type stemmer
+({\textbf{???}}), written in Python by a colleague of the first author.
+All original features and their roots from this process were then put
+into an Excel document, which was reviewed by the first author for
+consistency and concepts with affixes that were not stemmed. Usually the
+noun version of the feature would be used for the translation or the
+most common part of speech for each feature.
 
 At this stage, the data was reduced to cue-feature combinations that
 were listed by at least 16\% of participants (matching McRae et al.
@@ -461,16 +542,21 @@ cue. This calculation was performed on the feature percent for the root
 word (the \emph{translated} column). For example, \emph{beauty} may have
 been listed as \emph{beauty, beautiful, beautifully, beautifulness}, and
 this feature would have been listed four times in the dataset for the
-original cue (original feature in the \emph{feature} column). The
-\emph{frequency\_feature} column indicates the frequency of the
-original, unedited feature, while the \emph{frequency\_translated}
-includes all combinations of \emph{beauty} into one overall feature.
-Because non-nouns can be more difficult to create a feature list for, we
-included the top five descriptors in addition to the 16\% listed
-criteria, to ensure that each concept included at least five features.
-Table \ref{tab:feature-table} indicates the average number of
-cue-feature pairs found for each data collection site/time point and
-part of speech for the cue word.
+original cue (original feature in the \emph{feature} column).
+
+The sample size for the cue was added to this dataset, as the sample
+sizes varied across experiment time, as shown in Table
+\ref{tab:part-table}. Therefore, instead of using raw feature frequency,
+we normalized each count into the percent of participants that included
+that feature with each cue. The \emph{frequency\_feature} column
+indicates the frequency of the original, unedited feature, while the
+\emph{frequency\_translated} includes all combinations of \emph{beauty}
+into one overall feature. Because non-nouns can be more difficult to
+create a feature list for, we included the top five descriptors in
+addition to the 16\% listed criteria, to ensure that each concept
+included at least five features. Table \ref{tab:feature-table} indicates
+the average number of cue-feature pairs found for each data collection
+site/time point and part of speech for the cue word.
 
 The parts of speech for the cue, original feature, and translated
 feature were merged with this file as described above. Table
@@ -563,31 +649,36 @@ only include information from the reprocessed Buchanan et al. (2013)
 norms and the new cues collected for this project.
 
 The final data processing step was to code affixes found on the original
-features. The research team searched lists of affixes online and
-collectively discussed how to code each affix, and the complete coding
-system can be found online in our OSF files. If an affix coding was
-unclear, the root and affix word were discussed in a lab meeting. Table
-\ref{tab:affix-table} displays the list of affix types, common examples
-for each type of affix, and the percent of affixes that fell into each
-category. The percent values are calculated on the overall affix list,
-as feature words could have up to three different affixes. Generally,
-affixes were tagged in a one-to-one match, however, special care was
-taken with numbers and verb tenses. Features like cat\emph{s} would be
-coded as a number affix, while features like walk\emph{s} would be coded
-as a third person verb. In the final words file found online, we
-additionally added forward strength (FSG) and backward strength (BSG)
-for investigation into association overlap (Nelson et al., 2004).
-Forward strength indicates the number of times a target word was listed
-in response to a cue word in a free association task, which simply asks
-participants to name the first word that comes to mind when presented
-with a cue word. Backward strength is the number of times a cue word was
-listed with a target word, as free association is directional (i.e., the
-number of times \emph{cheese} is listed in response to \emph{cheddar} is
-not the same as the number of times that \emph{cheddar} is listed in
-response to \emph{cheese}). The last few columns indicate the word list
-a concept was originally normed in to allow for matching to the original
-raw files on the OSF page, along with the code for each school and time
-point of collection.
+features. Multiple affix codes were often needed for features, as
+\emph{beautifully} would have been translated to \emph{beauty},
+\emph{ful}, and \emph{ly} (the \emph{a1, a2, a3} columns). The research
+team searched lists of affixes online and collectively discussed how to
+code each affix, and the complete coding system can be found online in
+our OSF files. If an affix coding was unclear, the root and affix word
+were discussed in a lab meeting. Table \ref{tab:affix-table} displays
+the list of affix types, common examples for each type of affix, and the
+percent of affixes that fell into each category. The percent values are
+calculated on the overall affix list, as feature words could have up to
+three different affixes. Generally, affixes were tagged in a one-to-one
+match, however, special care was taken with numbers and verb tenses, and
+the lead author checked these categories after lab member coding.
+Features like cat\emph{s} would be coded as a number affix, while
+features like walk\emph{s} would be coded as a third person verb.
+
+In the final words file found online, we additionally added forward
+strength (FSG) and backward strength (BSG) for investigation into
+association overlap (Nelson et al., 2004). Forward strength indicates
+the number of times a target word was listed in response to a cue word
+in a free association task, which simply asks participants to name the
+first word that comes to mind when presented with a cue word. Backward
+strength is the number of times a cue word was listed with a target
+word, as free association is directional (i.e., the number of times
+\emph{cheese} is listed in response to \emph{cheddar} is not the same as
+the number of times that \emph{cheddar} is listed in response to
+\emph{cheese}). The last few columns indicate the word list a concept
+was originally normed in to allow for matching to the original raw files
+on the OSF page, along with the code for each school and time point of
+collection.
 
 \begin{table}[tbp]
 \begin{center}
@@ -616,20 +707,11 @@ Time & fore, pre, post, re & 0.54\\
 \end{center}
 \end{table}
 
-This affix processing procedure is a slight departure from our previous
-work, as we previously argued to keep some morphologically similar
-features separate if they denoted different concepts. For example,
-\emph{act} and \emph{actor} were separated because each feature
-explained a separate component of the cue word (i.e., noun and gender).
-The original processing in Buchanan et al. (2013) combined features that
-overlapped in cue sets by 80\%. In this reprocessing and update, we
-translated all words to a root form, and coded these translations, thus,
-allowing for the exploration of the impact of affixes on semantic
-feature overlap. Both forms of the feature are provided for flexibility
-in calculating overlap by using the original feature (raw), the
-translated feature (root), and the affix overlap by code (affix). Cosine
-values were calculated for each of these feature sets by using the
-following formula:
+Both forms of the feature are provided for flexibility in calculating
+overlap by using the original feature (raw), the translated feature
+(root), and the affix overlap by code (affix). Cosine values were
+calculated for each of these feature sets by using the following
+formula:
 
 \[
 \frac{\sum_{i=1}^{n} A_i \times B_i} {\sqrt{\sum_{i=1}^{n} A_i^2} \times \sqrt{\sum_{i=1}^{n} B_i^2}}
@@ -646,15 +728,15 @@ summation values is then multiplied together. In essence, the numerator
 calculates the overlap of feature frequency for matching features, while
 the denominator accounts for the entire feature frequency set for each
 cue. Cosine values range from 0 (no overlapping features) to 1 (complete
-overlapping features). With nearly five thousand cue words, just under
-twenty-five million cue-cue cosine combinations can be calculated. In
-the datasets presented online, we only included cue-cue combinations
-with a feature overlap of at least two features, in order to reduce the
-large quantity of zero and very low cosine values. This procedure
-additionally allowed for online presentation of the data, as millions of
-cosines were not feasible for our server. The complete feature list,
-along with our code to calculate cosine, can be used to obtain values
-not presented in our data if desired.
+overlapping features). With over four thousand cue words, just under
+twenty million cue-cue cosine combinations can be calculated. In the
+datasets presented online, we only included cue-cue combinations with a
+feature overlap of at least two features, in order to reduce the large
+quantity of zero and very low cosine values. This procedure additionally
+allowed for online presentation of the data, as millions of cosines were
+not feasible for our server. The complete feature list, along with our
+code to calculate cosine, can be used to obtain values not presented in
+our data if desired.
 
 \hypertarget{website}{%
 \subsection{Website}\label{website}}
@@ -686,19 +768,19 @@ from this project (cue-cue combinations), the root, raw, and affix
 cosines described above, as well as the original Buchanan et al. (2013)
 cosines. Additional semantic information includes Latent Semantic
 Analysis (LSA; Landauer \& Dumais, 1997) and JCN (JCN stands for
-Jiang-Conrath; Jiang \& Conrath, 1997) values provided in the Maki,
-McKinley, and Thompson (2004) norms, along with forward strength and
-backward strength (FSG; BSG) from the Nelson et al. (2004) norms for
-association. The definitions, minimum, maximum, mean, and standard
-deviations of these values are provided in the app. Again, the search
-app includes all of these stimuli for cue-cue combinations with two or
-more features in common, where you can filter this data for experimental
-stimuli creation. The separation of single and word-pair data (as well
-as cosine calculation reduction to cues with two features in common) was
-practical, as the applications run slowly as a factor of the number of
-rows and columns of data. On each page, we link the data, applications,
-and source code so that others may use and manipulate our work depending
-on their data creation or visualization goals.
+Jiang-Conrath, see explanation below; Jiang \& Conrath, 1997) values
+provided in the Maki, McKinley, and Thompson (2004) norms, along with
+forward strength and backward strength (FSG; BSG) from the Nelson et al.
+(2004) norms for association. The definitions, minimum, maximum, mean,
+and standard deviations of these values are provided in the app. Again,
+the search app includes all of these stimuli for cue-cue combinations
+with two or more features in common, where you can filter this data for
+experimental stimuli creation. The separation of single and word-pair
+data (as well as cosine calculation reduction to cues with two features
+in common) was practical, as the applications run slowly as a factor of
+the number of rows and columns of data. On each page, we link the data,
+applications, and source code so that others may use and manipulate our
+work depending on their data creation or visualization goals.
 
 \hypertarget{results}{%
 \section{Results}\label{results}}
@@ -720,20 +802,20 @@ were translated into their root words. Indeed, nearly half of the 48925
 cue-feature pairs were repeated, as 24449 cue-feature pairs were unique
 when examining translated features.
 
-36030 affix values were found, which arose from 4407 of the 4437 cue
+36030 affix values were found, which arose from 4407 of the 4436 cue
 concepts. 33052 first affixes were found, with 2832 second place
 affixes, and 146 third place affixes. Table \ref{tab:affix-table} shows
 the distribution of these affix values. Generally, numbers were the
 largest category of affixes demonstrating that participants often
 indicated the quantity of the feature when describing the cue word. The
-second largest affix category was characteristics which often indicated
-the switch to or from a noun form of the feature word (i.e.,
-\emph{angry} to \emph{anger}). Verb tenses (past tense, present
-participle, and third person) comprised a large set of affixes
-indicating the type of concept or when a concept might be doing an
-action for a cue. Persons and objects were also indicated about 7\% of
-the time, while actions and processes of the cue were mentioned about
-8\% of the time.
+second largest affix category was characteristics which denoted the
+switch to or from a noun form of the feature word (i.e., \emph{angry} to
+\emph{anger}). Verb tenses (past tense, present participle, and third
+person) comprised a large set of affixes indicating the type of concept
+or when a concept might be doing an action for a cue. Persons and
+objects affixes were used about 7\% of the time on features to explain
+cues, while actions and processes were added to the feature about 8\% of
+the time.
 
 \hypertarget{divergent-validity}{%
 \subsection{Divergent Validity}\label{divergent-validity}}
@@ -763,28 +845,34 @@ Total & 37.47 & .11 & .14 & .01 & .94\\
 
 When collecting semantic feature production norms, there can be a
 concern that the information produced will simply mimic the free
-association norms, and thus, be a representation of association
-(context) rather than semanticity (meaning). Table
+association norms, and thus, be a more of representation of association
+(context) rather than semanticity (meaning). Association and semanticity
+do overlap, however, the variables used to represent these concepts have
+been shown to tap different underlying constructs (Maki \& Buchanan,
+2008). Therefore, it is important to show that, while some overlap is
+expected, the semantic feature production norms provide useful, separate
+information from the free association norms. Table
 \ref{tab:divergent-table} portrays the overlap with the Nelson et al.
 (2004) norms. The percent of time a cue-feature combination was present
-in the free association norms was calculated, along with the average FSG
-for those overlapping pairs. These values were calculated on the
-complete dataset with the McRae et al. (2005) and Vinson and Vigliocco
-(2008) norms, as we are presenting them as a combined dataset, on the
-translated cue-feature set only. The overall overlap between the
-database cue-feature sets and the free association cue-target sets was
-approximately 37\%, ranging from 32\% for verbs and nearly 52\% for
-adjectives. Similar to our previous results, the range of the FSG was
-large (.01 - .94), however, the average FSG was low for overlapping
-pairs, \emph{M} = .11 (\emph{SD} = .14). These results indicated that
-while it will always be difficult to separate association and meaning,
-the dataset presented here represents a low association when examining
-overlapping values, and more than 60\% of the data is completely
-separate from the free association norms. The limitation to this finding
-is the removal of idiosyncratic responses from the Nelson et al. (2004)
-norms, but even if these were to be included in some form, the average
-FSG would still be quite low when comparing cue-feature lists to
-cue-target lists.
+in the free association norms was calculated, along with the average
+forward strength for those overlapping pairs. These values were
+calculated on the complete dataset with the McRae et al. (2005) and
+Vinson and Vigliocco (2008) norms, as we are presenting them as a
+combined dataset, on the translated cue-feature set only. The overall
+overlap between the database cue-feature sets and the free association
+cue-target sets was approximately 37\%, ranging from 32\% for verbs and
+nearly 52\% for adjectives. Similar to our previous results, the range
+of the forward strength was large (.01 - .94), however, the average
+forward strength was low for overlapping pairs, \emph{M} = .11
+(\emph{SD} = .14). These results indicated that while it will always be
+difficult to separate association and meaning, the dataset presented
+here represents a low association when examining overlapping values, and
+more than 60\% of the data is completely separate from the free
+association norms. The limitation to this finding is the removal of
+idiosyncratic responses from the Nelson et al. (2004) norms, but even if
+these were to be included in some form, the average forward strength
+would still be quite low when comparing cue-feature lists to cue-target
+lists.
 
 \hypertarget{convergent-validity}{%
 \subsection{Convergent Validity}\label{convergent-validity}}
@@ -799,30 +887,46 @@ and the new dataset are listed with the subscript B, while McRae et al.
 root cosine values, we found high overlap between all three datasets:
 \(M_{BM}\) = .67 (\emph{SD} = .14), \(M_{BV}\) = .66 (\emph{SD} = .18),
 and \(M_{MV}\) = .72 (\emph{SD} = .11). The raw cosine values also
-overlapped well, even though the McRae et al. (2005) and Vinson and
-Vigliocco (2008) datasets were already mostly preprocessed for word
-stems: \(M_{BM}\) = .55 (\emph{SD} = .15), \(M_{BV}\) = .54 (\emph{SD} =
-.20), and \(M_{MV}\) = .45 (\emph{SD} = .19). Last, the affix cosines
+correlated, even though the McRae et al. (2005) and Vinson and Vigliocco
+(2008) datasets were already mostly preprocessed for word stems:
+\(M_{BM}\) = .55 (\emph{SD} = .15), \(M_{BV}\) = .54 (\emph{SD} = .20),
+and \(M_{MV}\) = .45 (\emph{SD} = .19). Last, the affix cosines
 overlapped similarly between Buchanan et al. (2013) and McRae et al.
 (2005) datasets, \(M_{BM}\) = .43 (\emph{SD} = .29), but did not overlap
 with the Vinson and Vigliocco (2008) datasets: \(M_{BV}\) = .04
 (\emph{SD} = .14), and \(M_{MV}\) = .09 (\emph{SD} = .19), likely due to
 Vinson and Vigliocco (2008) dataset preprocessing.
 
-The correlation between root, raw, affix, previously found cosine, LSA,
-and JCN were calculated to examine convergent validity. As shown in
-Table \ref{tab:correlation-table}, the intercorrelations between the
-cosine measures are high, especially between our previous work and this
-dataset. JCN is backwards coded, as zero values indicate close semantic
-neighbors (low dictionary distance) and high values indicate low
-semantic relation. The small negative correlations replicated previous
+The correlation between root, raw, affix, previously found cosine,
+Latent Semantic Analysis score (LSA), and Jiang-Conrath semantic
+distance (JCN) were calculated to examine convergent validity. LSA is
+one of the most well-known semantic memory models ({\textbf{???}};
+Landauer \& Dumais, 1997), wherein a large text corpus (i.e., many
+texts) is used to create a word by document (i.e., each text) matrix.
+From this matrix, words are weighted relative to their frequency, and
+singular value decomposition is then used to select only the largest
+semantic components. This process creates a word space that can then be
+used to calculate the relation between two cues by examining the
+patterns of their occurrence across documents, usually cosine or
+correlation. JCN is calculated from an online dictionary (WordNet,
+Fellbaum \& Felbaum, 1998), by measuring the semantic distance between
+concepts in a hierarchical structure. JCN is backwards coded, as zero
+values indicate close semantic neighbors (low dictionary distance) and
+high values indicate low semantic relation. These two measures were
+selected for convergent validity because they are well-cited measures of
+semanticity.
+
+As shown in Table \ref{tab:correlation-table}, the intercorrelations
+between the cosine measures (root, raw, affix) are high, especially
+between our previous work and this dataset. The small negative
+correlations between JCN and cosine measures replicated previous
 findings (Buchanan et al., 2013). LSA values showed small positive
 correlations with cosine values, indicating some overlap with thematic
 information and semantic feature overlap (Maki \& Buchanan, 2008). These
 correlations were slightly different than our previous publication,
 likely because here we restricted this cosine set to values with at
 least two features in common. LSA and JCN correlations were lower than
-LSA-COS and JCN-COS, but these values indicated that themes and
+LSA-cosine and JCN-cosine, but these values indicated that themes and
 dictionary distance were similarly related to feature overlap.
 
 \begin{table}[tbp]
@@ -855,6 +959,8 @@ BSG & .14 & .15 & .17 & .18 & -.18 & .26 & .31 & 1\\
 \subsection{Relation to Semantic
 Priming}\label{relation-to-semantic-priming}}
 
+{[}1{]} 1290 {[}1{]} 1287 {[}1{]} 1254 {[}1{]} 1249
+
 \begin{table}[tbp]
 \begin{center}
 \begin{threeparttable}
@@ -863,24 +969,24 @@ Priming}\label{relation-to-semantic-priming}}
 \toprule
 Variable & \multicolumn{1}{c}{First 200} & \multicolumn{1}{c}{First 1200} & \multicolumn{1}{c}{Other 200} & \multicolumn{1}{c}{Other 1200}\\
 \midrule
-Root Cosine & .12 & .07 & .09 & .08\\
-Raw Cosine & .12 & .06 & .09 & .06\\
-Affix Cosine & .09 & .07 & .06 & .04\\
-Target Root Feature Set Size & .00 & -.01 & -.02 & -.02\\
-Target Raw Feature Set Size & -.00 & -.02 & -.02 & -.02\\
-Target Cue Set Size & .01 & .01 & -.03 & .02\\
-Cue Root Feature Set Size & .04 & -.01 & .04 & .02\\
-Cue Raw Feature Set Size & .06 & -.01 & .03 & .02\\
-Cue Cosine Set Size & .05 & .02 & .07 & .02\\
-Forward Strength & .01 & .10 & .05 & .06\\
-Backward Strength & .14 & .09 & .09 & .06\\
-Latent Semantic Analysi & .08 & .08 & .13 & .08\\
-Jiang-Conrath Semantic Distance & -.01 & .01 & -.06 & .01\\
+Root Cosine & .13 & .07 & .09 & .09\\
+Raw Cosine & .12 & .07 & .09 & .07\\
+Affix Cosine & .09 & .08 & .06 & .04\\
+Target Root Feature Set Size & .01 & -.01 & -.03 & -.03\\
+Target Raw Feature Set Size & -.00 & -.02 & -.03 & -.02\\
+Target Cue Set Size & .02 & .01 & -.05 & .02\\
+Cue Root Feature Set Size & .04 & -.02 & .03 & .03\\
+Cue Raw Feature Set Size & .05 & -.02 & .01 & .01\\
+Cue Cosine Set Size & .05 & -.00 & .06 & .01\\
+Forward Strength & .04 & .11 & .07 & .04\\
+Backward Strength & .17 & .10 & .08 & .04\\
+Latent Semantic Analysis & .11 & .07 & .13 & .09\\
+Jiang-Conrath Semantic Distance & -.01 & .00 & -.05 & .01\\
 \bottomrule
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\normalsize{\textit{Note.} FA: first associate, OA: other associate, 200 and 1200 ms represent the SOA, which is the time from the presentation of the cue to the target. COS: cosine, FSS: feature set size, CSS: cue set size, FSG: Forward Strength, BSG: Backward Strength, LSA: Latent Semantic Analysis score, and JCN: Jiang-Conrath semantic distance. Missing values excluded pairwise for JCN.}
+\normalsize{\textit{Note.} First indicates first associate, other indicates other associate cue-target relation. 200 and 1200 ms represent the SOA, which is the time from the presentation of the cue to the target. Sample size is 1290 cue-target pairs for first associates and 1254 pairs for other associates.}
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
@@ -894,24 +1000,24 @@ Jiang-Conrath Semantic Distance & -.01 & .01 & -.06 & .01\\
 \toprule
 Variable & \multicolumn{1}{c}{FA 200} & \multicolumn{1}{c}{FA 1200} & \multicolumn{1}{c}{OA 200} & \multicolumn{1}{c}{OA 1200}\\
 \midrule
-Root COS & -.01 & .09 & .00 & .05\\
-Raw COS & -.01 & .10 & .00 & .04\\
-Affix COS & -.01 & .06 & .02 & .01\\
-Target Root FSS & -.03 & -.05 & .01 & .03\\
-Target Raw FSS & -.03 & -.03 & -.00 & .03\\
-Target CSS & -.04 & -.04 & .01 & .00\\
-Cue Root FSS & -.02 & -.00 & .02 & -.00\\
-Cue Raw FSS & .00 & -.01 & .02 & .00\\
-Cue CSS & .00 & -.02 & .00 & .02\\
-FSG & -.03 & .06 & .04 & .03\\
-BSG & .11 & .10 & .11 & .04\\
-LSA & .07 & .04 & .06 & .05\\
-JCN & -.04 & .00 & -.08 & -.01\\
+Root Cosine & -.02 & .10 & -.00 & .06\\
+Raw Cosine & -.02 & .11 & -.01 & .05\\
+Affix Cosine & -.01 & .06 & .03 & .01\\
+Target Root Feature Set Size & -.03 & -.03 & -.01 & .03\\
+Target Raw Feature Set Size & -.04 & -.02 & -.02 & .03\\
+Target Cue Set Size & -.06 & -.04 & -.02 & .01\\
+Cue Root Feature Set Size & -.03 & -.00 & .02 & -.02\\
+Cue Raw Feature Set Size & -.01 & -.01 & .02 & -.02\\
+Cue Cosine Set Size & -.01 & -.01 & -.01 & -.01\\
+Forward Strength & -.02 & .02 & .04 & .04\\
+Backward Strength & .10 & .08 & .11 & .04\\
+Latent Semantic Analysis & .06 & .03 & .06 & .03\\
+Jiang-Conrath Semantic Distance & -.05 & .00 & -.09 & -.01\\
 \bottomrule
 \addlinespace
 \end{tabular}
 \begin{tablenotes}[para]
-\normalsize{\textit{Note.} FA: first associate, OA: other associate, 200 and 1200 ms represent the SOA, which is the time from the presentation of the cue to the target. COS: cosine, FSS: feature set size, CSS: cue set size, FSG: Forward Strength, BSG: Backward Strength, LSA: Latent Semantic Analysis score, and JCN: Jiang-Conrath semantic distance. Missing values excluded pairwise for JCN.}
+\normalsize{\textit{Note.} First indicates first associate, other indicates other associate cue-target relation. 200 and 1200 ms represent the SOA, which is the time from the presentation of the cue to the target. Sample size is 1287 cue-target pairs for first associates and 1249 pairs for other associates.}
 \end{tablenotes}
 \end{threeparttable}
 \end{center}
@@ -928,48 +1034,54 @@ in the Nelson et al. (2004) norms) with the delay between the cue and
 target matching either 200 or 1200 ms (SOA). The response latency of the
 target word in the related condition (either first or other associate)
 was subtracted from the response latency in the unrelated condition to
-create a priming reponse latency. Therefore, each target item received
+create a priming response latency. Therefore, each target item received
 four (two SOAs by two tasks: lexical decision or naming) priming times.
 We selected the \emph{Z}-scored priming from the dataset to correlate
 with our data, as Hutchison et al. (2013) that the \emph{Z}-scored data
 more accurately captures priming controlled for individual differences
-in reaction times. In addition to root, raw, and affix cosine, we
-additionally calculated feature set size for the cue and target of the
-primed pairs. Feature set size is the number of features listed by
-participants when creating the norms for that concept. Because of the
-nature of our norms, we calculated both feature set size for the raw,
-untranslated features, as well as the translated features. The average
-feature set sizes for our dataset can be found in Table
-\ref{tab:feature-table}. The last variable included was cosine set size
-which was defined as the number of other concepts each cue or target was
-nonzero paired with in the cosine values. Feature set size indicates the
-number of features listed for each cue or target, while cosine set size
-indicates the number of other semantically related concepts for each cue
-or target.
+in reaction times.
+
+In addition to root, raw, and affix cosine, we additionally calculated
+feature set size for the cue and target of the primed pairs. Feature set
+size is the number of features listed by participants when creating the
+norms for that concept. Because of the nature of our norms, we
+calculated both feature set size for the raw, untranslated features, as
+well as the translated features. The average feature set sizes for our
+dataset can be found in Table \ref{tab:feature-table}. The last variable
+included was cosine set size which was defined as the number of other
+concepts each cue or target was nonzero paired with in the cosine
+values. Feature set size indicates the number of features listed for
+each cue or target, while cosine set size indicates the number of other
+semantically related concepts for each cue or target.
 
 Tables \ref{tab:ldt-table} and \ref{tab:name-table} display the
 correlations between the new semantic variables described above, as well
-as FSG, BSG, LSA, and JCN for reference. For lexical decision priming,
-we found small correlations between the root and raw cosine values and
-priming, with the largest for first associates in the 200 ms condition.
-The correlations decreased for the 1200 ms condition and the other
-associate SOAs. These two variables are highly correlated, therefore, it
-is not surprising that they have similar correlations with priming.
-Affix cosine also was slightly related to priming, especially for first
-associates in the 200 ms condition. Most of the cue and feature set
-sizes were not related to priming, showing correlations close to zero in
-most instances. Cue set size for the cue word was somewhat related to
-200 ms priming, along with raw cue feature set size. These correlations
-are small, but they are comparable or greater than the correlations for
-association and other measures of semantic or thematic relatedness. For
-naming, the results are less consistent. Cosine values are related to
-1200 ms naming in first associates, and none of the feature or cue set
-sizes showed any relationship with priming. Again, we see that many of
-the other associative and semantic variables correspondingly do not
-correlate with priming. In both naming and lexical decision priming, BSG
+as forward strength, backward strength, Latent Semantic Analysis score,
+and Jiang-Conrath semantic distance for reference. Only cue-target pairs
+with complete values were included in this analysis to allow for
+comparison between correlations.
+
+EDIT For lexical decision priming, we found small correlations between
+the root and raw cosine values and priming, with the largest for first
+associates in the 200 ms condition. The correlations decreased for the
+1200 ms condition and the other associate SOAs. These two variables are
+highly correlated, therefore, it is not surprising that they have
+similar correlations with priming. Affix cosine also was slightly
+related to priming, especially for first associates in the 200 ms
+condition. Most of the cue and feature set sizes were not related to
+priming, showing correlations close to zero in most instances. Cue set
+size for the cue word was somewhat related to 200 ms priming, along with
+raw cue feature set size. These correlations are small, but they are
+comparable or greater than the correlations for association and other
+measures of semantic or thematic relatedness. For naming, the results
+are less consistent. Cosine values are related to 1200 ms naming in
+first associates, and none of the feature or cue set sizes showed any
+relationship with priming. Again, we see that many of the other
+associative and semantic variables correspondingly do not correlate with
+priming. In both naming and lexical decision priming, backward strength
 has a small but consistent relationship with priming, which may indicate
-the processing of the target back to the cue. LSA was also a small
-predictor of priming across conditions.
+the processing of the target back to the cue. Latent Semantic Analysis
+score was also a small predictor of priming across conditions.
 
 \hypertarget{discussion}{%
 \section{Discussion}\label{discussion}}
@@ -1006,10 +1118,11 @@ semantic phenomena. Further investigation into the compound prediction
 of these variables is warranted to fully explore how these, and other
 lexical variables, may be used to understand semantic priming. An
 examination of the cosine values from the Semantic Priming Project
-cue-target set indicates that these values were low, with many zeros.
-This restriction of range could explain the small correlations with
-priming, along with the understanding that semantic priming itself can
-be exceedingly variable and small across items.
+cue-target set indicates that these values were low, with many zeros
+(i.e., no feature overlap between cues and targets). This restriction of
+range of the cosine relatedness could explain the small correlations
+with priming because the semantic priming was variable, but the cosine
+values were not.
 
 We encourage readers to use the corresponding website associated with
 these norms to download the data, explore the Shiny apps, and use the
@@ -1136,12 +1249,22 @@ lexical conceptual processing: Simulating semantic priming.
 \emph{Cognitive Science}, \emph{23}, 371--414.
 doi:\href{https://doi.org/10.1016/S0364-0213(99)00005-1}{10.1016/S0364-0213(99)00005-1}
 
+\leavevmode\hypertarget{ref-Devereux2014}{}%
+Devereux, B. J., Tyler, L. K., Geertzen, J., \& Randall, B. (2014). The
+Centre for Speech , Language and the Brain ( CSLB ) concept property
+norms, 1119--1127.
+doi:\href{https://doi.org/10.3758/s13428-013-0420-4}{10.3758/s13428-013-0420-4}
+
 \leavevmode\hypertarget{ref-Dewhurst1998}{}%
 Dewhurst, S. A., Hitch, G. J., \& Barry, C. (1998). Separate effects of
 word frequency and age of acquisition in recognition and recall.
 \emph{Journal of Experimental Psychology: Learning, Memory, and
 Cognition}, \emph{24}(2), 284--298.
 doi:\href{https://doi.org/10.1037/0278-7393.24.2.284}{10.1037/0278-7393.24.2.284}
+
+\leavevmode\hypertarget{ref-Felbaum1998}{}%
+Fellbaum, C., \& Felbaum, C. (1998). \emph{WordNet: An electronic
+lexical database}. Cambridge, MA: MIT Press.
 
 \leavevmode\hypertarget{ref-Griffiths2007}{}%
 Griffiths, T. L., Steyvers, M., \& Tenenbaum, J. B. (2007). Topics in
