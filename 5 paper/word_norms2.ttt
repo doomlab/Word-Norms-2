@@ -148,19 +148,19 @@ Overlapping Cues & 27.26 & .09 & .14 & .01 & .88 & .30\\
 
 
 \begin{TableNotes}[para]
-\normalsize{\textit{Note.} Root, raw, and affix cosine values are from the current reprocessed dataset. PCOS indicates the cosine values in the original Buchanan et al. (2013) dataset. MV COS: Cosine values from only the McRae et al. (2005) and Vinson and Vigliocco (2008) data, JCN: Jiang-Conrath semantic distance, LSA: Latent Semantic Analysis score, FSG: Forward Strength, BSG: Backward Strength. Sample sizes for each correlation are presented in the top half of the table.}
+\normalsize{\textit{Note.} Root, raw, and affix cosine values are from the current reprocessed dataset. PCOS indicates the cosine values in the original Buchanan et al. (2013) dataset. MVCOS: Cosine values from the original cue-feature lists in McRae et al. (2005) and Vinson and Vigliocco (2008) data, JCN: Jiang-Conrath semantic distance, LSA: Latent Semantic Analysis score, FSG: Forward Strength, BSG: Backward Strength. Sample sizes for each correlation are presented in the top half of the table.}
 \end{TableNotes}
 \small{
 \begin{longtable}{lccccccccl}\noalign{\getlongtablewidth\global\LTcapwidth=\longtablewidth}
 \caption{\label{tab:correlation-table}Correlations and 95\% CI between Semantic and Associative Variables}\\
 \toprule
-  & Root & Raw & Affix & PCOS & MV COS & JCN & LSA & FSG & BSG\\
+  & Root & Raw & Affix & PCOS & MVCOS & JCN & LSA & FSG & BSG\\
 \midrule
 Root & 1 & 208515 & 208515 & 83762 & 101446 & 5617 & 5590 & 6753 & 6685\\
 Raw & .93 [.93,.93] & 1 & 208515 & 83762 & 101446 & 5617 & 5590 & 6753 & 6685\\
 Affix & .50 [.50,.50] & .53 [.53,.54] & 1 & 83762 & 101446 & 5617 & 5590 & 6753 & 6685\\
 PCOS & .94 [.94,.94] & .91 [.91,.91] & .49 [.48,.49] & 1 & 52342 & 2762 & 2759 & 3280 & 3243\\
-MV COS & .84 [.84,.84] & .89 [.89,.89] & .46 [.45,.46] & .83 [.82,.83] & 1 & 1179 & 1179 & 1248 & 1232\\
+MVCOS & .84 [.84,.84] & .89 [.89,.89] & .46 [.45,.46] & .83 [.82,.83] & 1 & 1179 & 1179 & 1248 & 1232\\
 JCN & -.18 [-.20,-.15] & -.22 [-.25,-.20] & -.17 [-.20,-.15] & -.22 [-.26,-.19] & -.39 [-.44,-.34] & 1 & 5590 & 5617 & 5617\\
 LSA & .18 [.16,.21] & .15 [.12,.18] & .10 [.07,.13] & .21 [.18,.25] & .14 [.08,.19] & -.06 [-.08,-.03] & 1 & 5590 & 5590\\
 FSG & .06 [.04,.08] & .04 [.01,.06] & .08 [.05,.10] & .10 [.06,.13] & .10 [.04,.15] & -.15 [-.18,-.13] & .24 [.22,.27] & 1 & 6685\\
