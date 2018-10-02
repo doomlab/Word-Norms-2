@@ -51,7 +51,7 @@ Total & 5.78 (1.61) & 6.94 (2.88) & 5.67 (1.18) & 5.84 (1.71) & 6.57 (2.60)\\
 \caption{\label{tab:percent-table}Percent and Average Percent of Frequency for Cue-Feature Part of Speech Combinations}
 \begin{tabular}{llcccc}
 \toprule
-Cue Type & Feature Type & \% Raw & \% Root & $M$ Freq. Raw & $M$ Freq. Root\\
+Cue Type & Feature Type & \% Raw & \% Root & $M$ (SD) Freq. Raw & $M$ (SD) Freq. Root\\
 \midrule
 Adjective & Adjective & 38.09 & 29.74 & 17.84 (16.47) & 30.02 (18.83)\\
  & Noun & 40.02 & 46.74 & 13.14 (14.96) & 29.71 (19.94)\\
@@ -148,7 +148,7 @@ Overlapping Cues & 27.26 & .09 & .14 & .01 & .88 & .30\\
 
 
 \begin{TableNotes}[para]
-\normalsize{\textit{Note.} Root, raw, and affix cosine values are from the current reprocessed dataset. PCOS indicates the cosine values in the original Buchanan et al. (2013) dataset. MV COS: Cosine values from only the McRae et al. (2005) and Vinson \textbackslash{}\& Vigliocco (2008) data, JCN: Jiang-Conrath semantic distance, LSA: Latent Semantic Analysis score, FSG: Forward Strength, BSG: Backward Strength. Sample sizes for each correlation are presented in the top half of the table.}
+\normalsize{\textit{Note.} Root, raw, and affix cosine values are from the current reprocessed dataset. PCOS indicates the cosine values in the original Buchanan et al. (2013) dataset. MV COS: Cosine values from only the McRae et al. (2005) and Vinson and Vigliocco (2008) data, JCN: Jiang-Conrath semantic distance, LSA: Latent Semantic Analysis score, FSG: Forward Strength, BSG: Backward Strength. Sample sizes for each correlation are presented in the top half of the table.}
 \end{TableNotes}
 \small{
 \begin{longtable}{lccccccccl}\noalign{\getlongtablewidth\global\LTcapwidth=\longtablewidth}
