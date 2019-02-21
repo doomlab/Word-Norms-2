@@ -6,23 +6,25 @@ author:
   - name          : "Erin M. Buchanan"
     affiliation   : "1"
     corresponding : yes    # Define only one corresponding author
-    address       : "901 S. National Ave, Springfield, MO 65897"
-    email         : "erinbuchanan@missouristate.edu"
+    address       : "326 Market St, Harrisburg, PA 17101"
+    email         : "ebuchanan@harrisburgu.edu"
   - name          : "K. D. Valentine"
     affiliation   : "2"
   - name          : "Nicholas P. Maxwell"
-    affiliation   : "1"
+    affiliation   : "3"
 
 affiliation:
   - id            : "1"
-    institution   : "Missouri State University"
+    institution   : "Harrisburg University of Science and Technology"
   - id            : "2"
     institution   : "University of Missouri"
+  - id            : "3"
+    institution   : "University of Southern Mississippi"
 
 author_note: |
-  Erin M. Buchanan is an Associate Professor of Quantitative Psychology at Missouri State University. K. D. Valentine is a Ph.D. candidate at the University of Missouri. Nicholas P. Maxwell completed his Masters Degree at Missouri State University and is now a Ph.D. candidate the University of Southern Mississippi.
+  Erin M. Buchanan is a Professor of Cognitive Analytics at Harrisburg University of Science and Technology. K. D. Valentine is a Ph.D. candidate at the University of Missouri. Nicholas P. Maxwell completed his Masters Degree at Missouri State University and is now a Ph.D. candidate the University of Southern Mississippi.
   
-  We would like to thank Keith Hutchison and David Balota for their contributions to this project, including the funds to secure Mechanical Turk participants. Additionally, we thank Simon De Deyne and an anonymous reviewer for their comments on this manuscript. 
+  We would like to thank Keith Hutchison and David Balota for their contributions to this project, including the funds to secure Mechanical Turk participants. Additionally, we thank Gary Lupyan, Simon De Deyne and an anonymous reviewer for their comments on this manuscript. 
 
 abstract: |
   A limiting factor in understanding memory and language is often the availability of large numbers of stimuli to use and explore in experimental studies. In this study, we expand on three previous databases of concepts to over 4,000 words including nouns, verbs, adjectives, and other parts of speech. Participants in the study were asked to provide lists of features for each concept presented (a semantic feature production task), which were combined with previous research in this area. These feature lists for each concept were then coded into their root word form and affixes (i.e., *cat* and *s* for *cats*) to explore the impact of word form on semantic similarity measures, which are often calculated by comparing concept feature lists (feature overlap). All concept features, coding, and calculated similarity information is provided in a searchable database for easy access and utilization for future researchers when designing experiments that use word stimuli. The final database of word pairs was combined with the Semantic Priming Project to examine the relation of semantic similarity statistics on semantic priming in tandem with other psycholinguistic variables. 
