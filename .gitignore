@@ -1,6 +1,7 @@
 # Created by https://www.gitignore.io/api/r,macos,windows
 
 articles/
+no sync/
 
 ### macOS ###
 *.DS_Store
