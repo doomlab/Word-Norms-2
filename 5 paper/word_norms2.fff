@@ -1,0 +1,7 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\includegraphics[width=1\linewidth]{featuredataset} \caption{Example of the cue-feature dataset created from the feature listing task.}\label{fig:featuredata}
+\end{figure*}
+\efloatseparator
+ 

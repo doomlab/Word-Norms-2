@@ -218,7 +218,7 @@ Jiang-Conrath & -.05 [-.11,.00] & .11 [.06,.17] & -.05 [-.11,.00] & .01 [-.04,.0
 \small{
 \begin{tabular}{lcccc}
 \toprule
-Variable & \multicolumn{1}{c}{FA 200} & \multicolumn{1}{c}{FA 1200} & \multicolumn{1}{c}{OA 200} & \multicolumn{1}{c}{OA 1200}\\
+Variable & \multicolumn{1}{c}{First 200} & \multicolumn{1}{c}{First 1200} & \multicolumn{1}{c}{Other 200} & \multicolumn{1}{c}{Other 1200}\\
 \midrule
 Root Cosine & -.02 [-.08,.03] & .10 [.05,.15] & -.00 [-.06,.05] & .06 [.00,.11]\\
 Raw Cosine & -.02 [-.07,.04] & .11 [.06,.17] & -.01 [-.06,.05] & .05 [-.01,.10]\\
