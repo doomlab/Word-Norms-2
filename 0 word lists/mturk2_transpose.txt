@@ -1,4 +1,4 @@
-﻿Advice	"a communication, especially from a distance, containing information,an official notification, especially one pertaining to a business agreement."
+Advice	"a communication, especially from a distance, containing information,an official notification, especially one pertaining to a business agreement."
 Advice	a written or vebal form  of suggestions given from one person to another
 Advice	"admonition, advisement, advocacy, aid, bum steer, caution, charge, consultation, counsel, directions, dissuasion, encouragement, exhortation, forewarning, guidance, help, information, injunction, input, instruction, judgment, lesson, news, opinion, persuasion"
 Advice	"admonition, caution, guidance, recommendation,suggestion"

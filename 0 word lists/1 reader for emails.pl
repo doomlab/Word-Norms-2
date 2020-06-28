@@ -1,11 +1,10 @@
 #~ From: Apps@MissouriState.edu
 #~ Date: December 1, 2010 9:48:07 PM CST
 #~ To: buchananlab@gmail.com
-#~ Subject: SEMANTICS MONTANA Lauren Clary
-
+#~ Subject: SEMANTICS MONTANA
 #~ aggieerin@gmail.com
 
-#~ Semantic Data  WL14 MONTANA Lauren Clary
+#~ Semantic Data  WL14 MONTANA 
 #~ Practice:
 
 
